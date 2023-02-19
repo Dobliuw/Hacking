@@ -1,3 +1,7 @@
+![[Pasted image 20230215165210.png]]
+
+---
+
 ```SQL
 -- Crear base de datos:
 create database name;

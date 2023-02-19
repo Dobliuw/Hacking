@@ -1,3 +1,7 @@
+![[Pasted image 20230215165210.png]]
+
+---
+
 ```SQL
 -- Creating an user after download myqsl
 sudo mysql
