@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "046962dc00abbf3d",
+        "id": "aa8253612cb5f0a1",
         "type": "tabs",
         "children": [
           {
-            "id": "e021eacf830c74da",
+            "id": "282f1ed9fa34c643",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e4418b79fcbefcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/OS/Linux/Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#EIP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Active Directory.md",
+                "file": "Pentesting/OS/Linux/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Active Directory.md",
+                "file": "Pentesting/OS/Linux/Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Active Directory.md"
+                "file": "Pentesting/OS/Linux/Commands.md"
               }
             }
           }
@@ -146,12 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e021eacf830c74da",
+  "active": "0e4418b79fcbefcc",
   "lastOpenFiles": [
-    "Pentesting/OS/Windows/Active Directory/Active Directory.md",
-    "Pentesting/OS/Linux/Commands.md",
-    "Pentesting/OS/Windows/Commands.md",
+    "Pentesting/Conceptos generales.md",
     "Pentesting/OS/Windows/Tools.md",
-    "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas"
+    "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas",
+    "Pentesting/OS/Linux/Enumeración.md",
+    "Tecnologías/Docker.md",
+    "Tecnologías/SQL/PostgreSQL.md",
+    "Tecnologías/SQL/MySQL.md",
+    "Pentesting/OS/Linux/Pentesting tools.md",
+    "Pentesting/OS/Linux/Commands.md",
+    "Pentesting/Vulns/Buffer Overflow.md",
+    "Pentesting/OS/Windows/Enumeración.md",
+    "Pentesting/OS/Windows/Active Directory/Active Directory.md",
+    "Pentesting/OS/Windows/Commands.md"
   ]
 }
