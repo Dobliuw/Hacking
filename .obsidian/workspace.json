@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dcf9df4f24c47e9c",
+        "id": "563be13ca7392957",
         "type": "tabs",
         "children": [
           {
-            "id": "187f0893f09989e4",
+            "id": "a729e51aba51f122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Ataques.md",
+                "file": "Pentesting/OS/Windows/Active Directory/Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Ataques.md",
+                "file": "Pentesting/OS/Windows/Active Directory/Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Ataques.md",
+                "file": "Pentesting/OS/Windows/Active Directory/Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Ataques.md"
+                "file": "Pentesting/OS/Windows/Active Directory/Active Directory.md"
               }
             }
           }
@@ -146,14 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "187f0893f09989e4",
+  "active": "a729e51aba51f122",
   "lastOpenFiles": [
-    "Pentesting/OS/Windows/Active Directory/Active Directory.md",
-    "Pentesting/OS/Windows/Enumeración.md",
     "Pentesting/OS/Windows/Active Directory/Ataques.md",
-    "Pentesting/Conceptos generales.md",
+    "Pentesting/OS/Windows/Active Directory/Kerberos Authentication.md",
+    "Images/Pasted image 20230308194241.png",
+    "Pentesting/OS/Windows/Active Directory/Active Directory.md",
+    "Images/Pasted image 20230308194120.png",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Pasted image 20230308191257.png",
+    "Images/Pasted image 20230302212154.png",
     "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas",
-    "Pasted image 20230302212154.png",
+    "Pentesting/OS/Windows/Commands.md",
+    "Pentesting/OS/Windows/Enumeración.md",
+    "Pentesting/Conceptos generales.md",
     "Untitled",
     "Images/Pasted image 20230302095627.png",
     "Images/Pasted image 20230302095518.png",
@@ -167,7 +174,6 @@
     "Tecnologías/SQL/PostgreSQL.md",
     "Tecnologías/SQL/MySQL.md",
     "Pentesting/OS/Linux/Pentesting tools.md",
-    "Pentesting/Vulns/Buffer Overflow.md",
-    "Pentesting/OS/Windows/Commands.md"
+    "Pentesting/Vulns/Buffer Overflow.md"
   ]
 }
