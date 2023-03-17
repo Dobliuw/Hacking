@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Impacket.md",
+                "file": "Pentesting/OS/Windows/Active Directory/Ataques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "159300fc039256cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/OS/Windows/Ataques.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Impacket.md",
+                "file": "Pentesting/OS/Windows/Ataques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Impacket.md",
+                "file": "Pentesting/OS/Windows/Ataques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Impacket.md"
+                "file": "Pentesting/OS/Windows/Ataques.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "717e826aa018dc03",
+  "active": "159300fc039256cd",
   "lastOpenFiles": [
+    "Pentesting/OS/Windows/Active Directory/Ataques.md",
+    "Pentesting/OS/Windows/Ataques.md",
+    "Pentesting/OS/Windows/Active Directory/Impacket.md",
     "Pentesting/OS/Windows/Enumeración.md",
     "Pentesting/OS/Windows/Commands.md",
     "Pentesting/OS/Linux/Commands.md",
@@ -157,8 +173,6 @@
     "Untitled.canvas",
     "Pentesting/Conceptos generales.md",
     "Pentesting/OS/Windows/Active Directory/Kerberos Authentication.md",
-    "Pentesting/OS/Windows/Active Directory/Impacket.md",
-    "Pentesting/OS/Windows/Active Directory/Ataques.md",
     "Pentesting/OS/Windows/Tools.md",
     "Pentesting/Vulns/Buffer Overflow.md",
     "Pentesting/Vulns/Pivoting.md",
