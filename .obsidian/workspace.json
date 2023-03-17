@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "563be13ca7392957",
+        "id": "4df6ed15a31c539b",
         "type": "tabs",
         "children": [
           {
-            "id": "a729e51aba51f122",
+            "id": "717e826aa018dc03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Active Directory.md",
+                "file": "Pentesting/OS/Windows/Active Directory/Impacket.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Active Directory.md",
+                "file": "Pentesting/OS/Windows/Active Directory/Impacket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Active Directory.md",
+                "file": "Pentesting/OS/Windows/Active Directory/Impacket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Active Directory.md"
+                "file": "Pentesting/OS/Windows/Active Directory/Impacket.md"
               }
             }
           }
@@ -146,34 +146,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a729e51aba51f122",
+  "active": "717e826aa018dc03",
   "lastOpenFiles": [
-    "Pentesting/OS/Windows/Active Directory/Ataques.md",
-    "Pentesting/OS/Windows/Active Directory/Kerberos Authentication.md",
-    "Images/Pasted image 20230308194241.png",
+    "Pentesting/OS/Windows/Enumeración.md",
+    "Pentesting/OS/Windows/Commands.md",
+    "Pentesting/OS/Linux/Commands.md",
     "Pentesting/OS/Windows/Active Directory/Active Directory.md",
-    "Images/Pasted image 20230308194120.png",
-    "Untitled.md",
+    "Tecnologías/SQL/MSSQL.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
+    "Pentesting/Conceptos generales.md",
+    "Pentesting/OS/Windows/Active Directory/Kerberos Authentication.md",
+    "Pentesting/OS/Windows/Active Directory/Impacket.md",
+    "Pentesting/OS/Windows/Active Directory/Ataques.md",
+    "Pentesting/OS/Windows/Tools.md",
+    "Pentesting/Vulns/Buffer Overflow.md",
+    "Pentesting/Vulns/Pivoting.md",
+    "Pentesting/Vulns/SQLi (SQL Injections).md",
+    "Pentesting/Vulns/XXE (XML External Entity).md",
+    "Images/Pasted image 20230308194241.png",
+    "Tecnologías/SQL/PostgreSQL.md",
+    "Tecnologías/SQL/MySQL.md",
+    "Roast.md",
+    "Pentesting/OS/Linux/Pentesting tools.md",
+    "Pentesting/OS/Linux/Enumeración.md",
+    "Pentesting/OS/Linux/Ataques Teoria.md",
+    "Images/Pasted image 20230308194120.png",
     "Pasted image 20230308191257.png",
     "Images/Pasted image 20230302212154.png",
     "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas",
-    "Pentesting/OS/Windows/Commands.md",
-    "Pentesting/OS/Windows/Enumeración.md",
-    "Pentesting/Conceptos generales.md",
     "Untitled",
     "Images/Pasted image 20230302095627.png",
     "Images/Pasted image 20230302095518.png",
     "Images/Pasted image 20230302095342.png",
     "Images/Pasted image 20230302095250.png",
     "Images/Pasted image 20230302095204.png",
-    "Pentesting/OS/Linux/Commands.md",
-    "Pentesting/OS/Windows/Tools.md",
-    "Pentesting/OS/Linux/Enumeración.md",
-    "Tecnologías/Docker.md",
-    "Tecnologías/SQL/PostgreSQL.md",
-    "Tecnologías/SQL/MySQL.md",
-    "Pentesting/OS/Linux/Pentesting tools.md",
-    "Pentesting/Vulns/Buffer Overflow.md"
+    "Tecnologías/Docker.md"
   ]
 }
