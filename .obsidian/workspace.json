@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4df6ed15a31c539b",
+        "id": "0c09a5d68117cbc6",
         "type": "tabs",
         "children": [
           {
-            "id": "717e826aa018dc03",
+            "id": "6c4de6f132372c07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/OS/Windows/Active Directory/Ataques.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "159300fc039256cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/OS/Windows/Ataques.md",
+                "file": "Pentesting/OS/Linux/Pentesting tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#LDAP",
+                "query": "tag:#AWS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/OS/Windows/Ataques.md",
+                "file": "Pentesting/OS/Linux/Pentesting tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/OS/Windows/Ataques.md",
+                "file": "Pentesting/OS/Linux/Pentesting tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/OS/Windows/Ataques.md"
+                "file": "Pentesting/OS/Linux/Pentesting tools.md"
               }
             }
           }
@@ -159,15 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "159300fc039256cd",
+  "active": "fbf4086a2467eaa2",
   "lastOpenFiles": [
+    "Pentesting/OS/Linux/Enumeración.md",
+    "Pentesting/OS/Linux/Commands.md",
     "Pentesting/OS/Windows/Active Directory/Ataques.md",
+    "Pentesting/OS/Linux/Ataques Teoria.md",
+    "Pentesting/OS/Linux/Pentesting tools.md",
+    "Pentesting/OS/Windows/Enumeración.md",
+    "Pentesting/OS/Windows/Active Directory/Active Directory.md",
     "Pentesting/OS/Windows/Ataques.md",
     "Pentesting/OS/Windows/Active Directory/Impacket.md",
-    "Pentesting/OS/Windows/Enumeración.md",
     "Pentesting/OS/Windows/Commands.md",
-    "Pentesting/OS/Linux/Commands.md",
-    "Pentesting/OS/Windows/Active Directory/Active Directory.md",
     "Tecnologías/SQL/MSSQL.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -182,9 +173,6 @@
     "Tecnologías/SQL/PostgreSQL.md",
     "Tecnologías/SQL/MySQL.md",
     "Roast.md",
-    "Pentesting/OS/Linux/Pentesting tools.md",
-    "Pentesting/OS/Linux/Enumeración.md",
-    "Pentesting/OS/Linux/Ataques Teoria.md",
     "Images/Pasted image 20230308194120.png",
     "Pasted image 20230308191257.png",
     "Images/Pasted image 20230302212154.png",
