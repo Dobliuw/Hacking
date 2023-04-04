@@ -1,4 +1,4 @@
-![[Pasted image 20230215165210.png]]
+''![[Pasted image 20230215165210.png]]
 
 ---
 
@@ -15,7 +15,13 @@ FLUSH PRIVILEGES;
 select * from information_schema.columns where table_name='table_name';
  
 -- Crear base de datos:
-create database name;
+create database {name};
+
+-- Eliminar base de datos: 
+drop database {name}; 
+
+-- Eliminar tabla:
+drop table {name};
 
 -- listar base de datos:
 show databases;
@@ -28,12 +34,19 @@ show tables;
 
 -- crear una tabla en la db:
 create table users(
-	userid int primary key,
+	userid int not null primary key auto_increment,
 	username varchar (50) not null,
 	password varchar (50) not null,
 );
 
 -- Add:
 inser into users(username, password, email)
-values ("owen", "123", "a@gmail.com");
+values ("owen", "123", "a@gmail.com"), ("masdatos", "para ingresar", "de manera multiple");
+
+-- Foreing key 
+alter table {table_name} add column {column_name} {...values}; 
+alter table {table_name} add constrain {column_name} foreing key (column_name) references {table_name}({column}); 
+
+
+
 ```

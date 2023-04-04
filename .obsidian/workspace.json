@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "0c09a5d68117cbc6",
+        "id": "422cf3e9d4775371",
         "type": "tabs",
         "children": [
           {
-            "id": "6c4de6f132372c07",
+            "id": "ce06e6ee89ab7dc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/OS/Linux/Pentesting tools.md",
+                "file": "Tecnologías/SQL/MySQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7ea707e971a1f22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologías/SQL/MySQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/OS/Linux/Pentesting tools.md",
+                "file": "Tecnologías/SQL/MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/OS/Linux/Pentesting tools.md",
+                "file": "Tecnologías/SQL/MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/OS/Linux/Pentesting tools.md"
+                "file": "Tecnologías/SQL/MySQL.md"
               }
             }
           }
@@ -147,42 +158,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbf4086a2467eaa2",
+  "active": "ce06e6ee89ab7dc9",
   "lastOpenFiles": [
-    "Pentesting/OS/Linux/Enumeración.md",
-    "Pentesting/OS/Linux/Commands.md",
+    "Tecnologías/SQL/MSSQL.md",
+    "Tecnologías/SQL/SQL.md",
+    "Images/Pasted image 20230404130357.png",
+    "Tecnologías/SQL/MySQL.md",
+    "Tecnologías/SQL/PostgreSQL.md",
+    "Images/Pasted image 20230403164237.png",
+    "Images/Pasted image 20230403163806.png",
+    "Images/Pasted image 20230403163410.png",
+    "Images/Pasted image 20230403163235.png",
+    "Images/Pasted image 20230403162759.png",
+    "Images/Pasted image 20230403162341.png",
+    "Pentesting/OS/Windows/Active Directory/Kerberos Authentication.md",
+    "Pentesting/OS/Windows/Active Directory/Impacket.md",
     "Pentesting/OS/Windows/Active Directory/Ataques.md",
+    "Pentesting/OS/Windows/Active Directory/Active Directory.md",
     "Pentesting/OS/Linux/Ataques Teoria.md",
+    "Pentesting/OS/Linux/Commands.md",
+    "Pentesting/OS/Linux/Enumeración.md",
+    "Nvim.md",
+    "Pentesting/OS/Windows/Commands.md",
     "Pentesting/OS/Linux/Pentesting tools.md",
     "Pentesting/OS/Windows/Enumeración.md",
-    "Pentesting/OS/Windows/Active Directory/Active Directory.md",
     "Pentesting/OS/Windows/Ataques.md",
-    "Pentesting/OS/Windows/Active Directory/Impacket.md",
-    "Pentesting/OS/Windows/Commands.md",
-    "Tecnologías/SQL/MSSQL.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pentesting/Conceptos generales.md",
-    "Pentesting/OS/Windows/Active Directory/Kerberos Authentication.md",
     "Pentesting/OS/Windows/Tools.md",
     "Pentesting/Vulns/Buffer Overflow.md",
     "Pentesting/Vulns/Pivoting.md",
     "Pentesting/Vulns/SQLi (SQL Injections).md",
     "Pentesting/Vulns/XXE (XML External Entity).md",
     "Images/Pasted image 20230308194241.png",
-    "Tecnologías/SQL/PostgreSQL.md",
-    "Tecnologías/SQL/MySQL.md",
     "Roast.md",
     "Images/Pasted image 20230308194120.png",
     "Pasted image 20230308191257.png",
-    "Images/Pasted image 20230302212154.png",
     "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas",
     "Untitled",
-    "Images/Pasted image 20230302095627.png",
-    "Images/Pasted image 20230302095518.png",
-    "Images/Pasted image 20230302095342.png",
-    "Images/Pasted image 20230302095250.png",
-    "Images/Pasted image 20230302095204.png",
     "Tecnologías/Docker.md"
   ]
 }
