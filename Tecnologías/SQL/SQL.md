@@ -1,3 +1,4 @@
+![[Pasted image 20230215165210.png]]
 
 --- 
 
@@ -33,6 +34,9 @@
 ### KEY:
 #####  "Propiedad" unica que contiene el atributo para volverlo unico como un id, un documento, mail, etc. 
 ![[Pasted image 20230403164237.png]]
+
+### Registros: 
+#### Estos son los valores en conjuntos insertados en la tabla, por ejemplo, en una tabla (Entidad) de "usuarios" el ingreso del usuario "Owen" con diversos valores, seria un registro.
 
 --- 
 
@@ -112,7 +116,30 @@ drop foreing key user_id;
 
 ![[Pasted image 20230404130357.png]]
 
+### ELIMINAR un registro especifico: 
+```sql
+delete from users where user_id=7
+```
 
+### MODIFICAR un registro: 
+```sql
+-- Edit: 
+
+update users set name='NuevoNombre' where name='Ejemplo'
+
+-- Multiple edit:
+
+update users 
+set name='NuevoNombre',
+email='NuevoEmail'
+where name='Ejemplo'
+```
+
+### DISCRIMAR datos: 
+```sql
+select * from users where not name='Dobliuw'
+-- Traer todos los registros de la tabla users menos cuando name = 'Dobliuw'
+```
 ---
 
 # Consultas de datos: 
@@ -147,6 +174,25 @@ select column_name from information_schema.columns where table_schema='usersdb' 
 select * from orders join users where users.user_id=orders.user_id;  
 ```
 
+### Consulta de datos con AS y operaciones:
+```sql
+select number,number*2 as numberDoble from orders;
+```
+
+### ORDENAR la consulta: 
+```sql
+select * from orders order by number 
+-- Seleccionar todo de la tabla orders ordenado por numbers de manera ascendente
+
+select * from orders order by number DESC
+-- Seleccionar todo de la tabla orders ordenado por numbers de manera descendente 
+
+```
+
+### Consultar IGNORANDO REPETIDOS:
+```sql
+select distinct * from  users
+```
 ---
 
 # Ejecutar archivos .sql: 

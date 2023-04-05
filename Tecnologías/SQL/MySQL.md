@@ -1,4 +1,4 @@
-''![[Pasted image 20230215165210.png]]
+![[Pasted image 20230215165210.png]]
 
 ---
 
