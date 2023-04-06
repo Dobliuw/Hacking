@@ -135,11 +135,6 @@ email='NuevoEmail'
 where name='Ejemplo'
 ```
 
-### DISCRIMAR datos: 
-```sql
-select * from users where not name='Dobliuw'
--- Traer todos los registros de la tabla users menos cuando name = 'Dobliuw'
-```
 ---
 
 # Consultas de datos: 
@@ -179,6 +174,12 @@ select * from orders join users where users.user_id=orders.user_id;
 select number,number*2 as numberDoble from orders;
 ```
 
+###  Consulta DISCRIMINANDO datos: 
+```sql
+select * from users where not name='Dobliuw'
+-- Traer todos los registros de la tabla users menos cuando name = 'Dobliuw'
+```
+
 ### ORDENAR la consulta: 
 ```sql
 select * from orders order by number 
@@ -193,26 +194,222 @@ select * from orders order by number DESC
 ```sql
 select distinct * from  users
 ```
+
+### Consultar LIMITANDO los resultados:
+```sql
+-- Limitando la respuesta en 5 registros
+select * from users limit 5 
+
+-- Limitando la respuesta a 5 a partir del registro 3
+select * from users limit 3,5
+```
+
+### Consultar con resultados RANDOM:
+```sql
+-- Esta query constantemente arrojaria dos registros aleatorios 
+select * from users order by rand() limit 2 
+-- (Podrian ingresarse condiciones)
+```
+
+### Consultar valores ENTRE un rango: 
+```sql
+select * from users where user_id between 4 and 10
+
+-- Tambien es usado para las fechas: 
+
+select * from {db} where dates between 'yyyy-mm-dd' and 'yyyy-mm-dd'
+```
+
+### Consultar valores con "REGEX" ( LIKE ):
+```sql
+-- Que empieze con 'D'
+select * from users where name like 'D%'
+
+-- Que termine con 'w'
+select * from users where name like '%w'
+
+-- Que tenga 'obli' en el texto
+select * from users where name like '%obli%'
+
+-- Que una 'b' en la tercera posición
+select * from users where name like '__b%'
+
+-- Que terminen con 'b' 
+select * from users where name like '%_u_'
+
+-- Que empieze con 'D' y termine con 'D'
+select * from users where name like 'D%w'
+
+-- Que sea un registro de 7 caracteres y la segunda posición tenga un 'o'
+select * from users where name like '_o_____'
+```
+
+### Consultar valores con NULL y NOT NULL:
+```sql
+-- Seleccionar todos los que sean nulos 
+select * from users where name is null order by ASC 
+
+-- Seleccinoar todos los que no sean nulos 
+select * from uesrs where name is not null order by ASC
+
+```
+
+### Consultar valores con IN: 
+```sql
+-- Seleccionar todos los registros que tengan un valor de user_id que este dentro de la tupla del in (3,4,5,6)
+select * from users where user_id in (3,4,5,6)
+
+select * from users where name in ("Dobliuw")
+
+-- Seleccionar todos los registros que tenguna un valor de user_id que NO este dentro de la tupla del in (3,4,5,6)
+select * from users where user_id not in (3,4,5,6)
+
+```
+
+---
+
+# Subconsultas:  
+
+###  Funciónes de AGREGACIÓN: 
+```sql
+-- ### IMPORTANTE ### -- 
+-- Las funciones de agregación retornan un resultado, es decir, por ejemplo, ROUND(AVG(user_id)), devuelve el redondeamiento del promedio de los user_id, ese resultado puede ser renombrado con "as", por ejemplo "ROUND(AVG(user_id)) as result" ahora, result va a   ser el resultado y es importante recordar que este ressultado...
+--  ########### NO SE PUEDE USAR EN OTRA FUNCIÓN DE AGREGACIÓN. ##############
+
+-- Devuelve la cantidad de registros que tienn user_id
+select COUNT(user_id) from users
+
+-- Devuelve la suma de todos los user_id
+select SUM(user_id) from users
+
+-- Devuelve el promedio de los user_id
+select AVG(user_id) from users
+
+-- Devuelve un nro redondeado a 3 decimales del promedio de los user_id
+select ROUND(AVG(user_id),3) from users
+
+-- Devuelve el nombre como 'Nombre' y el valor MINIMO de user_id como 'ID' siempre y cuando name no sea NULL 
+select name as 'Nombre', MIN(user_id) as 'ID' from users where name is not null 
+
+-- Devuelve el nombre como 'Nombre' y el valor MAXIMO de user_id como 'ID' siempre y cuando name no sea NULL 
+select name as 'Nombre', MAX(user_id) as 'ID' from users where name is not null
+```
+
+### Consultas con GROUP BY y HAVING:
+```sql
+-- El GROUP BY se utiliza para agrupar registros
+select name as 'Nombre', ROUND(user_id / 2,2) as 'ID' from users group by user_id
+
+-- El HAVING se usa como un where pero del resultado de una función
+select name as 'Nombre', ROUND(user_id / 2,2) as 'ID' from users group by email having ID > 2;
+
+-- Ejemplos: 
+select distinct CategoryID as 'ID', ROUND(UnitPrice/2, 3) as 'Precio' from Products 
+group by ID 
+having Precio >= 10 
+limit 0,20;
+```
+
+### ESTRUCTURA de una query: 
+```sql
+SELECT....FROM....
+WHERE.....
+GROUP BY....
+HAVING....
+ORDER BY....
+LIMIT....
+```
+
+### Sub Consultas: 
+```sql
+-- Teniendo en cuenta que el select selecciona COLUMNAS, podriamos realizar una query (Subconsulta) la cual devuelva una columna
+
+-- De esta manera estariamos trayendo 3 datos de la tabla users, pero agregando una columna con el apartado de number perteneciente a la tabla orders
+SELECT name, email, password, (select number from orders) from users; 
+
+-- Si bien para casos como el sig se utiliza el join, si la tabla orders tiene una FK asociada con la tabla users, podriamos solicitar que se unan esos datos junto a los usuarios: 
+SELECT name as 'Nombre', 
+email as 'Correo Electronico', 
+password as 'Contraseña', 
+(SELECT number from orders where users.user_id=orders.user_id) as 'Ordenes N°',
+(SELECT date from orders where users.user_id=orders.user_id) as 'Fecha' from users
+-- Ahora, esta query con 2 subconsultas dentro de ellas, devolveria una tabla como la sig: 
+/*
++----------+------------------------+-------------------------------+---------+--------------
+| Nombre   | Correo Electronico     | Contraseña                    | Ordenes N° | Fecha  
++----------+------------------------+-------------------------------+---------+--------------
+| Dobliuw  | dobliuw@dobliuw.com    | U2!+BF!.hZy1ST4r1&6*&3Uu1&3mI |      11    | 1980-06-11     |
+| ZaikoARG | zaikoarg@zaikoarg.com  | Z41k0+!1&dDxD_                |    NULL    | NULL           | 
+| Valen    | valenmachu@gmail.com   | 1254821158644468              |    NULL    | NULL           |
+| Brian    | brian@gmail.com        | Tomi2008                      |    NULL    | NULL           |
+| Jose     | jose32@gmail.com       | jose32                        |       5    | 2012-12-12     |
+| Roberto  | robertoperez@gmail.com | roberto1980                   |    NULL    | NULL           |
+| David    | david@gmail.com        | mihijoelmejor                 |    NULL    | NULL           |
++----------+------------------------+-------------------------------+---------+--------------
+
+Ahora, si no quisieramos los que tenga valor NULL, como aprendimos antes podriamos empezar a utilizar y mezclar conceptos
+*/
+SELECT name AS 'Nombre',  
+email AS 'Correo Electronico',  
+password AS 'Contraseña',  
+(SELECT number FROM orders AS o WHERE u.user_id=o.user_id) AS Ordenes, 
+(SELECT date FROM orders AS o WHERE u.user_id=o.user_id) AS Fecha 
+FROM users AS u 
+HAVING Fecha AND Ordenes IS NOT NULL;
+
+-- Ejemplo: 
+SELECT user_id as 'ID', 
+name as 'Nombre',  
+email as 'Correo Electronico',  
+password as 'Contraseña',  
+(SELECT number from orders as o where u.user_id=o.user_id) as Ordenes, 
+(SELECT date from orders as o where u.user_id=o.user_id) as Fecha, 
+( select group_concat('[!] ',u.user_id,' x ',number,' = ',u.user_id * number) from orders as o where u.user_id=o.user_id) as 'ID * Número' 
+from users as u 
+having Ordenes and Fecha is not null;
+
+-- Resultado: 
+/*
++----+---------+---------------------+-------------------------------+---------+------------
+| ID | Nombre  | Correo              | Contraseña  | Ordenes |   Fecha    |    ID * Número  | 
++----+---------+---------------------+-------------------------------+---------+------------
+|  1 | Dobliuw | dobliuw@dobliuw.com | U2!+BF!...  |      11 | 1980-06-11 | [!] 1 x 11 = 11 |
+|  5 | Jose    | jose32@gmail.com    | jose32      |       5 | 2012-12-12 | [!] 5 x 5 = 25  |
++----+---------+---------------------+-------------------------------+---------+------------
+*/
+
+```
 ---
 
 # Ejecutar archivos .sql: 
 
-- ###   Para MySQL: 
+- ## Para MySQL: 
 ```shell
 mysql -u usuario -p < archivo.sql
 ```
 
-- ### Para PostgreSQL: 
+- ## Para PostgreSQL: 
 ```shell
 psql -U usuario -f archivo.sql
 ```
 
-- ### Para SQL Server: 
+- ## Para SQL Server: 
 ```shell
 sqlcmd -S servidor -U usuario -P contraseña -i archivo.sql
 ```
 
-- ### Para Oracle: 
+- ## Para Oracle: 
 ```shell
 sqlplus usuario/contraseña@nombre_instancia @archivo.sql
 ```
+
+# Funcionamiento interno 
+## Operadores logicos vs Operadores de comparación
+
+#### Operadores de comparación ( < , > , <= , >=, != , =, between, like)
+##### Estos comparadores devuelven un booleano (TRUE o FALSE)
+
+#### Operadores lógicos ( AND , OR , NOT, IN )
+##### Estos comparadores comparan entre booleanos tambien devuelviendo TRUE o FALSE
+
+#### La diferencia es que los operadores de comparación comparan valores arrojando true o false, mientras que los operadores logicos comparan booleanos.  
