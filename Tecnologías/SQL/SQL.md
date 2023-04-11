@@ -111,6 +111,13 @@ alter table "orders"
 drop foreing key user_id;
 ```
 
+### Agregando un nuevo campo:
+```sql
+-- Con esto podemos agregar una columna con los datos deseados y especificar despues de que columna agregarlo
+
+alter table orders 
+add column 'random' varchar(50) after user_id
+```
 
 ## Diagrama de la relación: 
 
@@ -378,7 +385,122 @@ having Ordenes and Fecha is not null;
 +----+---------+---------------------+-------------------------------+---------+------------
 */
 
+-- Tambien se puede usar para condiciones: 
+select name as Nombre, email as Correo from users where (select number from orders where users.user_id=orders.user_id) is not null;
+
 ```
+
+### Consultas con JOIN: 
+
+- ### Cross JOIN: 
+##### Sirve para unir tablas generando un nueva uniendo cada registro de manera multiplicada con los registros de la otra tabla, es decir, que si tengo una tabla de 3 registros y hago un cross join con otra tabla de 3 registros, voy a obtener una tabla con 9 registros, ya que estos se unen generando cada una de las posiblidades de union.
+
+#### Hay que tener en cuenta que el cross join puede darse de manera implicita o explicita. Esto devuelve algo llamada 'PRODUCTO CARTESIANO'
+
+#### IMPLICITA:
+```sql
+-- De esta manera estamos uniendo la tabla users y orders contemplando cada una de las posiblidades de union de la misma.
+SELECT * FROM users, orders
+```
+#### EXPLICITA:
+```sql
+-- Lo mismo pero de manera explicita
+SELECT * FROM users CROSS JOIN orders
+```
+
+![[Pasted image 20230406111340.png]]
+
+- ### Inner JOIN: 
+##### Se utiliza para fusionar tablas con valores que nos interesan, supongamos que tenemos una tabla de ESTUDIANTES y otra de TRABAJADORES, podriamos utilizar el INNER JOIN para muchos casos como, devolver las tablas fusionadas con los usuarios que trabajan y si estudian que estudian, solo aquellos que estudian y trabajan, etc.
+
+#### Tambien hay que tener en cuenta en este otro caso que se puede hacer de manera explicita e implicita, pero siempre realizarla de manera explicita va a ser una mejor practica.
+
+
+#### IMPLICITA:
+```sql
+-- De esta manera estamos uniendo la tabla users y orders contemplando cada una de las posiblidades de union de la misma.
+SELECT * FROM users, orders WHERE users.user_id=orders.user_id
+```
+#### EXPLICITA:
+```sql
+-- Lo mismo pero de manera explicita 
+SELECT * FROM users INNER JOIN orders ON users.user_id=orders.user_id
+-- Tambien se suele usar solo el JOIN para hacer referencia a INNER JOIN 
+```
+
+
+### Ejemplo: 
+```sql 
+-- ON es como el WHERE pero cuando se usa INNER JOIN
+SELECT * FROM tabla1 
+INNER JOIN tabla2 
+ON tabla1.nombre=tabla2.nombre
+```
+![[Pasted image 20230406112807.png]]
+
+### Ejemplo: 
+```sql 
+-- ON es como el WHERE pero cuando se usa INNER JOIN
+SELECT * FROM tabla1 
+INNER JOIN tabla2 
+ON tabla1.nombre=tabla2.nombre and tabla1.trabajo is not null and tabla2.estudio is not null
+```
+
+![[Pasted image 20230406112516.png]]
+
+- ### Left JOIN: 
+##### A diferencia de los otros joins, ese lo que tiene es que devuelve toda una tabla (La A) junto a los datos de la otra (La B), remplazando con  NULL los campos de los que no tenga datos. 
+
+#### Ejemplo:
+```sql
+SELECT * FROM tabla1 LEFT JOIN tabla2 ON tabla1.nombre=tabla2.nombre
+```
+
+![[Pasted image 20230406153509.png]]
+
+- ### Right join: 
+##### A diferencia de los otros joins, ese lo que tiene es que devuelve toda una tabla (La B) junto a los datos de la otra (La A), remplazando con  NULL los campos de los que no tenga datos. 
+
+#### Ejemplo:
+```sql
+SELECT * FROM tabla1 RIGHT JOIN tabla2 ON tabla1.nombre=tabla2.nombre
+```
+
+![[Pasted image 20230406154836.png]]
+
+- ### Full JOIN: 
+##### A diferencia del cross join, que devuelve todo "multiplicado", mientras que el full, trae todo de las dos tablas. ( Se simula con UNION )
+
+## UNION y UNION ALL: 
+
+- ### UNION: 
+
+###### Este sirve para unir dos consultas (Siempre en lo posible que contengan los mismo datos) y elimina duplicados.
+
+![[Pasted image 20230407170142.png]]
+
+- ### UNION ALL:
+
+###### Este sirve para unir dos cunsultas (Tambien en lo posible siempre deberian ser de los mismos datos) con la diferencia de que no elimina duplicados.
+
+![[Pasted image 20230407165626.png]]
+
+## Cardinalidad: 
+
+- ### 1 a 1 (Uno a uno):
+
+##### Consiste en una realción de un registro de una tabla con un registro de otra tabla, por ejemplo:  Una persona (En la tabla personas) se relaciona con un DNI (En la tabla de DNIS), un DNI pertenece a una persona, y una persona tiene un DNI.
+
+- ### N a  1 (Muchos a uno):
+
+##### Consiste en una relación de varios registros de una tabla con un registro de otra tabla. Por ejemplo:  Los libros (En la tabla lirbos ) se relacionan con un Autor (En la tabla atuores), un libro tiene un autor y un autor muchos libros.
+
+- ### N a M (Muchos a muchos):  
+
+##### Consiste en una relación de varios registros de una tabla con varios registros de otra tabla. Por ejemplo:  Los estudiantes (En la tabla estudiantes) se relacionan con Cursos (Tabla de cursos). Un estudiante puede tener muchos cursos y un curso puede tener muchos estudiantes.  
+###### En estos casos se suele crear una tabla intermedia que relacione cada estudiante con su curso, por ejemplo. 
+
+
 ---
 
 # Ejecutar archivos .sql: 
