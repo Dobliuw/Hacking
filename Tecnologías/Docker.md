@@ -40,6 +40,8 @@ docker volume ls
 docker volume create {volume_name}
 # Crear volumen
 docker network ls
+# Crear una imagen a partir de un dockerfile
+docker build -t {image_name} {path_dockerfile}
 # Listar conexiones de las redes
 docker network create {name}
 # Crear una red
@@ -53,5 +55,30 @@ docker image ls
 # Listar iamgenes
 docker pull {image_name}
 # Traer una imagen del repo de docker hub.
+docker images --fillter "dangling=true" -q
+# Sacar los id's de las imagenes <none> 
+```
 
+
+## Dockerfile 
+
+```Dockerfile 
+ FROM ubuntu:latest 
+ # Version de la imagen
+ MAINTAINER Owen Bonoris aka Dobliuw "dobliuw@dobliuw.com"
+ 
+ ENV DEBIAN_FRONTEND noninteractive
+ # Para que no entre en modo interactivo
+ RUN apt update && apt install -y net-tools \ 
+   iputils-ping \ 
+   curl \ 
+   git \ 
+   nano \ 
+   apache2 \ 
+   php
+ # Comandos que quiero ejecutar a la hora de crear la imagen 
+ EXPOSE 80 
+ # Exponer el puerto 80 del contenedor
+ ENTRYPOINT service apache2 start && /bin/bash 
+ # Cuando se inicie que levante el demon de apache2 y el /bin/bash para evitar errores
 ```

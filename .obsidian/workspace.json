@@ -8,14 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f98127480be12e62",
+            "id": "c45adb43970c5f21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Basico/Conceptos Expotacion/Shells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ebf1f1cd88b3970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Gestores De Contenido/Joomla.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OSI",
+                "query": "tag:#CMS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
   "right": {
     "id": "b87cea5314681bda",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pentesting/Gestores De Contenido/Joomla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pentesting/Gestores De Contenido/Joomla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pentesting/Gestores De Contenido/Joomla.md"
+              }
             }
           }
         ]
@@ -138,46 +159,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f98127480be12e62",
+  "active": "9fb90ef01464b840",
   "lastOpenFiles": [
-    "Pentesting/Protocolos.md",
+    "Pentesting/Gestores De Contenido/Drupal.md",
+    "Pentesting/Basico/Conceptos Expotacion/Payloads.md",
+    "Pentesting/Basico",
+    "Pentesting/Basico/Conceptos Expotacion/Shells.md",
+    "Pentesting/Basico/Conceptos Expotacion",
+    "Images/reverseShell.png",
+    "Images/BindShell.png",
+    "Pentesting/Basico/Conceptos Generales.md",
+    "Pasted image 20230417172347.png.md",
+    "Pasted image 20230417172347.png",
+    "Pentesting/Basico/Reconocimiento.md",
+    "Pentesting/Basico/Protocolos.md",
+    "Pentesting/Basico/General",
+    "Pentesting/Herramientas/⚒ Herramientas ⚒.md",
+    "Pentesting/Herramientas",
+    "Pentesting/Herramientas/Nmap.md",
+    "Pentesting/Gestores De Contenido/Wordpress.md",
+    "Pentesting/Gestores De Contenido/Magento.md",
+    "Pentesting/Gestores De Contenido/Joomla.md",
+    "Pentesting/Sistemas Operativos/Linux/Ataques Teoria.md",
+    "Images/Pasted image 20230403163410.png",
+    "Images/Pasted image 20230403163235.png",
+    "Images/StackMemoriaRam.png",
+    "Images/MemoriaRam.png",
+    "Images/ActiveDirectory.png",
+    "Images/Pasted image 20230302095250.png",
+    "Images/Pasted image 20230215174702.png",
+    "Pentesting/Sistemas Operativos/Linux/Commands.md",
+    "Pentesting/Sistemas Operativos/Linux/Enumeración.md",
+    "Scripting/Python Scripting.md",
+    "Scripting/Bash.md",
+    "Apuntes/Obsidian.md",
+    "Apuntes",
+    "Tecnologías/Docker.md",
+    "Pentesting/Sistemas Operativos/Windows/Active Directory/Active Directory.md",
+    "Pentesting/Gestores De Contenido",
+    "Pentesting/Sistemas Operativos/Windows/Active Directory/Ataques.md",
+    "FTP   ( File Transfer Protocol).md",
+    "Tecnologías/Git.md",
+    "Tecnologías/PHP.md",
     "Tecnologías/SQL/SQL.md",
-    "Pentesting/Conceptos Generales.md",
-    "Pentesting/Nmap.md",
-    "Pentesting/OS/Linux/Pentesting tools.md",
-    "Images/Pasted image 20230410125907.png",
-    "Images/Pasted image 20230410114143.png",
-    "Images/Pasted image 20230410113952.png",
-    "Images/Pasted image 20230410112934.png",
-    "Images/Pasted image 20230410112448.png",
-    "Images/Pasted image 20230410101337.png",
-    "Pentesting/OS/Windows/Active Directory/Ataques.md",
-    "Pentesting/OS/Windows/Active Directory/Active Directory.md",
-    "Images/Pasted image 20230410073928.png",
-    "Pasted image 20230410073833.png",
-    "Images/Pasted image 20230410073756.png",
-    "Images/Pasted image 20230410072747.png",
-    "Tecnologías/SQL/MySQL.md",
-    "Tecnologías/SQL/PostgreSQL.md",
-    "Tecnologías/SQL/MSSQL.md",
-    "Pentesting/OS/Windows/Tools.md",
-    "Pentesting/OS/Windows/Enumeración.md",
-    "Pentesting/OS/Windows/Commands.md",
-    "Pentesting/OS/Windows/Ataques.md",
-    "Pentesting/OS/Windows/Active Directory/Kerberos Authentication.md",
-    "Pentesting/OS/Windows/Active Directory/Impacket.md",
-    "Pentesting/OS/Linux/Ataques Teoria.md",
-    "Pentesting/OS/Linux/Commands.md",
-    "Pentesting/OS/Linux/Enumeración.md",
-    "Nvim.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Pentesting/Vulns/Buffer Overflow.md",
-    "Pentesting/Vulns/Pivoting.md",
-    "Pentesting/Vulns/SQLi (SQL Injections).md",
-    "Pentesting/Vulns/XXE (XML External Entity).md",
-    "Roast.md",
-    "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas",
-    "Untitled"
+    "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas"
   ]
 }
