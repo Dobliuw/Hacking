@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1027662ff4082602",
+        "id": "70fb6bd390d58f83",
         "type": "tabs",
         "children": [
           {
-            "id": "c45adb43970c5f21",
+            "id": "5db7df312dcf78f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Basico/Conceptos Expotacion/Shells.md",
+                "file": "Pentesting/Sistemas Operativos/Linux/Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8ebf1f1cd88b3970",
+            "id": "866ecaaae83c385b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Gestores De Contenido/Joomla.md",
+                "file": "Tecnologías/SQL/MySQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43b9025332142bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Vim.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Gestores De Contenido/Joomla.md",
+                "file": "Apuntes/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Gestores De Contenido/Joomla.md",
+                "file": "Apuntes/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Gestores De Contenido/Joomla.md"
+                "file": "Apuntes/Vim.md"
               }
             }
           }
@@ -159,16 +171,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fb90ef01464b840",
+  "active": "43b9025332142bd9",
   "lastOpenFiles": [
-    "Pentesting/Gestores De Contenido/Drupal.md",
-    "Pentesting/Basico/Conceptos Expotacion/Payloads.md",
-    "Pentesting/Basico",
+    "Tecnologías/SQL/MySQL.md",
+    "Apuntes/Vim.md",
+    "Pentesting/Basico/Conceptos Expotacion/Tipos de explotación.md",
+    "Pentesting/Sistemas Operativos/Linux/Commands.md",
+    "Pentesting/Sistemas Operativos/Windows/Commands.md",
     "Pentesting/Basico/Conceptos Expotacion/Shells.md",
+    "Pentesting/Basico/Conceptos Expotacion/Payloads.md",
+    "Apuntes/Obsidian.md",
+    "Pentesting/Basico/Conceptos Generales.md",
+    "Pentesting/Sistemas Operativos/Windows/Enumeración.md",
+    "Pentesting/Gestores De Contenido/Joomla.md",
+    "Pentesting/Gestores De Contenido/Drupal.md",
+    "Pentesting/Basico",
     "Pentesting/Basico/Conceptos Expotacion",
     "Images/reverseShell.png",
     "Images/BindShell.png",
-    "Pentesting/Basico/Conceptos Generales.md",
     "Pasted image 20230417172347.png.md",
     "Pasted image 20230417172347.png",
     "Pentesting/Basico/Reconocimiento.md",
@@ -179,7 +199,6 @@
     "Pentesting/Herramientas/Nmap.md",
     "Pentesting/Gestores De Contenido/Wordpress.md",
     "Pentesting/Gestores De Contenido/Magento.md",
-    "Pentesting/Gestores De Contenido/Joomla.md",
     "Pentesting/Sistemas Operativos/Linux/Ataques Teoria.md",
     "Images/Pasted image 20230403163410.png",
     "Images/Pasted image 20230403163235.png",
@@ -188,20 +207,14 @@
     "Images/ActiveDirectory.png",
     "Images/Pasted image 20230302095250.png",
     "Images/Pasted image 20230215174702.png",
-    "Pentesting/Sistemas Operativos/Linux/Commands.md",
     "Pentesting/Sistemas Operativos/Linux/Enumeración.md",
     "Scripting/Python Scripting.md",
     "Scripting/Bash.md",
-    "Apuntes/Obsidian.md",
     "Apuntes",
     "Tecnologías/Docker.md",
     "Pentesting/Sistemas Operativos/Windows/Active Directory/Active Directory.md",
     "Pentesting/Gestores De Contenido",
     "Pentesting/Sistemas Operativos/Windows/Active Directory/Ataques.md",
-    "FTP   ( File Transfer Protocol).md",
-    "Tecnologías/Git.md",
-    "Tecnologías/PHP.md",
-    "Tecnologías/SQL/SQL.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas"
