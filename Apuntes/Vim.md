@@ -58,7 +58,8 @@
 
 - ## Modo de remplazar valores 
 ### Supongamos que tengoa mucho texto separado por , y quiero remplazarlo por un salto de línea: 
-## Tecla [ Esc + : ] +  %s/{valor_to_change}/{new_value}
+## Tecla [ Esc + : ] +  %s/{valor_to_change}/{new_value} 
+### Esto para remplazar el primer valor a cambiar por un nuevo valor, si quisiera aplicarlo para todos los matches deberia agreagar **/g** al final.
 
 ## Ejemplo: 
 #### Tecla [ Esc + : ] + %s/,/\r 
