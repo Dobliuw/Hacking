@@ -8,30 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ba616a9539edd89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Herramientas/Burpsuite.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "05b2baf4dfc6579d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas Operativos/Linux/Enumeración.md",
+                "file": "Pentesting/OWASP Top 10/Buffer Overflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "987efcf1b3d049c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/OWASP Top 10/SQLI - (Inyecciones SQL).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b4bf5e1e9584209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologías/PHP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CMS",
+                "query": "OWASP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Herramientas/Burpsuite.md",
+                "file": "Pentesting/OWASP Top 10/SQLI - (Inyecciones SQL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Herramientas/Burpsuite.md",
+                "file": "Pentesting/OWASP Top 10/SQLI - (Inyecciones SQL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Herramientas/Burpsuite.md"
+                "file": "Pentesting/OWASP Top 10/SQLI - (Inyecciones SQL).md"
               }
             }
           }
@@ -158,49 +171,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ba616a9539edd89",
+  "active": "987efcf1b3d049c4",
   "lastOpenFiles": [
+    "Pentesting/OWASP Top 10/--- OWASP Top 10 ---.md",
+    "Tecnologías/PHP.md",
+    "Tecnologías/Git.md",
+    "Pentesting/OWASP Top 10/SQLI - (Inyecciones SQL).md",
+    "Pentesting/Herramientas/Burpsuite.md",
+    "Pentesting/Gestores De Contenido/Wordpress.md",
+    "Pentesting/Gestores De Contenido/Drupal.md",
+    "Pentesting/Gestores De Contenido/Joomla.md",
+    "Pentesting/Gestores De Contenido/Magento.md",
+    "Pentesting/Basico/Fase de Reconocimiento.md",
+    "Pentesting/Basico/Protocolos.md",
+    "Pentesting/Basico/Atajos de consola.md",
+    "Tecnologías/SQL/SQL.md",
+    "Images/Owasp.png",
+    "Pentesting/OWASP Top 10/Buffer Overflow.md",
+    "Pentesting/O/Untitled",
+    "Pentesting/OWASP Top 10/Pivoting.md",
+    "Pentesting/Vulnerabilidades/XXE (XML External Entity).md",
+    "Pentesting/Vulnerabilidades/SQLi (SQL Injections).md",
+    "Pentesting/Sistemas Operativos/Linux/Enumeración.md",
+    "Tecnologías/SQL/MSSQL.md",
+    "Tecnologías/SQL/MySQL.md",
+    "Tecnologías/SQL/PostgreSQL.md",
     "Pentesting/Herramientas/Nmap.md",
     "Pentesting/Sistemas Operativos/Windows/Active Directory/Active Directory.md",
     "Pentesting/Sistemas Operativos/Windows/Active Directory/Ataques.md",
     "Pentesting/Sistemas Operativos/Windows/Active Directory/Impacket.md",
-    "Pentesting/Basico/Fase de Reconocimiento.md",
-    "Pentesting/Basico/Atajos de consola.md",
-    "Pentesting/Herramientas/Burpsuite.md",
-    "Pentesting/Sistemas Operativos/Linux/Enumeración.md",
     "Pentesting/Herramientas/⚒ Herramientas ⚒.md",
     "Images/ExtensionsBurp.png",
-    "Pentesting/Basico/Conceptos Expotacion/Reconocimiento a nivel de Sistema.md",
-    "Pentesting/Basico/Conceptos Expotacion/Payloads.md",
-    "Pentesting/Sistemas Operativos/Linux/Commands.md",
-    "Pentesting/Sistemas Operativos/Linux/Ataques Teoria.md",
     "Images/ReglasParaRemplazarValoresBurp.png",
     "Images/InterceptarRespuestasSiempreBurp.png",
     "Images/ProxyHistoriaJustScope.png",
     "Images/ScopeConfigBurp.png",
     "Reconoc",
-    "Pentesting/Basico/Conceptos Expotacion/Tipos de explotación.md",
-    "Apuntes/Vim.md",
-    "Tecnologías/SQL/MySQL.md",
-    "Pentesting/Sistemas Operativos/Windows/Commands.md",
-    "Pentesting/Basico/Conceptos Expotacion/Shells.md",
-    "Apuntes/Obsidian.md",
-    "Pentesting/Basico/Conceptos Generales.md",
-    "Pentesting/Sistemas Operativos/Windows/Enumeración.md",
-    "Pentesting/Gestores De Contenido/Joomla.md",
-    "Pentesting/Gestores De Contenido/Drupal.md",
     "Pentesting/Basico",
     "Pentesting/Basico/Conceptos Expotacion",
     "Images/reverseShell.png",
     "Images/BindShell.png",
-    "Pasted image 20230417172347.png.md",
     "Pasted image 20230417172347.png",
-    "Pentesting/Basico/Protocolos.md",
     "Pentesting/Basico/General",
     "Pentesting/Herramientas",
-    "Pentesting/Gestores De Contenido/Wordpress.md",
     "Images/Pasted image 20230403163410.png",
-    "Images/Pasted image 20230403163235.png",
     "Apuntes",
     "Pentesting/Gestores De Contenido",
     "Untitled 1.canvas",

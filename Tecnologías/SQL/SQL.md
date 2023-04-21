@@ -43,6 +43,13 @@
 # Manipulación de base de datos, tablas y columnas: 
 ## Mariadb con mysql para los ejemplos.
 
+### CREACIÓN de usuario con privilegios: 
+```sql
+create user 'name'@'ip' identified by 'password';
+
+grant all privileges on '{db_name}.*' to 'name'@'ip'; 
+```
+
 ### CREACIÓN de base de datos: 
 ```sql
 create database "usersdb";

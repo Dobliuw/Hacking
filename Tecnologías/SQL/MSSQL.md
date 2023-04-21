@@ -13,8 +13,6 @@ use {db}
 -- Usar la db para poder ver columnas 
 select * from {table}
 -- Mostrar todo para la base de datos
-
-
 ```
 
 # Conexión a la base de datos:
