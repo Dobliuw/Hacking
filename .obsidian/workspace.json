@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/OWASP Top 10/Buffer Overflow.md",
+                "file": "Buffer Overflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WRAPPERS.md",
+                "file": "Pentesting/OWASP Top 10/- WRAPPERS -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "973be600e90238e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/OWASP Top 10/RFI - (Remote File Inclusion).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a2e194b591bef06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/OWASP Top 10/LFI - (Local File Inclusion).md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -158,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WRAPPERS.md",
+                "file": "Pentesting/OWASP Top 10/LFI - (Local File Inclusion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WRAPPERS.md",
+                "file": "Pentesting/OWASP Top 10/LFI - (Local File Inclusion).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WRAPPERS.md"
+                "file": "Pentesting/OWASP Top 10/LFI - (Local File Inclusion).md"
               }
             }
           }
@@ -219,19 +243,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a83b788b386395b2",
+  "active": "2a2e194b591bef06",
   "lastOpenFiles": [
+    "Pentesting/OWASP Top 10/RCE - (Remote Command Execution).md",
+    "Pentesting/OWASP Top 10/RFI - (Remote File Inclusion).md",
     "Pentesting/OWASP Top 10/LFI - (Local File Inclusion).md",
-    "WRAPPERS.md",
-    "Pentesting/OWASP Top 10/XXE - (XML External Entity Injection ).md",
-    "Pentesting/OWASP Top 10/Buffer Overflow.md",
-    "Images/xml.png",
-    "Pentesting/OWASP Top 10/XML External Entity Injection - (XXE).md",
+    "Pentesting/OWASP Top 10/SQLI - (Inyecciones SQL).md",
     "Pentesting/OWASP Top 10/SSRF - (Server-Side Request Forgery).md",
     "Pentesting/OWASP Top 10/XSS  - ( Cross-Site Scripting ).md",
+    "Pentesting/OWASP Top 10/XXE - (XML External Entity Injection ).md",
+    "Pentesting/OWASP Top 10/- WRAPPERS -.md",
+    "Buffer Overflow.md",
+    "Images/xml.png",
+    "Pentesting/OWASP Top 10/XML External Entity Injection - (XXE).md",
     "Apuntes/Vim.md",
     "Pentesting/OWASP Top 10/--- OWASP Top 10 ---.md",
-    "Pentesting/OWASP Top 10/SQLI - (Inyecciones SQL).md",
     "Tecnologías/PHP.md",
     "Tecnologías/Git.md",
     "Pentesting/Herramientas/Burpsuite.md",
@@ -248,8 +274,6 @@
     "Pivoting.md",
     "Pentesting/Vulnerabilidades/XXE (XML External Entity).md",
     "Pentesting/Vulnerabilidades/SQLi (SQL Injections).md",
-    "Pentesting/Sistemas Operativos/Linux/Enumeración.md",
-    "Tecnologías/SQL/MSSQL.md",
     "Images/ExtensionsBurp.png",
     "Images/ReglasParaRemplazarValoresBurp.png",
     "Images/InterceptarRespuestasSiempreBurp.png",
