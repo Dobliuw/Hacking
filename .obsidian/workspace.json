@@ -8,115 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05b2baf4dfc6579d",
+            "id": "c4c3b044bc299221",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Buffer Overflow.md",
-                "mode": "source",
-                "source": false
+                "file": "Pentesting/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md"
               }
             }
           },
           {
-            "id": "987efcf1b3d049c4",
+            "id": "71dad1dbec3f094d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Pentesting/OWASP Top 10/SQLI - (Inyecciones SQL).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d1f88d54209470f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/OWASP Top 10/XXE - (XML External Entity Injection ).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d29c897bd4f06c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/OWASP Top 10/LFI - (Local File Inclusion).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a83b788b386395b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/OWASP Top 10/- WRAPPERS -.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "973be600e90238e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/OWASP Top 10/RFI - (Remote File Inclusion).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a2e194b591bef06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/OWASP Top 10/LFI - (Local File Inclusion).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c97911098ea5e4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/OWASP Top 10/SSRF - (Server-Side Request Forgery).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b4bf5e1e9584209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnologías/PHP.md",
-                "mode": "source",
-                "source": false
+                "file": "Pentesting/OWASP Top 10/SSRF/SSRF_2ndScenario.md"
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OWASP",
+                "query": "POST",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 352.5
   },
   "right": {
     "id": "b87cea5314681bda",
@@ -182,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/OWASP Top 10/LFI - (Local File Inclusion).md",
+                "file": "Pentesting/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/OWASP Top 10/LFI - (Local File Inclusion).md",
+                "file": "Pentesting/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/OWASP Top 10/LFI - (Local File Inclusion).md"
+                "file": "Pentesting/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md"
               }
             }
           }
@@ -240,51 +151,54 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a2e194b591bef06",
+  "active": "9fb90ef01464b840",
   "lastOpenFiles": [
+    "Pentesting/OWASP Top 10/SSRF/SSRF_2ndScenario.md",
+    "Pentesting/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
+    "Pentesting/Sistemas Operativos/Windows/Active Directory/Kerberos Authentication.md",
+    "Pentesting/Sistemas Operativos/Windows/Active Directory/Active Directory.md",
+    "Tecnologías/SQL/SQL.md",
+    "Pentesting/OWASP Top 10/SSRF/SSRF_1stScenario.md",
+    "Pentesting/OWASP Top 10/SSRF/SSRF - (Server-Side Request Forgery).md",
+    "Tecnologías/Docker.md",
+    "Tecnologías/Git.md",
+    "Tecnologías/PHP.md",
+    "Pentesting/OWASP Top 10/XSS  - ( Cross-Site Scripting ).md",
+    "Pentesting/OWASP Top 10/CSRF - (Cross-Side Request Forgery).md",
+    "Pentesting/OWASP Top 10/--- OWASP Top 10 ---.md",
+    "Pentesting/OWASP Top 10/SSRF",
+    "Images/pcpng.png",
+    "Pasted Image 20230426104433_686.png",
+    "Untitled.md",
+    "Excalidraw",
+    "2023-04-26.md",
+    "Images/GET_CSRF.png",
+    "Images/changePasswordCSRF.png",
+    "Pentesting/Herramientas/Burpsuite.md",
+    "Pentesting/Herramientas/⚒ Herramientas ⚒.md",
+    "Pentesting/OWASP Top 10/- WRAPPERS -.md",
+    "Images/ChangePassword.png",
+    "Pentesting/OWASP Top 10/LFI - (Local File Inclusion).md",
     "Pentesting/OWASP Top 10/RCE - (Remote Command Execution).md",
     "Pentesting/OWASP Top 10/RFI - (Remote File Inclusion).md",
-    "Pentesting/OWASP Top 10/LFI - (Local File Inclusion).md",
     "Pentesting/OWASP Top 10/SQLI - (Inyecciones SQL).md",
-    "Pentesting/OWASP Top 10/SSRF - (Server-Side Request Forgery).md",
-    "Pentesting/OWASP Top 10/XSS  - ( Cross-Site Scripting ).md",
     "Pentesting/OWASP Top 10/XXE - (XML External Entity Injection ).md",
-    "Pentesting/OWASP Top 10/- WRAPPERS -.md",
     "Buffer Overflow.md",
     "Images/xml.png",
     "Pentesting/OWASP Top 10/XML External Entity Injection - (XXE).md",
     "Apuntes/Vim.md",
-    "Pentesting/OWASP Top 10/--- OWASP Top 10 ---.md",
-    "Tecnologías/PHP.md",
-    "Tecnologías/Git.md",
-    "Pentesting/Herramientas/Burpsuite.md",
-    "Pentesting/Gestores De Contenido/Wordpress.md",
-    "Pentesting/Gestores De Contenido/Drupal.md",
-    "Pentesting/Gestores De Contenido/Joomla.md",
-    "Pentesting/Gestores De Contenido/Magento.md",
-    "Pentesting/Basico/Fase de Reconocimiento.md",
-    "Pentesting/Basico/Protocolos.md",
-    "Pentesting/Basico/Atajos de consola.md",
-    "Tecnologías/SQL/SQL.md",
     "Images/Owasp.png",
     "Pentesting/O/Untitled",
-    "Pivoting.md",
-    "Pentesting/Vulnerabilidades/XXE (XML External Entity).md",
-    "Pentesting/Vulnerabilidades/SQLi (SQL Injections).md",
     "Images/ExtensionsBurp.png",
     "Images/ReglasParaRemplazarValoresBurp.png",
     "Images/InterceptarRespuestasSiempreBurp.png",
-    "Images/ProxyHistoriaJustScope.png",
-    "Images/ScopeConfigBurp.png",
     "Reconoc",
     "Pentesting/Basico",
     "Pentesting/Basico/Conceptos Expotacion",
-    "Images/reverseShell.png",
-    "Images/BindShell.png",
-    "Pasted image 20230417172347.png",
     "Pentesting/Basico/General",
     "Pentesting/Herramientas",
     "Apuntes",
