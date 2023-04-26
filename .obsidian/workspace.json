@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4c3b044bc299221",
+            "id": "da9b5ef7a5448997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/OWASP Top 10/Vulns/SSRF/SSRF - (Server-Side Request Forgery).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d27df5014511944d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Pentesting/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md"
+                "file": "Pentesting/OWASP Top 10/Vulns/SSRF/SSRF_1stScenario.md"
               }
             }
           },
@@ -23,7 +35,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Pentesting/OWASP Top 10/SSRF/SSRF_2ndScenario.md"
+                "file": "Pentesting/OWASP Top 10/Vulns/SSRF/SSRF_2ndScenario.md"
               }
             }
           }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
+                "file": "Pentesting/OWASP Top 10/Vulns/SSRF/SSRF - (Server-Side Request Forgery).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
+                "file": "Pentesting/OWASP Top 10/Vulns/SSRF/SSRF - (Server-Side Request Forgery).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md"
+                "file": "Pentesting/OWASP Top 10/Vulns/SSRF/SSRF - (Server-Side Request Forgery).md"
               }
             }
           }
@@ -155,22 +167,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fb90ef01464b840",
+  "active": "da9b5ef7a5448997",
   "lastOpenFiles": [
-    "Pentesting/OWASP Top 10/SSRF/SSRF_2ndScenario.md",
+    "Pentesting/OWASP Top 10/Vulns/SSRF/SSRF_1stScenario.md",
+    "Pentesting/OWASP Top 10/Vulns/SSRF/SSRF - (Server-Side Request Forgery).md",
+    "Pentesting/OWASP Top 10/--- OWASP Top 10 ---.md",
+    "Pentesting/OWASP Top 10/Vulns",
+    "Pentesting/OWASP Top 10/Vulns/SSRF/SSRF_2ndScenario.md",
+    "Apuntes/Vim.md",
+    "Apuntes/Obsidian.md",
+    "Pentesting/Basico/Conceptos Generales.md",
+    "Pentesting/OWASP Top 10/Vulns/LFI - (Local File Inclusion).md",
+    "Pivoting.md",
+    "Buffer Overflow.md",
     "Pentesting/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
     "Pentesting/Sistemas Operativos/Windows/Active Directory/Kerberos Authentication.md",
     "Pentesting/Sistemas Operativos/Windows/Active Directory/Active Directory.md",
     "Tecnologías/SQL/SQL.md",
-    "Pentesting/OWASP Top 10/SSRF/SSRF_1stScenario.md",
-    "Pentesting/OWASP Top 10/SSRF/SSRF - (Server-Side Request Forgery).md",
     "Tecnologías/Docker.md",
     "Tecnologías/Git.md",
     "Tecnologías/PHP.md",
-    "Pentesting/OWASP Top 10/XSS  - ( Cross-Site Scripting ).md",
-    "Pentesting/OWASP Top 10/CSRF - (Cross-Side Request Forgery).md",
-    "Pentesting/OWASP Top 10/--- OWASP Top 10 ---.md",
-    "Pentesting/OWASP Top 10/SSRF",
+    "Pentesting/OWASP Top 10/Vulns/XSS  - ( Cross-Site Scripting ).md",
+    "Pentesting/OWASP Top 10/Vulns/CSRF - (Cross-Side Request Forgery).md",
+    "Pentesting/OWASP Top 10/Vulns/SSRF",
     "Images/pcpng.png",
     "Pasted Image 20230426104433_686.png",
     "Untitled.md",
@@ -180,17 +199,10 @@
     "Images/changePasswordCSRF.png",
     "Pentesting/Herramientas/Burpsuite.md",
     "Pentesting/Herramientas/⚒ Herramientas ⚒.md",
-    "Pentesting/OWASP Top 10/- WRAPPERS -.md",
+    "Pentesting/Basico/WRAPPERS.md",
     "Images/ChangePassword.png",
-    "Pentesting/OWASP Top 10/LFI - (Local File Inclusion).md",
-    "Pentesting/OWASP Top 10/RCE - (Remote Command Execution).md",
-    "Pentesting/OWASP Top 10/RFI - (Remote File Inclusion).md",
-    "Pentesting/OWASP Top 10/SQLI - (Inyecciones SQL).md",
-    "Pentesting/OWASP Top 10/XXE - (XML External Entity Injection ).md",
-    "Buffer Overflow.md",
+    "Pentesting/OWASP Top 10/Vulns/RCE - (Remote Command Execution).md",
     "Images/xml.png",
-    "Pentesting/OWASP Top 10/XML External Entity Injection - (XXE).md",
-    "Apuntes/Vim.md",
     "Images/Owasp.png",
     "Pentesting/O/Untitled",
     "Images/ExtensionsBurp.png",
@@ -202,7 +214,6 @@
     "Pentesting/Basico/General",
     "Pentesting/Herramientas",
     "Apuntes",
-    "Pentesting/Gestores De Contenido",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas"
