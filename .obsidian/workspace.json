@@ -4,87 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "37bd10951cf75e39",
+        "id": "c56c4be0a888da59",
         "type": "tabs",
         "children": [
           {
-            "id": "da9b5ef7a5448997",
+            "id": "75e3bdc5e7f55c0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Redes/Basico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f34be48e646ba51a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF - (Server-Side Request Forgery).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba7889df0cfb2441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSTI - (Server-Side Template Injection).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8aa7d227faabd132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSTI - (Client-Side Template Injection).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d1d892b3ac9b6bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Sistemas/Basico/Protocolos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d27df5014511944d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF_1stScenario.md"
-              }
-            }
-          },
-          {
-            "id": "71dad1dbec3f094d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF_2ndScenario.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -137,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 610.5
+    "width": 409.5
   },
   "right": {
     "id": "b87cea5314681bda",
@@ -153,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Redes/Basico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Redes/Basico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pentesting/Redes/Basico.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -215,54 +139,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fb90ef01464b840",
+  "active": "75e3bdc5e7f55c0c",
   "lastOpenFiles": [
-    "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
-    "Pentesting/Sistemas/Basico/Conceptos Generales.md",
+    "Pentesting/Redes/Basico/Conceptos Basicos.md",
+    "Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
+    "Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/CSTI - (Client-Side Template Injection).md",
+    "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Ataques.md",
+    "Images/Atacante.png",
+    "Pivoting.md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF_2ndScenario.md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF - (Server-Side Request Forgery).md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF_1stScenario.md",
+    "Images/atacante.png",
+    "Pasted Image 20230427072317_548.png",
+    "Images/Television.png",
+    "Pasted Image 20230427070748_560.png",
+    "Pentesting/Sistemas/Basico/ap.png",
+    "Images/ap.png",
+    "Images/ap.png",
+    "Images/dumpeo_red.png",
+    "Images/ceular.png",
+    "Pentesting/Redes/Basico/Conexión.md",
+    "Pentesting/Redes/Explotación",
     "Pentesting/Sistemas/Basico/Protocolos.md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSTI - (Server-Side Template Injection).md",
+    "Pentesting/Sistemas/Basico/Conceptos Generales.md",
+    "Pentesting/Redes/Basico",
+    "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
     "Pentesting/Sistemas/Basico/WRAPPERS.md",
-    "Pentesting/Redes/Basico.md",
     "Pentesting/Sistemas/Reconocimiento",
     "Pentesting/Sistemas/Explotación",
     "Pentesting/Sistemas/Reconocimiento/Fase de Reconocimiento.md",
     "Sis.md",
     "Pentesting/Sistemas",
-    "CSTI - (Client-Side Template Injection).md",
     "Pentesting/Redes",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSTI - (Server-Side Template Injection).md",
-    "Images/SSTI_Example2.png",
-    "Images/SSTI_Example.png",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF - (Server-Side Request Forgery).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF_1stScenario.md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/OWASP Top 10.md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF_2ndScenario.md",
     "Apuntes/Vim.md",
     "Apuntes/Obsidian.md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/LFI - (Local File Inclusion).md",
-    "Pivoting.md",
     "Buffer Overflow.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
     "Pentesting/Sistemas Operativos/Windows/Active Directory/Kerberos Authentication.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Active Directory.md",
-    "Tecnologías/SQL/SQL.md",
-    "Tecnologías/Docker.md",
-    "Tecnologías/Git.md",
-    "Tecnologías/PHP.md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/XSS  - ( Cross-Site Scripting ).md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF",
-    "Images/pcpng.png",
-    "Pasted Image 20230426104433_686.png",
     "Excalidraw",
-    "Images/GET_CSRF.png",
-    "Images/changePasswordCSRF.png",
-    "Images/ChangePassword.png",
-    "Images/xml.png",
-    "Images/Owasp.png",
     "Pentesting/O/Untitled",
-    "Images/ExtensionsBurp.png",
-    "Reconoc",
-    "Pentesting/Sistemas/Basico",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas"
