@@ -11,8 +11,12 @@
             "id": "02f6abb4fac27ae9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Redes/Basico/Conceptos Basicos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pentesting/Redes/Basico/Conceptos Basicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pentesting/Redes/Basico/Conceptos Basicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pentesting/Redes/Basico/Conceptos Basicos.md"
+              }
             }
           }
         ]
@@ -141,8 +149,9 @@
   },
   "active": "02f6abb4fac27ae9",
   "lastOpenFiles": [
-    "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+    "Pentesting/Redes/Basico/Conexión.md",
     "Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
     "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
     "Images/ghex_edit_time.png",
     "Images/CTS_ws_time.png",
@@ -155,7 +164,6 @@
     "Images/CTS.png",
     "Images/RTS.png",
     "Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
-    "Pentesting/Redes/Basico/Conexión.md",
     "Tecnologías/PHP.md",
     "Tecnologías/Git.md",
     "Tecnologías/SQL/SQL.md",
