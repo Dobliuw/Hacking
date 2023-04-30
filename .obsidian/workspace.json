@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "77a97eea71c0cbe5",
+        "id": "e4d0e61bdbad04d7",
         "type": "tabs",
         "children": [
           {
-            "id": "02f6abb4fac27ae9",
+            "id": "8301cfe7b000c3d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Redes/Basico/Conceptos Basicos.md",
+                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/CSTI - (Client-Side Template Injection).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9556180e6c9682bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Padding Oracle (Ataque de oráculo de relleno).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16caa95bfb60e2ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSTI - (Server-Side Template Injection).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Redes/Basico/Conceptos Basicos.md",
+                "file": "Padding Oracle (Ataque de oráculo de relleno).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Redes/Basico/Conceptos Basicos.md",
+                "file": "Padding Oracle (Ataque de oráculo de relleno).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Redes/Basico/Conceptos Basicos.md"
+                "file": "Padding Oracle (Ataque de oráculo de relleno).md"
               }
             }
           }
@@ -147,8 +172,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02f6abb4fac27ae9",
+  "active": "9556180e6c9682bd",
   "lastOpenFiles": [
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/CSTI - (Client-Side Template Injection).md",
+    "Padding Oracle (Ataque de oráculo de relleno).md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSTI - (Server-Side Template Injection).md",
+    "Pentesting/Redes/Basico/Conceptos Basicos.md",
     "Pentesting/Redes/Basico/Conexión.md",
     "Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
@@ -175,11 +204,8 @@
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF_2ndScenario.md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF_1stScenario.md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF - (Server-Side Request Forgery).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSTI - (Server-Side Template Injection).md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/XSS  - ( Cross-Site Scripting ).md",
     "exploit.md",
-    "Pentesting/Redes/Basico/Conceptos Basicos.md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/CSTI - (Client-Side Template Injection).md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Ataques.md",
     "Pivoting.md",
