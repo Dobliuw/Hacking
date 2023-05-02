@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e4d0e61bdbad04d7",
+        "id": "aac54f03e47db5ad",
         "type": "tabs",
         "children": [
           {
-            "id": "8301cfe7b000c3d2",
+            "id": "86d4e9dbcbb36ad0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/CSTI - (Client-Side Template Injection).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9556180e6c9682bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Padding Oracle (Ataque de oráculo de relleno).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16caa95bfb60e2ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSTI - (Server-Side Template Injection).md",
+                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Padding Oracle (Ataque de oráculo de relleno).md",
+                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Padding Oracle (Ataque de oráculo de relleno).md",
+                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Padding Oracle (Ataque de oráculo de relleno).md"
+                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md"
               }
             }
           }
@@ -172,16 +147,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9556180e6c9682bd",
+  "active": "86d4e9dbcbb36ad0",
   "lastOpenFiles": [
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/CSTI - (Client-Side Template Injection).md",
-    "Padding Oracle (Ataque de oráculo de relleno).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSTI - (Server-Side Template Injection).md",
     "Pentesting/Redes/Basico/Conceptos Basicos.md",
+    "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSTI - (Server-Side Template Injection).md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/CSTI - (Client-Side Template Injection).md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle",
+    "Pentesting/Sistemas/Basico/Conceptos Generales.md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/CBC_padding.md",
+    "Images/padding_criptography.png",
+    "Images/cbc.png",
     "Pentesting/Redes/Basico/Conexión.md",
     "Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
-    "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
     "Images/ghex_edit_time.png",
     "Images/CTS_ws_time.png",
     "Pasted image 20230427163848.png",
@@ -190,8 +170,6 @@
     "Images/CTS_time_ws.png",
     "Pasted image 20230427162705.png",
     "Pasted image 20230427162553.png",
-    "Images/CTS.png",
-    "Images/RTS.png",
     "Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
     "Tecnologías/PHP.md",
     "Tecnologías/Git.md",
@@ -207,10 +185,7 @@
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/XSS  - ( Cross-Site Scripting ).md",
     "exploit.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Ataques.md",
-    "Pivoting.md",
     "Pentesting/Redes/Explotación",
-    "Pentesting/Sistemas/Basico/Protocolos.md",
     "Pentesting/Redes/Basico",
     "Pentesting/Sistemas/Reconocimiento",
     "Pentesting/Sistemas/Explotación",
@@ -219,7 +194,6 @@
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF",
     "Excalidraw",
-    "Pentesting/O/Untitled",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas"
