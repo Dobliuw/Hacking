@@ -8,18 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86d4e9dbcbb36ad0",
+            "id": "e02cb54d9241d1f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
+                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/NoSQLI - (NoSQL Injections).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95c49780536a1b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Redes/Explotación/Hacking WiFi.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa4f9e79de284c54",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md"
+              }
+            }
+          },
+          {
+            "id": "46917ac854d1f697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Sistemas/Basico/Protocolos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tramas",
+                "query": "tag:#LDAP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
+                "file": "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
+                "file": "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md"
+                "file": "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md"
               }
             }
           }
@@ -147,20 +182,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86d4e9dbcbb36ad0",
+  "active": "aa4f9e79de284c54",
   "lastOpenFiles": [
+    "Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Inyecciones LDAP.md",
+    "Pentesting/Sistemas/Basico/Protocolos.md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/NoSQLI - (NoSQL Injections).md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Type Juggling - (Cambio de tipo).md",
     "Pentesting/Redes/Basico/Conceptos Basicos.md",
     "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSTI - (Server-Side Template Injection).md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/CSTI - (Client-Side Template Injection).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle",
     "Pentesting/Sistemas/Basico/Conceptos Generales.md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/CBC_padding.md",
     "Images/padding_criptography.png",
     "Images/cbc.png",
     "Pentesting/Redes/Basico/Conexión.md",
-    "Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
     "Images/ghex_edit_time.png",
     "Images/CTS_ws_time.png",
@@ -182,9 +221,6 @@
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF_2ndScenario.md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF_1stScenario.md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF - (Server-Side Request Forgery).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/XSS  - ( Cross-Site Scripting ).md",
-    "exploit.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
     "Pentesting/Redes/Explotación",
     "Pentesting/Redes/Basico",
     "Pentesting/Sistemas/Reconocimiento",
