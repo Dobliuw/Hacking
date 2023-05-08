@@ -31,3 +31,4 @@ print(f"Esto es para injectar {comandos}")
 
 ![[Pasted image 20230215165507.png|200x200]]
 
+### about:config ---> browser.fixup.domainsuffixwhitelist.{termination_url}

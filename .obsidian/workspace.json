@@ -4,57 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aac54f03e47db5ad",
+        "id": "b344455f47589aac",
         "type": "tabs",
         "children": [
           {
-            "id": "e02cb54d9241d1f6",
+            "id": "0a20304cf6b04a4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/NoSQLI - (NoSQL Injections).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95c49780536a1b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Redes/Explotación/Hacking WiFi.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa4f9e79de284c54",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md"
-              }
-            }
-          },
-          {
-            "id": "46917ac854d1f697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Sistemas/Basico/Protocolos.md",
+                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Deserialization Attack - (Ataques de Deserialización).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#LDAP",
+                "query": "net use x:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,12 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "00727ab08bb3aaea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 393.5
   },
   "right": {
     "id": "b87cea5314681bda",
@@ -120,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Deserialization Attack - (Ataques de Deserialización).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Deserialization Attack - (Ataques de Deserialización).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md"
+                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Deserialization Attack - (Ataques de Deserialización).md"
               }
             }
           }
@@ -182,15 +155,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa4f9e79de284c54",
+  "active": "0a20304cf6b04a4b",
   "lastOpenFiles": [
-    "Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "Pentesting/Sistemas/Reconocimiento/Fase de Reconocimiento.md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/XXE - (XML External Entity Injection ).md",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Deserialization Attack - (Ataques de Deserialización).md",
+    "Apuntes/Obsidian.md",
+    "Pentesting/Sistemas/Herramientas/Debugging con pdb en Python.md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Inyecciones LDAP.md",
     "Pentesting/Sistemas/Basico/Protocolos.md",
+    "Pentesting/Redes/Basico/Conceptos Basicos.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Commands.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Impacket.md",
+    "Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
+    "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/NoSQLI - (NoSQL Injections).md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Type Juggling - (Cambio de tipo).md",
-    "Pentesting/Redes/Basico/Conceptos Basicos.md",
     "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSTI - (Server-Side Template Injection).md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/CSTI - (Client-Side Template Injection).md",
@@ -200,7 +183,6 @@
     "Images/padding_criptography.png",
     "Images/cbc.png",
     "Pentesting/Redes/Basico/Conexión.md",
-    "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
     "Images/ghex_edit_time.png",
     "Images/CTS_ws_time.png",
     "Pasted image 20230427163848.png",
@@ -209,18 +191,9 @@
     "Images/CTS_time_ws.png",
     "Pasted image 20230427162705.png",
     "Pasted image 20230427162553.png",
-    "Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
     "Tecnologías/PHP.md",
     "Tecnologías/Git.md",
     "Tecnologías/SQL/SQL.md",
-    "Tecnologías/SQL/MSSQL.md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SQLI - (Inyecciones SQL).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/RFI - (Remote File Inclusion).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/XXE - (XML External Entity Injection ).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/CSRF - (Cross-Side Request Forgery).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF_2ndScenario.md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF_1stScenario.md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF/SSRF - (Server-Side Request Forgery).md",
     "Pentesting/Redes/Explotación",
     "Pentesting/Redes/Basico",
     "Pentesting/Sistemas/Reconocimiento",
