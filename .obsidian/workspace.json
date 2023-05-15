@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b344455f47589aac",
+        "id": "18b58f182e63c369",
         "type": "tabs",
         "children": [
           {
-            "id": "a4cac779b74b64b7",
+            "id": "cb170e0df6c6d16c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Abuso de API's.md",
+                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Abuso de subidas de archivos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0825099d36524fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prototype Pollution.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "go build",
+                "query": "pushd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 394.5
   },
   "right": {
     "id": "b87cea5314681bda",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Abuso de API's.md",
+                "file": "Prototype Pollution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Abuso de API's.md",
+                "file": "Prototype Pollution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Abuso de API's.md"
+                "file": "Prototype Pollution.md"
               }
             }
           }
@@ -155,15 +168,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fb90ef01464b840",
+  "active": "0825099d36524fc4",
   "lastOpenFiles": [
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Abuso de subidas de archivos.md",
+    "Prototype Pollution.md",
+    "Images/eliminar_validación_fileupload.png",
+    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Abuso de API's.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
     "Images/allow_methods.png",
     "Pentesting/Sistemas/Herramientas/Postman.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
     "Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
     "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Abuso de API's.md",
     "Pentesting/OSINT.md",
     "Images/authorization_token_postman.png",
     "Images/add_variables_postman.png",
@@ -186,14 +202,11 @@
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Type Juggling - (Cambio de tipo).md",
     "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSTI - (Server-Side Template Injection).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/CSTI - (Client-Side Template Injection).md",
     "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle",
     "Images/padding_criptography.png",
     "Images/cbc.png",
     "Images/ghex_edit_time.png",
     "Images/CTS_ws_time.png",
-    "Pasted image 20230427163848.png",
-    "Images/ghex_cts.png",
     "Pentesting/Redes/Explotación",
     "Pentesting/Redes/Basico",
     "Pentesting/Sistemas/Reconocimiento",
