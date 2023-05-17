@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "18b58f182e63c369",
+        "id": "074e044b7c1a47f5",
         "type": "tabs",
         "children": [
           {
-            "id": "cb170e0df6c6d16c",
+            "id": "1efe05fe644597b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Abuso de subidas de archivos.md",
+                "file": "Enumeración y explotación de WebDAV.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0825099d36524fc4",
+            "id": "60b5480bc6f06c7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prototype Pollution.md",
+                "file": "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 392.5
   },
   "right": {
     "id": "b87cea5314681bda",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prototype Pollution.md",
+                "file": "Enumeración y explotación de WebDAV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prototype Pollution.md",
+                "file": "Enumeración y explotación de WebDAV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prototype Pollution.md"
+                "file": "Enumeración y explotación de WebDAV.md"
               }
             }
           }
@@ -168,13 +167,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0825099d36524fc4",
+  "active": "1efe05fe644597b9",
   "lastOpenFiles": [
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Abuso de subidas de archivos.md",
-    "Prototype Pollution.md",
-    "Images/eliminar_validación_fileupload.png",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Abuso de API's.md",
+    "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
+    "Enumeración y explotación de WebDAV.md",
+    "Open Redirect.md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataques de asignación masiva (Mass-Assignment Attack) - Parameter Binding.md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Abuso de API's.md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataques de transferencia de zona - ( AXFR - Full Zone Transfer ).md",
     "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Abuso de subidas de archivos.md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md",
+    "Images/Owasp.png",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Prototype Pollution.md",
+    "Images/eliminar_validación_fileupload.png",
     "Images/allow_methods.png",
     "Pentesting/Sistemas/Herramientas/Postman.md",
     "Pentesting/Redes/Explotación/Hacking WiFi.md",
@@ -185,36 +191,29 @@
     "Images/add_variables_postman.png",
     "Images/add_enpoint_postman.png",
     "Images/create_collection_postman.png",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Deserialization Attack - (Ataques de Deserialización).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/LaTeX Injections - ( Inyecciones LaTex ).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/CSRF - (Cross-Side Request Forgery).md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Deserialization Attack - (Ataques de Deserialización).md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/CSRF - (Cross-Side Request Forgery).md",
     "Pentesting/Sistemas/Reconocimiento/Fase de Reconocimiento.md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/XXE - (XML External Entity Injection ).md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/XXE - (XML External Entity Injection ).md",
     "Apuntes/Obsidian.md",
     "Pentesting/Sistemas/Herramientas/Debugging con pdb en Python.md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Inyecciones LDAP.md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Inyecciones LDAP.md",
     "Pentesting/Sistemas/Basico/Protocolos.md",
     "Pentesting/Redes/Basico/Conceptos Basicos.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Commands.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Impacket.md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/NoSQLI - (NoSQL Injections).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Type Juggling - (Cambio de tipo).md",
-    "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSTI - (Server-Side Template Injection).md",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/Padding Oracle",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Padding Oracle",
     "Images/padding_criptography.png",
     "Images/cbc.png",
     "Images/ghex_edit_time.png",
-    "Images/CTS_ws_time.png",
     "Pentesting/Redes/Explotación",
     "Pentesting/Redes/Basico",
     "Pentesting/Sistemas/Reconocimiento",
     "Pentesting/Sistemas/Explotación",
     "Pentesting/Sistemas",
     "Pentesting/Redes",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns",
-    "Pentesting/Sistemas/Explotación/OWASP Top 10/Vulns/SSRF",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/SSRF",
     "Excalidraw",
     "Untitled 1.canvas",
     "Untitled.canvas",
