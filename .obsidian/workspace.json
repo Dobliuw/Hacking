@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "074e044b7c1a47f5",
+        "id": "c545c7498fc21768",
         "type": "tabs",
         "children": [
           {
-            "id": "1efe05fe644597b9",
+            "id": "262ecf14951235c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeración y explotación de WebDAV.md",
+                "file": "Pentesting/Redes/Explotación/Hacking WiFi.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "60b5480bc6f06c7e",
+            "id": "4666dfcb92bbea23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
+                "file": "ShellShock.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeración y explotación de WebDAV.md",
+                "file": "ShellShock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enumeración y explotación de WebDAV.md",
+                "file": "ShellShock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enumeración y explotación de WebDAV.md"
+                "file": "ShellShock.md"
               }
             }
           }
@@ -167,26 +168,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1efe05fe644597b9",
+  "active": "4666dfcb92bbea23",
   "lastOpenFiles": [
+    "Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "ShellShock.md",
+    "Pentesting/Sistemas/Reconocimiento/Enumeración y explotación de SQUID Proxies.md",
+    "Pentesting/Sistemas/Reconocimiento/Enumeración y explotación de WebDAV.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
+    "Pentesting/OSINT.md",
+    "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+    "Images/proxy.png.png",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Abuso de subidas de archivos.md",
     "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
-    "Enumeración y explotación de WebDAV.md",
-    "Open Redirect.md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Open Redirect.md",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataques de asignación masiva (Mass-Assignment Attack) - Parameter Binding.md",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/Abuso de API's.md",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataques de transferencia de zona - ( AXFR - Full Zone Transfer ).md",
     "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Abuso de subidas de archivos.md",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md",
     "Images/Owasp.png",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/Prototype Pollution.md",
     "Images/eliminar_validación_fileupload.png",
     "Images/allow_methods.png",
     "Pentesting/Sistemas/Herramientas/Postman.md",
-    "Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
-    "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
-    "Pentesting/OSINT.md",
     "Images/authorization_token_postman.png",
     "Images/add_variables_postman.png",
     "Images/add_enpoint_postman.png",
@@ -199,13 +204,9 @@
     "Pentesting/Sistemas/Herramientas/Debugging con pdb en Python.md",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/Inyecciones LDAP.md",
     "Pentesting/Sistemas/Basico/Protocolos.md",
-    "Pentesting/Redes/Basico/Conceptos Basicos.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Commands.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Impacket.md",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/Padding Oracle",
     "Images/padding_criptography.png",
     "Images/cbc.png",
-    "Images/ghex_edit_time.png",
     "Pentesting/Redes/Explotación",
     "Pentesting/Redes/Basico",
     "Pentesting/Sistemas/Reconocimiento",
