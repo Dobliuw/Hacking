@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "c545c7498fc21768",
+        "id": "a961e95e442ad64c",
         "type": "tabs",
         "children": [
           {
-            "id": "262ecf14951235c5",
+            "id": "42548ce681167c1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Redes/Explotación/Hacking WiFi.md",
+                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/CORS - ( Intercambio de recursos de origin cruzado ).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4666dfcb92bbea23",
+            "id": "88222df7ad658c79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ShellShock.md",
+                "file": "Ataque de Truncado SQL - ( SQL Truncation ).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ShellShock.md",
+                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/CORS - ( Intercambio de recursos de origin cruzado ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ShellShock.md",
+                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/CORS - ( Intercambio de recursos de origin cruzado ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ShellShock.md"
+                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/CORS - ( Intercambio de recursos de origin cruzado ).md"
               }
             }
           }
@@ -168,10 +167,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4666dfcb92bbea23",
+  "active": "42548ce681167c1e",
   "lastOpenFiles": [
+    "Ataque de Truncado SQL - ( SQL Truncation ).md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/CORS - ( Intercambio de recursos de origin cruzado ).md",
+    "Pentesting/Sistemas/Explotación/Conceptos Expotacion/Payloads.md",
     "Pentesting/Redes/Explotación/Hacking WiFi.md",
-    "ShellShock.md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/ShellShock.md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Inyecciones XPath.md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Insecure Direct Object Reference - ( IDORs).md",
     "Pentesting/Sistemas/Reconocimiento/Enumeración y explotación de SQUID Proxies.md",
     "Pentesting/Sistemas/Reconocimiento/Enumeración y explotación de WebDAV.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
@@ -199,11 +203,6 @@
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/Deserialization Attack - (Ataques de Deserialización).md",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/CSRF - (Cross-Side Request Forgery).md",
     "Pentesting/Sistemas/Reconocimiento/Fase de Reconocimiento.md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/XXE - (XML External Entity Injection ).md",
-    "Apuntes/Obsidian.md",
-    "Pentesting/Sistemas/Herramientas/Debugging con pdb en Python.md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Inyecciones LDAP.md",
-    "Pentesting/Sistemas/Basico/Protocolos.md",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/Padding Oracle",
     "Images/padding_criptography.png",
     "Images/cbc.png",
