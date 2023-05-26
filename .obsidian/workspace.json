@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42548ce681167c1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/CORS - ( Intercambio de recursos de origin cruzado ).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "88222df7ad658c79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ataque de Truncado SQL - ( SQL Truncation ).md",
+                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataque de Truncado SQL - ( SQL Truncation ).md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 387.5
   },
   "right": {
     "id": "b87cea5314681bda",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/CORS - ( Intercambio de recursos de origin cruzado ).md",
+                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataque de Truncado SQL - ( SQL Truncation ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/CORS - ( Intercambio de recursos de origin cruzado ).md",
+                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataque de Truncado SQL - ( SQL Truncation ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/CORS - ( Intercambio de recursos de origin cruzado ).md"
+                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataque de Truncado SQL - ( SQL Truncation ).md"
               }
             }
           }
@@ -167,9 +155,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42548ce681167c1e",
+  "active": "88222df7ad658c79",
   "lastOpenFiles": [
-    "Ataque de Truncado SQL - ( SQL Truncation ).md",
+    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
+    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataque de Truncado SQL - ( SQL Truncation ).md",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/CORS - ( Intercambio de recursos de origin cruzado ).md",
     "Pentesting/Sistemas/Explotación/Conceptos Expotacion/Payloads.md",
     "Pentesting/Redes/Explotación/Hacking WiFi.md",
@@ -188,7 +177,6 @@
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataques de asignación masiva (Mass-Assignment Attack) - Parameter Binding.md",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/Abuso de API's.md",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataques de transferencia de zona - ( AXFR - Full Zone Transfer ).md",
-    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md",
     "Images/Owasp.png",
     "Pentesting/Sistemas/Explotación/Vulnerabilidades/Prototype Pollution.md",
