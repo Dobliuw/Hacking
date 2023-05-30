@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a961e95e442ad64c",
+        "id": "3af3467368112679",
         "type": "tabs",
         "children": [
           {
-            "id": "88222df7ad658c79",
+            "id": "6b0555aabd0a22be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataque de Truncado SQL - ( SQL Truncation ).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pushd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 383.5
   },
   "right": {
     "id": "b87cea5314681bda",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataque de Truncado SQL - ( SQL Truncation ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataque de Truncado SQL - ( SQL Truncation ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataque de Truncado SQL - ( SQL Truncation ).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,54 +147,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "88222df7ad658c79",
+  "active": "6b0555aabd0a22be",
   "lastOpenFiles": [
-    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataque de Truncado SQL - ( SQL Truncation ).md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/CORS - ( Intercambio de recursos de origin cruzado ).md",
-    "Pentesting/Sistemas/Explotación/Conceptos Expotacion/Payloads.md",
-    "Pentesting/Redes/Explotación/Hacking WiFi.md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/ShellShock.md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Inyecciones XPath.md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Insecure Direct Object Reference - ( IDORs).md",
-    "Pentesting/Sistemas/Reconocimiento/Enumeración y explotación de SQUID Proxies.md",
-    "Pentesting/Sistemas/Reconocimiento/Enumeración y explotación de WebDAV.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/KERBEROS_AUTHETICATION_FLOW.md",
     "Pentesting/OSINT.md",
-    "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
-    "Images/proxy.png.png",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Abuso de subidas de archivos.md",
+    "Pentesting/Sistemas/Fases Auditoria/Redacción de Informe Profesional",
+    "Pentesting/Sistemas/Avanzado",
+    "Pentesting/Sistemas/Basico/WRAPPERS.md",
+    "Untitled.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios",
+    "Pentesting/Sistemas/Fases Auditoria",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de subidas de archivos.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/CSRF - (Cross-Side Request Forgery).md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/CSTI - (Client-Side Template Injection).md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/XXE - (XML External Entity Injection ).md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de API's.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Type Juggling - (Cambio de tipo).md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Payloads.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SSRF/SSRF - (Server-Side Request Forgery).md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/XSS  - ( Cross-Site Scripting ).md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Prototype Pollution.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Magento.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/GraphQL Introspection, Mutations e IDORs.md",
+    "Images/graphql.png",
+    "Images/LiveMode_graphql-kit.png",
+    "Apuntes/Obsidian.md",
+    "Tecnologías/Docker.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Insecure Direct Object Reference - ( IDORs).md",
     "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Open Redirect.md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataques de asignación masiva (Mass-Assignment Attack) - Parameter Binding.md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Abuso de API's.md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Ataques de transferencia de zona - ( AXFR - Full Zone Transfer ).md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md",
-    "Images/Owasp.png",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Prototype Pollution.md",
-    "Images/eliminar_validación_fileupload.png",
-    "Images/allow_methods.png",
-    "Pentesting/Sistemas/Herramientas/Postman.md",
-    "Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
-    "Images/authorization_token_postman.png",
-    "Images/add_variables_postman.png",
-    "Images/add_enpoint_postman.png",
-    "Images/create_collection_postman.png",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Deserialization Attack - (Ataques de Deserialización).md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/CSRF - (Cross-Side Request Forgery).md",
-    "Pentesting/Sistemas/Reconocimiento/Fase de Reconocimiento.md",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/Padding Oracle",
-    "Images/padding_criptography.png",
-    "Images/cbc.png",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SSTI - (Server-Side Template Injection).md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Ataque de Truncado SQL - ( SQL Truncation ).md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/CSSI - CSS Injections.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/( DES-Pickle ) - Ataque de Deserialización Pickle - Python.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Ataques de asignación masiva (Mass-Assignment Attack) - Parameter Binding.md",
+    "Images/CSSI_XSS.png",
+    "Images/CSSI_CSS_props.png",
+    "Images/CSSI_codigo_fuente_2.png",
+    "Images/CSSI_codigo_fuente.png",
+    "Images/CSSI_green.png",
+    "Images/CSSI_blue.png",
+    "Images/JWT.io.png",
+    "Images/JWT_Strcture.png",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Padding Oracle",
     "Pentesting/Redes/Explotación",
     "Pentesting/Redes/Basico",
-    "Pentesting/Sistemas/Reconocimiento",
-    "Pentesting/Sistemas/Explotación",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación",
     "Pentesting/Sistemas",
-    "Pentesting/Redes",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades",
-    "Pentesting/Sistemas/Explotación/Vulnerabilidades/SSRF",
-    "Excalidraw",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas"

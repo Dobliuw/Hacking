@@ -23,7 +23,13 @@ docker rename {prev_name} {new_name}
 # Renombrar un contenedor.
 docker rm {container_ID/container_name}
 # Eliminar un contenedor
-docker rm -f $(docker ps -a)
+docker rm -f $(docker ps -a)ación 
+
+​￼￼￼Para explotar una vulnerabilidad IDOR, un atacante puede intentar modificar manualmente el identificador de un objeto en la URL o utilizar una herramienta automatizada para probar diferentes valores. Si el atacante encuentra un identificador que le permite acceder a un recurso que no debería estar disponible, entonces la vulnerabilidad IDOR se ha explotado con éxito. 
+
+​￼￼￼Por ejemplo, supongamos que un usuario ￼￼'A'￼￼ tiene un pedido con el identificador numérico ￼￼123￼￼ y el usuario ￼￼'B'￼￼ tiene un pedido con el identificador numérico ￼￼124￼￼. Si el atacante intenta acceder a través de la URL ￼￼"http://example.com/orders/124"￼￼, la aplicación web podría permitir el acceso a este pedido sin validar si el usuario tiene permiso para acceder a él. De esta manera, el atacante podría acceder al pedido del usuario ￼￼'B'￼￼ sin la debida autorización. 
+
+### De manera que con el simple hecho de pr
 # Eliminar de manera forzadas todos los contenedores corriendo o no del sistema.
 docker exec 
 # Ejecutar comando o proceso en un container.
