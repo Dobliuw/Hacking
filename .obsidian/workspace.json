@@ -4,18 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "3af3467368112679",
+        "id": "6b380eb951195f2f",
         "type": "tabs",
         "children": [
           {
-            "id": "6b0555aabd0a22be",
+            "id": "622edd4de52430f3",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "7ef482cbddad56dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Shells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa17590236c1c3fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Técnicas de escalada de privilegios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 380.5
   },
   "right": {
     "id": "b87cea5314681bda",
@@ -89,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Técnicas de escalada de privilegios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Técnicas de escalada de privilegios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Técnicas de escalada de privilegios.md"
+              }
             }
           }
         ]
@@ -147,13 +176,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b0555aabd0a22be",
+  "active": "9fb90ef01464b840",
   "lastOpenFiles": [
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Shells.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Técnicas de escalada de privilegios.md",
+    "Pentesting/Sistemas/Basico/Tratamiento de la TTY.md",
     "Pentesting/OSINT.md",
     "Pentesting/Sistemas/Fases Auditoria/Redacción de Informe Profesional",
     "Pentesting/Sistemas/Avanzado",
     "Pentesting/Sistemas/Basico/WRAPPERS.md",
-    "Untitled.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios",
     "Pentesting/Sistemas/Fases Auditoria",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de subidas de archivos.md",
@@ -178,9 +210,6 @@
     "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SSTI - (Server-Side Template Injection).md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Ataque de Truncado SQL - ( SQL Truncation ).md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/CSSI - CSS Injections.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/( DES-Pickle ) - Ataque de Deserialización Pickle - Python.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Ataques de asignación masiva (Mass-Assignment Attack) - Parameter Binding.md",
     "Images/CSSI_XSS.png",
     "Images/CSSI_CSS_props.png",
     "Images/CSSI_codigo_fuente_2.png",
