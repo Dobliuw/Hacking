@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c3a329bdc841f2ce",
+        "id": "33a09c77c02b14d0",
         "type": "tabs",
         "children": [
           {
-            "id": "9e158edfd93c12cf",
+            "id": "b189e3f7cd8c3de4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Técnicas de escalada de privilegios.md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de binarios específicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d495cb144d88853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secuestro de la biblioteca de objetos compartidos enlazados dinámica mente.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dockerfile",
+                "query": "lsb_release",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Técnicas de escalada de privilegios.md",
+                "file": "Secuestro de la biblioteca de objetos compartidos enlazados dinámica mente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Técnicas de escalada de privilegios.md",
+                "file": "Secuestro de la biblioteca de objetos compartidos enlazados dinámica mente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Técnicas de escalada de privilegios.md"
+                "file": "Secuestro de la biblioteca de objetos compartidos enlazados dinámica mente.md"
               }
             }
           }
@@ -155,15 +168,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e158edfd93c12cf",
+  "active": "1d495cb144d88853",
   "lastOpenFiles": [
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de binarios específicos.md",
+    "Secuestro de la biblioteca de objetos compartidos enlazados dinámica mente.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de servicios internos del sistema.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de grupos de usuario especiales.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Linux/Enumeración.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Python Library Hijacking.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/PATH Hijacking.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Detección y explotación de tareas Cron.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abusando de privilegios SUID.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios a nivel de Sudoers.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de permisos incorrectamente implementados.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Detección y explotación de Capabilities.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Explotación del Kernel.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/ShellShock.md",
     "Tecnologías/Docker.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Shells.md",
     "Pentesting/Sistemas/Basico/Conceptos Generales.md",
     "Pentesting/Sistemas/Basico/Tratamiento de la TTY.md",
-    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Técnicas de escalada de privilegios.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
     "Pentesting/OSINT.md",
     "Pentesting/Sistemas/Fases Auditoria/Redacción de Informe Profesional",
     "Pentesting/Sistemas/Avanzado",
@@ -175,20 +200,8 @@
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/CSTI - (Client-Side Template Injection).md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/XXE - (XML External Entity Injection ).md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de API's.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Type Juggling - (Cambio de tipo).md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Payloads.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SSRF/SSRF - (Server-Side Request Forgery).md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/XSS  - ( Cross-Site Scripting ).md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Prototype Pollution.md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Magento.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/GraphQL Introspection, Mutations e IDORs.md",
     "Images/graphql.png",
     "Images/LiveMode_graphql-kit.png",
-    "Apuntes/Obsidian.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Insecure Direct Object Reference - ( IDORs).md",
-    "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
     "Images/CSSI_XSS.png",
     "Images/CSSI_CSS_props.png",
     "Images/CSSI_codigo_fuente_2.png",
