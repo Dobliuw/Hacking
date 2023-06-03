@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "33a09c77c02b14d0",
+        "id": "2cfbf1d7ae3a66e6",
         "type": "tabs",
         "children": [
           {
-            "id": "b189e3f7cd8c3de4",
+            "id": "ad581bba2cec0786",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de binarios específicos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d495cb144d88853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secuestro de la biblioteca de objetos compartidos enlazados dinámica mente.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secuestro de la biblioteca de objetos compartidos enlazados dinámica mente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secuestro de la biblioteca de objetos compartidos enlazados dinámica mente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Secuestro de la biblioteca de objetos compartidos enlazados dinámica mente.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,10 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d495cb144d88853",
+  "active": "9fb90ef01464b840",
   "lastOpenFiles": [
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de binarios específicos.md",
-    "Secuestro de la biblioteca de objetos compartidos enlazados dinámica mente.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Secuestro de la biblioteca de objetos compartidos enlazados dinámicamente.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de servicios internos del sistema.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de grupos de usuario especiales.md",
     "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
