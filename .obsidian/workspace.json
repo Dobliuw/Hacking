@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2cfbf1d7ae3a66e6",
+        "id": "efbadc0eef17527a",
         "type": "tabs",
         "children": [
           {
-            "id": "ad581bba2cec0786",
+            "id": "ba098522749fa8fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lsb_release",
+                "query": "lxd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md"
+              }
             }
           }
         ]
@@ -147,25 +155,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fb90ef01464b840",
+  "active": "ba098522749fa8fa",
   "lastOpenFiles": [
-    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de binarios específicos.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Shells.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios a nivel de Sudoers.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Secuestro de la biblioteca de objetos compartidos enlazados dinámicamente.md",
-    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de servicios internos del sistema.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de grupos de usuario especiales.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de binarios específicos.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de servicios internos del sistema.md",
     "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
     "Pentesting/Sistemas/Sistemas Operativos/Linux/Enumeración.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Python Library Hijacking.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/PATH Hijacking.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Detección y explotación de tareas Cron.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abusando de privilegios SUID.md",
-    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios a nivel de Sudoers.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de permisos incorrectamente implementados.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Detección y explotación de Capabilities.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Explotación del Kernel.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/ShellShock.md",
     "Tecnologías/Docker.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Shells.md",
     "Pentesting/Sistemas/Basico/Conceptos Generales.md",
     "Pentesting/Sistemas/Basico/Tratamiento de la TTY.md",
     "Pentesting/OSINT.md",
@@ -178,7 +187,6 @@
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/CSRF - (Cross-Side Request Forgery).md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/CSTI - (Client-Side Template Injection).md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/XXE - (XML External Entity Injection ).md",
     "Images/graphql.png",
     "Images/LiveMode_graphql-kit.png",
     "Images/CSSI_XSS.png",
