@@ -11,8 +11,12 @@
             "id": "ed28086247c2dc18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md"
+              }
             }
           }
         ]
@@ -149,6 +157,7 @@
   },
   "active": "ed28086247c2dc18",
   "lastOpenFiles": [
+    "Tecnologías/PHP.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/ShellShock.md",
     "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/XSS  - ( Cross-Site Scripting ).md",
@@ -169,7 +178,6 @@
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Enumeración.md",
     "Pentesting/Sistemas/Basico/Tratamiento de la TTY.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de subidas de archivos.md",
-    "Tecnologías/PHP.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Type Juggling - (Cambio de tipo).md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Inyecciones LDAP.md",
