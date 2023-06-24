@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "154fe08d75ee5f0d",
+        "id": "fa3b2c825e37db9e",
         "type": "tabs",
         "children": [
           {
-            "id": "ed28086247c2dc18",
+            "id": "c64befaabb18b810",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tcprepla",
+                "query": "getcap",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed28086247c2dc18",
+  "active": "c64befaabb18b810",
   "lastOpenFiles": [
+    "SQLMap.md",
+    "Pentesting/Sistemas/Herramientas/Metasploit.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/CORS - ( Intercambio de recursos de origin cruzado ).md",
     "Tecnologías/PHP.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/ShellShock.md",
     "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
@@ -170,7 +167,6 @@
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
     "Pentesting/Redes/Basico/Conceptos Basicos.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Reconocimiento a nivel de Sistema.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md",
     "Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
     "Pentesting/Redes/Basico/Conexión.md",
@@ -180,12 +176,8 @@
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de subidas de archivos.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Type Juggling - (Cambio de tipo).md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Inyecciones LDAP.md",
-    "Pentesting/Sistemas/Avanzado/Buffer Overflow/Shellcodes.md",
     "Images/respawn_bash_ensamblador.png",
     "Images/hola_mundo_ensamblador.png",
-    "Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Basic x86.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/NoSQLI - (NoSQL Injections).md",
     "Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios",
     "Pentesting/Sistemas/Avanzado/Buffer Overflow",
     "Pentesting/Sistemas/Fases Auditoria/Redacción de Informe Profesional",
