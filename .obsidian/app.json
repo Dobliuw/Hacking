@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "spellcheckLanguages": [
     "es-AR"
-  ]
+  ],
+  "spellcheck": false
 }

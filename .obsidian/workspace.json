@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fa3b2c825e37db9e",
+        "id": "fd58cbc80461268e",
         "type": "tabs",
         "children": [
           {
-            "id": "c64befaabb18b810",
+            "id": "5afac64923c88eab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Entorno/Personalización de Entorno de Hacking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6916766a1d4683e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Entorno/Personalización de Entorno de Hacking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "getcap",
-                "matchingCase": true,
+                "query": "neo4",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -89,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pentesting/Entorno/Personalización de Entorno de Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pentesting/Entorno/Personalización de Entorno de Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pentesting/Entorno/Personalización de Entorno de Hacking.md"
+              }
             }
           }
         ]
@@ -147,9 +168,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c64befaabb18b810",
+  "active": "9fb90ef01464b840",
   "lastOpenFiles": [
-    "SQLMap.md",
+    "Pentesting/Entorno",
+    "current.ini.md",
+    "Pentesting/Entorno/Personalización de Entorno de Hacking.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Enumeración.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Ataques.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Active Directory.md",
+    "Pivoting.md",
+    "Apuntes/Vim.md",
+    "Pentesting/Sistemas/Herramientas/SQLMap.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
+    "Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md",
+    "Pentesting/Sistemas/Avanzado/pivoting",
     "Pentesting/Sistemas/Herramientas/Metasploit.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
@@ -166,16 +198,6 @@
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/CSRF - (Cross-Side Request Forgery).md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
     "Pentesting/Redes/Basico/Conceptos Basicos.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Reconocimiento a nivel de Sistema.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md",
-    "Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
-    "Pentesting/Redes/Basico/Conexión.md",
-    "Pentesting/Sistemas/Basico/Conceptos Generales.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Enumeración.md",
-    "Pentesting/Sistemas/Basico/Tratamiento de la TTY.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de subidas de archivos.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Type Juggling - (Cambio de tipo).md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md",
     "Images/respawn_bash_ensamblador.png",
     "Images/hola_mundo_ensamblador.png",
     "Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios",
@@ -194,7 +216,6 @@
     "Images/CSSI_blue.png",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Padding Oracle",
     "Pentesting/Redes/Explotación",
-    "Pentesting/Redes/Basico",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas"

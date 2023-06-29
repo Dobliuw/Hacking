@@ -21,7 +21,7 @@
 ### Permite poner en modo **visual** el editor para **trabajar** sobre una selección **texto**.
 
 - ## Teclas [ Esc + : ]
-### Permite ingresar al modo para insertar **comandos**. 
+### Permite ingresar al mvodo para insertar **comandos**. 
 
 - ## Teclas [ Esc + / ] 
 ### Permite al usuario ingresar una string para **buscar coincidencias**. 
@@ -33,7 +33,7 @@
 ### Lleva el **cursor** del usuario hasta el **principio** de la línea en la que se encuentra. 
 
 - ## Tecla [ $ ] 
-### Lleva el **cursor** del usuario hasta el **final** de la línea en la que se encuentra.}
+### Lleva el **cursor** del usvuario hasta el **final** de la línea en la que se encuentra.}
 
 - ## Tecla [ w ]
 ### Lleva el **cursor** del usuario hasta la siguiente **palabra**. 
