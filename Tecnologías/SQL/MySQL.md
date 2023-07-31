@@ -47,6 +47,11 @@ values ("owen", "123", "a@gmail.com"), ("masdatos", "para ingresar", "de manera 
 alter table {table_name} add column {column_name} {...values}; 
 alter table {table_name} add constrain {column_name} foreing key (column_name) references {table_name}({column}); 
 
+-- Execute querys
+mysql -u{username} -p{password} -e 'select * from {table}' {db_name}
 
-
+-- Show tables  
+mysqshow -u{username} -p{password} {db_name}
+-- Show columns
+mysqshow -u{username} -p{password} {db_name} {table_name}
 ```

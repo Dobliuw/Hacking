@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c1c5c6684ff04e9",
+        "id": "6387cfe4c50ccc44",
         "type": "tabs",
         "children": [
           {
-            "id": "89d7df8cc77d9efd",
+            "id": "be38e7c29b69cc11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de grupo 'Server Operators'.md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/UDP/Enumeración del servicio SNMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "onesixtyone",
-                "matchingCase": true,
+                "query": "pass the hash",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 375.5
   },
   "right": {
     "id": "b87cea5314681bda",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de grupo 'Server Operators'.md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/UDP/Enumeración del servicio SNMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de grupo 'Server Operators'.md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/UDP/Enumeración del servicio SNMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de grupo 'Server Operators'.md"
+                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/UDP/Enumeración del servicio SNMP.md"
               }
             }
           }
@@ -155,38 +155,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "89d7df8cc77d9efd",
+  "active": "be38e7c29b69cc11",
   "lastOpenFiles": [
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/JWT - (JSON Web Tokens) Enumeración y explotación.md",
+    "Tecnologías/SQL/MySQL.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/UDP/Enumeración del servicio SNMP.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube/Certificados SSL.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Pass The Hash.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Reconocimiento a nivel de Sistema.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Inyecciones LDAP.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube/Enumerar Amazon Web Service.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/DES-Pickle - ( Ataque de Deserialización Pickle ) - Python.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de API's.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/IDORs - ( Insecure Direct Object Reference ).md",
+    "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Shells.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de rsync.md",
+    "Pentesting/Sistemas/Avanzado/iptables/Añadir tráfico con nuestra máquina.md",
+    "Pentesting/Sistemas/Avanzado/iptables/Iptables.md",
+    "Pentesting/Sistemas/Avanzado/iptables",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Wordpress.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de grupo 'Server Operators'.md",
     "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
     "Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md",
-    "Abuso de rsync.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Redis.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de sistema de archivos montados.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Detección y explotación de tareas Cron.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Robar data por ICMP.md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/UDP/Enumeración del servicio SNMP.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/UDP",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Enumeración y explotación de SQUID Proxies.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
     "Pasted image 20230717200917.png",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Conexión via SSH con Kerberos.md",
-    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/AS-REP Roast Attack.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberoasting Attack.md",
-    "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/DNS - (Domain Name Services).md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Ataques de transferencia de zona - ( AXFR - Full Zone Transfer ).md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Abuso de ReadGMSAPassword.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de AllowedToDelegate.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Active Directory.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abusando de SeImpersonatePrivilege.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Intentos Básicos.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de binarios específicos.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Gráficos/KERBEROS_AUTHETICATION_FLOW.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Gráficos",
     "Kerberos_Authentication_Flow.canvas",
     "Pasted image 20230712134021.png",
@@ -196,8 +198,6 @@
     "Images/pivoting_4_machines.png",
     "Images/enviroment_pivoting_3_machines.png",
     "Pentesting/Entorno",
-    "Pentesting/Sistemas/Avanzado/pivoting",
-    "Pentesting/Sistemas/Basico/Servicios",
     "Images/respawn_bash_ensamblador.png",
     "Images/hola_mundo_ensamblador.png",
     "Images/graphql.png",
