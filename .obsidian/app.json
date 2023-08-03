@@ -1,8 +1,6 @@
 {
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
-  "spellcheckLanguages": [
-    "es-AR"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": false
 }
