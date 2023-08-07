@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f404e3cc7babcd14",
+        "id": "e7185532bd7805cb",
         "type": "tabs",
         "children": [
           {
-            "id": "d822b4a2de603efd",
+            "id": "f93877d7bd8694ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de SeBackupPrivilege.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0118368855341e07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Pass The Hash.md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. DNS - (Domain Name Services).md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pass the hash",
+                "query": "openssl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de SeBackupPrivilege.md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. DNS - (Domain Name Services).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de SeBackupPrivilege.md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. DNS - (Domain Name Services).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de SeBackupPrivilege.md"
+                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. DNS - (Domain Name Services).md"
               }
             }
           }
@@ -167,9 +155,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d822b4a2de603efd",
+  "active": "9fb90ef01464b840",
   "lastOpenFiles": [
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Pass The Hash.md",
+    "Tecnologías/Python.md",
+    "Apuntes/Vim.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/XSS  - ( Cross-Site Scripting ).md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube/Certificados SSL.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. DNS - (Domain Name Services).md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de SeBackupPrivilege.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Obtener hashes NT.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Gráficos/KERBEROS_AUTHETICATION_FLOW.md",
@@ -186,15 +180,9 @@
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberoasting Attack.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. RPC - ( Remote Procedure Call ).md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/AS-REP Roast Attack.md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. DNS - (Domain Name Services).md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Robar data por ICMP.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. Redis.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Enumeración de puertos habituales en Windows.md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Ataques de transferencia de zona - ( AXFR - Full Zone Transfer ).md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Active Directory.md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/UDP/Enumeración del servicio SNMP.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/JWT - (JSON Web Tokens) Enumeración y explotación.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube",
     "Pentesting/Sistemas/Avanzado/iptables",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/UDP",
