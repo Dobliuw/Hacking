@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4600fb29a4f3aa95",
+        "id": "795e55ef8660383c",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb957a3f7146e6e",
+            "id": "10f4186e3df28f07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Keepass master key crack .dmp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 370.5
   },
   "right": {
     "id": "b87cea5314681bda",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Keepass master key crack .dmp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Keepass master key crack .dmp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Keepass master key crack .dmp.md"
+              }
             }
           }
         ]
@@ -147,8 +155,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6fb957a3f7146e6e",
+  "active": "10f4186e3df28f07",
   "lastOpenFiles": [
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abusando de SeImpersonatePrivilege.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Linux/Atajos de consola.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Keepass master key crack .dmp.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Lsass dump analisis.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
     "Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
@@ -170,11 +183,6 @@
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de subidas de archivos.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de API's.md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/UDP/Enumeración del servicio SNMP.md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Robar data por ICMP.md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. SMB - (Server Message Block).md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. RPC - ( Remote Procedure Call ).md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. Redis.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube",
     "Pentesting/Sistemas/Avanzado/iptables",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/UDP",
