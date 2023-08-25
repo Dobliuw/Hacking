@@ -12,7 +12,7 @@
 
 ### La letra se puede poner en *negrita*
 
-### Relaciones entre notas [[Wordpress]]
+### Relaciones entre notas [[Enumeración de Wordpress]]
 
 ```python
 print(f"Esto es para injectar {comandos}")
