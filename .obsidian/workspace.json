@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2841f64ad8ab4e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DNS Record Injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "802f60e560d80b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md"
+                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md"
               }
             }
           }
@@ -180,14 +204,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c2e4928f04cdc42",
+  "active": "9fb90ef01464b840",
   "lastOpenFiles": [
-    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
-    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
+    "Images/regex_CRLF_injection.png",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys/Gdb.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys/Radare2.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys/Ghidra.md",
+    "Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. SMB - (Server Message Block).md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum WHOIS - (Port 43).md",
+    "Images/db_version_whois_response.png",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. DNS - (Domain Name Services).md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DNS Record Injection.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/AS-REP Roast Attack.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Wordpress",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/AS-REP Roast Attack.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberoasting Attack.md",
     "Images/possible_login_fix_h2_consoe.png",
     "Images/rce_with_drupal.png",
@@ -203,16 +239,6 @@
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Ataques de asignación masiva (Mass-Assignment Attack) - Parameter Binding.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/IDORs - ( Insecure Direct Object Reference ).md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/JWT - (JSON Web Tokens) Enumeración y explotación.md",
-    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Keepass master key crack .dmp.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abusando de SeImpersonatePrivilege.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Linux/Atajos de consola.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Lsass dump analisis.md",
-    "Pentesting/Redes/Explotación/Hacking WiFi.md",
-    "Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
-    "Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
-    "Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow.md",
-    "Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube",
     "Pentesting/Sistemas/Avanzado/iptables",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/UDP",
@@ -223,12 +249,10 @@
     "Kerberos_Authentication_Flow.canvas",
     "Pasted image 20230712134021.png",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Reconocimiento",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation",
     "Images/pivoting_4_machines.png",
     "Images/enviroment_pivoting_3_machines.png",
     "Images/respawn_bash_ensamblador.png",
     "Images/hola_mundo_ensamblador.png",
-    "Images/graphql.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas"
