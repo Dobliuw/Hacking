@@ -4,71 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b7066a866aca06",
+        "id": "2d37be36e0a26056",
         "type": "tabs",
         "children": [
           {
-            "id": "6a3c2f872ddd625c",
+            "id": "bbf60be086444e50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md",
+                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Intentos Básicos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "83da269437be761d",
+            "id": "c95e8419b8b8d9ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
+                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0c2e4928f04cdc42",
+            "id": "eb49781f9ee2c99c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2841f64ad8ab4e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DNS Record Injection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3741f7f65bdd50ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys/Gdb.md",
+                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Print Spooler (PrintNightmare).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys/Gdb.md",
+                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Print Spooler (PrintNightmare).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys/Gdb.md",
+                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Print Spooler (PrintNightmare).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys/Gdb.md"
+                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Print Spooler (PrintNightmare).md"
               }
             }
           }
@@ -204,16 +180,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3741f7f65bdd50ea",
+  "active": "eb49781f9ee2c99c",
   "lastOpenFiles": [
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys/Ghidra.md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys/Gdb.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Commands.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Intentos Básicos.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Print Spooler (PrintNightmare).md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SCF File Attacks - (Shell Command File).md",
+    "Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+    "Pasted image 20230828212049.png",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DNS Record Injection.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys/Gdb.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys/Ghidra.md",
     "Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md",
     "Images/regex_CRLF_injection.png",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys/Radare2.md",
     "Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys",
@@ -222,7 +206,6 @@
     "Images/db_version_whois_response.png",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. DNS - (Domain Name Services).md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/AS-REP Roast Attack.md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
     "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Wordpress",
@@ -233,13 +216,7 @@
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/H2 Console.md",
     "Tecnologías/SQL/SQL.md",
     "Tecnologías/SQL/PostgreSQL.md",
-    "Tecnologías/SQL/MySQL.md",
-    "Tecnologías/SQL/MSSQL.md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Drupal/Ganar acceso con Drupal comprometido.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Openssl Cipher Decryption.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Drupal",
-    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Ataques de asignación masiva (Mass-Assignment Attack) - Parameter Binding.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube",
     "Pentesting/Sistemas/Avanzado/iptables",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/UDP",
@@ -252,7 +229,6 @@
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Reconocimiento",
     "Images/pivoting_4_machines.png",
     "Images/enviroment_pivoting_3_machines.png",
-    "Images/respawn_bash_ensamblador.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas"
