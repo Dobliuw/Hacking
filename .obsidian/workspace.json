@@ -11,8 +11,12 @@
             "id": "36f5c4392296bf6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gdb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md"
+              }
             }
           }
         ]
@@ -149,6 +157,10 @@
   },
   "active": "36f5c4392296bf6a",
   "lastOpenFiles": [
+    "Tecnologías/SQL/PostgreSQL.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md",
+    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Reconocimiento a nivel de Sistema.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Firma Digital para Cookies.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Intentos Básicos.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Commands.md",
@@ -175,14 +187,10 @@
     "Images/db_version_whois_response.png",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. DNS - (Domain Name Services).md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/AS-REP Roast Attack.md",
-    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Docker Breakout.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Wordpress",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberoasting Attack.md",
     "Images/possible_login_fix_h2_consoe.png",
     "Images/rce_with_drupal.png",
     "Images/add_php_to_drupal.png",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/H2 Console.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Drupal",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube",
     "Pentesting/Sistemas/Avanzado/iptables",

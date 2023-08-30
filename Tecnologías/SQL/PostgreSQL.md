@@ -3,6 +3,10 @@
 ---
 
 ```SQL
+-- Connect
+psql -U {username} -h {host} -p {port} 
+
+
 -- Crear base de datos:
 create database name;
 
@@ -14,6 +18,11 @@ create database name;
 
 -- listar tablas de una base de datos:
 \d
+
+-- Enumerar privilegios
+\du
+
+-- Solicitar datos de una tabla de una base de datos:
 
 -- crear una tabla en la db:
 create table users(
