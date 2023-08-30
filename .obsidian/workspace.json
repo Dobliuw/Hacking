@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/TTY Hijacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/TTY Hijacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/TTY Hijacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md"
+                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/TTY Hijacking.md"
               }
             }
           }
@@ -157,8 +157,12 @@
   },
   "active": "36f5c4392296bf6a",
   "lastOpenFiles": [
-    "Tecnologías/SQL/PostgreSQL.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/TTY Hijacking.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de binarios específicos.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios a nivel de Sudoers.md",
+    "Tecnologías/SQL/SQL.md",
+    "Tecnologías/SQL/PostgreSQL.md",
     "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Reconocimiento a nivel de Sistema.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Firma Digital para Cookies.md",
@@ -182,11 +186,7 @@
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys/Radare2.md",
     "Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. SMB - (Server Message Block).md",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum WHOIS - (Port 43).md",
     "Images/db_version_whois_response.png",
-    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. DNS - (Domain Name Services).md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/AS-REP Roast Attack.md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Wordpress",
     "Images/possible_login_fix_h2_consoe.png",
     "Images/rce_with_drupal.png",
