@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51d1299c006ef078",
+        "id": "cdaa8f0717df2ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "36f5c4392296bf6a",
+            "id": "e273bbf3386c81f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/TTY Hijacking.md",
+                "file": "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/TTY Hijacking.md",
+                "file": "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/TTY Hijacking.md",
+                "file": "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/TTY Hijacking.md"
+                "file": "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md"
               }
             }
           }
@@ -155,10 +155,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36f5c4392296bf6a",
+  "active": "e273bbf3386c81f0",
   "lastOpenFiles": [
-    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/TTY Hijacking.md",
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de binarios específicos.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios a nivel de Sudoers.md",
     "Tecnologías/SQL/SQL.md",
