@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9996a5a7df320b1d",
+        "id": "05d41a0b4f78e9b9",
         "type": "tabs",
         "children": [
           {
-            "id": "f59f3c6c68db1320",
+            "id": "1f85c65b5d225abd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/ICMP Reverse Shell (PowerShell).md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de USER INPUT.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/ICMP Reverse Shell (PowerShell).md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de USER INPUT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/ICMP Reverse Shell (PowerShell).md",
+                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de USER INPUT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/ICMP Reverse Shell (PowerShell).md"
+                "file": "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de USER INPUT.md"
               }
             }
           }
@@ -155,8 +155,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f59f3c6c68db1320",
+  "active": "1f85c65b5d225abd",
   "lastOpenFiles": [
+    "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Análisis de archivos .jar.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de USER INPUT.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md",
+    "Tecnologías/SQL/PostgreSQL.md",
+    "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md",
+    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/XXE - (XML External Entity Injection ).md",
+    "Pentesting/Sistemas/Sistemas Operativos/Windows/Commands.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/ICMP Reverse Shell (PowerShell).md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/ShellShock.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de enlaces simbólicos.md",
@@ -168,7 +176,6 @@
     "Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
     "Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow.md",
     "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Commands.md",
     "Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/IIS/IIS - (Internet Information Service).md",
     "Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
@@ -177,13 +184,6 @@
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de binarios específicos.md",
     "Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Abuso de privilegios a nivel de Sudoers.md",
-    "Tecnologías/SQL/SQL.md",
-    "Tecnologías/SQL/PostgreSQL.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Conceptos Expotacion/Reconocimiento a nivel de Sistema.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Firma Digital para Cookies.md",
-    "Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Intentos Básicos.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Deserialization Attack - (Ataques de Deserialización).md",
     "Pasted image 20230828212049.png",
     "Images/regex_CRLF_injection.png",
     "Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys",
