@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "76ee5f1ce97771d9",
+        "id": "6dfb8ab9e62b7263",
         "type": "tabs",
         "children": [
           {
-            "id": "2f0ce8c4db09bc27",
+            "id": "c8237a00b62b5bf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BlueTeam/SOC Analyst/Tools/Sumo Logic/3. Ingestión de Datos y Niveles de Datos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Anomaly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BlueTeam/SOC Analyst/Tools/Sumo Logic/3. Ingestión de Datos y Niveles de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BlueTeam/SOC Analyst/Tools/Sumo Logic/3. Ingestión de Datos y Niveles de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BlueTeam/SOC Analyst/Tools/Sumo Logic/3. Ingestión de Datos y Niveles de Datos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,24 +147,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f0ce8c4db09bc27",
+  "active": "9fb90ef01464b840",
   "lastOpenFiles": [
-    "BlueTeam/SOC Analyst/Tools/Sumo Logic/4. Data Search.md",
+    "BlueTeam/SOC Analyst/Tools/Sumo Logic/5. Alert Response.md",
     "BlueTeam/SOC Analyst/Tools/Sumo Logic/3. Ingestión de Datos y Niveles de Datos.md",
-    "-Images/data_tiers.png",
     "BlueTeam/SOC Analyst/Tools/Sumo Logic/2. Collectors, Sources & Metadata.md",
-    "-Images/enterprise_data_.png",
+    "BlueTeam/SOC Analyst/Tools/Sumo Logic/4. Data Search (Métricas, Tracing).md",
     "BlueTeam/SOC Analyst/Tools/Sumo Logic/1. Sumo Logic & Estrategía de Recolección de datos.md",
-    "-Images/Ingest_budgets_to_collector.png",
-    "Pasted image 20230905115517 1.png",
-    "-Images/more_metadata_fields.png",
-    "-Images/5_firts_meta_fields.png",
-    "-Images/sources_for_hosted_collectors.png",
-    "-Images/open_telemetry_workout.png",
-    "-Images/sources_for_installed_collectors.png",
-    "-Images/install_collectors.png",
-    "BlueTeam/SOC Analyst/Tools/Sumo Logic",
+    "BlueTeam/SOC Analyst/Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
+    "BlueTeam/SOC Analyst/Tools/Sumo Logic/Create a collector (Linux)",
+    "-Images/alert_grouping.png",
+    "-Images/without_alert_grouping.png",
+    "-Images/alert_response.png",
     "BlueTeam/SOC Analyst/SOC - (Security Operations Center).md",
+    "Apuntes/Obsidian.md",
+    "-Images/tracing_important.png",
+    "-Images/observability_pilars.png",
+    "-Images/transaction_traces_sumo_logic.png",
+    "-Images/monitoring_sumo_logic.png",
+    "-Images/why_metrics_are_important.png",
+    "-Images/logs_metrics.png",
+    "-Images/data_tiers.png",
+    "BlueTeam/SOC Analyst/Tools/Sumo Logic",
     "BlueTeam/SOC Analyst/Tools",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de USER INPUT.md",
     "RedTeam/Red Team.md",
@@ -195,14 +191,10 @@
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/CRLF (%0d%0a) Injection.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
     "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
-    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/IIS",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Wordpress",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Drupal",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube",
     "Kerberos_Authentication_Flow.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
