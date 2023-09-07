@@ -11,8 +11,12 @@
             "id": "c8237a00b62b5bf1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BlueTeam/SOC Analyst/Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Anomaly",
+                "query": "openssl -",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BlueTeam/SOC Analyst/Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BlueTeam/SOC Analyst/Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BlueTeam/SOC Analyst/Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md"
+              }
             }
           }
         ]
@@ -147,7 +155,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fb90ef01464b840",
+  "active": "c8237a00b62b5bf1",
   "lastOpenFiles": [
     "BlueTeam/SOC Analyst/Tools/Sumo Logic/5. Alert Response.md",
     "BlueTeam/SOC Analyst/Tools/Sumo Logic/3. Ingestión de Datos y Niveles de Datos.md",
