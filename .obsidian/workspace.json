@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlueTeam/SOC Analyst/Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
+                "file": "BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BlueTeam/SOC Analyst/Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
+                "file": "BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BlueTeam/SOC Analyst/Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
+                "file": "BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BlueTeam/SOC Analyst/Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md"
+                "file": "BlueTeam/API Sec/Los 3 pilares - (API Sec).md"
               }
             }
           }
@@ -155,29 +155,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8237a00b62b5bf1",
+  "active": "9fb90ef01464b840",
   "lastOpenFiles": [
-    "BlueTeam/SOC Analyst/Tools/Sumo Logic/5. Alert Response.md",
-    "BlueTeam/SOC Analyst/Tools/Sumo Logic/3. Ingestión de Datos y Niveles de Datos.md",
-    "BlueTeam/SOC Analyst/Tools/Sumo Logic/2. Collectors, Sources & Metadata.md",
-    "BlueTeam/SOC Analyst/Tools/Sumo Logic/4. Data Search (Métricas, Tracing).md",
-    "BlueTeam/SOC Analyst/Tools/Sumo Logic/1. Sumo Logic & Estrategía de Recolección de datos.md",
-    "BlueTeam/SOC Analyst/Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
-    "BlueTeam/SOC Analyst/Tools/Sumo Logic/Create a collector (Linux)",
+    "-Images/three_pillars_api_sec.png",
+    "BlueTeam/API Sec/OWASP Top 10 API.md",
+    "BlueTeam/API Sec/API - (Application Programming Interfaces).md",
+    "BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
+    "Pasted image 20230908155050.png",
+    "-Images/coinbase_broken_object_level_authorization.png",
+    "-Images/why_apis.png",
+    "Pasted image 20230908094024.png",
+    "BlueTeam/Malware analysis in PDF's.md",
+    "BlueTeam/Defensive Tools/API Sec/API Security Fundamentals.md",
+    "Pasted image 20230908092152.png",
+    "BlueTeam/Defensive Tools/Sumo Logic/1. Sumo Logic & Estrategía de Recolección de datos.md",
+    "BlueTeam/SOC Analyst/SOC - (Security Operations Center).md",
+    "BlueTeam/Scan Tools",
+    "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "BlueTeam/API Sec",
+    "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+    "RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
+    "BlueTeam/Defensive Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
+    "BlueTeam/Defensive Tools/Sumo Logic/5. Alert Response.md",
+    "BlueTeam/Defensive Tools/Sumo Logic/3. Ingestión de Datos y Niveles de Datos.md",
+    "BlueTeam/Defensive Tools/Sumo Logic/2. Collectors, Sources & Metadata.md",
+    "BlueTeam/Defensive Tools/Sumo Logic/4. Data Search (Métricas, Tracing).md",
+    "BlueTeam/Defensive Tools/Sumo Logic/Create a collector (Linux)",
     "-Images/alert_grouping.png",
     "-Images/without_alert_grouping.png",
     "-Images/alert_response.png",
-    "BlueTeam/SOC Analyst/SOC - (Security Operations Center).md",
     "Apuntes/Obsidian.md",
     "-Images/tracing_important.png",
     "-Images/observability_pilars.png",
-    "-Images/transaction_traces_sumo_logic.png",
-    "-Images/monitoring_sumo_logic.png",
-    "-Images/why_metrics_are_important.png",
-    "-Images/logs_metrics.png",
-    "-Images/data_tiers.png",
-    "BlueTeam/SOC Analyst/Tools/Sumo Logic",
-    "BlueTeam/SOC Analyst/Tools",
+    "BlueTeam/Defensive Tools/Sumo Logic",
+    "BlueTeam/Defensive Tools",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de USER INPUT.md",
     "RedTeam/Red Team.md",
     "BlueTeam/SOC Analyst",
@@ -190,19 +201,8 @@
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/XXE - (XML External Entity Injection ).md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Commands.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/ICMP Reverse Shell (PowerShell).md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/ShellShock.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de enlaces simbólicos.md",
-    "RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Untitled.md",
-    "Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de archivos zip.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/CRLF (%0d%0a) Injection.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
-    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/IIS",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Wordpress",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Gestores De Contenido/Drupal",
     "Kerberos_Authentication_Flow.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
