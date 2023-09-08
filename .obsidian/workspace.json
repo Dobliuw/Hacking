@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
+                "file": "BlueTeam/Malware analysis in PDF's.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
+                "file": "BlueTeam/Malware analysis in PDF's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
+                "file": "BlueTeam/Malware analysis in PDF's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BlueTeam/API Sec/Los 3 pilares - (API Sec).md"
+                "file": "BlueTeam/Malware analysis in PDF's.md"
               }
             }
           }
@@ -155,12 +155,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fb90ef01464b840",
+  "active": "c8237a00b62b5bf1",
   "lastOpenFiles": [
+    "BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
     "-Images/three_pillars_api_sec.png",
     "BlueTeam/API Sec/OWASP Top 10 API.md",
     "BlueTeam/API Sec/API - (Application Programming Interfaces).md",
-    "BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
     "Pasted image 20230908155050.png",
     "-Images/coinbase_broken_object_level_authorization.png",
     "-Images/why_apis.png",
@@ -186,7 +186,6 @@
     "-Images/alert_response.png",
     "Apuntes/Obsidian.md",
     "-Images/tracing_important.png",
-    "-Images/observability_pilars.png",
     "BlueTeam/Defensive Tools/Sumo Logic",
     "BlueTeam/Defensive Tools",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de USER INPUT.md",
