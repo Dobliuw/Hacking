@@ -8,7 +8,7 @@
 -----
 # [OWASP Top 10 API](https://owasp.org/API-Security/editions/2023/en/0x11-t10/)
 
-# #1 Broken Object Level Authorization
+# #1 Broken Object Level Authorizations
 ### Las API tienden a exponer endpoints que manejan idenficiadores de objetos, creando una amplia superfice de ataque para problemas de **Object Level Access Control**. Se deben considerar comprobaciones de  la autorización a nivel de objeto en cada función que accede a una fuente de datos utilizando un ID del usuario.
 
 ## **Como se puede acontecer?**

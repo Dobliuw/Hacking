@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6dfb8ab9e62b7263",
+        "id": "7648aa436e45f464",
         "type": "tabs",
         "children": [
           {
-            "id": "c8237a00b62b5bf1",
+            "id": "38662a9cfc2bcc55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd914cb99b2ef27d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
+                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reverse Engineering/Reverse Engineering an API.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "google dork",
+                "query": "gobuster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 508.5
+    "width": 397.5
   },
   "right": {
     "id": "b87cea5314681bda",
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md",
+                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reverse Engineering/Reverse Engineering an API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md",
+                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reverse Engineering/Reverse Engineering an API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md"
+                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reverse Engineering/Reverse Engineering an API.md"
+              }
+            }
+          },
+          {
+            "id": "f4fa611d002aea86",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -168,54 +165,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8237a00b62b5bf1",
+  "active": "9fb90ef01464b840",
   "lastOpenFiles": [
+    "-Images/import_yml_postman.png",
+    "-Images/editor_swagger.png",
+    "-Images/mitmweb.png",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reverse Engineering/Reverse Engineering an API.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reconocimiento Activo.md",
+    "RedTeam/Pentesting/Sistemas/Herramientas/Postman.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reverse Engineering",
+    "-Images/postman_proxy_capture.png",
+    "-Images/postman_proxy.png",
+    "-Images/devtools_export_requests.png",
+    "-Images/devtools_network.png",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Enumeración y explotación de SQUID Proxies.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reconocimiento Pasivo.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube/Git Dorking.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube/Google Dorking.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SCF File Attacks - (Shell Command File).md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Gráficos/KERBEROS_AUTHETICATION_FLOW.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Ataques.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube/Enumerar Amazon Web Service.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Abuso de APIs.md",
+    "BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
+    "BlueTeam/API Sec/OWASP Top 10 API.md",
+    "BlueTeam/API Sec/Mejores prácticas.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/ICMP Reverse Shell (PowerShell).md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Robar data por ICMP.md",
+    "BlueTeam/API Sec/API - (Application Programming Interfaces).md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/Endpoint Analysis",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento",
+    "-Images/api_best_practices_2.png",
+    "-Images/api_best_practices_1.png",
+    "-Images/cybersecurity_landscape.png",
+    "-Images/apis_tools_and_recommendations.png",
+    "why_apis.png.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. SMB - (Server Message Block).md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. RPC - ( Remote Procedure Call ).md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberoasting Attack.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. Kerberos.md",
-    "BlueTeam/Malware analysis in PDF's.md",
-    "BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
-    "-Images/three_pillars_api_sec.png",
-    "BlueTeam/API Sec/OWASP Top 10 API.md",
-    "BlueTeam/API Sec/API - (Application Programming Interfaces).md",
-    "Pasted image 20230908155050.png",
-    "-Images/coinbase_broken_object_level_authorization.png",
-    "-Images/why_apis.png",
-    "Pasted image 20230908094024.png",
-    "BlueTeam/Defensive Tools/API Sec/API Security Fundamentals.md",
-    "Pasted image 20230908092152.png",
-    "BlueTeam/Defensive Tools/Sumo Logic/1. Sumo Logic & Estrategía de Recolección de datos.md",
-    "BlueTeam/SOC Analyst/SOC - (Security Operations Center).md",
     "BlueTeam/Scan Tools",
-    "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
     "BlueTeam/API Sec",
-    "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
-    "RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
-    "BlueTeam/Defensive Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
-    "BlueTeam/Defensive Tools/Sumo Logic/5. Alert Response.md",
-    "BlueTeam/Defensive Tools/Sumo Logic/3. Ingestión de Datos y Niveles de Datos.md",
-    "BlueTeam/Defensive Tools/Sumo Logic/2. Collectors, Sources & Metadata.md",
-    "BlueTeam/Defensive Tools/Sumo Logic/4. Data Search (Métricas, Tracing).md",
     "BlueTeam/Defensive Tools/Sumo Logic/Create a collector (Linux)",
-    "-Images/alert_grouping.png",
-    "-Images/without_alert_grouping.png",
-    "-Images/alert_response.png",
-    "Apuntes/Obsidian.md",
-    "-Images/tracing_important.png",
     "BlueTeam/Defensive Tools/Sumo Logic",
     "BlueTeam/Defensive Tools",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de USER INPUT.md",
-    "RedTeam/Red Team.md",
-    "BlueTeam/SOC Analyst",
-    "RedTeam",
-    "BlueTeam",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Escalada de Privilegios/Análisis de archivos .jar.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/IIS",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Binarys",
     "Kerberos_Authentication_Flow.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
