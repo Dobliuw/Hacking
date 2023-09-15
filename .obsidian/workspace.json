@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "fa399a70ee64763f",
+        "id": "bbe53cb23c6db3a2",
         "type": "tabs",
         "children": [
           {
-            "id": "579b23dd65a4b8f8",
+            "id": "3bd8159e6445425e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eeb4dedee274843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Scripting en Bash.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kerberos",
+                "query": "tag:#windows",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md"
+              }
             }
           },
           {
@@ -157,12 +177,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "579b23dd65a4b8f8",
+  "active": "3bd8159e6445425e",
   "lastOpenFiles": [
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Scripting en Bash.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Commands.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Active Directory Recon.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Active Directory.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Impacket tools.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Ataques.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Enum. SMB - (Server Message Block).md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Explotación/Encontrar misconfigurations.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Explotación/Abuso de APIs.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Gráficos/KERBEROS_AUTHETICATION_FLOW.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Active Directory.md",
     "BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Fase de Reconocimiento.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/JWT - (JSON Web Tokens) Enumeración y explotación.md",
@@ -188,15 +217,6 @@
     "-Images/postman_proxy_capture.png",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Enumeración y explotación de SQUID Proxies.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reconocimiento Pasivo.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube/Git Dorking.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube/Google Dorking.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/SCF File Attacks - (Shell Command File).md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Ataques.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Nube/Enumerar Amazon Web Service.md",
-    "BlueTeam/API Sec/Mejores prácticas.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/ICMP Reverse Shell (PowerShell).md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Protocolos/TCP/Robar data por ICMP.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/Endpoint Analysis",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento",
