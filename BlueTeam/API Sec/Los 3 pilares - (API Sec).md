@@ -90,7 +90,7 @@
 
 -----
 # Monitoring
-### El **Monitoring** en la seguridad de las APIs se refiere al proceso de supervisar y analizar continuamente el tráfico y el comportamiento de una APi con el fin de identificar posbiles amenazas, anomalías y vulnerabilidades de seguridad en tiempo real o de manera proactiva. La monitorización  de seguridad de las APIs es esencial para detectar y responder a incidentes de seugirdad de manera oportuna y garantizar que la APi funcione de manera segura y eficiente. 
+### El **Monitoring** en la seguridad de las APIs se refiere al proceso de supervisar y analizar continuamente el tráfico y el comportamiento de una APi con el fin de identificar posibiles amenazas, anomalías y vulnerabilidades de seguridad en tiempo real o de manera proactiva. La monitorización  de seguridad de las APIs es esencial para detectar y responder a incidentes de seugirdad de manera oportuna y garantizar que la APi funcione de manera segura y eficiente. 
 
 ![[monitoring.png]]
 ### Esta fase, este pilar se relaciona a entender cómo se desempeñan y operan las APIs en producción. Una de las partes, **Runtime Protection** (**Protección en tiempos de ejecución**) hace referencia a protecciones activas en la API, esto incluye la aplicación de políticas, la exigencia de autenticación de los usuarios para acceder a los endpoints y el filtrado de tráfico. Este tipo de filtrado, por región, por IP, etc. puede ser una protección en tiempo real que podamos implementar.
