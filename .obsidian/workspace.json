@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bbe53cb23c6db3a2",
+        "id": "57cc89e852d586da",
         "type": "tabs",
         "children": [
           {
-            "id": "3bd8159e6445425e",
+            "id": "e6cfcf41aec38968",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eeb4dedee274843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Scripting en Bash.md",
+                "file": "BlueTeam/Phishing.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
+                "file": "BlueTeam/Phishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
+                "file": "BlueTeam/Phishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md"
+                "file": "BlueTeam/Phishing.md"
               }
             }
           },
@@ -177,8 +165,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bd8159e6445425e",
+  "active": "9fb90ef01464b840",
   "lastOpenFiles": [
+    "-Images/DMARC_standard.png",
+    "-Images/DKIM_protocol.png",
+    "-Images/SPF_Protocol.png",
+    "BlueTeam/Malware Analysis in Windows 10.md",
+    "BlueTeam/Phishing.md",
+    "BlueTeam/Malware Analysis in PDF's.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Scripting en Bash.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
@@ -210,13 +204,7 @@
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reverse Engineering/Reverse Engineering an API.md",
     "-Images/import_yml_postman.png",
     "-Images/editor_swagger.png",
-    "-Images/mitmweb.png",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reconocimiento Activo.md",
-    "RedTeam/Pentesting/Sistemas/Herramientas/Postman.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reverse Engineering",
-    "-Images/postman_proxy_capture.png",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Enumeración y explotación de SQUID Proxies.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reconocimiento Pasivo.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/Endpoint Analysis",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento",
