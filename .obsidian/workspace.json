@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlueTeam/Phishing.md",
+                "file": "BlueTeam/Autenticación de Correos Electrónicos.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BlueTeam/Phishing.md",
+                "file": "BlueTeam/Autenticación de Correos Electrónicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BlueTeam/Phishing.md",
+                "file": "BlueTeam/Autenticación de Correos Electrónicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BlueTeam/Phishing.md"
+                "file": "BlueTeam/Autenticación de Correos Electrónicos.md"
               }
             }
           },
@@ -171,7 +171,7 @@
     "-Images/DKIM_protocol.png",
     "-Images/SPF_Protocol.png",
     "BlueTeam/Malware Analysis in Windows 10.md",
-    "BlueTeam/Phishing.md",
+    "BlueTeam/Autenticación de Correos Electrónicos.md",
     "BlueTeam/Malware Analysis in PDF's.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Scripting en Bash.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
