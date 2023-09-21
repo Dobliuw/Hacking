@@ -4,47 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "914151dbe9a84d8d",
+        "id": "5369b48c66cae60d",
         "type": "tabs",
         "children": [
           {
-            "id": "db3b67b741272576",
+            "id": "270fc326be9b0276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Diamond Ticket Attack.md",
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Pass The Hash.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0c8de2911fa52be5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Golden Ticket Attack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05cfcd7d172fb309",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Silver Ticket Attack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b93112b209cfa52a",
+            "id": "d87715f71a76329c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,41 +32,43 @@
             }
           },
           {
-            "id": "bbd2512178f9f363",
+            "id": "2ba4731f7d003b12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologías/Services/Kerberos/Kerberos.md",
-                "mode": "source",
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Silver Ticket Attack.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "d5e5c9328e999ffe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Tecnologías/Services/Kerberos/KERBEROS_AUTHETICATION_FLOW.md"
-              }
-            }
-          },
-          {
-            "id": "92a3ade6b1d6988c",
+            "id": "1c48430a6fcf427d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Pass The Hash.md",
-                "mode": "source",
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Golden Ticket Attack.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71e94d03dc940d9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Diamond Ticket Attack.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#blueteam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,11 +122,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 410.5
   },
   "right": {
     "id": "b87cea5314681bda",
@@ -164,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnologías/Services/Kerberos/Kerberos.md",
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnologías/Services/Kerberos/Kerberos.md",
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnologías/Services/Kerberos/Kerberos.md"
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md"
               }
             }
           },
@@ -236,54 +215,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fb90ef01464b840",
+  "active": "d87715f71a76329c",
   "lastOpenFiles": [
-    "-Images/keberos_authentication_flow.png",
-    "Tecnologías/Services/Kerberos/KERBEROS_AUTHETICATION_FLOW.md",
-    "Tecnologías/Services/Kerberos/Kerberos.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Diamond Ticket Attack.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Golden Ticket Attack.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Silver Ticket Attack.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Pass The Hash.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/AS-REP Roast Attack.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de SeBackupPrivilege.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DCsync Attack.md",
+    "RedTeam/Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md",
+    "RedTeam/Pentesting/Sistemas/Avanzado/iptables/Añadir tráfico con nuestra máquina.md",
+    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/4. Redacción de Informe Profesional/Redacción de reporte profesional en LaTeX.md",
+    "Tecnologías/Services/Kerberos/Kerberos.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/TTY Hijacking.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF - (Server-Side Request Forgery).md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_2ndScenario.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_1stScenario.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Padding Oracle/CBC_padding.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Tipos de explotación.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Shells.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Reconocimiento a nivel de Sistema.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Payloads.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Drupal/Ganar acceso con Drupal comprometido.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Redacción de Informe Profesional/Untitled",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Untitled",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Drupal/Enumeración de Drupal.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Joomla.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Magento.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Fase de Reconocimiento.md",
+    "RedTeam/Pentesting/Sistemas/Basico/WRAPPERS.md",
+    "RedTeam/Pentesting/Sistemas/Basico/Tratamiento de la TTY.md",
     "RedTeam/Pentesting/Sistemas/Basico/Conceptos Generales.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Resource-based Constraint Delegation.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Ataques.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Impacket tools.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Reconocimiento/Active Directory Recon.md",
-    "RedTeam/Pentesting/Sistemas/Basico/Hashes NT, NTLM y NTLMv2.md",
+    "RedTeam/Pentesting/Redes/Basico/Conexión.md",
+    "-Images/keberos_authentication_flow.png",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Reconocimiento",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/1. Conceptos",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Abuso de ReadGMSAPassword.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Abuso de ForceChangePassword.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DNS Record Injection.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns",
     "Tecnologías/Services/Kerberos",
     "Tecnologías/Services",
-    "Tecnologías/Services.md",
     "Tecnologías/Lenguajes y Tools",
-    "BlueTeam/Autenticación de Correos Electrónicos.md",
     "-Images/DMARC_standard.png",
     "-Images/DKIM_protocol.png",
     "-Images/SPF_Protocol.png",
-    "BlueTeam/Malware Analysis in Windows 10.md",
-    "BlueTeam/Malware Analysis in PDF's.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Scripting en Bash.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
     "-Images/include_in_context_zap.png",
     "-Images/alerts_zap.png",
     "-Images/manual_explore_zap.png",
     "-Images/import_openapi_definition_zap.png",
     "Pasted image 20230913091250.png",
     "-Images/automated_scan_owap_zap.png",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Explotación",
-    "-Images/import_yml_postman.png",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reverse Engineering",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/Endpoint Analysis",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reverse Engineering",
     "Kerberos_Authentication_Flow.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
