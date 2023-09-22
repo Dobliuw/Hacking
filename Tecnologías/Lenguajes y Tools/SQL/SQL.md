@@ -2,7 +2,7 @@
 
 --- 
 
-### MODELO ER (Con Notación de Chen ):  
+MODELO ER (Con Notación de Chen ):  
 
 ###### El diagrama de chen es una manera de representar los datos: 
 
@@ -15,27 +15,27 @@
 - ### Atributos: 
 #### El atributo es un valor que compone a la entidad.
 ##### Los mismos se representan de la sig. manera: 
-### Simples:
+Simples:
 ![[Pasted image 20230403162759.png]]
 #### Ahora bien, estos atributos pueden ser siemples como se grafica en el ejemplo de arriba, o pueden ser compuestos, es decir, que el atributo se componga de atributos. O tambien pueden ser altributos multivalor. 
 
-### Compuestos: 
+Compuestos: 
 ##### Es decir se componene de atributos.
 ![[Pasted image 20230403163235.png]]
 
-### Multivalor: 
+Multivalor: 
 #### Atributos con más de un valor.
 ![[Pasted image 20230403163410.png]]
 
-### Derivados:
+Derivados:
 ##### Atributos que deriban y se obtienen a partir de otros atributos, por ejemplo, la antiguedad de una casa de podria obtener a partir del atributo "Fecha de creación".
 ![[Pasted image 20230403163806.png]]
 
-### KEY:
+KEY:
 #####  "Propiedad" unica que contiene el atributo para volverlo unico como un id, un documento, mail, etc. 
 ![[Pasted image 20230403164237.png]]
 
-### Registros: 
+Registros: 
 #### Estos son los valores en conjuntos insertados en la tabla, por ejemplo, en una tabla (Entidad) de "usuarios" el ingreso del usuario "Owen" con diversos valores, seria un registro.
 
 --- 
@@ -43,24 +43,24 @@
 # Manipulación de base de datos, tablas y columnas: 
 ## Mariadb con mysql para los ejemplos.
 
-### CREACIÓN de usuario con privilegios: 
+CREACIÓN de usuario con privilegios: 
 ```sql
 create user 'name'@'ip' identified by 'password';
 
 grant all privileges on '{db_name}.*' to 'name'@'ip'; 
 ```
 
-### CREACIÓN de base de datos: 
+CREACIÓN de base de datos: 
 ```sql
 create database "usersdb";
 ```
 
-### USO de la base de  datos:
+USO de la base de  datos:
 ```sql
 use "usersdb";
 ```
 
-### CREACIÓN de TABLA para la base de datos: 
+CREACIÓN de TABLA para la base de datos: 
 ```sql
 create table "users"(
 	user_id int primary key auto_increment,
@@ -70,15 +70,15 @@ create table "users"(
 );
 ```
 
-### INSERTAR VALORES en las tablas:
+INSERTAR VALORES en las tablas:
 ```sql
 insert into "users"(name, email, password)
 values("Name1", "email1@gmail.com", "password1"), ("Name2", "email2@gmail.com", "password2")
 ```
 
-### FOREING KEY: 
+FOREING KEY: 
 
-### CREANDO una tabla para agregar la FK:
+CREANDO una tabla para agregar la FK:
 ```sql
 create table "orders"(
 	order_id int primary key auto_increment,
@@ -93,13 +93,13 @@ create table "orders"(
 
 ---
 
-### #ACLARACION 
+#ACLARACION 
 
-### La query "ALTER TABLE {table_name}"  sirve para ALTERar una TABLA
+La query "ALTER TABLE {table_name}"  sirve para ALTERar una TABLA
 
 ---
 
-### MODIFICANDO una tabla para agregar la FK: 
+MODIFICANDO una tabla para agregar la FK: 
 ```sql
 alter table "orders"
 add constrain user_id
@@ -112,13 +112,13 @@ add foreing key (user_id) references usersdb(user_id);
 
 ```
 
-### ELIMINANDO una FK: 
+ELIMINANDO una FK: 
 ```sql
 alter table "orders"
 drop foreing key user_id;
 ```
 
-### Agregando un nuevo campo:
+Agregando un nuevo campo:
 ```sql
 -- Con esto podemos agregar una columna con los datos deseados y especificar despues de que columna agregarlo
 
@@ -130,12 +130,12 @@ add column 'random' varchar(50) after user_id
 
 ![[Pasted image 20230404130357.png]]
 
-### ELIMINAR un registro especifico: 
+ELIMINAR un registro especifico: 
 ```sql
 delete from users where user_id=7
 ```
 
-### MODIFICAR un registro: 
+MODIFICAR un registro: 
 ```sql
 -- Edit: 
 
@@ -153,48 +153,48 @@ where name='Ejemplo'
 
 # Consultas de datos: 
 
-### Consultar TABLAS (DB en uso): 
+Consultar TABLAS (DB en uso): 
 ```sql
 show tables; 
 ```
 
-### Consultar las COLUMNAS de una tabla (DB en uso):
+Consultar las COLUMNAS de una tabla (DB en uso):
 ```sql
 show columns from "users";
 ```
 
-### Consultar BASES DE DATOS registradas: 
+Consultar BASES DE DATOS registradas: 
 ```sql
 select schema_name from information_schema.schemata;
 ```
 
-### Consultar TABLAS de una db: 
+Consultar TABLAS de una db: 
 ```sql
 select table_name from information_schema.tables where table_schema='usersdb';
 ```
 
-### Consultar COLUMNAS de una tabla de una db: 
+Consultar COLUMNAS de una tabla de una db: 
 ```sql
 select column_name from information_schema.columns where table_schema='usersdb' and table_name='users';
 ```
 
-### Consulta de una TABLA uniendo FK a la query:
+Consulta de una TABLA uniendo FK a la query:
 ```sql
 select * from orders join users where users.user_id=orders.user_id;  
 ```
 
-### Consulta de datos con AS y operaciones:
+Consulta de datos con AS y operaciones:
 ```sql
 select number,number*2 as numberDoble from orders;
 ```
 
-###  Consulta DISCRIMINANDO datos: 
+ Consulta DISCRIMINANDO datos: 
 ```sql
 select * from users where not name='Dobliuw'
 -- Traer todos los registros de la tabla users menos cuando name = 'Dobliuw'
 ```
 
-### ORDENAR la consulta: 
+ORDENAR la consulta: 
 ```sql
 select * from orders order by number 
 -- Seleccionar todo de la tabla orders ordenado por numbers de manera ascendente
@@ -204,12 +204,12 @@ select * from orders order by number DESC
 
 ```
 
-### Consultar IGNORANDO REPETIDOS:
+Consultar IGNORANDO REPETIDOS:
 ```sql
 select distinct * from  users
 ```
 
-### Consultar LIMITANDO los resultados:
+Consultar LIMITANDO los resultados:
 ```sql
 -- Limitando la respuesta en 5 registros
 select * from users limit 5 
@@ -218,14 +218,14 @@ select * from users limit 5
 select * from users limit 3,5
 ```
 
-### Consultar con resultados RANDOM:
+Consultar con resultados RANDOM:
 ```sql
 -- Esta query constantemente arrojaria dos registros aleatorios 
 select * from users order by rand() limit 2 
 -- (Podrian ingresarse condiciones)
 ```
 
-### Consultar valores ENTRE un rango: 
+Consultar valores ENTRE un rango: 
 ```sql
 select * from users where user_id between 4 and 10
 
@@ -234,7 +234,7 @@ select * from users where user_id between 4 and 10
 select * from {db} where dates between 'yyyy-mm-dd' and 'yyyy-mm-dd'
 ```
 
-### Consultar valores con "REGEX" ( LIKE ):
+Consultar valores con "REGEX" ( LIKE ):
 ```sql
 -- Que empieze con 'D'
 select * from users where name like 'D%'
@@ -258,7 +258,7 @@ select * from users where name like 'D%w'
 select * from users where name like '_o_____'
 ```
 
-### Consultar valores con NULL y NOT NULL:
+Consultar valores con NULL y NOT NULL:
 ```sql
 -- Seleccionar todos los que sean nulos 
 select * from users where name is null order by ASC 
@@ -268,7 +268,7 @@ select * from uesrs where name is not null order by ASC
 
 ```
 
-### Consultar valores con IN: 
+Consultar valores con IN: 
 ```sql
 -- Seleccionar todos los registros que tengan un valor de user_id que este dentro de la tupla del in (3,4,5,6)
 select * from users where user_id in (3,4,5,6)
@@ -284,7 +284,7 @@ select * from users where user_id not in (3,4,5,6)
 
 # Subconsultas:  
 
-###  Funciónes de AGREGACIÓN: 
+ Funciónes de AGREGACIÓN: 
 ```sql
 -- ### IMPORTANTE ### -- 
 -- Las funciones de agregación retornan un resultado, es decir, por ejemplo, ROUND(AVG(user_id)), devuelve el redondeamiento del promedio de los user_id, ese resultado puede ser renombrado con "as", por ejemplo "ROUND(AVG(user_id)) as result" ahora, result va a   ser el resultado y es importante recordar que este ressultado...
@@ -309,7 +309,7 @@ select name as 'Nombre', MIN(user_id) as 'ID' from users where name is not null
 select name as 'Nombre', MAX(user_id) as 'ID' from users where name is not null
 ```
 
-### Consultas con GROUP BY y HAVING:
+Consultas con GROUP BY y HAVING:
 ```sql
 -- El GROUP BY se utiliza para agrupar registros
 select name as 'Nombre', ROUND(user_id / 2,2) as 'ID' from users group by user_id
@@ -324,7 +324,7 @@ having Precio >= 10
 limit 0,20;
 ```
 
-### ESTRUCTURA de una query: 
+ESTRUCTURA de una query: 
 ```sql
 SELECT....FROM....
 WHERE.....
@@ -334,7 +334,7 @@ ORDER BY....
 LIMIT....
 ```
 
-### Sub Consultas: 
+Sub Consultas: 
 ```sql
 -- Teniendo en cuenta que el select selecciona COLUMNAS, podriamos realizar una query (Subconsulta) la cual devuelva una columna
 
@@ -397,7 +397,7 @@ select name as Nombre, email as Correo from users where (select number from orde
 
 ```
 
-### Consultas con JOIN: 
+Consultas con JOIN: 
 
 - ### Cross JOIN: 
 ##### Sirve para unir tablas generando un nueva uniendo cada registro de manera multiplicada con los registros de la otra tabla, es decir, que si tengo una tabla de 3 registros y hago un cross join con otra tabla de 3 registros, voy a obtener una tabla con 9 registros, ya que estos se unen generando cada una de las posiblidades de union.
@@ -436,7 +436,7 @@ SELECT * FROM users INNER JOIN orders ON users.user_id=orders.user_id
 ```
 
 
-### Ejemplo: 
+Ejemplo: 
 ```sql 
 -- ON es como el WHERE pero cuando se usa INNER JOIN
 SELECT * FROM tabla1 
@@ -445,7 +445,7 @@ ON tabla1.nombre=tabla2.nombre
 ```
 ![[Pasted image 20230406112807.png]]
 
-### Ejemplo: 
+Ejemplo: 
 ```sql 
 -- ON es como el WHERE pero cuando se usa INNER JOIN
 SELECT * FROM tabla1 

@@ -5,11 +5,11 @@
 - Tags: #teoria #blue #phishing
 ----------
 # Phishing
-### Es una forma de ciberataque en la que los delincuentes intentan engañar a las personas para que revelen infromación confidencial, como contraseñas, números de tarje de crédito o información personal. Los atacantes suelen hacerse pasar por una entidad confiable, como un banco, una empresa, o una organización, con el fin de engañar a las víctimas.
+Es una forma de ciberataque en la que los delincuentes intentan engañar a las personas para que revelen infromación confidencial, como contraseñas, números de tarje de crédito o información personal. Los atacantes suelen hacerse pasar por una entidad confiable, como un banco, una empresa, o una organización, con el fin de engañar a las víctimas.
 
 ----
 # Protocolo SPF
-### **SPF** (**S**ender **P**olicy **F**ramework) es un **protocolo de autenticacion de correos** que permite al propietario de un dominio (Por ejemplo, **dobliuw.com**), especificar qué servidores de correo utilizará para el envío de e-mail desde ese dominio. El protocolo permite también que el receptor pueda confirmar que el srvidor que envía correos es legítimo, evitando que esos e-mails sean considerados como **spam** o **correos falsos**. 
+**SPF** (**S**ender **P**olicy **F**ramework) es un **protocolo de autenticacion de correos** que permite al propietario de un dominio (Por ejemplo, **dobliuw.com**), especificar qué servidores de correo utilizará para el envío de e-mail desde ese dominio. El protocolo permite también que el receptor pueda confirmar que el srvidor que envía correos es legítimo, evitando que esos e-mails sean considerados como **spam** o **correos falsos**. 
 
 ## ¿ Como funciona ?
 
@@ -22,7 +22,7 @@
 
 ------
 # Protocolo DKIM
-### El protocolo [DKIM](https://dkim.org/) (**Domain Keys Identified Mail**) es un protocolo que permite asociar un nombre de dominio a un mensaje mediante técnicas criptográficas. Al enviar un correo electrónico se incluye una **firma** o **huella digital** en su cabecera. Se trata de una marca única e intrasnferible que es muy díficil de falsificar. De esta forma, cuando el destinatario recibe un mensaje verifica la firma incluida en la cabecera, validando el mensaje y su procedencia. 
+El protocolo [DKIM](https://dkim.org/) (**Domain Keys Identified Mail**) es un protocolo que permite asociar un nombre de dominio a un mensaje mediante técnicas criptográficas. Al enviar un correo electrónico se incluye una **firma** o **huella digital** en su cabecera. Se trata de una marca única e intrasnferible que es muy díficil de falsificar. De esta forma, cuando el destinatario recibe un mensaje verifica la firma incluida en la cabecera, validando el mensaje y su procedencia. 
 
 ## ¿ Como funciona ? 
 
@@ -38,7 +38,7 @@
 
 -----
 # DMARC
-### DMARC (**Domain-based Message Authentication, Reporting and Conformance**) es un **estándar de autenticación** de correos electrónicos que verifica, tanto SPF, como DKIM permitiendo, además, a los propietarios de dominios dar indicaciones a los preveedores de correo electrónico (**ISP**), para actuar en caso de que detecte un ataque de suplantación o modificación de corres. De esta forma, aumenta nuestra capacidad de proteger un dominio ante un uso no autorizado o una suplantación de indentidad. 
+DMARC (**Domain-based Message Authentication, Reporting and Conformance**) es un **estándar de autenticación** de correos electrónicos que verifica, tanto SPF, como DKIM permitiendo, además, a los propietarios de dominios dar indicaciones a los preveedores de correo electrónico (**ISP**), para actuar en caso de que detecte un ataque de suplantación o modificación de corres. De esta forma, aumenta nuestra capacidad de proteger un dominio ante un uso no autorizado o una suplantación de indentidad. 
 
 ## ¿ Como funciona ? 
 
@@ -47,7 +47,7 @@
 - ### **Verificación SPF y DKIM**: El receptor también verifica si el mensaje cumple con las políticas SPF y DKIM del dominio del remitente. SPF verifica que el servidor de correo es autorizado para enviar correos en nombre del dominio y DKIM verifica la firma digital del mensaje.
 - ### **Acciones basadas en la Política DMARC**: Dependiendo de la política DMARC establecida por el dominio del remitente, el receptor toma una de las siguientes acciones: **Reject, Quarantine o None**.
 - ### **Informes y Monitoreo**: DMARC también permite a los propietarios de dominios recibir informes de los receptores sobre cómo se están manejando los correos electrónicos que afirman ser del dominio. Estos informes proporcionan datos que ayudan a los remitente a monitorear y mejorar la autenticación de sus correos electrónicos.
-### De cara a la definición de "receptores", nos referimos a: 
+De cara a la definición de "receptores", nos referimos a: 
 - ### Servidores de Correo Electrónico.
 - ### Sistemas de Filtrado de Corre.
 - ### Proveedores de Servicios de Correo.

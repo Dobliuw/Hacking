@@ -29,7 +29,7 @@ docker rm -f $(docker ps -a)ación
 
 ​￼￼￼Por ejemplo, supongamos que un usuario ￼￼'A'￼￼ tiene un pedido con el identificador numérico ￼￼123￼￼ y el usuario ￼￼'B'￼￼ tiene un pedido con el identificador numérico ￼￼124￼￼. Si el atacante intenta acceder a través de la URL ￼￼"http://example.com/orders/124"￼￼, la aplicación web podría permitir el acceso a este pedido sin validar si el usuario tiene permiso para acceder a él. De esta manera, el atacante podría acceder al pedido del usuario ￼￼'B'￼￼ sin la debida autorización. 
 
-### De manera que con el simple hecho de pr
+De manera que con el simple hecho de pr
 # Eliminar de manera forzadas todos los contenedores corriendo o no del sistema.
 docker exec 
 # Ejecutar comando o proceso en un container.

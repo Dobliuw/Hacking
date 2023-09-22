@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5369b48c66cae60d",
+        "id": "c18734696a048f1d",
         "type": "tabs",
         "children": [
           {
-            "id": "270fc326be9b0276",
+            "id": "b242ee148bbbf2f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Pass The Hash.md",
+                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d87715f71a76329c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ba4731f7d003b12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Silver Ticket Attack.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c48430a6fcf427d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Golden Ticket Attack.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71e94d03dc940d9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Diamond Ticket Attack.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
+                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
+                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md"
+                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md"
               }
             }
           },
@@ -215,9 +165,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d87715f71a76329c",
+  "active": "b242ee148bbbf2f1",
   "lastOpenFiles": [
+    "RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
+    "Untitled 1.canvas",
+    "2023-09-22.md",
+    "Untitled.canvas",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abusando de SeImpersonatePrivilege.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de AllowedToDelegate.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
+    "BlueTeam/Autenticación de Correos Electrónicos.md",
+    "BlueTeam/Defensive Tools/Sumo Logic/5. Alert Response.md",
+    "Excalidraw/Drawing 2023-09-22 11.24.07.excalidraw.md",
+    "Excalidraw",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Diamond Ticket Attack.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Golden Ticket Attack.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Silver Ticket Attack.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Pass The Hash.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
+    "BlueTeam/Defensive Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
+    "BlueTeam/Defensive Tools/Sumo Logic/2. Collectors, Sources & Metadata.md",
     "RedTeam/Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md",
     "RedTeam/Pentesting/Sistemas/Avanzado/iptables/Añadir tráfico con nuestra máquina.md",
     "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
@@ -228,23 +196,8 @@
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_2ndScenario.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_1stScenario.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Padding Oracle/CBC_padding.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Tipos de explotación.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Shells.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Reconocimiento a nivel de Sistema.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Payloads.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Drupal/Ganar acceso con Drupal comprometido.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Redacción de Informe Profesional/Untitled",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Untitled",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Drupal/Enumeración de Drupal.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Joomla.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Magento.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Fase de Reconocimiento.md",
-    "RedTeam/Pentesting/Sistemas/Basico/WRAPPERS.md",
-    "RedTeam/Pentesting/Sistemas/Basico/Tratamiento de la TTY.md",
-    "RedTeam/Pentesting/Sistemas/Basico/Conceptos Generales.md",
-    "RedTeam/Pentesting/Redes/Basico/Conexión.md",
     "-Images/keberos_authentication_flow.png",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Reconocimiento",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/1. Conceptos",
@@ -262,10 +215,7 @@
     "Pasted image 20230913091250.png",
     "-Images/automated_scan_owap_zap.png",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reverse Engineering",
     "Kerberos_Authentication_Flow.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas"
   ]
 }

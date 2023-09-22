@@ -8,27 +8,27 @@
 > Testo informativo 
 > de ejemplo del color del titulo 
 
-### Hipervinculos en [obsidian](https://raw.githubusercontent.com/ambionics/magento-exploits/master/magento-sqli.py)
+Hipervinculos en [obsidian](https://raw.githubusercontent.com/ambionics/magento-exploits/master/magento-sqli.py)
 
-### La letra se puede poner en *negrita*
+La letra se puede poner en *negrita*
 
-### Relaciones entre notas [[Enumeración de Wordpress]]
+Relaciones entre notas [[Enumeración de Wordpress]]
 
 ```python
 print(f"Esto es para injectar {comandos}")
 ```
 
-### Referencias, palabra a explicar o adjuntar links ---> **Linux** [^1]
+Referencias, palabra a explicar o adjuntar links ---> **Linux** [^1]
 
 [^1]:   El mejor sistema operativo del mundo
 
-### Tablas:
+Tablas:
 | wordpress | joomla | drupal | magento | 
 | ----------|---------|--------|-------|
 | wpscan | joomscan | droopescan | magescan | 
 
-### Ajustar imagenes: 
+Ajustar imagenes: 
 
 ![[Pasted image 20230215165507.png|200x200]]
 
-### about:config ---> browser.fixup.domainsuffixwhitelist.{termination_url}
+about:config ---> browser.fixup.domainsuffixwhitelist.{termination_url}
