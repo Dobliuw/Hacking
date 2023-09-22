@@ -11,11 +11,9 @@
             "id": "b242ee148bbbf2f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
-                "mode": "source",
-                "source": false
+                "file": "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
+                "file": "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
+                "file": "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md"
+                "file": "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md"
               }
             }
           },
@@ -167,10 +165,16 @@
   },
   "active": "b242ee148bbbf2f1",
   "lastOpenFiles": [
-    "RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
     "Untitled 1.canvas",
-    "2023-09-22.md",
+    "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
     "Untitled.canvas",
+    "2023-09-22.md",
+    "RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_2ndScenario.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_1stScenario.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF - (Server-Side Request Forgery).md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
+    "RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abusando de SeImpersonatePrivilege.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de AllowedToDelegate.md",
@@ -189,13 +193,6 @@
     "RedTeam/Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md",
     "RedTeam/Pentesting/Sistemas/Avanzado/iptables/Añadir tráfico con nuestra máquina.md",
     "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/4. Redacción de Informe Profesional/Redacción de reporte profesional en LaTeX.md",
-    "Tecnologías/Services/Kerberos/Kerberos.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/TTY Hijacking.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF - (Server-Side Request Forgery).md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_2ndScenario.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_1stScenario.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Redacción de Informe Profesional/Untitled",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Untitled",
     "-Images/keberos_authentication_flow.png",
