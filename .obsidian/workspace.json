@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "499a276b865f81c7",
+        "id": "65153b9d2fb84010",
         "type": "tabs",
         "children": [
           {
-            "id": "5dee6749b5b10996",
+            "id": "fc26cde015b92a8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
+                "file": "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
+                "file": "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
+                "file": "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md"
+                "file": "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md"
               }
             }
           },
@@ -166,20 +165,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dee6749b5b10996",
+  "active": "fc26cde015b92a8c",
   "lastOpenFiles": [
+    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
+    "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
+    "RedTeam/Pentesting/Redes/Basico/Conexión.md",
+    "RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
+    "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/RCE - (Remote Command Execution).md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Silver Ticket Attack.md",
-    "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "2023-09-22.md",
-    "RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_2ndScenario.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_1stScenario.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF - (Server-Side Request Forgery).md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
-    "RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abusando de SeImpersonatePrivilege.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de AllowedToDelegate.md",
@@ -193,10 +196,6 @@
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Pass The Hash.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
     "BlueTeam/Defensive Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
-    "BlueTeam/Defensive Tools/Sumo Logic/2. Collectors, Sources & Metadata.md",
-    "RedTeam/Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md",
-    "RedTeam/Pentesting/Sistemas/Avanzado/iptables/Añadir tráfico con nuestra máquina.md",
-    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Redacción de Informe Profesional/Untitled",
     "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Untitled",
     "-Images/keberos_authentication_flow.png",
