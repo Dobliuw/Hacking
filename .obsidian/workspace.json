@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c18734696a048f1d",
+        "id": "499a276b865f81c7",
         "type": "tabs",
         "children": [
           {
-            "id": "b242ee148bbbf2f1",
+            "id": "5dee6749b5b10996",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md"
+                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#blueteam",
+                "query": "gpg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md"
+                "file": "RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md"
               }
             }
           },
@@ -163,10 +166,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b242ee148bbbf2f1",
+  "active": "5dee6749b5b10996",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/RCE - (Remote Command Execution).md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Silver Ticket Attack.md",
     "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
     "2023-09-22.md",
     "RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
@@ -185,7 +190,6 @@
     "Excalidraw",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Diamond Ticket Attack.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Golden Ticket Attack.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Silver Ticket Attack.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Pass The Hash.md",
     "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
     "BlueTeam/Defensive Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
