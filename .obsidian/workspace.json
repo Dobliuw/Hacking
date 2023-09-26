@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "93068e6411ae6b55",
+    "id": "e83916fde2e8eac4",
     "type": "split",
     "children": [
       {
-        "id": "65153b9d2fb84010",
+        "id": "d9be84718b717d14",
         "type": "tabs",
         "children": [
           {
-            "id": "fc26cde015b92a8c",
+            "id": "e78a7dcdcc0492df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
+                "file": "BlueTeam/Phishing Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f6aa01e8be1da8bf",
+    "id": "3bec8483197d195f",
     "type": "split",
     "children": [
       {
-        "id": "46c2cda960199b77",
+        "id": "88e6b3daa2e7bda2",
         "type": "tabs",
         "children": [
           {
-            "id": "9fb90ef01464b840",
+            "id": "e88a780709720b6e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "fbf4086a2467eaa2",
+            "id": "bea3b7d9ed31db3d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "gpg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,15 +58,7 @@
             }
           },
           {
-            "id": "3df58ccc68de2664",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "00727ab08bb3aaea",
+            "id": "7a0e5ea110dfa532",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 300
   },
   "right": {
-    "id": "b87cea5314681bda",
+    "id": "3316531e5ebff0ff",
     "type": "split",
     "children": [
       {
-        "id": "947e71615f0159cd",
+        "id": "e60c50df1b324f9e",
         "type": "tabs",
         "children": [
           {
-            "id": "72c29723854532da",
+            "id": "7742e22e32cbe445",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
+                "file": "BlueTeam/Phishing Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +97,19 @@
             }
           },
           {
-            "id": "85f797c18db25071",
+            "id": "9337fcab88f14c71",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
+                "file": "BlueTeam/Phishing Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ffe2e8eb73b31631",
+            "id": "ae7571c28421b94f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,22 +120,22 @@
             }
           },
           {
-            "id": "7cc6261e42a7bb8c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md"
-              }
-            }
-          },
-          {
-            "id": "f4fa611d002aea86",
+            "id": "67e9ccb3bca18b93",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "5641c6a73ddba107",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BlueTeam/Phishing Analysis.md"
               }
             }
           }
@@ -156,66 +148,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "fc26cde015b92a8c",
-  "lastOpenFiles": [
-    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
-    "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
-    "RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
-    "RedTeam/Pentesting/Redes/Basico/Conexión.md",
-    "RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
-    "RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/RCE - (Remote Command Execution).md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Silver Ticket Attack.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "2023-09-22.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_2ndScenario.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_1stScenario.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF - (Server-Side Request Forgery).md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abusando de SeImpersonatePrivilege.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de AllowedToDelegate.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
-    "BlueTeam/Autenticación de Correos Electrónicos.md",
-    "BlueTeam/Defensive Tools/Sumo Logic/5. Alert Response.md",
-    "Excalidraw/Drawing 2023-09-22 11.24.07.excalidraw.md",
-    "Excalidraw",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Diamond Ticket Attack.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Golden Ticket Attack.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Pass The Hash.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
-    "BlueTeam/Defensive Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Redacción de Informe Profesional/Untitled",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/Reconocimiento/Untitled",
-    "-Images/keberos_authentication_flow.png",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Reconocimiento",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/1. Conceptos",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns",
-    "Tecnologías/Services/Kerberos",
-    "Tecnologías/Services",
-    "Tecnologías/Lenguajes y Tools",
-    "-Images/DMARC_standard.png",
-    "-Images/DKIM_protocol.png",
-    "-Images/SPF_Protocol.png",
-    "-Images/include_in_context_zap.png",
-    "-Images/alerts_zap.png",
-    "-Images/manual_explore_zap.png",
-    "-Images/import_openapi_definition_zap.png",
-    "Pasted image 20230913091250.png",
-    "-Images/automated_scan_owap_zap.png",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación",
-    "Kerberos_Authentication_Flow.canvas",
-    "Pentesting/OS/Windows/Active Directory/Kerberos_Authentication_Flow.canvas"
-  ]
+  "active": "e78a7dcdcc0492df",
+  "lastOpenFiles": []
 }
