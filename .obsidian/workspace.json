@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d9be84718b717d14",
+        "id": "4e207cf03629461b",
         "type": "tabs",
         "children": [
           {
-            "id": "e78a7dcdcc0492df",
+            "id": "7cfd68787a1238d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlueTeam/Phishing Analysis.md",
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "blood",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 399.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BlueTeam/Phishing Analysis.md",
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BlueTeam/Phishing Analysis.md",
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BlueTeam/Phishing Analysis.md"
+                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md"
               }
             }
           }
@@ -148,6 +149,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -156,6 +158,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e78a7dcdcc0492df",
-  "lastOpenFiles": []
+  "active": "7cfd68787a1238d1",
+  "lastOpenFiles": [
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. WINRM - (Windows Rremote Management).md",
+    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow.md",
+    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
+    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SCF File Attacks - (Shell Command File).md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. SMB - (Server Message Block).md",
+    "RedTeam/Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/AS-REP Roast Attack.md",
+    "RedTeam/Pentesting/Sistemas/Herramientas/Nmap.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Fase de Reconocimiento.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Enumeración y explotación de WebDAV.md",
+    "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Enumeración y explotación de SQUID Proxies.md",
+    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Shellcodes.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Scripting en Bash.md",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
+    "BlueTeam/Phishing/Autenticación de Correos Electrónicos.md",
+    "BlueTeam/Phishing",
+    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Atajos de consola.md",
+    "BlueTeam/Phishing/Phishing Analysis.md"
+  ]
 }
