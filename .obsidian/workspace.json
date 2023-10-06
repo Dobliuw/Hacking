@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "601c7e49c3054662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes_Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -159,8 +171,10 @@
   },
   "active": "d3c015026641388b",
   "lastOpenFiles": [
+    "Notes/indexer.py",
     "Notes_Index.md",
     "README.md",
+    "Notes/test.py",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
     "Notes/Notes.md",
     "Notes",
@@ -202,8 +216,6 @@
     "Notes/3. Hacking",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. WINRM - (Windows Rremote Management).md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
-    "Notes/3. Hacking/BlueTeam/Phishing"
+    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md"
   ]
 }

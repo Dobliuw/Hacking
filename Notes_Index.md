@@ -1,252 +1,248 @@
-.
-├[[ 1. Tomar Nota]]
-│   ├[[ Obsidian.md]]
-│   └[[ Vim.md]]
-├[[ 2. Sistema]]
-│   └[[ Formatos Ejecutables]]
-│       └[[ Windows]]
-│           ├[[ Graficos]]
-│           │   └[[ PE_Format.draw.md]]
-│           └[[ Portable Executable - Formato PE.md]]
-├[[ 3. Hacking]]
-│   ├[[ BlueTeam]]
-│   │   ├[[ API Sec]]
-│   │   │   ├[[ API - (Application Programming Interfaces).md]]
-│   │   │   ├[[ Los 3 pilares - (API Sec).md]]
-│   │   │   ├[[ Mejores prácticas.md]]
-│   │   │   └[[ OWASP Top 10 API.md]]
-│   │   ├[[ Defensive Tools]]
-│   │   │   └[[ Sumo Logic]]
-│   │   │       ├[[ 1. Sumo Logic & Estrategía de Recolección de datos.md]]
-│   │   │       ├[[ 2. Collectors, Sources & Metadata.md]]
-│   │   │       ├[[ 3. Ingestión de Datos y Niveles de Datos.md]]
-│   │   │       ├[[ 4. Data Search (Métricas, Tracing).md]]
-│   │   │       ├[[ 5. Alert Response.md]]
-│   │   │       └[[ Create a collector (Linux)]]
-│   │   │           └[[ Creating my first collector.md]]
-│   │   ├[[ Malware analysis in PDF's.md]]
-│   │   ├[[ Malware Analysis in Windows 10.md]]
-│   │   └[[ Phishing]]
-│   │       ├[[ Autenticación de Correos Electrónicos.md]]
-│   │       └[[ Phishing Analysis.md]]
-│   └[[ RedTeam]]
-│       └[[ Pentesting]]
-│           ├[[ Entorno]]
-│           │   └[[ Personalización de Entorno de Hacking.md]]
-│           ├[[ Redes]]
-│           │   ├[[ Basico]]
-│           │   │   ├[[ Conceptos Basicos.md]]
-│           │   │   └[[ Conexión.md]]
-│           │   └[[ Explotación]]
-│           │       ├[[ ConexionesWiFi_draw.md]]
-│           │       ├[[ DEAUTHENTICATION_ATTACK_draw.md]]
-│           │       └[[ Hacking WiFi.md]]
-│           └[[ Sistemas]]
-│               ├[[ Avanzado]]
-│               │   ├[[ Buffer Overflow]]
-│               │   │   ├[[ Buffer Overflow Escenarios]]
-│               │   │   │   ├[[ Buffer Overflow básico x86.md]]
-│               │   │   │   └[[ Buffer Overflow x86 linux.md]]
-│               │   │   ├[[ Buffer Overflow.md]]
-│               │   │   └[[ Shellcodes.md]]
-│               │   ├[[ iptables]]
-│               │   │   └[[ Añadir tráfico con nuestra máquina.md]]
-│               │   └[[ pivoting]]
-│               │       └[[ Pivoting.md]]
-│               ├[[ Basico]]
-│               │   ├[[ Conceptos Generales.md]]
-│               │   ├[[ Hashes NT, NTLM y NTLMv2.md]]
-│               │   ├[[ Tratamiento de la TTY.md]]
-│               │   └[[ WRAPPERS.md]]
-│               ├[[ Fases Auditoria]]
-│               │   ├[[ 1. Reconocimiento]]
-│               │   │   ├[[ Binarys]]
-│               │   │   │   ├[[ Gdb.md]]
-│               │   │   │   └[[ Radare2.md]]
-│               │   │   ├[[ Enumeración y explotación de SQUID Proxies.md]]
-│               │   │   ├[[ Enumeración y explotación de WebDAV.md]]
-│               │   │   ├[[ Fase de Reconocimiento.md]]
-│               │   │   ├[[ Gestores De Contenido]]
-│               │   │   │   ├[[ Drupal]]
-│               │   │   │   │   ├[[ Enumeración de Drupal.md]]
-│               │   │   │   │   └[[ Ganar acceso con Drupal comprometido.md]]
-│               │   │   │   ├[[ Joomla.md]]
-│               │   │   │   ├[[ Magento.md]]
-│               │   │   │   └[[ Wordpress]]
-│               │   │   │       └[[ Enumeración de Wordpress.md]]
-│               │   │   ├[[ IIS]]
-│               │   │   │   └[[ IIS - (Internet Information Service).md]]
-│               │   │   ├[[ Nube]]
-│               │   │   │   ├[[ Certificados SSL.md]]
-│               │   │   │   ├[[ Enumerar Amazon Web Service.md]]
-│               │   │   │   ├[[ Git Dorking.md]]
-│               │   │   │   └[[ Google Dorking.md]]
-│               │   │   └[[ Protocolos]]
-│               │   │       ├[[ TCP]]
-│               │   │       │   ├[[ Enum. DNS - (Domain Name Services).md]]
-│               │   │       │   ├[[ Enum. GlusterFS.md]]
-│               │   │       │   ├[[ Enum. Kerberos.md]]
-│               │   │       │   ├[[ Enum. LDAP - ( Lighweight Directory Access Protocol ).md]]
-│               │   │       │   ├[[ Enum. Redis.md]]
-│               │   │       │   ├[[ Enum. RPC - ( Remote Procedure Call ).md]]
-│               │   │       │   ├[[ Enum. SMB - (Server Message Block).md]]
-│               │   │       │   ├[[ Enum WHOIS - (Port 43).md]]
-│               │   │       │   ├[[ Enum. WINRM - (Windows Rremote Management).md]]
-│               │   │       │   └[[ Robar data por ICMP.md]]
-│               │   │       └[[ UDP]]
-│               │   │           └[[ Enumeración del servicio SNMP.md]]
-│               │   ├[[ 2. Explotación]]
-│               │   │   ├[[ Conceptos Expotacion]]
-│               │   │   │   ├[[ Payloads.md]]
-│               │   │   │   ├[[ Reconocimiento a nivel de Sistema.md]]
-│               │   │   │   ├[[ Shells.md]]
-│               │   │   │   └[[ Tipos de explotación.md]]
-│               │   │   └[[ Vulnerabilidades]]
-│               │   │       ├[[ Abuso de enlaces simbólicos.md]]
-│               │   │       ├[[ Abuso de subidas de archivos.md]]
-│               │   │       ├[[ Abuso de USER INPUT.md]]
-│               │   │       ├[[ Abuso de xmlrpc.php en Wordpress.md]]
-│               │   │       ├[[ Análisis de metadatos en documentos.md]]
-│               │   │       ├[[ API Abuse]]
-│               │   │       │   ├[[ Explotación]]
-│               │   │       │   │   ├[[ Abuso de APIs.md]]
-│               │   │       │   │   └[[ Encontrar misconfigurations.md]]
-│               │   │       │   └[[ Reconocimiento]]
-│               │   │       │       └[[ API]]
-│               │   │       │           ├[[ Reconocimiento Activo.md]]
-│               │   │       │           ├[[ Reconocimiento Pasivo.md]]
-│               │   │       │           └[[ Reverse Engineering]]
-│               │   │       │               └[[ Reverse Engineering an API.md]]
-│               │   │       ├[[ Ataque de Deserialización Yaml - (DES-Yaml).md]]
-│               │   │       ├[[ Ataque de Truncado SQL - ( SQL Truncation ).md]]
-│               │   │       ├[[ Ataques de transferencia de zona - ( AXFR - Full Zone Transfer ).md]]
-│               │   │       ├[[ Conexión via SSH con Kerberos.md]]
-│               │   │       ├[[ CORS - ( Intercambio de recursos de origin cruzado ).md]]
-│               │   │       ├[[ CRLF (%0d%0a) Injection.md]]
-│               │   │       ├[[ CSRF - (Cross-Side Request Forgery).md]]
-│               │   │       ├[[ CSSI - CSS Injections.md]]
-│               │   │       ├[[ CSTI - (Client-Side Template Injection).md]]
-│               │   │       ├[[ Deserialization Attack - (Ataques de Deserialización).md]]
-│               │   │       ├[[ DES-Pickle - ( Ataque de Deserialización Pickle ) - Python.md]]
-│               │   │       ├[[ Firma Digital para Cookies.md]]
-│               │   │       ├[[ GraphQL Introspection, Mutations e IDORs.md]]
-│               │   │       ├[[ H2 Console.md]]
-│               │   │       ├[[ IDORs - ( Insecure Direct Object Reference ).md]]
-│               │   │       ├[[ Inyecciones LDAP.md]]
-│               │   │       ├[[ Inyecciones XPath.md]]
-│               │   │       ├[[ JWT - (JSON Web Tokens) Enumeración y explotación.md]]
-│               │   │       ├[[ LaTeX Injections - ( Inyecciones LaTex ).md]]
-│               │   │       ├[[ LFI - (Local File Inclusion).md]]
-│               │   │       ├[[ Mass-Assignment (AttackAtaques de asignación masiva) - Parameter Binding.md]]
-│               │   │       ├[[ NoSQLI - (NoSQL Injections).md]]
-│               │   │       ├[[ Open Redirect.md]]
-│               │   │       ├[[ Openssl Cipher Decryption.md]]
-│               │   │       ├[[ Padding Oracle]]
-│               │   │       │   ├[[ CBC_padding.md]]
-│               │   │       │   └[[ Padding Oracle (Ataque de oráculo de relleno).md]]
-│               │   │       ├[[ Prototype Pollution.md]]
-│               │   │       ├[[ Race Conditions - Condiciones de carrera.md]]
-│               │   │       ├[[ RCE - (Remote Command Execution).md]]
-│               │   │       ├[[ RFI - (Remote File Inclusion).md]]
-│               │   │       ├[[ SCF File Attacks - (Shell Command File).md]]
-│               │   │       ├[[ Session Puzzling - Session Fixation - Session Variable Overloading.md]]
-│               │   │       ├[[ ShellShock.md]]
-│               │   │       ├[[ SQLI - (Inyecciones SQL).md]]
-│               │   │       ├[[ SSRF]]
-│               │   │       │   ├[[ SSRF_1stScenario.md]]
-│               │   │       │   ├[[ SSRF_2ndScenario.md]]
-│               │   │       │   └[[ SSRF - (Server-Side Request Forgery).md]]
-│               │   │       ├[[ SSTI - (Server-Side Template Injection).md]]
-│               │   │       ├[[ Type Juggling - (Cambio de tipo).md]]
-│               │   │       ├[[ XSS  - ( Cross-Site Scripting ).md]]
-│               │   │       └[[ XXE - (XML External Entity Injection ).md]]
-│               │   ├[[ 3. Escalada de Privilegios]]
-│               │   │   ├[[ Abusando de privilegios SUID.md]]
-│               │   │   ├[[ Abuso de binarios específicos.md]]
-│               │   │   ├[[ Abuso de grupos de usuario especiales.md]]
-│               │   │   ├[[ Abuso de permisos incorrectamente implementados.md]]
-│               │   │   ├[[ Abuso de privilegios a nivel de Sudoers.md]]
-│               │   │   ├[[ Abuso de privilegios de escritura en DB's.md]]
-│               │   │   ├[[ Abuso de rsync.md]]
-│               │   │   ├[[ Abuso de servicios internos del sistema.md]]
-│               │   │   ├[[ Abuso de sistema de archivos montados.md]]
-│               │   │   ├[[ Análisis de archivos .jar.md]]
-│               │   │   ├[[ Base de datos de contraseñas con Keepass.md]]
-│               │   │   ├[[ Crack GPG messages - ( GNU Privacy  Guard ).md]]
-│               │   │   ├[[ Detección y explotación de Capabilities.md]]
-│               │   │   ├[[ Detección y explotación de tareas Cron.md]]
-│               │   │   ├[[ Docker Breakout.md]]
-│               │   │   ├[[ Explotación del Kernel.md]]
-│               │   │   ├[[ Keepass master key crack .dmp.md]]
-│               │   │   ├[[ PATH Hijacking.md]]
-│               │   │   ├[[ Python Library Hijacking.md]]
-│               │   │   ├[[ Secuestro de la biblioteca de objetos compartidos enlazados dinámicamente.md]]
-│               │   │   ├[[ Sesiones de firefox.md]]
-│               │   │   └[[ TTY Hijacking.md]]
-│               │   └[[ 4. Redacción de Informe Profesional]]
-│               │       └[[ Redacción de reporte profesional en LaTeX.md]]
-│               ├[[ Herramientas]]
-│               │   ├[[ Burpsuite.md]]
-│               │   ├[[ Debugging con pdb en Python.md]]
-│               │   ├[[ ⚒ Herramientas ⚒.md]]
-│               │   ├[[ Metasploit.md]]
-│               │   ├[[ Nmap.md]]
-│               │   ├[[ Postman.md]]
-│               │   └[[ SQLMap.md]]
-│               └[[ Sistemas Operativos]]
-│                   ├[[ Linux]]
-│                   │   ├[[ Atajos de consola.md]]
-│                   │   ├[[ Commands.md]]
-│                   │   └[[ Scripting en Bash.md]]
-│                   └[[ Windows]]
-│                       ├[[ Active Directory]]
-│                       │   ├[[ Active Directory.md]]
-│                       │   └[[ Reconocimiento]]
-│                       │       └[[ Active Directory Recon.md]]
-│                       ├[[ Batch Scripting.md]]
-│                       ├[[ Commands.md]]
-│                       ├[[ Privilege Scalation]]
-│                       │   ├[[ Abusando de SeImpersonatePrivilege.md]]
-│                       │   ├[[ Abuso de AllowedToDelegate.md]]
-│                       │   ├[[ Abuso de AlwaysInstallElevated.md]]
-│                       │   ├[[ Abuso de binarios específicos.md]]
-│                       │   ├[[ Abuso de grupo 'Server Operators'.md]]
-│                       │   ├[[ Abuso de SeBackupPrivilege.md]]
-│                       │   ├[[ Intentos Básicos.md]]
-│                       │   └[[ Print Spooler (PrintNightmare).md]]
-│                       ├[[ Recopilación de información del sistema..md]]
-│                       └[[ Vulnerabilidades]]
-│                           ├[[ Abuso de ForceChangePassword.md]]
-│                           ├[[ Abuso de ReadGMSAPassword.md]]
-│                           ├[[ DCsync Attack.md]]
-│                           ├[[ DNS Record Injection.md]]
-│                           ├[[ ICMP Reverse Shell (PowerShell).md]]
-│                           ├[[ Kerberos Vulns]]
-│                           │   ├[[ AS-REP Roast Attack.md]]
-│                           │   ├[[ Diamond Ticket Attack.md]]
-│                           │   ├[[ Golden Ticket Attack.md]]
-│                           │   ├[[ Kerberoasting Attack.md]]
-│                           │   └[[ Silver Ticket Attack.md]]
-│                           ├[[ Lsass dump analisis.md]]
-│                           ├[[ Pass The Hash.md]]
-│                           └[[ Resource-based Constraint Delegation.md]]
-├[[ 4. Tecnologías]]
-│   ├[[ Lenguajes y Tools]]
-│   │   ├[[ Docker.md]]
-│   │   ├[[ Git.md]]
-│   │   ├[[ MongoDB.md]]
-│   │   ├[[ PHP.md]]
-│   │   ├[[ Python.md]]
-│   │   ├[[ SQL]]
-│   │   │   ├[[ MSSQL.md]]
-│   │   │   ├[[ MySQL.md]]
-│   │   │   ├[[ PostgreSQL.md]]
-│   │   │   └[[ SQL.md]]
-│   │   └[[ Sqlite3.md]]
-│   └[[ Services]]
-│       └[[ Kerberos]]
-│           ├[[ KERBEROS_AUTHETICATION_FLOW.md]]
-│           └[[ Kerberos.md]]
-└[[ Notes.md]]
-
-63 directories, 187 files
+[1. Tomar Nota](1. Tomar Nota)
+└ [Vim.md](./1. Tomar Nota/Vim.md)
+└ [Obsidian.md](./1. Tomar Nota/Obsidian.md)
+[4. Tecnologías](4. Tecnologías)
+[Lenguajes y Tools](Lenguajes y Tools)
+└ [Python.md](./4. Tecnologías/Lenguajes y Tools/Python.md)
+└ [Docker.md](./4. Tecnologías/Lenguajes y Tools/Docker.md)
+└ [Sqlite3.md](./4. Tecnologías/Lenguajes y Tools/Sqlite3.md)
+└ [MongoDB.md](./4. Tecnologías/Lenguajes y Tools/MongoDB.md)
+└ [PHP.md](./4. Tecnologías/Lenguajes y Tools/PHP.md)
+└ [Git.md](./4. Tecnologías/Lenguajes y Tools/Git.md)
+[SQL](SQL)
+└ [MSSQL.md](./4. Tecnologías/Lenguajes y Tools/SQL/MSSQL.md)
+└ [SQL.md](./4. Tecnologías/Lenguajes y Tools/SQL/SQL.md)
+└ [PostgreSQL.md](./4. Tecnologías/Lenguajes y Tools/SQL/PostgreSQL.md)
+└ [MySQL.md](./4. Tecnologías/Lenguajes y Tools/SQL/MySQL.md)
+[Services](Services)
+[Kerberos](Kerberos)
+└ [KERBEROS_AUTHETICATION_FLOW.md](./4. Tecnologías/Services/Kerberos/KERBEROS_AUTHETICATION_FLOW.md)
+└ [Kerberos.md](./4. Tecnologías/Services/Kerberos/Kerberos.md)
+[3. Hacking](3. Hacking)
+[BlueTeam](BlueTeam)
+└ [Malware Analysis in Windows 10.md](./3. Hacking/BlueTeam/Malware Analysis in Windows 10.md)
+└ [Malware analysis in PDF's.md](./3. Hacking/BlueTeam/Malware analysis in PDF's.md)
+[API Sec](API Sec)
+└ [OWASP Top 10 API.md](./3. Hacking/BlueTeam/API Sec/OWASP Top 10 API.md)
+└ [API - (Application Programming Interfaces).md](./3. Hacking/BlueTeam/API Sec/API - (Application Programming Interfaces).md)
+└ [Mejores prácticas.md](./3. Hacking/BlueTeam/API Sec/Mejores prácticas.md)
+└ [Los 3 pilares - (API Sec).md](./3. Hacking/BlueTeam/API Sec/Los 3 pilares - (API Sec).md)
+[Phishing](Phishing)
+└ [Phishing Analysis.md](./3. Hacking/BlueTeam/Phishing/Phishing Analysis.md)
+└ [Autenticación de Correos Electrónicos.md](./3. Hacking/BlueTeam/Phishing/Autenticación de Correos Electrónicos.md)
+[Defensive Tools](Defensive Tools)
+[Sumo Logic](Sumo Logic)
+└ [2. Collectors, Sources & Metadata.md](./3. Hacking/BlueTeam/Defensive Tools/Sumo Logic/2. Collectors, Sources & Metadata.md)
+└ [5. Alert Response.md](./3. Hacking/BlueTeam/Defensive Tools/Sumo Logic/5. Alert Response.md)
+└ [4. Data Search (Métricas, Tracing).md](./3. Hacking/BlueTeam/Defensive Tools/Sumo Logic/4. Data Search (Métricas, Tracing).md)
+└ [3. Ingestión de Datos y Niveles de Datos.md](./3. Hacking/BlueTeam/Defensive Tools/Sumo Logic/3. Ingestión de Datos y Niveles de Datos.md)
+└ [1. Sumo Logic & Estrategía de Recolección de datos.md](./3. Hacking/BlueTeam/Defensive Tools/Sumo Logic/1. Sumo Logic & Estrategía de Recolección de datos.md)
+[Create a collector (Linux)](Create a collector (Linux))
+└ [Creating my first collector.md](./3. Hacking/BlueTeam/Defensive Tools/Sumo Logic/Create a collector (Linux)/Creating my first collector.md)
+[RedTeam](RedTeam)
+[Pentesting](Pentesting)
+[Sistemas](Sistemas)
+[Herramientas](Herramientas)
+└ [Nmap.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Herramientas/Nmap.md)
+└ [Burpsuite.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Herramientas/Burpsuite.md)
+└ [SQLMap.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Herramientas/SQLMap.md)
+└ [Postman.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Herramientas/Postman.md)
+└ [Debugging con pdb en Python.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Herramientas/Debugging con pdb en Python.md)
+└ [Metasploit.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Herramientas/Metasploit.md)
+└ [⚒ Herramientas ⚒.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md)
+[Fases Auditoria](Fases Auditoria)
+[1. Reconocimiento](1. Reconocimiento)
+└ [Fase de Reconocimiento.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Fase de Reconocimiento.md)
+└ [Enumeración y explotación de WebDAV.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Enumeración y explotación de WebDAV.md)
+└ [Enumeración y explotación de SQUID Proxies.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Enumeración y explotación de SQUID Proxies.md)
+[IIS](IIS)
+└ [IIS - (Internet Information Service).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/IIS/IIS - (Internet Information Service).md)
+[Nube](Nube)
+└ [Google Dorking.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Nube/Google Dorking.md)
+└ [Git Dorking.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Nube/Git Dorking.md)
+└ [Certificados SSL.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Nube/Certificados SSL.md)
+└ [Enumerar Amazon Web Service.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Nube/Enumerar Amazon Web Service.md)
+[Binarys](Binarys)
+└ [Gdb.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Binarys/Gdb.md)
+└ [Radare2.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Binarys/Radare2.md)
+[Gestores De Contenido](Gestores De Contenido)
+└ [Joomla.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Joomla.md)
+└ [Magento.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Magento.md)
+[Wordpress](Wordpress)
+└ [Enumeración de Wordpress.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md)
+[Drupal](Drupal)
+└ [Ganar acceso con Drupal comprometido.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Drupal/Ganar acceso con Drupal comprometido.md)
+└ [Enumeración de Drupal.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Drupal/Enumeración de Drupal.md)
+[Protocolos](Protocolos)
+[TCP](TCP)
+└ [Enum. Redis.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. Redis.md)
+└ [Robar data por ICMP.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Robar data por ICMP.md)
+└ [Enum. WINRM - (Windows Rremote Management).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. WINRM - (Windows Rremote Management).md)
+└ [Enum. GlusterFS.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. GlusterFS.md)
+└ [Enum. DNS - (Domain Name Services).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. DNS - (Domain Name Services).md)
+└ [Enum. SMB - (Server Message Block).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. SMB - (Server Message Block).md)
+└ [Enum. RPC - ( Remote Procedure Call ).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. RPC - ( Remote Procedure Call ).md)
+└ [Enum. Kerberos.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. Kerberos.md)
+└ [Enum. LDAP - ( Lighweight Directory Access Protocol ).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md)
+└ [Enum WHOIS - (Port 43).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum WHOIS - (Port 43).md)
+[UDP](UDP)
+└ [Enumeración del servicio SNMP.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/UDP/Enumeración del servicio SNMP.md)
+[4. Redacción de Informe Profesional](4. Redacción de Informe Profesional)
+└ [Redacción de reporte profesional en LaTeX.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/4. Redacción de Informe Profesional/Redacción de reporte profesional en LaTeX.md)
+[2. Explotación](2. Explotación)
+[Conceptos Expotacion](Conceptos Expotacion)
+└ [Shells.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Shells.md)
+└ [Payloads.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Payloads.md)
+└ [Reconocimiento a nivel de Sistema.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Reconocimiento a nivel de Sistema.md)
+└ [Tipos de explotación.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Tipos de explotación.md)
+[Vulnerabilidades](Vulnerabilidades)
+└ [Race Conditions - Condiciones de carrera.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Race Conditions - Condiciones de carrera.md)
+└ [SSTI - (Server-Side Template Injection).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSTI - (Server-Side Template Injection).md)
+└ [XSS  - ( Cross-Site Scripting ).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/XSS  - ( Cross-Site Scripting ).md)
+└ [Mass-Assignment (AttackAtaques de asignación masiva) - Parameter Binding.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Mass-Assignment (AttackAtaques de asignación masiva) - Parameter Binding.md)
+└ [JWT - (JSON Web Tokens) Enumeración y explotación.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/JWT - (JSON Web Tokens) Enumeración y explotación.md)
+└ [SCF File Attacks - (Shell Command File).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SCF File Attacks - (Shell Command File).md)
+└ [CSTI - (Client-Side Template Injection).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CSTI - (Client-Side Template Injection).md)
+└ [Abuso de enlaces simbólicos.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de enlaces simbólicos.md)
+└ [LFI - (Local File Inclusion).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md)
+└ [H2 Console.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/H2 Console.md)
+└ [Firma Digital para Cookies.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Firma Digital para Cookies.md)
+└ [Session Puzzling - Session Fixation - Session Variable Overloading.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Session Puzzling - Session Fixation - Session Variable Overloading.md)
+└ [CRLF (%0d%0a) Injection.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CRLF (%0d%0a) Injection.md)
+└ [Inyecciones LDAP.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Inyecciones LDAP.md)
+└ [Abuso de xmlrpc.php en Wordpress.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md)
+└ [Conexión via SSH con Kerberos.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Conexión via SSH con Kerberos.md)
+└ [Abuso de subidas de archivos.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de subidas de archivos.md)
+└ [LaTeX Injections - ( Inyecciones LaTex ).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md)
+└ [NoSQLI - (NoSQL Injections).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/NoSQLI - (NoSQL Injections).md)
+└ [CSSI - CSS Injections.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CSSI - CSS Injections.md)
+└ [CORS - ( Intercambio de recursos de origin cruzado ).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CORS - ( Intercambio de recursos de origin cruzado ).md)
+└ [RFI - (Remote File Inclusion).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/RFI - (Remote File Inclusion).md)
+└ [Ataque de Deserialización Yaml - (DES-Yaml).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Ataque de Deserialización Yaml - (DES-Yaml).md)
+└ [IDORs - ( Insecure Direct Object Reference ).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/IDORs - ( Insecure Direct Object Reference ).md)
+└ [GraphQL Introspection, Mutations e IDORs.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/GraphQL Introspection, Mutations e IDORs.md)
+└ [ShellShock.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/ShellShock.md)
+└ [Deserialization Attack - (Ataques de Deserialización).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Deserialization Attack - (Ataques de Deserialización).md)
+└ [RCE - (Remote Command Execution).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/RCE - (Remote Command Execution).md)
+└ [Ataque de Truncado SQL - ( SQL Truncation ).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Ataque de Truncado SQL - ( SQL Truncation ).md)
+└ [CSRF - (Cross-Side Request Forgery).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CSRF - (Cross-Side Request Forgery).md)
+└ [Análisis de metadatos en documentos.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Análisis de metadatos en documentos.md)
+└ [Openssl Cipher Decryption.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Openssl Cipher Decryption.md)
+└ [XXE - (XML External Entity Injection ).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/XXE - (XML External Entity Injection ).md)
+└ [Prototype Pollution.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Prototype Pollution.md)
+└ [Abuso de USER INPUT.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de USER INPUT.md)
+└ [Type Juggling - (Cambio de tipo).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Type Juggling - (Cambio de tipo).md)
+└ [Ataques de transferencia de zona - ( AXFR - Full Zone Transfer ).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Ataques de transferencia de zona - ( AXFR - Full Zone Transfer ).md)
+└ [Inyecciones XPath.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Inyecciones XPath.md)
+└ [DES-Pickle - ( Ataque de Deserialización Pickle ) - Python.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/DES-Pickle - ( Ataque de Deserialización Pickle ) - Python.md)
+└ [SQLI - (Inyecciones SQL).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md)
+└ [Open Redirect.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Open Redirect.md)
+[Padding Oracle](Padding Oracle)
+└ [CBC_padding.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Padding Oracle/CBC_padding.md)
+└ [Padding Oracle (Ataque de oráculo de relleno).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Padding Oracle/Padding Oracle (Ataque de oráculo de relleno).md)
+[SSRF](SSRF)
+└ [SSRF - (Server-Side Request Forgery).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF - (Server-Side Request Forgery).md)
+└ [SSRF_2ndScenario.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_2ndScenario.md)
+└ [SSRF_1stScenario.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_1stScenario.md)
+[API Abuse](API Abuse)
+[Explotación](Explotación)
+└ [Abuso de APIs.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación/Abuso de APIs.md)
+└ [Encontrar misconfigurations.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación/Encontrar misconfigurations.md)
+[Reconocimiento](Reconocimiento)
+[API](API)
+└ [Reconocimiento Activo.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reconocimiento Activo.md)
+└ [Reconocimiento Pasivo.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reconocimiento Pasivo.md)
+[Reverse Engineering](Reverse Engineering)
+└ [Reverse Engineering an API.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Reconocimiento/API/Reverse Engineering/Reverse Engineering an API.md)
+[3. Escalada de Privilegios](3. Escalada de Privilegios)
+└ [Sesiones de firefox.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Sesiones de firefox.md)
+└ [Abuso de privilegios a nivel de Sudoers.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de privilegios a nivel de Sudoers.md)
+└ [Base de datos de contraseñas con Keepass.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Base de datos de contraseñas con Keepass.md)
+└ [Python Library Hijacking.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Python Library Hijacking.md)
+└ [Detección y explotación de tareas Cron.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Detección y explotación de tareas Cron.md)
+└ [Detección y explotación de Capabilities.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Detección y explotación de Capabilities.md)
+└ [Abuso de permisos incorrectamente implementados.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de permisos incorrectamente implementados.md)
+└ [TTY Hijacking.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/TTY Hijacking.md)
+└ [Explotación del Kernel.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Explotación del Kernel.md)
+└ [Abuso de rsync.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de rsync.md)
+└ [Abuso de grupos de usuario especiales.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de grupos de usuario especiales.md)
+└ [Abuso de privilegios de escritura en DB's.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md)
+└ [Análisis de archivos .jar.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Análisis de archivos .jar.md)
+└ [Abuso de binarios específicos.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de binarios específicos.md)
+└ [Docker Breakout.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Docker Breakout.md)
+└ [PATH Hijacking.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/PATH Hijacking.md)
+└ [Crack GPG messages - ( GNU Privacy  Guard ).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md)
+└ [Abuso de sistema de archivos montados.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de sistema de archivos montados.md)
+└ [Secuestro de la biblioteca de objetos compartidos enlazados dinámicamente.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Secuestro de la biblioteca de objetos compartidos enlazados dinámicamente.md)
+└ [Abuso de servicios internos del sistema.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de servicios internos del sistema.md)
+└ [Keepass master key crack .dmp.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Keepass master key crack .dmp.md)
+└ [Abusando de privilegios SUID.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abusando de privilegios SUID.md)
+[Avanzado](Avanzado)
+[iptables](iptables)
+└ [Añadir tráfico con nuestra máquina.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/iptables/Añadir tráfico con nuestra máquina.md)
+[Buffer Overflow](Buffer Overflow)
+└ [Shellcodes.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Shellcodes.md)
+└ [Buffer Overflow.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow.md)
+[Buffer Overflow Escenarios](Buffer Overflow Escenarios)
+└ [Buffer Overflow x86 linux.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md)
+└ [Buffer Overflow básico x86.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md)
+[pivoting](pivoting)
+└ [Pivoting.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md)
+[Sistemas Operativos](Sistemas Operativos)
+[Windows](Windows)
+└ [Commands.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Commands.md)
+└ [Batch Scripting.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md)
+└ [Recopilación de información del sistema..md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md)
+[Active Directory](Active Directory)
+└ [Active Directory.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Active Directory.md)
+[Reconocimiento](Reconocimiento)
+└ [Active Directory Recon.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Active Directory/Reconocimiento/Active Directory Recon.md)
+[Privilege Scalation](Privilege Scalation)
+└ [Abuso de AlwaysInstallElevated.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de AlwaysInstallElevated.md)
+└ [Intentos Básicos.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Intentos Básicos.md)
+└ [Print Spooler (PrintNightmare).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Print Spooler (PrintNightmare).md)
+└ [Abuso de SeBackupPrivilege.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de SeBackupPrivilege.md)
+└ [Abuso de binarios específicos.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de binarios específicos.md)
+└ [Abuso de grupo 'Server Operators'.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de grupo 'Server Operators'.md)
+└ [Abusando de SeImpersonatePrivilege.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abusando de SeImpersonatePrivilege.md)
+└ [Abuso de AllowedToDelegate.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Privilege Scalation/Abuso de AllowedToDelegate.md)
+[Vulnerabilidades](Vulnerabilidades)
+└ [DNS Record Injection.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DNS Record Injection.md)
+└ [Abuso de ReadGMSAPassword.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Abuso de ReadGMSAPassword.md)
+└ [Resource-based Constraint Delegation.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Resource-based Constraint Delegation.md)
+└ [Lsass dump analisis.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Lsass dump analisis.md)
+└ [DCsync Attack.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DCsync Attack.md)
+└ [Abuso de ForceChangePassword.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Abuso de ForceChangePassword.md)
+└ [ICMP Reverse Shell (PowerShell).md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/ICMP Reverse Shell (PowerShell).md)
+└ [Pass The Hash.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Pass The Hash.md)
+[Kerberos Vulns](Kerberos Vulns)
+└ [Silver Ticket Attack.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Silver Ticket Attack.md)
+└ [Kerberoasting Attack.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md)
+└ [Diamond Ticket Attack.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Diamond Ticket Attack.md)
+└ [Golden Ticket Attack.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Golden Ticket Attack.md)
+└ [AS-REP Roast Attack.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/AS-REP Roast Attack.md)
+[Linux](Linux)
+└ [Commands.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md)
+└ [Atajos de consola.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Atajos de consola.md)
+└ [Scripting en Bash.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Scripting en Bash.md)
+[Basico](Basico)
+└ [WRAPPERS.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Basico/WRAPPERS.md)
+└ [Conceptos Generales.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Basico/Conceptos Generales.md)
+└ [Hashes NT, NTLM y NTLMv2.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Basico/Hashes NT, NTLM y NTLMv2.md)
+└ [Tratamiento de la TTY.md](./3. Hacking/RedTeam/Pentesting/Sistemas/Basico/Tratamiento de la TTY.md)
+[Entorno](Entorno)
+└ [Personalización de Entorno de Hacking.md](./3. Hacking/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md)
+[Redes](Redes)
+[Explotación](Explotación)
+└ [ConexionesWiFi_draw.md](./3. Hacking/RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md)
+└ [DEAUTHENTICATION_ATTACK_draw.md](./3. Hacking/RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md)
+└ [Hacking WiFi.md](./3. Hacking/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md)
+[Basico](Basico)
+└ [Conexión.md](./3. Hacking/RedTeam/Pentesting/Redes/Basico/Conexión.md)
+└ [Conceptos Basicos.md](./3. Hacking/RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md)
+[2. Sistema](2. Sistema)
+[Formatos Ejecutables](Formatos Ejecutables)
+[Windows](Windows)
+└ [Portable Executable - Formato PE.md](./2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md)
+[Graficos](Graficos)
+└ [PE_Format.draw.md](./2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md)
