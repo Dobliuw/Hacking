@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e207cf03629461b",
+        "id": "74fe9262151f8c4a",
         "type": "tabs",
         "children": [
           {
-            "id": "7cfd68787a1238d1",
+            "id": "25308dce929aa339",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
+                "file": "2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blood",
+                "query": "syn ack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
+                "file": "2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
+                "file": "2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md"
+                "file": "2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md"
               }
             }
           }
@@ -158,30 +157,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cfd68787a1238d1",
+  "active": "25308dce929aa339",
   "lastOpenFiles": [
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. WINRM - (Windows Rremote Management).md",
-    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow.md",
-    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
-    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SCF File Attacks - (Shell Command File).md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. SMB - (Server Message Block).md",
-    "RedTeam/Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/AS-REP Roast Attack.md",
-    "RedTeam/Pentesting/Sistemas/Herramientas/Nmap.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Fase de Reconocimiento.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Enumeración y explotación de WebDAV.md",
-    "RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
-    "RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Enumeración y explotación de SQUID Proxies.md",
-    "RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Shellcodes.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Scripting en Bash.md",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Batch Scripting.md",
-    "BlueTeam/Phishing/Autenticación de Correos Electrónicos.md",
-    "BlueTeam/Phishing",
-    "RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Atajos de consola.md",
-    "BlueTeam/Phishing/Phishing Analysis.md"
+    "0. Images/PE_Format.png",
+    "2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
+    "2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
+    "0. Images/PE_FORMAT.png",
+    "Pasted image 20231006111326.png",
+    "2. Sistema/Formatos Ejecutables/Windows/Graficos",
+    "2. Sistema/Formatos Ejecutables/Windows/Untitled",
+    "2. Sistema/Formatos Ejecutables/Windows/Untitled.md",
+    "Excalidraw",
+    "0. Images/IMAGE_SECTION_HEADER.png",
+    "IMAGE_OPTIONAL_HEADER.png",
+    "0. Images/IMAGE_FILE_HEADER.png",
+    "0. Images/IMAGE_NT_HEADERS.png",
+    "0. Images/IMAGE_DOS_HEADERS.png",
+    "2. Sistema/Formatos Ejecutables/Unix",
+    "2. Sistema/Formatos Ejecutables/Windows",
+    "2. Sistema/Formatos Ejecutables",
+    "2. Sistema/Untitled.md",
+    "0. Images/Strcture_PE_files.png",
+    "1. Tomar Nota/Obsidian.md",
+    "3. Hacking/RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
+    "1. Tomar Nota/Vim.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
+    "2. Sistema",
+    "3. Hacking",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. WINRM - (Windows Rremote Management).md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SCF File Attacks - (Shell Command File).md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Linux/Commands.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. SMB - (Server Message Block).md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Herramientas/⚒ Herramientas ⚒.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/AS-REP Roast Attack.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Herramientas/Nmap.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Fase de Reconocimiento.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Enumeración y explotación de WebDAV.md",
+    "3. Hacking/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Enumeración y explotación de SQUID Proxies.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Shellcodes.md",
+    "3. Hacking/BlueTeam/Phishing"
   ]
 }
