@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes_Index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes_Index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes_Index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes_Index.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,8 +159,8 @@
   },
   "active": "d3c015026641388b",
   "lastOpenFiles": [
-    "README.md",
     "Notes_Index.md",
+    "README.md",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
     "Notes/Notes.md",
     "Notes",
