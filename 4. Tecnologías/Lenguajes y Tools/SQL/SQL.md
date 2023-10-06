@@ -1,6 +1,6 @@
 ![[Pasted image 20230215165210.png]]
 
---- 
+-----------
 
 MODELO ER (Con Notación de Chen ):  
 
@@ -38,7 +38,7 @@ KEY:
 Registros: 
 #### Estos son los valores en conjuntos insertados en la tabla, por ejemplo, en una tabla (Entidad) de "usuarios" el ingreso del usuario "Owen" con diversos valores, seria un registro.
 
---- 
+-----------
 
 # Manipulación de base de datos, tablas y columnas: 
 ## Mariadb con mysql para los ejemplos.

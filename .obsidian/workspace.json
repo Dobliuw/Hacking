@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
+                "file": "1. Tomar Nota/Vim.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
+                "file": "1. Tomar Nota/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
+                "file": "1. Tomar Nota/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md"
+                "file": "1. Tomar Nota/Vim.md"
               }
             }
           }
@@ -159,8 +159,8 @@
   },
   "active": "25308dce929aa339",
   "lastOpenFiles": [
-    "0. Images/PE_Format.png",
     "2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
+    "0. Images/PE_Format.png",
     "2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
     "0. Images/PE_FORMAT.png",
     "Pasted image 20231006111326.png",

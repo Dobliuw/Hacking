@@ -1,4 +1,4 @@
----- 
+------------
 
 ```php
 # Ejecutar un "console.log" que se va a interpretar y mostrar en la web

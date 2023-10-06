@@ -79,7 +79,7 @@ typedef struct _IMAGE_NT_HEADERS {
 } IMAGE_NT_HEADERS64, *PIMAGE_NT_HEADERS54;
 ```
 
-Este Header es esencial ya que incorpora otros dos Headers que son estructuras (*FileHeader* y *OptionalHeader*).
+Este Header es esencial ya que incorpora otros dos Headers que son estructuras de datos (*FileHeader* y *OptionalHeader*).
 
 - **File Header**: Header de archivo COFF estándar. Contiene información sobre el archivo PE.
 

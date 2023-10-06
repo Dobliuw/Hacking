@@ -1,4 +1,4 @@
---- 
+-----------
 - Tags: #editordetexto #atajos 
 ---
 
