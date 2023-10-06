@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "74fe9262151f8c4a",
+        "id": "8cd4526b79933718",
         "type": "tabs",
         "children": [
           {
-            "id": "25308dce929aa339",
+            "id": "80645d9d9fa00e02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CSTI - (Client-Side Template Injection).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02454d75fe234746",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61052172d41ec9cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssti",
+                "query": "Server Side te",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,12 +181,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25308dce929aa339",
+  "active": "02454d75fe234746",
   "lastOpenFiles": [
-    "1. Tomar Nota/Vim.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CSTI - (Client-Side Template Injection).md",
     "2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
     "0. Images/PE_Format.png",
+    "0. Images/PE_Format.png",
     "2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
+    "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSTI - (Server-Side Template Injection).md",
+    "1. Tomar Nota/Vim.md",
     "0. Images/PE_FORMAT.png",
     "Pasted image 20231006111326.png",
     "2. Sistema/Formatos Ejecutables/Windows/Graficos",
@@ -200,7 +227,6 @@
     "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Enumeración y explotación de WebDAV.md",
     "3. Hacking/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
     "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Enumeración y explotación de SQUID Proxies.md",
-    "3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Shellcodes.md",
     "3. Hacking/BlueTeam/Phishing"
   ]
 }

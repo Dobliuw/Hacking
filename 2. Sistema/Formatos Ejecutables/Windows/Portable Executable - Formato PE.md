@@ -1,5 +1,5 @@
 -----
-- Tags: #teoria #sistemas
+- Tags: #teoria #sistemas #ejecutables
 -----
 # Portable Executable
 
@@ -80,8 +80,7 @@ typedef struct _IMAGE_NT_HEADERS {
 ```
 
 Este Header es esencial ya que incorpora otros dos Headers que son estructuras de datos (*FileHeader* y *OptionalHeader*).
-
-- **File Header**: Header de archivo COFF estándar. Contiene información sobre el archivo PE.
+##### **File Header**: Header de archivo COFF estándar. Contiene información sobre el archivo PE.
 
 IMAGE del File Header
 ```C
@@ -101,12 +100,12 @@ Los miembros más importantes de esta estructura son:
 - **Characteristics**: Flags que especifican ciertos atributos sobre el archivo ejecutable, como si es una DLL o una aplicación de consola.
 - **SizeOfOptinalHeader**: El tamaño del siguiente Optional Header
 
+##### **Optional Header**: El Header más importante en los NT Headers, su nombre es Optional Header porque algunos archivos, como los archivos objeto, no lo tienen, es necesario para los archiuvos de imagen (Archivos como .exe). Este encabezado proporciona información importante al cargador del sistema operativo.
 
-- **Optional Header**: El Header más importante en los NT Headers, su nombre es Optional Header porque algunos archivos, como los archivos objeto, no lo tienen, es necesario para los archiuvos de imagen (Archivos como .exe). Este encabezado proporciona información importante al cargador del sistema operativo.
 
 IMAGE del Optional Header
 ```C
-struct _IMAGE_OPTIONAL_HEADER { 
+typedef struct _IMAGE_OPTIONAL_HEADER { 
 0x00 WORD Magic; 
 0x02 BYTE MajorLinkerVersion; 
 0x03 BYTE MinorLinkerVersion;
