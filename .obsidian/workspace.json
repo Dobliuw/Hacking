@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes_Index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Server Side te",
+                "query": "sed ''",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,11 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3c015026641388b",
+  "active": "601c7e49c3054662",
   "lastOpenFiles": [
-    "Notes/indexer.py",
     "Notes_Index.md",
     "README.md",
+    "indexer.py",
+    "Notes/indexer.py",
     "Notes/test.py",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
     "Notes/Notes.md",
@@ -212,8 +214,6 @@
     "Notes/1. Tomar Nota/Obsidian.md",
     "Notes/3. Hacking/RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
-    "Notes/2. Sistema",
-    "Notes/3. Hacking",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. WINRM - (Windows Rremote Management).md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow.md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md"
