@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes_Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes_Index.md"
               }
             }
           }
@@ -170,11 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "601c7e49c3054662",
+  "active": "d3c015026641388b",
   "lastOpenFiles": [
-    "Notes_Index.md",
-    "README.md",
+    "indexer2.py",
     "indexer.py",
+    "README.md",
+    "Notes_Index.md",
     "Notes/indexer.py",
     "Notes/test.py",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
