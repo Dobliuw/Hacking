@@ -1,6 +1,6 @@
 -----------
 - Tags: #editordetexto #atajos 
----
+----------
 
 # ¿ Que es ?
 

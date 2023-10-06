@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "syn ack",
-                "matchingCase": false,
+                "query": "---",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25308dce929aa339",
+  "active": "bea3b7d9ed31db3d",
   "lastOpenFiles": [
     "2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
     "0. Images/PE_Format.png",
