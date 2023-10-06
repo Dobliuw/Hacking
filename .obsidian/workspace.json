@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Tomar Nota/Vim.md",
+                "file": "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSTI - (Server-Side Template Injection).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "---",
+                "query": "ssti",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Tomar Nota/Vim.md",
+                "file": "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSTI - (Server-Side Template Injection).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Tomar Nota/Vim.md",
+                "file": "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSTI - (Server-Side Template Injection).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Tomar Nota/Vim.md"
+                "file": "3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSTI - (Server-Side Template Injection).md"
               }
             }
           }
@@ -158,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bea3b7d9ed31db3d",
+  "active": "25308dce929aa339",
   "lastOpenFiles": [
+    "1. Tomar Nota/Vim.md",
     "2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
     "0. Images/PE_Format.png",
     "2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
@@ -181,7 +181,6 @@
     "0. Images/Strcture_PE_files.png",
     "1. Tomar Nota/Obsidian.md",
     "3. Hacking/RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
-    "1. Tomar Nota/Vim.md",
     "3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
     "2. Sistema",
     "3. Hacking",
