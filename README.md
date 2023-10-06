@@ -4,6 +4,8 @@
 
 Welcome everyone, these are my notes, throughout my time in the world of technology, more specifically in Cybersecurity, I took the trouble to make explanatory notes of the concepts learned, uses made, technologies and automated tools learned, etc.
 
+Index del sitio: [[Notes_Index]]
+
 ----
 
 So the content that everyone will see here is basically:

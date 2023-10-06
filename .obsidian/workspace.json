@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8cd4526b79933718",
+        "id": "0a3c260e273733aa",
         "type": "tabs",
         "children": [
           {
-            "id": "80645d9d9fa00e02",
+            "id": "d3c015026641388b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CSTI - (Client-Side Template Injection).md",
+                "file": "Notes_Index.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "61052172d41ec9cb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CSTI - (Client-Side Template Injection).md",
+                "file": "Notes_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CSTI - (Client-Side Template Injection).md",
+                "file": "Notes_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CSTI - (Client-Side Template Injection).md"
+                "file": "Notes_Index.md"
               }
             }
           }
@@ -167,8 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "d3c015026641388b",
   "lastOpenFiles": [
+    "README.md",
+    "Notes_Index.md",
+    "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
     "Notes/Notes.md",
     "Notes",
     "Dashboard.md",
@@ -178,7 +171,6 @@
     "0. Images/0. Images_Index.md",
     "4. Tecnologías/4. Tecnologías.md",
     "4. Tecnologías/Services/Services.md",
-    "README.md",
     "3. Hacking/3. Hacking.md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSTI - (Server-Side Template Injection).md",
     "1. Tomar Nota/1. Tomar Nota.md",
@@ -186,7 +178,6 @@
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
     "0. Images/PE_Format.png",
     "0. Images/PE_Format.png",
-    "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
     "Notes/1. Tomar Nota/Vim.md",
     "0. Images/PE_FORMAT.png",
     "Pasted image 20231006111326.png",
@@ -213,7 +204,6 @@
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow.md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
     "Notes/3. Hacking/BlueTeam/Phishing"
   ]
 }
