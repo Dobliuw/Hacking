@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0a3c260e273733aa",
+        "id": "fcc47c412d2765ed",
         "type": "tabs",
         "children": [
           {
-            "id": "d3c015026641388b",
+            "id": "264b819fc9cb0ba3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes_Index.md",
+                "file": "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Executable and Linkable Format - Formato ELF.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "601c7e49c3054662",
+            "id": "06caf828aa6f8182",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DC Sync Attack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f55fa94707fa8066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sed ''",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 417.5,
+    "collapsed": true
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes_Index.md",
+                "file": "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DC Sync Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes_Index.md",
+                "file": "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DC Sync Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes_Index.md"
+                "file": "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DC Sync Attack.md"
               }
             }
           }
@@ -169,19 +183,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3c015026641388b",
+  "active": "e88a780709720b6e",
   "lastOpenFiles": [
-    "indexer2.py",
-    "indexer.py",
-    "README.md",
-    "Notes_Index.md",
-    "Notes/indexer.py",
-    "Notes/test.py",
+    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
+    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md",
+    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Bypass de CLM - (Constrained Language Mode).md",
+    "Notes/2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
+    "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Executable and Linkable Format - Formato ELF.md",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
+    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Commands.md",
+    "clone.md",
+    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DC Sync Attack.md",
+    "0. Images/ELF_Format.png",
+    "0. Images/ELF_Format.png",
+    "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Graficos/ELF_Format.draw.md",
+    "0. Images/readelf_section_table.png",
+    "0. Images/readelf_program_table.png",
+    "0. Images/readelf_elf_header.png",
+    "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Graficos",
+    "Excalidraw",
+    "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/Graficos.md",
+    "Notes/2. Sistema/2. Sistema.md",
+    "Notes_Index.md",
+    "README.md",
     "Notes/Notes.md",
+    "Notes/3. Hacking/RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
+    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CSTI - (Client-Side Template Injection).md",
     "Notes",
     "Dashboard.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CSTI - (Client-Side Template Injection).md",
     "4. Tecnologías/4. Tecnologías_Index.md",
     "4. Tecnologías/4. Tecnologías_Glossary.md",
     "0. Images/0. Images_Index.md",
@@ -190,32 +219,17 @@
     "3. Hacking/3. Hacking.md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SSTI - (Server-Side Template Injection).md",
     "1. Tomar Nota/1. Tomar Nota.md",
-    "0. Images/0. Images.md",
-    "Notes/2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
     "0. Images/PE_Format.png",
     "0. Images/PE_Format.png",
-    "Notes/1. Tomar Nota/Vim.md",
     "0. Images/PE_FORMAT.png",
     "Pasted image 20231006111326.png",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos",
     "2. Sistema/Formatos Ejecutables/Windows/Untitled",
-    "2. Sistema/Formatos Ejecutables/Windows/Untitled.md",
-    "Excalidraw",
     "0. Images/IMAGE_SECTION_HEADER.png",
-    "IMAGE_OPTIONAL_HEADER.png",
-    "0. Images/IMAGE_FILE_HEADER.png",
-    "0. Images/IMAGE_NT_HEADERS.png",
-    "0. Images/IMAGE_DOS_HEADERS.png",
-    "Notes/2. Sistema/Formatos Ejecutables/Unix",
+    "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix",
     "Notes/2. Sistema/Formatos Ejecutables/Windows",
     "Notes/2. Sistema/Formatos Ejecutables",
-    "2. Sistema/Untitled.md",
-    "0. Images/Strcture_PE_files.png",
-    "Notes/1. Tomar Nota/Obsidian.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. WINRM - (Windows Rremote Management).md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md"
+    "Notes/2. Sistema",
+    "Notes/3. Hacking"
   ]
 }

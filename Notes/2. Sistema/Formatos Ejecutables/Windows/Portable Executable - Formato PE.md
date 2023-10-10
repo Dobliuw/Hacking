@@ -11,7 +11,7 @@ No solo los arhciovs *.exe* son archivos PE, las bibliotecas de enlaces dinámic
 # [Estructura](http://www.openrce.org/reference_library/files/reference/PE%20Format.pdf)
 
 Un archivo **PE** consiste de una serie de **headers** y **secciones** que indican al **enlazador dinámico** [^1] cómo asignar el archivo en memoria. 
-Recodermos que un archivo de formato PE sirve para decirle a enlazadores dinámicos qué información necesitan para administrar el código ejecutable empaquetado. La información que requiere el sistema se puede mencionar como:
+Recordemos que un archivo de formato PE sirve para decirle a enlazadores dinámicos qué información necesitan para administrar el código ejecutable empaquetado. La información que requiere el sistema se puede mencionar como:
 
 - Referencias a DLLs a importar.
 - Importar/Exportar tablas de API.
