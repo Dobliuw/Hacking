@@ -3,7 +3,7 @@
 -----
 # Portable Executable
 
-**PE** prviene de **Portable Executable**, el cual es un formato de archivo para ejecutables utilizados en los sistemas operativos Windows, se basa en el formato de archivo *COFF* (Common Object File Format).
+**PE** proviene de **Portable Executable**, el cual es un formato de archivo para ejecutables utilizados en los sistemas operativos Windows, se basa en el formato de archivo *COFF* (Common Object File Format).
 
 No solo los arhciovs *.exe* son archivos PE, las bibliotecas de enlaces dinámicos (*.dll*), los módulos del kernel (*.srv*), las aplicaciones del panel de control (*.cpl*) y muchos otros también son archivos PE. Un archivo PE es una estructura de datos que contiene la información necesaria para que el cargador del sistema operativo pueda cargar ese ejecutable en la memoria y ejecutarlo.
 
@@ -100,8 +100,7 @@ Los miembros más importantes de esta estructura son:
 - **Characteristics**: Flags que especifican ciertos atributos sobre el archivo ejecutable, como si es una DLL o una aplicación de consola.
 - **SizeOfOptinalHeader**: El tamaño del siguiente Optional Header
 
-##### **Optional Header**: El Header más importante en los NT Headers, su nombre es Optional Header porque algunos archivos, como los archivos objeto, no lo tienen, es necesario para los archiuvos de imagen (Archivos como .exe). Este encabezado proporciona información importante al cargador del sistema operativo.
-
+##### **Optional Header**: El Header más importante en los NT Headers, su nombre es Optional Header porque algunos archivos, como los archivos objeto, no lo tienen, es necesario para los archivos de imagen (Archivos como .exe). Este encabezado proporciona información importante al cargador del sistema operativo.
 
 IMAGE del Optional Header
 ```C
