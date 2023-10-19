@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
+                "file": "Notes/2. Sistema/Malware/Malware.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "| xargs -",
-                "matchingCase": true,
+                "query": "docker api",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 554.5
+    "width": 243.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
+                "file": "Notes/2. Sistema/Malware/Malware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
+                "file": "Notes/2. Sistema/Malware/Malware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2. Sistema/Memoria/Gestión de Memoria.md"
+                "file": "Notes/2. Sistema/Malware/Malware.md"
               }
             }
           }
@@ -159,8 +159,19 @@
   },
   "active": "5a45749ba07b897e",
   "lastOpenFiles": [
-    "0. Images/particiones_memoria.png",
+    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Docker Breakout.md",
+    "Notes/2. Sistema/Malware/Malware.md",
+    "Notes/3. Hacking/RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
+    "Notes/2. Sistema/Malware",
+    "Notes/3. Hacking/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Basico/WRAPPERS.md",
+    "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
+    "Notes/2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
+    "0. Images/PE_Format.png",
+    "0. Images/PE_Format.png",
     "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
+    "0. Images/virtual_memory.png",
+    "0. Images/particiones_memoria.png",
     "Notes/2. Sistema/Memoria/Memorias",
     "Notes/2. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
     "0. Images/pre_DDR.png",
@@ -169,17 +180,12 @@
     "0. Images/clock_bus.png",
     "0. Images/dual_channel_image.png",
     "Pasted image 20231017125110.png",
-    "0. Images/DIMM_imager.png",
-    "0. Images/SIMM_image.png",
-    "0. Images/data_bus.png",
     "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Executable and Linkable Format - Formato ELF.md",
     "Notes_Index.md",
     "README.md",
     "Notes/2. Sistema/2. Sistema.md",
     "Notes/2. Sistema/Memoria",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
-    "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
-    "Notes/2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md",
@@ -194,15 +200,10 @@
     "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Graficos",
     "Excalidraw",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/Graficos.md",
-    "Notes/Notes.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/CSTI - (Client-Side Template Injection).md",
     "Notes",
-    "Dashboard.md",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos",
     "2. Sistema/Formatos Ejecutables/Windows/Untitled",
     "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix",
-    "Notes/2. Sistema/Formatos Ejecutables/Windows",
-    "Notes/2. Sistema/Formatos Ejecutables"
+    "Notes/2. Sistema/Formatos Ejecutables/Windows"
   ]
 }

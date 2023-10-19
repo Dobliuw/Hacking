@@ -80,7 +80,8 @@ typedef struct _IMAGE_NT_HEADERS {
 ```
 
 Este Header es esencial ya que incorpora otros dos Headers que son estructuras de datos (*FileHeader* y *OptionalHeader*).
-##### **File Header**: Header de archivo COFF estándar. Contiene información sobre el archivo PE.
+##### **File Header**
+Header de archivo COFF estándar. Contiene información sobre el archivo PE.
 
 IMAGE del File Header
 ```C
@@ -100,7 +101,8 @@ Los miembros más importantes de esta estructura son:
 - **Characteristics**: Flags que especifican ciertos atributos sobre el archivo ejecutable, como si es una DLL o una aplicación de consola.
 - **SizeOfOptinalHeader**: El tamaño del siguiente Optional Header
 
-##### **Optional Header**: El Header más importante en los NT Headers, su nombre es Optional Header porque algunos archivos, como los archivos objeto, no lo tienen, es necesario para los archivos de imagen (Archivos como .exe). Este encabezado proporciona información importante al cargador del sistema operativo.
+##### **Optional Header**: 
+El Header más importante en los NT Headers, su nombre es Optional Header porque algunos archivos, como los archivos objeto, no lo tienen, es necesario para los archivos de imagen (Archivos como .exe). Este encabezado proporciona información importante al cargador del sistema operativo.
 
 IMAGE del Optional Header
 ```C
@@ -141,9 +143,9 @@ typedef struct _IMAGE_OPTIONAL_HEADER {
 
 -----
 #### Data Directory 
-Este apartado se encuentra dentro del *Optional Header*, y las entradas de este Array de un total de *IMAGE_NUMBEROF_DIRECTORY_ENTRIES* = *16* posiciones apunta a diferentes tablas y estrucutas de datos importantes que se almacenan e nsecciones específicas del archivo PE.
+Este apartado se encuentra dentro del *Optional Header*, y las entradas de este Array de un total de *IMAGE_NUMBEROF_DIRECTORY_ENTRIES* = *16* posiciones apunta a diferentes tablas y estrucutas de datos importantes que se almacenan en secciones específicas del archivo PE. 
 
-Cada posición del array representa un Data Directory especifico que puede incluir algo de data de la **PE Section** o **Data Table**
+Cada posición del array representa un Data Directory especifico que puede incluir algo de data de la **PE Section** o **Data Table**.
 
 IMAGE de cada Data Directory
 ```C
@@ -183,17 +185,6 @@ El *Import Address Table* es una estructura de datos que contiene información s
 #### Section Table (PE Sections)
 Inmediatamente seguido al Optional Header esta la Section Table, es un array de Headers para cada sección en el archivo PE. Cada Header contiene información sobre la sección a la que hace referencia.
 
-Estas secciones contienen código y datos usados para crear un archivo ejecutable. Cada sección recibe un nombre único y mayormente contiene el código del ejecutable, datos o información de recursos. No existe un número constante de secciones ya que un compilador puede agregar, remover o mergear secciones dependiendo de la configuración. Algunas secciones también pueden ser agregadas más tarde de manera manual, por lo tanto son dinamicas y el campo *IMAGE_FILE_HEADER.NumberOfSections* ayuda a determinar la cantidad de secciones que existen.
-
-Algunas de las secciones habituales más importantes que existe en la mayoría de arhicvos PE son:
-
-- **.text**: Contiene el código del ejecutable, es decir, el código que fue escrito.
-- **.data**: Contiene los datos inicializados, es decir, las variables inicializadas en el código.
-- **.rdata**: Contiene únicamente la data *read-only*, es decir, las variables *constant* declaradas con el prefijo **const**. 
-- **.idata**: Contiene las *Import Tables*. Estas son tablas de información relacionada a funciones llamadas durante el código. Esto es usado por el cargador de Windows (*PE Windows Loader*) que determina que DLL's serán cargadas al proceso, así como que funciones comenzaran a ser usadas de cada DLL. 
-- **.reloc**: Contiene información sobre cómo arreglar las direcciones de memoria para que los programas puedan cargarse en la memoria sin errores.
-- **.rsrc**: Usado para restaurar recursos como iconos y bitmaps.
-
 IMAGE de cada Header Section
 ```C
 typedef struct _IMAGE_SECTION_HEADER { 
@@ -218,6 +209,22 @@ Algunos de los elementos más importantes son
 - **Name**: El nombre de la sección, por ejemplo *.text*, *.data*, etc.
 - **PhysicalAddress** o **VirtualSize**: El tamaño de la sección cuando esta en memoria.
 - **VirtualAddress**: Offset de donde empieza la sección en memoria. 
+
+-----
+# Secciones
+
+Las secciones son una parte fundamental de la estructura del archivo PE. Las secciones son divisiones lógicas dentro de un archivo PE que almacenan datos específicos relacionados con el programa o la biblioteca. Cada sección tiene un propósito particular y contiene información relevante para la carga y ejecución del programa.
+
+Estas secciones contienen código y datos usados para crear un archivo ejecutable. Cada sección recibe un nombre único y mayormente contiene el código del ejecutable, datos o información de recursos. No existe un número constante de secciones ya que un compilador puede agregar, remover o mergear secciones dependiendo de la configuración. Algunas secciones también pueden ser agregadas más tarde de manera manual, por lo tanto son dinamicas y el campo *IMAGE_FILE_HEADER.NumberOfSections* ayuda a determinar la cantidad de secciones que existen.
+
+Algunas de las secciones habituales más importantes que existe en la mayoría de arhicvos PE son:
+
+- **.text**: Contiene el código del ejecutable, es decir, el código que fue escrito.
+- **.data**: Contiene los datos inicializados, es decir, las variables inicializadas en el código.
+- **.rdata**: Contiene únicamente la data *read-only*, es decir, las variables *constant* declaradas con el prefijo **const**. 
+- **.idata**: Contiene las *Import Tables*. Estas son tablas de información relacionada a funciones llamadas durante el código. Esto es usado por el cargador de Windows (*PE Windows Loader*) que determina que DLL's serán cargadas al proceso, así como que funciones comenzaran a ser usadas de cada DLL. 
+- **.reloc**: Contiene información sobre cómo arreglar las direcciones de memoria para que los programas puedan cargarse en la memoria sin errores.
+- **.rsrc**: Usado para restaurar recursos como iconos y bitmaps.
 
 ------
 # Referencias

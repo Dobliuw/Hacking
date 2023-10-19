@@ -50,3 +50,5 @@ La **memoria virtual** es una técnica que permite que un sistema operativo haga
 La traducción de las direcciones virtuales a reales es implementada por una **Unidad de Manejo de Memoria** (**MMU**). El sistema operativo es el responsable de decir qué partes de la memoria del programa es mantenida en memoria física. además mantiene las tablas de traducción de direcciones (Si se usa paginación la tabla se denomina *tabla de paginación*), que proveen las relaciones entre direcciones virtuales y físicas, para uso de la MMU.
 
 El **Swapping** es una técnica de gestión de *memoria virtual* que implica mover bloques de datos entre la memoria principal (RAM) y la memoria secundaria (Generalmente el disco duro) según sea necesario. Cuando la memoria RAM se agota, el sistema operativo puede "intercambiar" bloques de datos entre la MP y la MS para otros programas. El *swapping* puede ralentizar el rendimiento del sistema si se realiza con frecuencia, ya que acceder a la memoria del disco es más lento que acceder a la RAM.
+
+![[virtual_memory.png]]
