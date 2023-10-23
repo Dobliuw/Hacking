@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Sistema/Malware/Malware.md",
+                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis in Windows 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker api",
+                "query": "errorLe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 462.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2. Sistema/Malware/Malware.md",
+                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis in Windows 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2. Sistema/Malware/Malware.md",
+                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis in Windows 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2. Sistema/Malware/Malware.md"
+                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis in Windows 10.md"
               }
             }
           }
@@ -159,21 +159,25 @@
   },
   "active": "5a45749ba07b897e",
   "lastOpenFiles": [
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Docker Breakout.md",
+    "0. Images/network_setup_malware_analysis.png",
+    "Notes/3. Hacking/BlueTeam/Malware analysis in PDF's.md",
+    "Notes/3. Hacking/BlueTeam/Malware Analysis in Windows 10.md",
+    "Notes/1. Tomar Nota/Obsidian.md",
+    "Notes/2. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
     "Notes/2. Sistema/Malware/Malware.md",
+    "Notes/2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
+    "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
+    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Docker Breakout.md",
     "Notes/3. Hacking/RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
     "Notes/2. Sistema/Malware",
     "Notes/3. Hacking/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Basico/WRAPPERS.md",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
-    "Notes/2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
     "0. Images/PE_Format.png",
     "0. Images/PE_Format.png",
-    "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
     "0. Images/virtual_memory.png",
     "0. Images/particiones_memoria.png",
     "Notes/2. Sistema/Memoria/Memorias",
-    "Notes/2. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
     "0. Images/pre_DDR.png",
     "0. Images/DDR_image.png",
     "0. Images/DIMM_image.png",
@@ -194,12 +198,8 @@
     "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Graficos/ELF_Format.draw.md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DC Sync Attack.md",
     "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Bypass de CLM - (Constrained Language Mode).md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Commands.md",
-    "clone.md",
     "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Graficos",
     "Excalidraw",
-    "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/Graficos.md",
     "Notes",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos",
     "2. Sistema/Formatos Ejecutables/Windows/Untitled",
