@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis in Windows 10.md",
+                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis & Setup Enviroment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis in Windows 10.md",
+                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis & Setup Enviroment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis in Windows 10.md",
+                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis & Setup Enviroment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis in Windows 10.md"
+                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis & Setup Enviroment.md"
               }
             }
           }
@@ -157,11 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a45749ba07b897e",
+  "active": "e88a780709720b6e",
   "lastOpenFiles": [
+    "0. Images/network_adapter_settings_vmware.png",
     "0. Images/network_setup_malware_analysis.png",
     "Notes/3. Hacking/BlueTeam/Malware analysis in PDF's.md",
-    "Notes/3. Hacking/BlueTeam/Malware Analysis in Windows 10.md",
+    "Notes/3. Hacking/BlueTeam/Malware Analysis & Setup Enviroment.md",
     "Notes/1. Tomar Nota/Obsidian.md",
     "Notes/2. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
     "Notes/2. Sistema/Malware/Malware.md",
@@ -183,7 +184,6 @@
     "0. Images/DIMM_image.png",
     "0. Images/clock_bus.png",
     "0. Images/dual_channel_image.png",
-    "Pasted image 20231017125110.png",
     "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Executable and Linkable Format - Formato ELF.md",
     "Notes_Index.md",
     "README.md",
