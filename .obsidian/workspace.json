@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis & Setup Enviroment.md",
+                "file": "Notes/3. Cybersecurity/BlueTeam/Malware Analysis & Setup Enviroment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis & Setup Enviroment.md",
+                "file": "Notes/3. Cybersecurity/BlueTeam/Malware Analysis & Setup Enviroment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis & Setup Enviroment.md",
+                "file": "Notes/3. Cybersecurity/BlueTeam/Malware Analysis & Setup Enviroment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. Hacking/BlueTeam/Malware Analysis & Setup Enviroment.md"
+                "file": "Notes/3. Cybersecurity/BlueTeam/Malware Analysis & Setup Enviroment.md"
               }
             }
           }
@@ -161,18 +161,18 @@
   "lastOpenFiles": [
     "0. Images/network_adapter_settings_vmware.png",
     "0. Images/network_setup_malware_analysis.png",
-    "Notes/3. Hacking/BlueTeam/Malware analysis in PDF's.md",
-    "Notes/3. Hacking/BlueTeam/Malware Analysis & Setup Enviroment.md",
+    "Notes/3. Cybersecurity/BlueTeam/Malware analysis in PDF's.md",
+    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis & Setup Enviroment.md",
     "Notes/1. Tomar Nota/Obsidian.md",
     "Notes/2. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
     "Notes/2. Sistema/Malware/Malware.md",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
     "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Docker Breakout.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Docker Breakout.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
     "Notes/2. Sistema/Malware",
-    "Notes/3. Hacking/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Basico/WRAPPERS.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/WRAPPERS.md",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
     "0. Images/PE_Format.png",
     "0. Images/PE_Format.png",
@@ -189,15 +189,15 @@
     "README.md",
     "Notes/2. Sistema/2. Sistema.md",
     "Notes/2. Sistema/Memoria",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
     "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Graficos/ELF_Format.draw.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DC Sync Attack.md",
-    "Notes/3. Hacking/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DC Sync Attack.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Kerberoasting Attack.md",
     "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Graficos",
     "Excalidraw",
     "Notes",
