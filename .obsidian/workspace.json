@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d7d02a76c6fe117",
+        "id": "0ad8e204ddd80db3",
         "type": "tabs",
         "children": [
           {
-            "id": "3d087e975d886f1f",
+            "id": "fc96610f723d6985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md",
+                "file": "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem/Análisis de Malware.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 491.5
+    "width": 404.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md",
+                "file": "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem/Análisis de Malware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md",
+                "file": "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem/Análisis de Malware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md"
+                "file": "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem/Análisis de Malware.md"
               }
             }
           }
@@ -158,21 +157,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d087e975d886f1f",
+  "active": "fc96610f723d6985",
   "lastOpenFiles": [
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/SQL/MySQL.md",
+    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem/Setup Analysis Enviroment.md",
+    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem/Análisis de Malware.md",
+    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem",
+    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/PDF",
+    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SCF File Attacks - (Shell Command File).md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Sesiones de firefox.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "Python.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
+    "Excalidraw/Drawing 2023-10-26 11.05.07.excalidraw.md",
+    "Notes/4. Tecnologías/Lenguajes y Tools/SQL/SQL.md",
+    "Excalidraw",
+    "Notes/4. Tecnologías/Lenguajes y Tools/SQL/MSSQL.md",
+    "Notes/4. Tecnologías/Lenguajes y Tools/SQL/MySQL.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de privilegios de escritura en DB's.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. IMAP - ( Internet Message Access Protocol ).md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. POP3 - ( Post Office Protocol ).md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. LDAP - ( Lighweight Directory Access Protocol ).md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conceptos Basicos.md",
-    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis & Setup Enviroment.md",
     "hacker.png",
     "hacking.png",
     "0. Images/network_adapter_settings_vmware.png",
     "0. Images/network_setup_malware_analysis.png",
-    "Notes/3. Cybersecurity/BlueTeam/Malware analysis in PDF's.md",
+    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/PDF/Malware analysis in PDF's.md",
     "Notes/1. Tomar Nota/Obsidian.md",
     "Notes/2. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
     "Notes/2. Sistema/Malware/Malware.md",
@@ -180,9 +194,6 @@
     "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Docker Breakout.md",
     "Notes/2. Sistema/Malware",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/WRAPPERS.md",
-    "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
     "0. Images/PE_Format.png",
     "0. Images/PE_Format.png",
     "0. Images/virtual_memory.png",
@@ -190,21 +201,9 @@
     "Notes/2. Sistema/Memoria/Memorias",
     "0. Images/pre_DDR.png",
     "0. Images/DDR_image.png",
-    "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Executable and Linkable Format - Formato ELF.md",
-    "Notes_Index.md",
-    "README.md",
-    "Notes/2. Sistema/2. Sistema.md",
     "Notes/2. Sistema/Memoria",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md",
     "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Graficos",
-    "Excalidraw",
     "Notes",
-    "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos",
-    "2. Sistema/Formatos Ejecutables/Windows/Untitled",
-    "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix",
-    "Notes/2. Sistema/Formatos Ejecutables/Windows"
+    "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos"
   ]
 }
