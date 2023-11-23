@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md",
-                "mode": "source",
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sudo",
+                "query": "sqli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 373.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md",
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md",
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md"
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md"
               }
             }
           }
@@ -159,15 +159,21 @@
   },
   "active": "dcefa4de2be5675b",
   "lastOpenFiles": [
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Requests.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md",
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación/Abuso de APIs.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Deserialization Attack - (Ataques de Deserialización).md",
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Requests.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python",
     "3. Networking",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem/Setup Analysis Enviroment.md",
     "Notes/4. Tecnologías/Batch Scripting.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Deserialization Attack - (Ataques de Deserialización).md",
     "Notes/2. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de enlaces simbólicos.md",
     "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Executable and Linkable Format - Formato ELF.md",
@@ -181,16 +187,11 @@
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SCF File Attacks - (Shell Command File).md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Sesiones de firefox.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Python.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
     "Excalidraw/Drawing 2023-10-26 11.05.07.excalidraw.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/SQL/SQL.md",
     "Excalidraw",
     "Notes/4. Tecnologías/Lenguajes y Tools/SQL/MSSQL.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/SQL/MySQL.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
     "hacker.png",
     "hacking.png",
     "0. Images/network_adapter_settings_vmware.png",

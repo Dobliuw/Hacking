@@ -110,6 +110,157 @@ attacks.sort()
 attacks.reverse() # attacks[::-1]
 # ['Server-Side Request Forgery', 'Server Side Template Injection', 'SQL Injection', 'NOSQL Injection', 'Deserialization Attack', 'DDoS', 'Cross-Site Scripting', 'Client Side Template Injection']
 ```
+## Tuplas
+
+Las tuplas son colecciones ordenadas de elementos que no pueden modificarse una vez creadas. esta característica las hace ideales para asegurar que ciertos datos permanezcan constantes a lo largo del ciclo de vida de un programa. Alguna de las características claves de las tuplas en Python son:
+
+- **Inmutabilidad**: Una vez que se crea una tupla, no puedes cambiar, añadir o eliminar elementos. Esta inmutabiliidad garantiza la integridad de los datos que desea mantener constantes.
+- **Indezación** y **Slicing**: Al igual que las listas, puede acceder a los elemntos de la tupla mediante índices y también puedes realizar operaciones de slicing para obtener subsecuencias de la tupla.
+- **Heterogeneidad**: Las tuplas pueden contener elementos de diferentes tipos, incluyendo otras tuplas, lo que las have muy versátiles.
+###### Operaciones con Tuplas
+
+Si bien sabemos que estas no se pueden modificar, existen múltiples operaciones que se pueden llevar a cabo con estos elementos:
+
+- **Empaquetado** y **Desempaquetado de Tuplas**: Las tuplas permiten asignar y desasignar sus elementos a múltiples variables de forma simultánea.
+- **Concatenación** y **Repetición**: Similar a las listas, puedes combinar tuplas usando el operador **+** y repetir los elementos de una tupla un número de terminado de veces con el operador **\***.
+- **Métodos de Búsqueda**: Puedes usar  métodos como **index()** para encontrar la posición de un elemento y **count()** para contar cuántas veces aparece un elemento en la tupla.
+###### Uso de Tuplas en Python
+
+De cara al uso que se le puede dar a estos elementos es importante destacar los siguientes casos de uso:
+
+- **Funciones** y **Asignaciones Múltiples**: Las tuplas son muy útiles cuando una función necesita devolver múltiples valores o cuando se realizan asignaciones múltiples en una sola línea.
+- **Estructuras de Datos Fijas**: Se usan para crear estucturas de datos que no deben cambiar, como los días de la semana o las coordeanadas de un punto en el espacio. 
+
+Ejemplo:
+```python
+my_tuple = (1, 2, 3)
+my_2nd_tuple = (4, 5, 6)
+
+# List an element
+my_tuple[2]
+
+a, b, c = my_tuple
+print(a) # 1
+print(b) # 2
+print(c) # 3
+
+new_tuple = my_tuple + my_2nd_tuple
+print(new_tuple) # (1, 2, 3, 4, 5, 6)
+
+new_tuple_2 = mytuple * 2
+print(new_tuple_2) # (1, 2, 3, 1, 2, 3)
+
+even_numbers = tuple(i for i in range(100) if i % 2 == 0)
+```
+## Conjuntos (Sets)
+
+Los conjuntos son una colección de elementos sin orden y sin elementos repetidos, inspirados en la teoría de conjuntos de las matemáticas. Son ideales para la gestión de colecciones de elementos únicos y operaciones que requieren eliminar duplicados o realizar comparaciones de conjuntos. Algunas de sus características son:
+
+- **Unicidad**: Los conjuntos automáticamente descartan elemntos duplicados, lo que los hace perfectos para recolectar elementos únicos.
+- **Desordenados**: A diferencias de las slistas y las tuplas, los conjuntos no mantienen lso elementos en ningún orden específico.
+- **Mutabilidad**: Los elementos de un conjunto puede ser agregados o eliminados, pero los elementos mismos deben ser inmutables (Por ejemplo, no se puede tener un conjunto de listas, ya que las listas se pueden modificar).
+###### Operaciones con Sets
+
+Agunas de las operaciones básicas de conjuntos o sets que se pueden realizar en Python son:
+
+- **Adición** y **Eliminación**: Añadir elementos con **add()** y eliminar elemetnos con **remove()** o **discard()**.
+- **Operaciones de Conjuntos**: Realizar uniones, intersecciones, diferencias y deferencias simétricas utilizando métodos o operadores respectivos.
+- **Pruebas de Pertenencia**: Comprobar rápidamente si un elemento es miembro de un conjunto. 
+- **Inmutabilidad Opcional**: Usar el tipo **frozenset** para crear conjuntos que no se pueden modificar después de su creación.
+###### Uso de Sets en Python
+
+De cara al uso que se le puede brindar a los Sets o Conjuntos en Python, algunos de ellos son:
+
+- **Eliminación de Duplicados**: Son útiles cuando se necesita de que una colección no tenga elementos repetidos.
+- **Relaciones entre Colecciones**: Facilitan la comprensión y el manejo de relaciones matemáticas entre colecciones, como subconjuntos y superconjuntos.
+- **Rendimiento de Búesqueda**: Proporcionan una búsqueda de elementos más rápida que las listas o las tuplas, loq eu es útil para grandes volúmenes de datos.
+
+Ejemplos:
+```python
+con = {1, 2, 3}
+
+con.update({4, 5, 6}) # {1, 2, 3, 4, 5, 6}
+con.remove(3)
+con.discard(12342) # Try delete elements that we don't know if exist in the set
+
+con1 = {1, 2, 3, 4}
+con2 = {3, 4, 5, 6}
+
+con_cloned = con1.intersection(con2) # {3, 4}
+con_union = con1.union(con2) # {1, 2, 3, 4, 5, 6}
+con_differ = con1.difference(con2) # {1, 2}
+
+con_1st = {1, 2, 3}
+con_2nd = {1, 2, 3, 4, 5, 6}
+
+con_1st.issubset(con_2nd) # True 
+# Un conjunto es subconjunto de otro si todos los elementos de dicho conjunto se encuentran en otro conjunto, en este caso 1 2 y 3 estan en el 2do conjunto, por lo que el "con_1st" es un subconjunto del "con_2nd".
+
+big_con = set(range(10001))
+# Find in a set
+print(9999 in big_con) # True
+```
+## Diccionarios
+
+Los diccionarios en Python son colecciones desordenadas de pares clave-valor. A diferencia de las secuencias, ques e indezan mediante un rango numérico, los diccionarios se indexan con claves únicas, que pueden ser cualquier tipo inmutable, como cadenas o números. Algunas de las características de los diccionarios son:
+
+- **Desordenados**: Los elementos en un diccionario no están ordenados y no se accede a ellos mediante un ínidice númerico, sino a través de claves únicas.
+- **Dinámicos**: Se pueden agregar, modificar y eliminar pares clave-valor.
+- **Claves Únicas**: Cada clave en un diccionario es única, lo que previene duplicaciones y sobrescrituras accidentales.
+- **Valores Accesibles**: Los valores no necesitan ser únicos y pueden ser de cualquier tipo de dato.
+###### Operaciones con Diccionarios
+
+- **Agregar** y **Modificar**: Cómo agregar nuevos pares clave-valor y modificar valores existentes.
+- **Eliminar**: Cómo eliminar pares clave-valor usando **del** o el método **pop()**.
+- **Método de Diccionario**: Utilizar métodos como **keys()**, **values()**, e **items()** para acceder a las claves, valores o ambos e nforma de pares.
+- **Comprensiones de Diccionarios**: Una forma elegante y consida de contruir diccionarios basados en secuencias o rangos.
+###### Uso de Diccionarios en Python
+
+- **Almacenamiento de Datos Estructurados**: Ideales para almacenar y roganizar datos que est´+an relacionados de manera lógica, como una base de datos en memoria.
+- **Búsqueda Eficiente**: Los diccionarios son altamente optimizados para recuperar valores cuando se conoce la clave, proporcionando tiempos de búsqueda muy rápidos.
+- **Flexibilidad**: Pueden ser anidados, lo que significa que los valores dentro de un dicciopnario pueden ser otros diccionarios, listas o cualquier otro tipo de dato.
+
+Ejemplo:
+```python
+person = {"name": "Dobliuw", "age": 20}
+
+# Access to key-values
+print("\n[+] {} have {} years old".format(person["name"], person["age"]))
+
+# Add a key-value
+person["job"] = "Hacker"
+
+# Delete keys and values
+del person["job"]
+
+# Get a lenght
+print(len(person))
+
+# Clear the dictionary
+person.clear()
+
+# Dictionary comprenhension
+nums_power = {x:x**2 for x in range(11)}
+five_table = {num:num * 5 for num in range(11)}
+
+# Get all Keys and Values
+person.keys()
+person.values()
+
+# Found values
+person.get("name", "Not founded")
+
+# Join dictionarys
+person = {"name": "Dobliuw", "age": 20}
+job = {"job_name": "Hacker", "hobbie": "Skate"}
+
+person.update(job) #  {"name": "Dobliuw", "age": 20, "job_name": "Hacker", "hobbie": "Skate"}
+
+# Travel de dictionary
+for key, value in person.items():
+	print("\[+] The key {} have the value {}.".format(key, value))
+```
+
 ## Condicionales 
 
 Los condicionales son estructuras de control que permiten ejecutar diferentes bloques de código dependiendo de si una o más condiciones son verdaderas o falsas (Basandose en la teoria de Bool). En python, las declaraciones condicionales más comunes son **if**, **elif** y **else**. 
