@@ -10,7 +10,7 @@ Python es un lenguaje de programación de alto nivel, interpretado, de propósit
 ----
 # Intérprete
 
-El intérprete de Python es el programa que ejecuta el c´dogio fuente de Python. Hay varios intérpretes de Python disponibles, pero el intérprete oficial es CPython, que está escrito en C. 
+El intérprete de Python es el programa que ejecuta el código fuente de Python. Hay varios intérpretes de Python disponibles, pero el intérprete oficial es CPython, que está escrito en C. 
 
 -----
 # Convenciones
@@ -482,7 +482,7 @@ print("{:,}".format(reduce(lambda num1, num2: num1*num2, arr)).replace(",", ".")
 ```
 ## Manejo de errores y excepciones
 
-Los errores pueden ocurrir por muchas razones: errores de c´doigo, datos de entrada incorrectos, problemas de conectividad, entre otros. En lugar de permitir que un programa falle con un error, Python nos proporciona herramientas para "atrapar" estos errores y manejarlos de manera controlada, evitando así que el programa se detenga inesperadamente y permitiendo reaccionar de manera adecuada.
+Los errores pueden ocurrir por muchas razones: errores de código, datos de entrada incorrectos, problemas de conectividad, entre otros. En lugar de permitir que un programa falle con un error, Python nos proporciona herramientas para "atrapar" estos errores y manejarlos de manera controlada, evitando así que el programa se detenga inesperadamente y permitiendo reaccionar de manera adecuada.
 
 ###### Excepciones
 

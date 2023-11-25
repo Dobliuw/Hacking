@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1aadc37d6d1ee4d4",
+        "id": "2d14388a17d99740",
         "type": "tabs",
         "children": [
           {
-            "id": "dcefa4de2be5675b",
+            "id": "95580ef5ea1e163f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -157,10 +157,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dcefa4de2be5675b",
+  "active": "e88a780709720b6e",
   "lastOpenFiles": [
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md",
+    "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Executable and Linkable Format - Formato ELF.md",
+    "Notes/2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
+    "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
+    "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
+    "Notes/2. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
+    "Python.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2023-11-23 15.55.05.excalidraw.md",
+    "Excalidraw",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación/Abuso de APIs.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
@@ -174,9 +183,7 @@
     "3. Networking",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem/Setup Analysis Enviroment.md",
     "Notes/4. Tecnologías/Batch Scripting.md",
-    "Notes/2. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de enlaces simbólicos.md",
-    "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Executable and Linkable Format - Formato ELF.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Hashes NT, NTLM y NTLMv2.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Conceptos Generales.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de grupos de usuario especiales.md",
@@ -185,13 +192,6 @@
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/PDF",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SCF File Attacks - (Shell Command File).md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Sesiones de firefox.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/LaTeX Injections - ( Inyecciones LaTex ).md",
-    "Python.md",
-    "Excalidraw/Drawing 2023-10-26 11.05.07.excalidraw.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/SQL/SQL.md",
-    "Excalidraw",
-    "Notes/4. Tecnologías/Lenguajes y Tools/SQL/MSSQL.md",
     "hacker.png",
     "hacking.png",
     "0. Images/network_adapter_settings_vmware.png",
