@@ -11,8 +11,12 @@
             "id": "6a3e88ac0baf224f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Crear un proyecto en PyPI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Crear un proyecto en PyPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Crear un proyecto en PyPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Crear un proyecto en PyPI.md"
+              }
             }
           }
         ]
@@ -152,6 +160,7 @@
   },
   "active": "6a3e88ac0baf224f",
   "lastOpenFiles": [
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Crear un proyecto en PyPI.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Organización de código en módulos.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Requests.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
@@ -181,7 +190,6 @@
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Hashes NT, NTLM y NTLMv2.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Conceptos Generales.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de grupos de usuario especiales.md",
-    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem/Análisis de Malware.md",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/PDF",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis",
