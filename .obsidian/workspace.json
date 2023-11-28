@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d14388a17d99740",
+        "id": "41425cfc18954647",
         "type": "tabs",
         "children": [
           {
-            "id": "95580ef5ea1e163f",
+            "id": "6a3e88ac0baf224f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,15 +150,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "6a3e88ac0baf224f",
   "lastOpenFiles": [
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Organización de código en módulos.md",
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Requests.md",
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md",
     "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Executable and Linkable Format - Formato ELF.md",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
     "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
     "Notes/2. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
     "Python.md",
     "Untitled.md",
     "Excalidraw/Drawing 2023-11-23 15.55.05.excalidraw.md",
@@ -176,7 +171,6 @@
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/Deserialization Attack - (Ataques de Deserialización).md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Requests.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python",
@@ -191,7 +185,6 @@
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/PDF",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SCF File Attacks - (Shell Command File).md",
     "hacker.png",
     "hacking.png",
     "0. Images/network_adapter_settings_vmware.png",

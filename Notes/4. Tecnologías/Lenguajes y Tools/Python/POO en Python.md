@@ -56,7 +56,7 @@ Los decoradores son una herramienta poderosa en Python que permite modificar el 
 Un método de clase es un método que está ligado a la clase y no a una instancia de la clase. Esto significa que el método puede ser llamado sobre la clase misma, ne lugar de sobre un objeto de la clase. Se definen utilizando el decorador '**@classmethod**' y su primer arguemtno es siempre una referencia a la clase, convencionalmente llamada '**cls**'. Los métodos de clase son utilzados a menudo para definir métodos "factory" que pueden crear instancias de la clase de diferentes maneras.
 ###### Métodos Estáticos
 
-Los métodos estáticos, definidos con el decorador '**@staticmethod**', no reciben una referencia implícita ni a la instancia (self) ni a la clase (cls). Son básicamente como funciones regulares, pero pertenecen al espacio de nopmbres de la clase. Son útiles cuando queremos realizar alguna funcionalidad que está relacionada con la clase, pero no requiere acceder a la instancia o a los atributos de la clase.
+Los métodos estáticos, definidos con el decorador '**@staticmethod**', no reciben una referencia implícita ni a la instancia (self) ni a la clase (cls). Son básicamente como funciones regulares, pero pertenecen al espacio de nombres de la clase. Son útiles cuando queremos realizar alguna funcionalidad que está relacionada con la clase, pero no requiere acceder a la instancia o a los atributos de la clase.
 
 Ejemplos:
 ```python
@@ -165,7 +165,7 @@ La herencia y el polimorfismo son conceptos fundamentales en la POO que permiten
 Es un principio de la POO que permite a una clase heredar atributos y métodos de otra clase, conocida como su clase base o superclase. La herencia facilita la reutilización de código y la creación de una jerarquía de clases. Las subclases heredan las características de la superclase, lo que permite que se especialicen o modifíquen comportamientos existentes.
 ###### Polimorfismo
 
-Este concepto se refiere a la habilidad de objetos de diferentes clases de ser tratados como instancias de una clase común. El polimordismo permite que una función o método interactúe con objetos de defirentes clases y los trat como si fueran del mismo tipo, siempes y cuando compartan la misma interfaz o me´todo. Esto significa que el mismo método puede comportarse de manera diferentes en distintas clases, un concepto conocido como sobrecarga de métodos.
+Este concepto se refiere a la habilidad de objetos de diferentes clases de ser tratados como instancias de una clase común. El polimorfismo permite que una función o método interactúe con objetos de defirentes clases y los trate como si fueran del mismo tipo, siempes y cuando compartan la misma interfaz o me´todo. Esto significa que el mismo método puede comportarse de manera diferentes en distintas clases, un concepto conocido como sobrecarga de métodos.
 
 Ambos, la herencia y el polimordismo, son piedras angulares de la POOO y son ampliamente utilizados para diseñar sistemas que son fácilmente extensibles y mantenibles.
 
@@ -413,7 +413,6 @@ class Person:
 			raise ValueError("This operation couldn't be completed.")
 
 dobliuw = Person("Dobliuw", 20)
-print(dobliuw._age) # This is WRONG!
 dobliuw._age = 18 # This is WRONG TOO!!!!
 # Getter
 dobliuw.age  # This is RIGHT!!!!
