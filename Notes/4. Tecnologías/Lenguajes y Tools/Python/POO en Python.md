@@ -336,3 +336,101 @@ for i in cincuenta:
 
 ------
 # Decoradores y Propiedades
+
+Estas son características poderosas de Python que mejoran significativamente la forma en la que podemos manjear y modificar el comportamiento de nuestras clases y funciones.
+###### Decoradores
+
+Los decoradores en Python son una forma elegante de moficiar las funciones o métodos. Se utilizan para extender o alterar el comportamiento de la función sin cambiar su código fuente. Un decorador es en sí mismo una función que toma otra función como argumento y devuelve una nueva función que, opcionalemnte, puede agregar alguna funcionalidad antes y después de la función original.
+###### Propiedades
+
+Las propiedades son un caso especial de decoradores que permiten a los desarrolladores añadir "*getter*", "*setter*" y "*deleter*" a los atributos de uan clase de manera elegante, controlando así el acceso y la modificación de los datos. En Python, esto se logra con el decorador "**@property**", que transforman un método para acceder a un atributo como si fuera un atributo público.
+###### Getters y Setters
+
+- El **getter** obtiene el valor de un atributo manteniendo el encapsulamiento y permitiendo que se ejecute una lógica adicional durante el acceso.
+- El **setter** establecel el valor de un atributo y puede incluir validación o procesamiento antes de que el cambio se refleje en el estado interno del objeto.
+- El **deleter** puede ser utilizado para definir un comportamiento cuando un atributo es eliminado con *del*.
+
+Ejemplo de **decoradores**:
+```python
+def decorator(fun):
+	def envf():
+		print("Before call function")
+		fun()
+		print("After call function")
+	return envf    
+
+@decorator
+def say_hi():
+	print("Hi from the \"say_hi\" function")
+
+say_hi()
+# Before call function
+# Hi from the "say_hi" function
+# After call function
+
+####################################
+import time
+
+def cron(fn):
+    def envf(num):
+        print("Making a pause...")
+        inicial = time.time()
+        fn(num)
+        final = time.time()
+        print(f"Time transcurred in function {fn.__name__}: {round(final - inicial, 2)} seconds")
+    return envf
+
+
+def short_pause():
+    time.sleep(1)
+
+@cron
+def custom_pause(num):
+    time.sleep(num)
+
+custom_pause(4)
+# Making a puase...
+# *sleep 4 seconds*
+# Time transcurred in fucntion custom_pause: 4.0 seconds
+```
+
+Ejemplo de **propiedades**:
+```python
+class Person:
+	def __init__(self, name, age):
+		self.name = name
+		self._age = age
+
+	@property
+	def age(self):  # Getter
+		return self._age
+
+	@age.setter
+	def age(self, age):   # Setter
+		if age > 0:
+			self._age = age
+		else
+			raise ValueError("This operation couldn't be completed.")
+
+dobliuw = Person("Dobliuw", 20)
+print(dobliuw._age) # This is WRONG!
+dobliuw._age = 18 # This is WRONG TOO!!!!
+# Getter
+dobliuw.age  # This is RIGHT!!!!
+# Setter
+dobliuw.age = 18  # This is RIGHT!!!!
+```
+
+Ejemplo de *manejo de argumentos en funciones*: 
+```python
+def suma(*args):
+    return sum(args)
+
+def presentation(**kvargs):
+    for key, value in kvargs.items():
+        print("Key {} have value {}".format(key, value))
+
+
+print(suma(1, 5, 23, 54, 2, 54, 562, 54, 235))
+presentation(name="Dobliuw", age=20, job="Hacker")
+```
