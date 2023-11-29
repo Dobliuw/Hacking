@@ -408,6 +408,14 @@ if __name__ == "__main__":
 	print("Oh ok! I get it! You've {} years old.".format(age))
 ```
 
+En caso de que quisieramos solicitar datos al usuario pero no permitirle ver lo que escribe como cuando se ingresa la contraseña del usuario tras ingresar *sudo {command}*:
+
+```python
+from getpass import getpass
+
+if __name__ == "__main__":
+	password = getpass("Please insert your password: ")
+```
 ## Ámbito de las variables (Scope)
 
 El **Scope** de una variable se refiere a la región de un programa donde esa variable es accesible. En Python, hay dos tipos principales de ámbitos.
@@ -529,6 +537,13 @@ try:
 		raise Exception("This is a new and default exception. U can't insert negative numbers.")
 except ValueError:
 	print("\n[!] Please insert a number and not a string.")
+```
+## Lectura y escritura de archivos
+
+La lectura y escritura de archivos son operaciones fundamentales en la mayoría de los programas, y Python proporciona herramientas sencillas y poderosas para manejar archivos.
+
+```python
+
 ```
 
 -----

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Organización de código en módulos.md",
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 230.5,
+    "collapsed": true
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Organización de código en módulos.md",
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Organización de código en módulos.md",
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Organización de código en módulos.md"
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md"
               }
             }
           }
@@ -159,10 +160,10 @@
   },
   "active": "6a3e88ac0baf224f",
   "lastOpenFiles": [
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Organización de código en módulos.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Crear un proyecto en PyPI.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Organización de código en módulos.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Requests.md",
     "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Executable and Linkable Format - Formato ELF.md",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
