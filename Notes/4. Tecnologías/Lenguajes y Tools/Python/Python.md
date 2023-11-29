@@ -397,8 +397,17 @@ Ejemplo:
 ```python
 def say_hi(name):
 	print("\n[+] Hi {}".format(name))
-
 ```
+## Solicitar datos al usuario
+
+La interacción del usuario a través de la consola es una habilidad esencial en Python, tanto la función **input()** como la función **print()** son claves en este aspecto
+
+```python
+if __name__ == "__main__":
+	age = int(input("How old are you?: "))
+	print("Oh ok! I get it! You've {} years old.".format(age))
+```
+
 ## Ámbito de las variables (Scope)
 
 El **Scope** de una variable se refiere a la región de un programa donde esa variable es accesible. En Python, hay dos tipos principales de ámbitos.
