@@ -543,7 +543,47 @@ except ValueError:
 La lectura y escritura de archivos son operaciones fundamentales en la mayoría de los programas, y Python proporciona herramientas sencillas y poderosas para manejar archivos.
 
 ```python
+#!/usr/bin/env python3
 
+def write_file(file, content):
+        f = open(file, "a")
+        f.write(f"{content}\n")
+        f.close()
+
+# This methods could throw an error if we forget close the file with close().
+
+def open_file(file):
+        f = open(file, "r")
+        print(f.read())
+        f.close()
+
+
+def open_file_v2(file): # This method load the all file in memory
+        with open(file, "r") as f:
+                print(f.read())
+
+
+def open_file_better(file): # This method don't load the all file in memory
+        with open(file, "r") as f:
+                for line in f:
+                        print(line.strip())
+
+write_file("example.txt", "This is a test")
+open_file_v2("/etc/hosts")
+
+```
+
+Tratando con archivos binarios:
+
+```python
+#!/usr/bin/env python3
+ 
+def copy_image(in_path, out_path):
+    with open(in_path, "rb") as f_in, open(out_path, "wb") as f_out:
+        image = f_in.read()
+        f_out.write(image)
+ 
+copy_image("/home/kali/Wallpapers/wallpaper.jpg", "/home/kali/Desktop/testing.png")
 ```
 
 -----
