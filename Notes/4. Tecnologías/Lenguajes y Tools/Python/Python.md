@@ -573,7 +573,7 @@ open_file_v2("/etc/hosts")
 
 ```
 
-Tratando con archivos binarios:
+Tratando con archivos binarios (Copiando una imagen):
 
 ```python
 #!/usr/bin/env python3
@@ -611,7 +611,7 @@ name = "Dobliuw"
 age = 20
 
 print("\n[+] Hi my name is {}".format(name))
-print("\n[+] Hi my name is {0} and I'm {} years old. Att. {0}".format(name, age))
+print("\n[+] Hi my name is {0} and I'm {1} years old. Att. {0}".format(name, age))
 ```
 ###### F-Strings (Literal String Interpolation)
 
