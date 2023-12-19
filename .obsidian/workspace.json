@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Conexiones de red y protocolos.md",
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Requests y URLlib3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Conexiones de red y protocolos.md",
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Requests y URLlib3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Conexiones de red y protocolos.md",
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Requests y URLlib3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Conexiones de red y protocolos.md"
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Requests y URLlib3.md"
               }
             }
           }
@@ -159,12 +159,13 @@
   },
   "active": "3648d9749d74a262",
   "lastOpenFiles": [
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Conexiones de red y protocolos.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Date-Time.md",
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Librería OS y SYS.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Manejo de archivos y directorios.md",
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Conexiones de red y protocolos.md",
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md",
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Date-Time.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Expresiones regulares.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Requests.md",
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Requests y URLlib3.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Crear un proyecto en PyPI.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
     "Notes/2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
@@ -188,7 +189,6 @@
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python",
     "3. Networking",
-    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem/Setup Analysis Enviroment.md",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/PDF",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis",

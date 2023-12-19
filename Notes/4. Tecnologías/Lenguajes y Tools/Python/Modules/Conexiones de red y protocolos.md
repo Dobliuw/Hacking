@@ -36,74 +36,82 @@ La librería ‘**socket**‘ en Python es una herramienta esencial para la prog
 
 Ejemplo server en python con IPv4 y TCP:
 ```python
+#!/usr/bin/python3
 import socket, signal, sys
 
-# Ctrl C
+# Ctrl + C
 
 def ctrl_c(sig, frame):
 	print("\n\n\t[!] Quiting...\n")
+	server.close()
 	sys.exit(1)
 
 signal.signal(signal.SIGINT, ctrl_c)
 
-# Server
+# Global Vars
 
-def start_server():
+HOST = '127.0.0.1'
+PORT = 4343
 
-	host = "localhost"
-	port = 4343
+# Main Chat
+
+def start_chat_server(conn):
 
 	with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as server:
+	server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 
-		server.bind((host, port))
-		print(f"\n\t[i] Server listening on {host}:{port}")
-		server.listen(1)
+		conn.bind((HOST, PORT))
+		conn.listen(1)
+		print(f"\n\t[+] Server listening on {HOST}:{PORT}")
+		client, addr = conn.accept()
+		print(f"\n\t[i] New client connected: {addr[0]}:{addr[1]}")
 
-		conn, addr = server.accept()
+		while True:
+			message = client.recv(1024).decode().strip()
+			print(f"\n{addr[0]}:{addr[1]} --> {message}")
+			message_to_send = input("\nMessage to send: ")
+			client.send(message_to_send.encode('utf-8'))
 
-		with conn:
-			print(f"\n\t[i] A new client has connected: {addr[0]}:{addr[1]}")
-
-			while True:
-				data = conn.recv(1024)
-				if not data:
-					break
-				conn.sendall(data)
 
 if __name__ == "__main__":
-	start_server()
+	start_chat_server(server)
 ```
 
 Ejemplo cliente en python con IPv4 y TCP: 
 ```python
-import socket, signal, sys
+#!/usr/bin/python3
+import signal, socket, sys
 
-# Ctrl C
+# Ctrl + c
 
 def ctrl_c(sig, frame):
-	print("\n\n\t[!] Quiting...\n")
+	print("\n\n\t[!] Quiting...\n\n")
 	sys.exit(1)
 
 signal.signal(signal.SIGINT, ctrl_c)
 
-# Server
+# Connect to server (Client)
 
-def start_client():
-
-	host = "localhost"
-	port = 4343
+def connect_to_chat(host, port):
 
 	with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as server:
-
 		server.connect((host, port))
-		print(f"\n\t[i] Connected to {host}:{port}")
-		server.sendall(b"Hello...")
+		print(f"\n\t[!] Connected to {host}:{port}.")
 
-		server_data = server.recv(1024)
-		print(f"\n\t[i] Message recived:\n{server_data.decode()}")
+		while True:
+			message_to_send = input("\nMessage to send: ")
+			server.send(message_to_send.encode('utf-8'))
+			message = server.recv(1024).decode().strip()
+			print(f"\nServer --> {message}")
+
 
 if __name__ == "__main__":
-	start_client()
+	if len(sys.argv) == 3:
+		host, port = sys.argv[1], int(sys.argv[2])
+		connect_to_chat(host, port)
+	else:
+		print("\n\n\t[!] Execution: python3 %s {host} {port}\n\n" % sys.argv[0])
+		sys.exit(1)
 ```
 
 Ejemplo server en python con IPv4 y UDP:
