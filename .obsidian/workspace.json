@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "867746f288d7492a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación/Abuso de APIs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1c2df967b4f3e57b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md"
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md"
               }
             }
           }
@@ -172,12 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "1c2df967b4f3e57b",
   "lastOpenFiles": [
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Flujo de trabajo.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Estructura de Redes.md",
+    "0. Images/topology_types.png",
+    "0. Images/nodes_topology.png",
+    "0. Images/point-to-piont_topology.png",
+    "0. Images/topology_connections.png",
+    "0. Images/book_network_types.png",
+    "0. Images/common_network_types.png",
+    "0. Images/basic_connection.png",
+    "README.md",
+    "Pasted image 20240103165729.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Estructura.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Flujo de trabajo.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación/Abuso de APIs.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes",
     "Notes/4. Tecnologías/Lenguajes y Tools/SQL/SQL.md",
@@ -199,13 +195,8 @@
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
     "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/1. Sumo Logic & Estrategía de Recolección de datos.md",
     "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/2. Collectors, Sources & Metadata.md",
-    "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/5. Alert Response.md",
-    "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/4. Data Search (Métricas, Tracing).md",
     "Pasted image 20231219124729.png",
     "Pasted Image 20231219124006_234.png",
-    "0. Images/multiprocessing_python_subprocesses.png",
-    "0. Images/multiprocessing_python.png",
-    "0. Images/threading_python.png",
     "Excalidraw",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python",
@@ -213,12 +204,7 @@
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/PDF",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis",
-    "hacker.png",
-    "hacking.png",
-    "0. Images/network_adapter_settings_vmware.png",
-    "0. Images/network_setup_malware_analysis.png",
     "Notes/2. Sistema/Malware",
-    "0. Images/PE_Format.png",
     "Notes/2. Sistema/Memoria/Memorias"
   ]
 }
