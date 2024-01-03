@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "98bf5dd402afdda8",
+        "id": "0d38c677268f4867",
         "type": "tabs",
         "children": [
           {
-            "id": "33cd9c2bb3eeda62",
+            "id": "867746f288d7492a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1. Tomar Nota/Obsidian.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación/Abuso de APIs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c2df967b4f3e57b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tecnologías",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/1. Tomar Nota/Obsidian.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/1. Tomar Nota/Obsidian.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -135,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/1. Tomar Nota/Obsidian.md"
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md"
               }
             }
           }
@@ -157,39 +172,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33cd9c2bb3eeda62",
+  "active": "e88a780709720b6e",
   "lastOpenFiles": [
-    "JavaScript.md",
-    "Notes/1. Tomar Nota/Obsidian.md",
-    "Notes/1. Tomar Nota/Vim.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Flujo de trabajo.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Estructura.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación/Abuso de APIs.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes",
+    "Notes/4. Tecnologías/Lenguajes y Tools/SQL/SQL.md",
+    "Notes/4. Tecnologías/Lenguajes y Tools/SQL/MySQL.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Detección y explotación de Capabilities.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de permisos incorrectamente implementados.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de grupos de usuario especiales.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abusando de privilegios SUID.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Tratamiento de la TTY.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Hashes NT, NTLM y NTLMv2.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Conceptos Generales.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
+    "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/1. Sumo Logic & Estrategía de Recolección de datos.md",
+    "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/2. Collectors, Sources & Metadata.md",
+    "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/5. Alert Response.md",
+    "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/4. Data Search (Métricas, Tracing).md",
     "Pasted image 20231219124729.png",
-    "README.md",
-    "Notes_Index.md",
     "Pasted Image 20231219124006_234.png",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Librería threading y multiprocessing.md",
     "0. Images/multiprocessing_python_subprocesses.png",
     "0. Images/multiprocessing_python.png",
     "0. Images/threading_python.png",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Librería OS y SYS.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Requests y URLlib3.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Manejo de archivos y directorios.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Conexiones de red y protocolos.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Python.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Date-Time.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Expresiones regulares.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Crear un proyecto en PyPI.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
-    "Notes/2. Sistema/Formatos Ejecutables/Windows/Portable Executable - Formato PE.md",
-    "Notes/4. Tecnologías/Scripting en Bash.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Organización de código en módulos.md",
-    "Notes/2. Sistema/Formatos Ejecutables/Linux - Unix/Executable and Linkable Format - Formato ELF.md",
-    "Notes/2. Sistema/Formatos Ejecutables/Windows/Graficos/PE_Format.draw.md",
-    "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
-    "Notes/2. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
-    "Python.md",
     "Excalidraw",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python",
@@ -203,7 +219,6 @@
     "0. Images/network_setup_malware_analysis.png",
     "Notes/2. Sistema/Malware",
     "0. Images/PE_Format.png",
-    "Notes/2. Sistema/Memoria/Memorias",
-    "Notes/2. Sistema/Memoria"
+    "Notes/2. Sistema/Memoria/Memorias"
   ]
 }
