@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md"
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md"
               }
             }
           }
@@ -161,18 +161,22 @@
   },
   "active": "1c2df967b4f3e57b",
   "lastOpenFiles": [
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Estructura de Redes.md",
+    "0. Images/tree_topology.png",
+    "0. Images/mesh_topology.png",
+    "0. Images/ring_topology.png",
+    "0. Images/star_topology.png",
+    "0. Images/bus_topology.png",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
     "0. Images/topology_types.png",
     "0. Images/nodes_topology.png",
     "0. Images/point-to-piont_topology.png",
     "0. Images/topology_connections.png",
     "0. Images/book_network_types.png",
-    "0. Images/common_network_types.png",
-    "0. Images/basic_connection.png",
     "README.md",
-    "Pasted image 20240103165729.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Flujo de trabajo.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación/Abuso de APIs.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes",
@@ -189,14 +193,10 @@
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Tratamiento de la TTY.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Hashes NT, NTLM y NTLMv2.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Conceptos Generales.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
     "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/1. Sumo Logic & Estrategía de Recolección de datos.md",
     "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/2. Collectors, Sources & Metadata.md",
-    "Pasted image 20231219124729.png",
-    "Pasted Image 20231219124006_234.png",
     "Excalidraw",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python",
