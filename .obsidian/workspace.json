@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0d38c677268f4867",
+        "id": "5d1a20b37c3a89f9",
         "type": "tabs",
         "children": [
           {
-            "id": "1c2df967b4f3e57b",
+            "id": "8ad9526de048de79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
-                "mode": "source",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/OSI Model.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/OSI Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md"
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/OSI Model.md"
               }
             }
           }
@@ -145,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,25 +159,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c2df967b4f3e57b",
+  "active": "8ad9526de048de79",
   "lastOpenFiles": [
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Modelos de redes.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/OSI Model.md",
+    "0. Images/packet_transfer.png",
+    "0. Images/packet_transfers.png",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/TCP-IP Model.md",
+    "0. Images/osi_modl_and_tcp-ip_model.png",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Structure/Proxies.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Flujo de trabajo.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow",
+    "0. Images/reverse_proxy.png",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Structure/Tipos de Redes.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Structure/Topologías de redes.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Structure",
+    "0. Images/Foward_proxy.png",
+    "0. Images/daisy_chain_topology.png",
+    "0. Images/hybrid_topology.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Estructura de Redes.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
     "0. Images/tree_topology.png",
     "0. Images/mesh_topology.png",
     "0. Images/ring_topology.png",
-    "0. Images/star_topology.png",
-    "0. Images/bus_topology.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
-    "0. Images/topology_types.png",
-    "0. Images/nodes_topology.png",
-    "0. Images/point-to-piont_topology.png",
-    "0. Images/topology_connections.png",
-    "0. Images/book_network_types.png",
     "README.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Flujo de trabajo.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación/Abuso de APIs.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes",
     "Notes/4. Tecnologías/Lenguajes y Tools/SQL/SQL.md",
@@ -191,20 +199,12 @@
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abusando de privilegios SUID.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Tratamiento de la TTY.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Hashes NT, NTLM y NTLMv2.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Conceptos Generales.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
-    "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/1. Sumo Logic & Estrategía de Recolección de datos.md",
-    "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/2. Collectors, Sources & Metadata.md",
     "Excalidraw",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python",
     "3. Networking",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem",
     "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/PDF",
-    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis",
-    "Notes/2. Sistema/Malware",
-    "Notes/2. Sistema/Memoria/Memorias"
+    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis"
   ]
 }
