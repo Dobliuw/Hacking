@@ -13,13 +13,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/OSI Model.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/OSI Model/OSI Model.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "03601fcc439186ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/TCP-IP Model/TCP-IP Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1086f9db1806ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/Modelos de redes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2341e6a6efe59371",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/OSI vs TPC-IP Model.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/OSI Model.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/OSI vs TPC-IP Model.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/OSI Model.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/OSI vs TPC-IP Model.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/OSI Model.md"
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/OSI vs TPC-IP Model.excalidraw.md"
               }
             }
           }
@@ -159,13 +194,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ad9526de048de79",
+  "active": "2341e6a6efe59371",
   "lastOpenFiles": [
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Modelos de redes.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/OSI Model.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/TCP-IP Model/TCP-IP Model.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/Modelos de redes.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/OSI vs TPC-IP Model.excalidraw.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/OSI Model/OSI Model.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/OSI Model/osimodel_example.excalidraw.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/OSI Model/OSI Model.excalidraw.md",
+    "Pasted image 20240109172539.png",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/TCP-IP Model/TCP-IP Model.excalidraw.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/TCP-IP Model",
+    "Pasted Image 20240109151620_183.png",
+    "Pasted Image 20240109151620_167.png",
+    "Pasted Image 20240109151620_150.png",
+    "Pasted Image 20240109151620_147.png",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models/OSI Model",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Network Models",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Untitled.md",
     "0. Images/packet_transfer.png",
     "0. Images/packet_transfers.png",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/TCP-IP Model.md",
     "0. Images/osi_modl_and_tcp-ip_model.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Structure/Proxies.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Flujo de trabajo.md",
@@ -176,13 +224,8 @@
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Structure/Topologías de redes.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Structure",
     "0. Images/Foward_proxy.png",
-    "0. Images/daisy_chain_topology.png",
-    "0. Images/hybrid_topology.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
-    "0. Images/tree_topology.png",
-    "0. Images/mesh_topology.png",
-    "0. Images/ring_topology.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
     "README.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
@@ -194,17 +237,9 @@
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Detección y explotación de Capabilities.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de permisos incorrectamente implementados.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abuso de grupos de usuario especiales.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Abusando de privilegios SUID.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Recopilación de información del sistema..md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Basico/Tratamiento de la TTY.md",
     "Excalidraw",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python",
-    "3. Networking",
-    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem",
-    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/PDF",
-    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis"
+    "3. Networking"
   ]
 }
