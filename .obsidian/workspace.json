@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a771306ddfbcdb30",
+        "id": "e9fc16020d3dacff",
         "type": "tabs",
         "children": [
           {
-            "id": "a14bd24ec9ae8e7e",
+            "id": "632e702448c73f4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing/Network Layer - OSI.md",
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Librería threading y multiprocessing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 429.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing/Network Layer - OSI.md",
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Librería threading y multiprocessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing/Network Layer - OSI.md",
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Librería threading y multiprocessing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing/Network Layer - OSI.md"
+                "file": "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Librería threading y multiprocessing.md"
               }
             }
           }
@@ -159,12 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a14bd24ec9ae8e7e",
+  "active": "e88a780709720b6e",
   "lastOpenFiles": [
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Untitled",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing/2. IPv4 Addresses - Direcciones IPv4.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing/3. Subneting - Subredes.md",
+    "0. Images/last_addresses_table.png",
+    "0. Images/first_addresses_table.png",
+    "0. Images/subnetmask.png",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing/1. Network Layer - OSI.md",
+    "0. Images/pc_image.png",
+    "0. Images/OSI_TCP_IP_LAYERS.png",
+    "0. Images/smarthphone.png",
+    "0. Images/server.png",
+    "Pasted Image 20240109151620_150 1.png",
+    "0. Images/network_clases.png",
+    "0. Images/router.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/TCP-IP Model/Modelo TCP-IP - TCP-IP Model.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/OSI Model/Modelo OSI - OSI Model.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing/Network Layer - OSI.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
@@ -172,28 +185,18 @@
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/Modelos de redes.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/OSI Model/osimodel_example.excalidraw.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/OSI Model/OSI Model.excalidraw.md",
-    "Pasted image 20240109172539.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/TCP-IP Model/TCP-IP Model.excalidraw.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/TCP-IP Model",
-    "Pasted Image 20240109151620_183.png",
-    "Pasted Image 20240109151620_167.png",
-    "Pasted Image 20240109151620_150.png",
-    "Pasted Image 20240109151620_147.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/OSI Model",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Untitled.md",
-    "0. Images/packet_transfer.png",
-    "0. Images/packet_transfers.png",
-    "0. Images/osi_modl_and_tcp-ip_model.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/1. Structure/Proxies.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Flujo de trabajo.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow",
-    "0. Images/reverse_proxy.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Avanzado/pivoting/Pivoting.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/1. Structure/Tipos de Redes.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/1. Structure/Topologías de redes.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/1. Structure",
-    "0. Images/Foward_proxy.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
     "README.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación/Abuso de APIs.md",
@@ -201,9 +204,6 @@
     "Notes/4. Tecnologías/Lenguajes y Tools/SQL/SQL.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/SQL/MySQL.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Detección y explotación de Capabilities.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/3. Escalada de Privilegios/Crack GPG messages - ( GNU Privacy  Guard ).md",
     "Excalidraw",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python"
