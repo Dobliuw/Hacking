@@ -13,23 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques/ARP Spoof - Envenenamiento ARP.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Shells.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "482f8ac85b0f7179",
+            "id": "b532394ed2c1f1b0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0. Images/arp_spoofing_example.png"
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gateway",
+                "query": "multiproces",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques/ARP Spoof - Envenenamiento ARP.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques/ARP Spoof - Envenenamiento ARP.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques/ARP Spoof - Envenenamiento ARP.md"
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md"
               }
             }
           }
@@ -169,10 +172,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb429d39fe9a5ea0",
+  "active": "b532394ed2c1f1b0",
   "lastOpenFiles": [
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques/HTTPS Sniffing - SSL Stripping.md",
+    "Notes/2. Sistema/Named Pipes/Named and Unnamed Pipes.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Shells.md",
+    "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
+    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Librería threading y multiprocessing.md",
+    "Notes/2. Sistema/Named Pipes",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Pass The Hash.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DC Sync Attack.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Golden Ticket Attack.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques/ARP Spoof - Envenenamiento ARP.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques/HTTPS Sniffing - SSL Stripping.md",
     "0. Images/arp_spoofing_example.png",
     "0. Images/lan_connection_arp.png",
     "Pasted image 20240118150454.png",
@@ -194,7 +205,6 @@
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Conexiones de red y protocolos.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Untitled.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Librería threading y multiprocessing.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Untitled",
     "0. Images/last_addresses_table.png",
     "0. Images/first_addresses_table.png",
@@ -204,18 +214,11 @@
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/OSI vs TPC-IP Model.excalidraw.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/OSI Model/osimodel_example.excalidraw.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/OSI Model/OSI Model.excalidraw.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/TCP-IP Model/TCP-IP Model.excalidraw.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/TCP-IP Model",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/OSI Model",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Workflow/Untitled.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/1. Structure",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes",
-    "Excalidraw"
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes"
   ]
 }
