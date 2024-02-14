@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md"
+                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md"
               }
             }
           }
@@ -174,6 +174,15 @@
   },
   "active": "b532394ed2c1f1b0",
   "lastOpenFiles": [
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT/2. Security Testing Methodology.md",
+    "0. Images/IoT_FCCID_Example.png",
+    "0. Images/IoT-Methodology_pentesting.png",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md",
+    "0. Images/IoT_Attack_tree.png",
+    "Pasted image 20240214105114.png",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT",
     "Notes/2. Sistema/Named Pipes/Named and Unnamed Pipes.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Shells.md",
     "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
@@ -201,24 +210,14 @@
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
     "0. Images/pcpng.png",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/ConexionesWiFi_draw.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Conexiones de red y protocolos.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Untitled.md",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Untitled",
     "0. Images/last_addresses_table.png",
-    "0. Images/first_addresses_table.png",
-    "0. Images/subnetmask.png",
-    "0. Images/pc_image.png",
-    "0. Images/OSI_TCP_IP_LAYERS.png",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Conceptos Basicos.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/Direccionamiento.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/TCP-IP Model",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/OSI Model",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/1. Structure",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes"
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/1. Structure"
   ]
 }
