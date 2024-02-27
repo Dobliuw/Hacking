@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d9e2347c41138a6a",
+        "id": "0d6a1afb394067b7",
         "type": "tabs",
         "children": [
           {
-            "id": "bb429d39fe9a5ea0",
+            "id": "607b4420fb3f2ec3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Shells.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b532394ed2c1f1b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "multiproces",
+                "query": "awk NF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 619.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,44 +151,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b532394ed2c1f1b0",
+  "active": "607b4420fb3f2ec3",
   "lastOpenFiles": [
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Linux/Commands.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/4. Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Abuso de sistema de archivos montados.md",
+    "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/1. Sumo Logic & Estrategía de Recolección de datos.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Conceptos Expotacion/Tipos de explotación.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Conceptos Expotacion/Shells.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Conceptos Expotacion/Reconocimiento a nivel de Sistema.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Fase de Reconocimiento.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Enumeración y explotación de WebDAV.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Enumeración y explotación de SQUID Proxies.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/IIS/IIS - (Internet Information Service).md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/1. Basico/Conceptos Generales.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/1. Basico/Hashes NT, NTLM y NTLMv2.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/1. Basico/Tratamiento de la TTY.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Conceptos Expotacion/Payloads.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Binarys/Gdb.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/4. Avanzado/iptables/Añadir tráfico con nuestra máquina.md",
+    "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Falcon CrowdStrike/Falcon CrowdStrike.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing/3. Subneting - Subredes.md",
+    "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Falcon CrowdStrike",
+    "Notes/3. Cybersecurity/BlueTeam/Malware Analysis/Sistem/Setup Analysis Enviroment.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Robar data por ICMP.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Protocolos/UDP/Enumeración del servicio SNMP.md",
+    "Notes/2. Sistema/Named Pipes/Named and Unnamed Pipes.md",
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT/2. Security Testing Methodology.md",
     "0. Images/IoT_FCCID_Example.png",
     "0. Images/IoT-Methodology_pentesting.png",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md",
     "0. Images/IoT_Attack_tree.png",
     "Pasted image 20240214105114.png",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Entorno/Personalización de Entorno de Hacking.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT",
-    "Notes/2. Sistema/Named Pipes/Named and Unnamed Pipes.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Fases Auditoria/2. Explotación/Conceptos Expotacion/Shells.md",
-    "Notes/2. Sistema/Memoria/Gestión de Memoria.md",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Modules/Librería threading y multiprocessing.md",
     "Notes/2. Sistema/Named Pipes",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Pass The Hash.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/DC Sync Attack.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Sistemas Operativos/Windows/Vulnerabilidades/Kerberos Vulns/Golden Ticket Attack.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques/ARP Spoof - Envenenamiento ARP.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques/HTTPS Sniffing - SSL Stripping.md",
     "0. Images/arp_spoofing_example.png",
     "0. Images/lan_connection_arp.png",
     "Pasted image 20240118150454.png",
     "Pasted image 20240118150341.png",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing/2. IPv4 Addresses - Direcciones IPv4.md",
-    "Notes/3. Cybersecurity/BlueTeam/API Sec/Mejores prácticas.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing/3. Subneting - Subredes.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing/1. Network Layer - OSI.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/Modelos de redes.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/TCP-IP Model/Modelo TCP-IP - TCP-IP Model.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/OSI Model/Modelo OSI - OSI Model.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/1. Structure/Topologías de redes.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/1. Structure/Tipos de Redes.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/1. Structure/Proxies.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/DEAUTHENTICATION_ATTACK_draw.md",
     "0. Images/pcpng.png",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Hacking WiFi.md",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Untitled",
     "0. Images/last_addresses_table.png",
@@ -217,7 +198,6 @@
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/TCP-IP Model",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/OSI Model",
     "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/1. Structure"
+    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow"
   ]
 }
