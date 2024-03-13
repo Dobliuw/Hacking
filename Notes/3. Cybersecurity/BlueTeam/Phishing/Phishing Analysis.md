@@ -2,13 +2,13 @@
 - ------
 # Phishing
 
-Phshing es un a forma de ciberataque en la que los atacantes intentean engañar a las personas para reveln información confidencial, como contraseñas, núimeros de tarjeta de cŕedito, información bancaria u otra información personal sensible. Esto lo hacen haciéndose pasar por entidades bancarios, legítimas, servicios de correo electrónico, etc.
-Los atacantes suelen utilizar correos electrónicos, mensajes de texto, llamadas telefónicas u otros métodos de comunicación para enviar mensjaes fraudulentos a las víctimas.
+Phshing es un a forma de ciberataque en la que los atacantes intentean engañar a las personas para revelar información confidencial, como contraseñas, números de tarjeta de cŕedito, información bancaria u otra información personal sensible. Esto lo hacen haciéndose pasar por entidades bancarios, legítimas, servicios de correo electrónico, etc.
+Los atacantes suelen utilizar correos electrónicos, mensajes de texto, llamadas telefónicas u otros métodos de comunicación para enviar mensajes fraudulentos a las víctimas.
 
 -----
 # Análisis 
 ##### **\[+]** Se envió del servidor SMTP correcto? 
-Cuando recibimos un mail desde un determinado remitente, supongamos **dobliuw\@dobliuw.com**, lo primero que podemos hacer es verificar en páginas como [MX toolbox](https://mxtoolbox.com/SuperTool.aspx) (Plataforma en línea que ofrece una variedad de herramientas y servicios relacionados con la gestión de servidores de correo electrónico y la seguridad en línea) para buscar el dominio **dobliuw.com**, la IP obtenida de estab búsqueda será comparada con la IP obtenida del mail que recibimos.
+Cuando recibimos un mail desde un determinado remitente, supongamos **dobliuw\@dobliuw.com**, lo primero que podemos hacer es verificar en páginas como [MX toolbox](https://mxtoolbox.com/SuperTool.aspx) (Plataforma en línea que ofrece una variedad de herramientas y servicios relacionados con la gestión de servidores de correo electrónico y la seguridad en línea) para buscar el dominio **dobliuw.com**, la IP obtenida de esta búsqueda será comparada con la IP obtenida del mail que recibimos.
 Si las IP *no coinciden*, es una señal de que el email pudo ser *spoofed* (Se falsifico o imito). 
 
 ##### **\[+]** Los datos de *From* y *Return-Path / Reply-To* coinciden?
