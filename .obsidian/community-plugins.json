@@ -1,5 +1,6 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-admonition",
-  "obsidian-graphviz"
+  "obsidian-graphviz",
+  "webpage-html-export"
 ]

@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c0ac5ffa110436ad",
+        "id": "2e373432e7867db8",
         "type": "tabs",
         "children": [
           {
-            "id": "2ffcf9e716fa16ff",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Images/rce_joomla.png"
-              }
-            }
-          },
-          {
-            "id": "db398f2e5965442c",
+            "id": "c581a40a26e6432f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Wordpress/RCE tras acceso a Wordpress con cuenta admin.md",
+                "file": "Notes/5. Tecnologías/Services/Kerberos/Kerberos.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "17673d7ff92509e5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240325212936.png"
               }
             }
           }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wordpress",
+                "query": "hydra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Images/rce_joomla.png",
+                "file": "Notes/5. Tecnologías/Services/Kerberos/Kerberos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Images/rce_joomla.png",
+                "file": "Notes/5. Tecnologías/Services/Kerberos/Kerberos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Images/rce_joomla.png"
+                "file": "Notes/5. Tecnologías/Services/Kerberos/Kerberos.md"
               }
             }
           }
@@ -166,55 +166,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "c581a40a26e6432f",
   "lastOpenFiles": [
+    "Notes/2. Redes/CCNA 1/Clase 1.md",
+    "README.md",
+    "Notes/5. Tecnologías/Scripting en Bash.md",
+    "Notes/5. Tecnologías/Batch Scripting.md",
+    "Notes/5. Tecnologías/Services/Kerberos/KERBEROS_AUTHETICATION_FLOW.md",
+    "Notes/5. Tecnologías/Services/Kerberos/Kerberos.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/Sqlite3.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/PHP.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/MongoDB.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/Docker.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/SQL/SQL.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/SQL/PostgreSQL.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/SQL/MySQL.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/SQL/MSSQL.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Python.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Organización de código en módulos.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Crear un proyecto en PyPI.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Requests y URLlib3.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Librería threading y multiprocessing.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Librería OS y SYS.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Expresiones regulares.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Date-Time.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Conexiones de red y protocolos.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/Herramientas/Postman.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/Herramientas/Nmap.md",
+    "Pasted image 20240325212936.png",
+    "Notes/2. Redes/CCNA 1",
+    "Notes/2. Redes",
+    "0. Images/rce_joomla.png",
     "0. Images/inject_code_rce_joomla.png",
     "0. Images/select_template_rce_joomla.png",
     "0. Images/edit_templates_rce_joomla.png",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Joomla/RCE tras acceso a Joomla con cuenta admin.md",
-    "0. Images/rce_joomla.png",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Wordpress/RCE tras acceso a Wordpress con cuenta admin.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Joomla",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Inyecciones LDAP.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/SQLI - (Inyecciones SQL).md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotación/Abuso de APIs.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/4. Avanzado/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/4. Avanzado/Buffer Overflow/Buffer Overflow.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/CSRF - (Cross-Side Request Forgery).md",
-    "Notes/3. Cybersecurity/BlueTeam/Phishing/Phishing Analysis.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF_1stScenario.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/SSRF/SSRF - (Server-Side Request Forgery).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Joomla",
     "0. Images/RCE_Wordpress_success.png",
     "0. Images/RCE_Wordpress.png",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Race Conditions - Condiciones de carrera.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Abuso de xmlrpc.php en Wordpress.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/LFI - (Local File Inclusion).md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Docker Breakout.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/Herramientas/Nmap.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Linux/Atajos de consola.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Linux/Commands.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Fase de Reconocimiento.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Abuso de sistema de archivos montados.md",
-    "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/1. Sumo Logic & Estrategía de Recolección de datos.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Conceptos Expotacion/Tipos de explotación.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Conceptos Expotacion/Shells.md",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Conceptos Expotacion/Reconocimiento a nivel de Sistema.md",
-    "Notes/3. Cybersecurity/BlueTeam/Defensive Tools/Falcon CrowdStrike",
+    "Notes/4. Cybersecurity/BlueTeam/Defensive Tools/Falcon CrowdStrike",
     "0. Images/IoT_FCCID_Example.png",
     "0. Images/IoT-Methodology_pentesting.png",
     "0. Images/IoT_Attack_tree.png",
-    "Pasted image 20240214105114.png",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/IoT",
-    "Notes/2. Sistema/Named Pipes",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT",
+    "Notes/3. Sistema/Named Pipes",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques",
     "Notes/4. Tecnologías/Lenguajes y Tools/Python/Untitled",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/TCP-IP Model",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/OSI Model",
-    "Notes/3. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models"
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/TCP-IP Model"
   ]
 }
