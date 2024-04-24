@@ -13,23 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/5. Tecnologías/Services/Kerberos/Kerberos.md",
+                "file": "Notes/5. Tecnologías/Lenguajes y Tools/C/C.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "17673d7ff92509e5",
+            "id": "31f662506aa403be",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240325212936.png"
+                "file": "Notes/6. Hardware/Arduino/Arduino.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/5. Tecnologías/Services/Kerberos/Kerberos.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/5. Tecnologías/Services/Kerberos/Kerberos.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/5. Tecnologías/Services/Kerberos/Kerberos.md"
+                "file": "Notes/6. Hardware/Arduino/Arduino.md"
               }
             }
           }
@@ -170,14 +173,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c581a40a26e6432f",
+  "active": "31f662506aa403be",
   "lastOpenFiles": [
+    "Notes/5. Tecnologías/Lenguajes y Tools/C/C.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/1. Basico/Conceptos Generales.md",
+    "Notes/6. Hardware/Arduino/Arduino.md",
+    "Notes/6. Hardware/Raspberry PI",
+    "Notes/6. Hardware/Arduino",
+    "Notes/6. Hardware",
+    "Pasted image 20240325212936.png",
+    "Notes/5. Tecnologías/Lenguajes y Tools/C",
+    "Notes/5. Tecnologías/Services/Kerberos/Kerberos.md",
     "Notes/2. Redes/CCNA 1/Clase 1.md",
     "README.md",
     "Notes/5. Tecnologías/Scripting en Bash.md",
     "Notes/5. Tecnologías/Batch Scripting.md",
     "Notes/5. Tecnologías/Services/Kerberos/KERBEROS_AUTHETICATION_FLOW.md",
-    "Notes/5. Tecnologías/Services/Kerberos/Kerberos.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/Sqlite3.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/PHP.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/MongoDB.md",
@@ -195,10 +206,6 @@
     "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Librería OS y SYS.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Expresiones regulares.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Date-Time.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Conexiones de red y protocolos.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/Herramientas/Postman.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/Herramientas/Nmap.md",
-    "Pasted image 20240325212936.png",
     "Notes/2. Redes/CCNA 1",
     "Notes/2. Redes",
     "0. Images/rce_joomla.png",
@@ -213,10 +220,6 @@
     "0. Images/IoT-Methodology_pentesting.png",
     "0. Images/IoT_Attack_tree.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT",
-    "Notes/3. Sistema/Named Pipes",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Explotación/Ataques",
-    "Notes/4. Tecnologías/Lenguajes y Tools/Python/Untitled",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/3. Addressing",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Redes/2. Workflow/Network Models/TCP-IP Model"
+    "Notes/3. Sistema/Named Pipes"
   ]
 }
