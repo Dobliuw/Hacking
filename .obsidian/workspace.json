@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "31f662506aa403be",
+            "id": "f8f7556da9df802f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino.md",
+                "file": "Notes/6. Hardware/Arduino/1. Interfaces, Comunicaciones y Protocolos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "073f18f3c7c14be1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/3. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino.md",
+                "file": "Notes/6. Hardware/Arduino/1. Interfaces, Comunicaciones y Protocolos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino.md",
+                "file": "Notes/6. Hardware/Arduino/1. Interfaces, Comunicaciones y Protocolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino.md"
+                "file": "Notes/6. Hardware/Arduino/1. Interfaces, Comunicaciones y Protocolos.md"
               }
             }
           }
@@ -173,15 +185,27 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "31f662506aa403be",
+  "active": "f8f7556da9df802f",
   "lastOpenFiles": [
+    "Notes/3. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
+    "Notes/6. Hardware/Arduino/1. Interfaces, Comunicaciones y Protocolos.md",
+    "0. Images/intefaces_hardware_image.png",
+    "0. Images/usb_conector_image.png",
+    "0. Images/usb_interface_image.png",
+    "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
+    "0. Images/fusibles_electronics.png",
+    "0. Images/buzzer_electronic.png",
+    "0. Images/display_lcd_electronic.png",
+    "0. Images/setp_motor_electronic.png",
+    "0. Images/servomotor_electronic.png",
+    "0. Images/resistencias_electronic.png",
+    "0. Images/buttons_electronic.png",
+    "Notes/6. Hardware/Raspberry PI/Raspberry PI.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/C/C.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/1. Basico/Conceptos Generales.md",
-    "Notes/6. Hardware/Arduino/Arduino.md",
     "Notes/6. Hardware/Raspberry PI",
     "Notes/6. Hardware/Arduino",
     "Notes/6. Hardware",
-    "Pasted image 20240325212936.png",
     "Notes/5. Tecnologías/Lenguajes y Tools/C",
     "Notes/5. Tecnologías/Services/Kerberos/Kerberos.md",
     "Notes/2. Redes/CCNA 1/Clase 1.md",
@@ -203,22 +227,10 @@
     "Notes/5. Tecnologías/Lenguajes y Tools/Python/Crear un proyecto en PyPI.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Requests y URLlib3.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Librería threading y multiprocessing.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Librería OS y SYS.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Expresiones regulares.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Modules/Date-Time.md",
     "Notes/2. Redes/CCNA 1",
     "Notes/2. Redes",
-    "0. Images/rce_joomla.png",
-    "0. Images/inject_code_rce_joomla.png",
-    "0. Images/select_template_rce_joomla.png",
-    "0. Images/edit_templates_rce_joomla.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Joomla",
-    "0. Images/RCE_Wordpress_success.png",
-    "0. Images/RCE_Wordpress.png",
     "Notes/4. Cybersecurity/BlueTeam/Defensive Tools/Falcon CrowdStrike",
-    "0. Images/IoT_FCCID_Example.png",
-    "0. Images/IoT-Methodology_pentesting.png",
-    "0. Images/IoT_Attack_tree.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT",
     "Notes/3. Sistema/Named Pipes"
   ]
