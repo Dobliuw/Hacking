@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5
+    "width": 217.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -185,8 +185,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f8f7556da9df802f",
+  "active": "e88a780709720b6e",
   "lastOpenFiles": [
+    "0. Images/semaforo_arduino_2.png",
+    "0. Images/led_connection_electronic.png",
+    "0. Images/semaforo_arduino_1.png",
     "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
     "Notes/6. Hardware/Arduino/Arduino Proyects/1. Semaforo.md",
     "Notes/5. Tecnologías/Scripting en Bash.md",
@@ -202,8 +205,6 @@
     "0. Images/display_lcd_electronic.png",
     "0. Images/setp_motor_electronic.png",
     "0. Images/servomotor_electronic.png",
-    "0. Images/resistencias_electronic.png",
-    "0. Images/buttons_electronic.png",
     "Notes/6. Hardware/Raspberry PI/Raspberry PI.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/C/C.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/1. Basico/Conceptos Generales.md",
@@ -227,7 +228,6 @@
     "Notes/5. Tecnologías/Lenguajes y Tools/Python/Python.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/Python/Organización de código en módulos.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/Python/Crear un proyecto en PyPI.md",
     "Notes/2. Redes/CCNA 1",
     "Notes/2. Redes",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Joomla",
