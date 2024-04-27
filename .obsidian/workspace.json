@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/2. Contador binario.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/2. Contador binario.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/2. Contador binario.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/2. Contador binario.md"
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md"
               }
             }
           }
@@ -185,11 +185,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "f8f7556da9df802f",
   "lastOpenFiles": [
+    "Notes/6. Hardware/Arduino/Arduino Proyects/2. Contador binario.md",
+    "Notes/5. Tecnologías/Lenguajes y Tools/C/C.md",
     "0. Images/acii_table.png",
     "Notes/6. Hardware/Arduino/Arduino Proyects/1. Semaforo.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/2. Contador binario.md",
     "0. Images/binary_counter_arduino.png",
     "0. Images/semaforo_arduino_2.png",
     "0. Images/semaforo_arduino_1.png",
@@ -205,9 +206,7 @@
     "0. Images/usb_interface_image.png",
     "0. Images/fusibles_electronics.png",
     "0. Images/buzzer_electronic.png",
-    "0. Images/display_lcd_electronic.png",
     "Notes/6. Hardware/Raspberry PI/Raspberry PI.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/C/C.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/1. Basico/Conceptos Generales.md",
     "Notes/6. Hardware/Raspberry PI",
     "Notes/6. Hardware/Arduino",
