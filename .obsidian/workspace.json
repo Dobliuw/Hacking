@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8b814c2356fa819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "mode": "source",
                 "source": false
@@ -32,19 +44,19 @@
             }
           },
           {
-            "id": "8dd93b10409a2080",
+            "id": "c4995f30b7d8ccba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5
+    "width": 619.5,
+    "collapsed": true
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -185,20 +198,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f8f7556da9df802f",
+  "active": "e8b814c2356fa819",
   "lastOpenFiles": [
-    "Notes/6. Hardware/Arduino/Arduino Proyects/2. Contador binario.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
+    "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
+    "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
+    "Notes/6. Hardware/Arduino/1. Interfaces, Comunicaciones y Protocolos.md",
+    "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/C/C.md",
+    "Notes/6. Hardware/Arduino/Elelctronic",
+    "Notes/6. Hardware/Arduino/Arduino Proyects/2. Contador binario.md",
     "0. Images/acii_table.png",
     "Notes/6. Hardware/Arduino/Arduino Proyects/1. Semaforo.md",
     "0. Images/binary_counter_arduino.png",
     "0. Images/semaforo_arduino_2.png",
     "0. Images/semaforo_arduino_1.png",
     "0. Images/led_connection_electronic.png",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
     "Notes/5. Tecnologías/Scripting en Bash.md",
-    "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
-    "Notes/6. Hardware/Arduino/1. Interfaces, Comunicaciones y Protocolos.md",
     "Notes/6. Hardware/Arduino/Arduino Proyects",
     "Notes/3. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
     "0. Images/intefaces_hardware_image.png",
@@ -226,11 +242,9 @@
     "Notes/5. Tecnologías/Lenguajes y Tools/SQL/MySQL.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/SQL/MSSQL.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/Python/Python.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/Python/POO en Python.md",
     "Notes/2. Redes/CCNA 1",
     "Notes/2. Redes",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Joomla",
-    "Notes/4. Cybersecurity/BlueTeam/Defensive Tools/Falcon CrowdStrike",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT"
+    "Notes/4. Cybersecurity/BlueTeam/Defensive Tools/Falcon CrowdStrike"
   ]
 }
