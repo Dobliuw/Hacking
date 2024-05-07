@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/4. Photoresistor con Servomotor.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/4. Photoresistor con Servomotor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/4. Photoresistor con Servomotor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md"
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/4. Photoresistor con Servomotor.md"
               }
             }
           }
@@ -199,11 +200,12 @@
   },
   "active": "e8b814c2356fa819",
   "lastOpenFiles": [
+    "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
+    "Notes/6. Hardware/Arduino/Arduino Proyects/4. Photoresistor con Servomotor.md",
+    "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
     "Notes/5. Tecnologías/Lenguajes y Tools/C/C.md",
     "0. Images/pull_down_resistor_electronic.png",
     "0. Images/pull_up_resistor_electronic.png",
-    "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
     "Notes/6. Hardware/Arduino/1. Interfaces, Comunicaciones y Protocolos.md",
     "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",

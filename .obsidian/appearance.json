@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "baseFontSize": 17,
-  "cssTheme": "Border"
+  "cssTheme": "Border",
+  "theme": "obsidian"
 }
