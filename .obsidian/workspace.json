@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2e373432e7867db8",
+        "id": "deece45d7549f578",
         "type": "tabs",
         "children": [
           {
-            "id": "c581a40a26e6432f",
+            "id": "36902af11fa6f8db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/5. Tecnologías/Lenguajes y Tools/C/C.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Pivoting/Pivoting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f8f7556da9df802f",
+            "id": "1173ca28a0ff11fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8b814c2356fa819",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/4. Photoresistor con Servomotor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4995f30b7d8ccba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 483.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/4. Photoresistor con Servomotor.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/4. Photoresistor con Servomotor.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/4. Photoresistor con Servomotor.md"
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md"
               }
             }
           }
@@ -198,53 +173,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e8b814c2356fa819",
+  "active": "e88a780709720b6e",
   "lastOpenFiles": [
-    "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/4. Photoresistor con Servomotor.md",
-    "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
+    "0. Images/button_without_resistors_electronic.png",
     "Notes/5. Tecnologías/Lenguajes y Tools/C/C.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Pivoting/Pivoting.md",
+    "Notes/2. Redes/Iptables/Añadir tráfico con nuestra máquina.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Linux/Commands.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Linux/Atajos de consola.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Windows/DC Sync Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Abuso de AllowedToDelegate.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Abusando de SeImpersonatePrivilege.md",
+    "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/Open Redirect.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Privilege Scalation",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Vulnerabilidades",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Windows",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/New folder",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API/Reverse Engineering/Reverse Engineering an API.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API/Reverse Engineering",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API/Reconocimiento Pasivo.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API/Reconocimiento Activo.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Explotación/Encontrar misconfigurations.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Explotación/Abuso de APIs.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Explotación",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/TTY Hijacking.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Sesiones de firefox.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Secuestro de la biblioteca de objetos compartidos enlazados dinámicamente.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Python Library Hijacking.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/PATH Hijacking.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Keepass master key crack .dmp.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Explotación del Kernel.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Docker Breakout.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Abuso de privilegios de escritura en DB's.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Abuso de privilegios a nivel de Sudoers.md",
     "0. Images/pull_down_resistor_electronic.png",
     "0. Images/pull_up_resistor_electronic.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Basico/Conexión.md",
-    "Notes/6. Hardware/Arduino/1. Interfaces, Comunicaciones y Protocolos.md",
-    "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
-    "Notes/6. Hardware/Arduino/Elelctronic",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/2. Contador binario.md",
     "0. Images/acii_table.png",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/1. Semaforo.md",
     "0. Images/binary_counter_arduino.png",
     "0. Images/semaforo_arduino_2.png",
     "0. Images/semaforo_arduino_1.png",
     "0. Images/led_connection_electronic.png",
-    "Notes/5. Tecnologías/Scripting en Bash.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects",
-    "Notes/3. Sistema/Memoria/Memorias/Entendiendo la memoria RAM.md",
     "0. Images/intefaces_hardware_image.png",
     "0. Images/usb_conector_image.png",
-    "0. Images/usb_interface_image.png",
-    "Notes/6. Hardware/Raspberry PI/Raspberry PI.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/1. Basico/Conceptos Generales.md",
-    "Notes/6. Hardware/Raspberry PI",
-    "Notes/6. Hardware/Arduino",
-    "Notes/6. Hardware",
-    "Notes/5. Tecnologías/Lenguajes y Tools/C",
-    "Notes/5. Tecnologías/Services/Kerberos/Kerberos.md",
-    "Notes/2. Redes/CCNA 1/Clase 1.md",
-    "README.md",
-    "Notes/5. Tecnologías/Batch Scripting.md",
-    "Notes/5. Tecnologías/Services/Kerberos/KERBEROS_AUTHETICATION_FLOW.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/Sqlite3.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/PHP.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/MongoDB.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/Docker.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/SQL/SQL.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/SQL/PostgreSQL.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/SQL/MySQL.md",
-    "Notes/5. Tecnologías/Lenguajes y Tools/SQL/MSSQL.md",
-    "Notes/2. Redes/CCNA 1",
-    "Notes/2. Redes",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/1. Reconocimiento/Gestores De Contenido/Joomla",
-    "Notes/4. Cybersecurity/BlueTeam/Defensive Tools/Falcon CrowdStrike"
+    "0. Images/usb_interface_image.png"
   ]
 }
