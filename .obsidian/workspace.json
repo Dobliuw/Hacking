@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md"
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md"
               }
             }
           }
@@ -175,6 +175,11 @@
   },
   "active": "e88a780709720b6e",
   "lastOpenFiles": [
+    "0. Images/servos_with_joystick.jpg",
+    "Notes/6. Hardware/Arduino/Arduino Proyects/3. Potenciometro con señal análogica a LED.md",
+    "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
+    "Notes/6. Hardware/Arduino/Arduino Proyects/4. Photoresistor con Servomotor.md",
+    "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
     "0. Images/button_without_resistors_electronic.png",
     "Notes/5. Tecnologías/Lenguajes y Tools/C/C.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Pivoting/Pivoting.md",
@@ -207,10 +212,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Python Library Hijacking.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/PATH Hijacking.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Keepass master key crack .dmp.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Explotación del Kernel.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Docker Breakout.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Abuso de privilegios de escritura en DB's.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Abuso de privilegios a nivel de Sudoers.md",
     "0. Images/pull_down_resistor_electronic.png",
     "0. Images/pull_up_resistor_electronic.png",
     "0. Images/acii_table.png",
@@ -219,7 +220,6 @@
     "0. Images/semaforo_arduino_1.png",
     "0. Images/led_connection_electronic.png",
     "0. Images/intefaces_hardware_image.png",
-    "0. Images/usb_conector_image.png",
-    "0. Images/usb_interface_image.png"
+    "0. Images/usb_conector_image.png"
   ]
 }
