@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "deece45d7549f578",
+        "id": "0c6cca8faf1c44c9",
         "type": "tabs",
         "children": [
           {
-            "id": "36902af11fa6f8db",
+            "id": "af2b722334829b57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Pivoting/Pivoting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1173ca28a0ff11fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
+                "file": "Notes/3. Sistema/Operative Systems/Windows/0. Windows Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
+                "file": "Notes/3. Sistema/Operative Systems/Windows/0. Windows Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
+                "file": "Notes/3. Sistema/Operative Systems/Windows/0. Windows Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md"
+                "file": "Notes/3. Sistema/Operative Systems/Windows/0. Windows Basics.md"
               }
             }
           }
@@ -173,8 +160,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "af2b722334829b57",
   "lastOpenFiles": [
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Commands.md",
+    "Notes/3. Sistema/Operative Systems/Windows/0. Windows Basics.md",
+    "Notes/3. Sistema/Operative Systems/Windows/0.1 Windows Versions.md",
+    "Notes/3. Sistema/Operative Systems/Windows/1. Batch.md",
+    "Notes/3. Sistema/Operative Systems/Windows/2. PowerShell.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Recopilación de información del sistema..md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/1. Basico/Conceptos Generales.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Pivoting/Pivoting.md",
+    "Notes/3. Sistema/Operative Systems/Windows",
+    "Notes/3. Sistema/Operative Systems",
+    "Notes/3. Sistema/Global Concepts",
     "0. Images/servos_with_joystick.jpg",
     "Notes/6. Hardware/Arduino/Arduino Proyects/3. Potenciometro con señal análogica a LED.md",
     "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
@@ -182,7 +180,6 @@
     "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
     "0. Images/button_without_resistors_electronic.png",
     "Notes/5. Tecnologías/Lenguajes y Tools/C/C.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Pivoting/Pivoting.md",
     "Notes/2. Redes/Iptables/Añadir tráfico con nuestra máquina.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Linux/Commands.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Linux/Atajos de consola.md",
@@ -203,15 +200,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Explotación/Abuso de APIs.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Explotación",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/TTY Hijacking.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Sesiones de firefox.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Secuestro de la biblioteca de objetos compartidos enlazados dinámicamente.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Python Library Hijacking.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/PATH Hijacking.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Linux/Keepass master key crack .dmp.md",
     "0. Images/pull_down_resistor_electronic.png",
     "0. Images/pull_up_resistor_electronic.png",
     "0. Images/acii_table.png",
@@ -219,7 +207,6 @@
     "0. Images/semaforo_arduino_2.png",
     "0. Images/semaforo_arduino_1.png",
     "0. Images/led_connection_electronic.png",
-    "0. Images/intefaces_hardware_image.png",
-    "0. Images/usb_conector_image.png"
+    "0. Images/intefaces_hardware_image.png"
   ]
 }
