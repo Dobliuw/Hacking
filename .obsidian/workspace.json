@@ -162,8 +162,9 @@
   },
   "active": "af2b722334829b57",
   "lastOpenFiles": [
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Commands.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Windows/0. Windows Privilege Escalation.md",
     "Notes/3. Sistema/Operative Systems/Windows/0. Windows Basics.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Commands.md",
     "Notes/3. Sistema/Operative Systems/Windows/0.1 Windows Versions.md",
     "Notes/3. Sistema/Operative Systems/Windows/1. Batch.md",
     "Notes/3. Sistema/Operative Systems/Windows/2. PowerShell.md",
@@ -198,7 +199,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API/Reconocimiento Activo.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Explotación/Encontrar misconfigurations.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Explotación/Abuso de APIs.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento",
     "0. Images/pull_down_resistor_electronic.png",
     "0. Images/pull_up_resistor_electronic.png",
