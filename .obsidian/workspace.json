@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0c6cca8faf1c44c9",
+        "id": "d442c43c01f66025",
         "type": "tabs",
         "children": [
           {
-            "id": "af2b722334829b57",
+            "id": "1310ce5019453681",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. Sistema/Operative Systems/Windows/0. Windows Basics.md",
+                "file": "Notes/3. System/Operative Systems/Windows/Administration/GPEDIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80940bfe9308fc5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19ce2bb481a9dc2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/0. Windows Privilege Escalation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. Sistema/Operative Systems/Windows/0. Windows Basics.md",
+                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. Sistema/Operative Systems/Windows/0. Windows Basics.md",
+                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. Sistema/Operative Systems/Windows/0. Windows Basics.md"
+                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md"
               }
             }
           }
@@ -160,53 +185,52 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "af2b722334829b57",
+  "active": "e88a780709720b6e",
   "lastOpenFiles": [
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Windows/0. Windows Privilege Escalation.md",
-    "Notes/3. Sistema/Operative Systems/Windows/0. Windows Basics.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Commands.md",
-    "Notes/3. Sistema/Operative Systems/Windows/0.1 Windows Versions.md",
-    "Notes/3. Sistema/Operative Systems/Windows/1. Batch.md",
-    "Notes/3. Sistema/Operative Systems/Windows/2. PowerShell.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Recopilación de información del sistema..md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/1. Basico/Conceptos Generales.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Redes/Pivoting/Pivoting.md",
-    "Notes/3. Sistema/Operative Systems/Windows",
-    "Notes/3. Sistema/Operative Systems",
-    "Notes/3. Sistema/Global Concepts",
-    "0. Images/servos_with_joystick.jpg",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/3. Potenciometro con señal análogica a LED.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/GPEDIT.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/DSQUERY.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/DISKMGMT - DISKPART.md",
+    "0. Images/gui_diskmgmt.msc-stdout.png",
+    "Notes/3. System/Operative Systems/Windows/Administration/MSCONFIG.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/MSTSC.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/SCHTASKS.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/REG.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/NET.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/MSIEXEC.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/PSEXEC.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
+    "Notes/3. System/Operative Systems/Windows/2. PowerShell.md",
+    "Notes/3. System/Operative Systems/Windows/Administration",
+    "Notes/3. System/Operative Systems/Windows/1. Batch.md",
+    "Notes/3. System/Operative Systems/Windows/0.1 Windows Versions.md",
+    "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/0. Windows Privilege Escalation.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Sistemas Operativos/Windows/Commands.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Sistemas Operativos/Windows/Recopilación de información del sistema..md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basico/Conceptos Generales.md",
+    "Notes/6. Hardware/Raspberry PI/Raspberry PI.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Intentos Básicos.md",
+    "README.md",
+    "Notes/6. Hardware/Arduino/1. Interfaces, Comunicaciones y Protocolos.md",
+    "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
     "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/4. Photoresistor con Servomotor.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
+    "Notes/3. System/Operative Systems/Windows",
+    "Notes/3. System/Operative Systems",
+    "Notes/3. System/Global Concepts",
+    "0. Images/servos_with_joystick.jpg",
     "0. Images/button_without_resistors_electronic.png",
-    "Notes/5. Tecnologías/Lenguajes y Tools/C/C.md",
-    "Notes/2. Redes/Iptables/Añadir tráfico con nuestra máquina.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Linux/Commands.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Linux/Atajos de consola.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Windows/DC Sync Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Abuso de AllowedToDelegate.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Abusando de SeImpersonatePrivilege.md",
-    "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/Open Redirect.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Privilege Scalation",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Vulnerabilidades",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Windows",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Windows",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/New folder",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API/Reverse Engineering/Reverse Engineering an API.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API/Reverse Engineering",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API/Reconocimiento Pasivo.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API/Reconocimiento Activo.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Explotación/Encontrar misconfigurations.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API/Reverse Engineering",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API",
     "0. Images/pull_down_resistor_electronic.png",
     "0. Images/pull_up_resistor_electronic.png",
     "0. Images/acii_table.png",
     "0. Images/binary_counter_arduino.png",
     "0. Images/semaforo_arduino_2.png",
     "0. Images/semaforo_arduino_1.png",
-    "0. Images/led_connection_electronic.png",
-    "0. Images/intefaces_hardware_image.png"
+    "0. Images/led_connection_electronic.png"
   ]
 }

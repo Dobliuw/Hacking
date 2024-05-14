@@ -43,12 +43,10 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\owenp\\OneDrive\\Escritorio\\dobliuw-page",
+  "exportPath": "C:\\\\Users\\owenp\\OneDrive\\Escritorio\\tuli",
   "filesToExport": [
     [
-      "0. Images",
-      "Notes",
-      "README.md"
+      "all"
     ]
   ]
 }
