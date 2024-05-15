@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d442c43c01f66025",
+        "id": "0ae1ca85752a9e4f",
         "type": "tabs",
         "children": [
           {
-            "id": "28767bb87c3a5a40",
+            "id": "fb3c9cbf520e9f69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e616f3f1b0ad88f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80940bfe9308fc5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Abuso de AlwaysInstallElevated.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19ce2bb481a9dc2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/0. Windows Privilege Escalation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "net share ",
+                "query": "process",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,35 +153,37 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "fb3c9cbf520e9f69",
   "lastOpenFiles": [
-    "0. Images/stpper_motor_28BYJ-48.png",
-    "0. Images/stepper_motor_handle_module_SBT0811.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Abuso de AlwaysInstallElevated.md",
     "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/SC.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/SCHTASKS.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/0. Windows Privilege Escalation.md",
     "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/REG.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/PSEXEC.md",
     "Notes/3. System/Operative Systems/Windows/Administration/NET.md",
     "Notes/3. System/Operative Systems/Windows/Administration/MSTSC.md",
-    "0. Images/mstsc_help_panel.png",
     "Notes/3. System/Operative Systems/Windows/Administration/MSIEXEC.md",
     "Notes/3. System/Operative Systems/Windows/Administration/MSCONFIG.md",
-    "0. Images/msconfig_windows.png",
     "Notes/3. System/Operative Systems/Windows/Administration/GPEDIT.md",
     "Notes/3. System/Operative Systems/Windows/Administration/DSQUERY.md",
     "Notes/3. System/Operative Systems/Windows/Administration/DISKMGMT - DISKPART.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/SCHTASKS.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/SC.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/PSEXEC.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/REG.md",
+    "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
+    "0. Images/pins_sequence_sepper_motor.png",
+    "0. Images/pinout_module_handler_setpper_motor.png",
+    "0. Images/stpper_motor_28BYJ-48.png",
+    "0. Images/stepper_motor_handle_module_SBT0811.png",
+    "0. Images/mstsc_help_panel.png",
+    "0. Images/msconfig_windows.png",
     "Notes/4. Cybersecurity/BlueTeam/Processes detection/PsExec.md",
     "Notes/4. Cybersecurity/BlueTeam/Processes detection",
     "0. Images/UAC_example.png",
     "0. Images/gpedit.msc_image.png",
     "0. Images/repair_option_sectio_windows_installer.png",
     "0. Images/windows_installer_help_guide.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/0. Windows Privilege Escalation.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Abuso de AlwaysInstallElevated.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/4. Redacción de Informe Profesional/Redacción de reporte profesional en LaTeX.md",
-    "0. Images/gui_diskmgmt.msc-stdout.png",
     "Notes/3. System/Operative Systems/Windows/2. PowerShell.md",
     "Notes/3. System/Operative Systems/Windows/Administration",
     "Notes/3. System/Operative Systems/Windows/1. Batch.md",
@@ -237,8 +196,6 @@
     "Notes/3. System/Operative Systems/Windows",
     "Notes/3. System/Operative Systems",
     "Notes/3. System/Global Concepts",
-    "0. Images/servos_with_joystick.jpg",
-    "0. Images/button_without_resistors_electronic.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Privilege Scalation",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Vulnerabilidades",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Windows",
