@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1310ce5019453681",
+            "id": "28767bb87c3a5a40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Windows/Administration/GPEDIT.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e616f3f1b0ad88f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Abuso de AlwaysInstallElevated.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hydra",
+                "query": "net share ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md"
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md"
               }
             }
           }
@@ -187,33 +198,42 @@
   },
   "active": "e88a780709720b6e",
   "lastOpenFiles": [
+    "0. Images/stpper_motor_28BYJ-48.png",
+    "0. Images/stepper_motor_handle_module_SBT0811.png",
+    "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/SC.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/SCHTASKS.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/REG.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/PSEXEC.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/NET.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/MSTSC.md",
+    "0. Images/mstsc_help_panel.png",
+    "Notes/3. System/Operative Systems/Windows/Administration/MSIEXEC.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/MSCONFIG.md",
+    "0. Images/msconfig_windows.png",
     "Notes/3. System/Operative Systems/Windows/Administration/GPEDIT.md",
     "Notes/3. System/Operative Systems/Windows/Administration/DSQUERY.md",
     "Notes/3. System/Operative Systems/Windows/Administration/DISKMGMT - DISKPART.md",
+    "Notes/4. Cybersecurity/BlueTeam/Processes detection/PsExec.md",
+    "Notes/4. Cybersecurity/BlueTeam/Processes detection",
+    "0. Images/UAC_example.png",
+    "0. Images/gpedit.msc_image.png",
+    "0. Images/repair_option_sectio_windows_installer.png",
+    "0. Images/windows_installer_help_guide.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/0. Windows Privilege Escalation.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Abuso de AlwaysInstallElevated.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/4. Redacción de Informe Profesional/Redacción de reporte profesional en LaTeX.md",
     "0. Images/gui_diskmgmt.msc-stdout.png",
-    "Notes/3. System/Operative Systems/Windows/Administration/MSCONFIG.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/MSTSC.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/SCHTASKS.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/REG.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/NET.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/MSIEXEC.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/PSEXEC.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
     "Notes/3. System/Operative Systems/Windows/2. PowerShell.md",
     "Notes/3. System/Operative Systems/Windows/Administration",
     "Notes/3. System/Operative Systems/Windows/1. Batch.md",
     "Notes/3. System/Operative Systems/Windows/0.1 Windows Versions.md",
-    "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/0. Windows Privilege Escalation.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Sistemas Operativos/Windows/Commands.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Sistemas Operativos/Windows/Recopilación de información del sistema..md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basico/Conceptos Generales.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Commands.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Recopilación de información del sistema..md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/Conceptos Generales.md",
     "Notes/6. Hardware/Raspberry PI/Raspberry PI.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Intentos Básicos.md",
-    "README.md",
-    "Notes/6. Hardware/Arduino/1. Interfaces, Comunicaciones y Protocolos.md",
-    "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
     "Notes/3. System/Operative Systems/Windows",
     "Notes/3. System/Operative Systems",
     "Notes/3. System/Global Concepts",
@@ -223,14 +243,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Vulnerabilidades",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Windows",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/2. Fases Auditoria/2. Explotación/Vulnerabilidades/New folder",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API/Reverse Engineering",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API",
-    "0. Images/pull_down_resistor_electronic.png",
-    "0. Images/pull_up_resistor_electronic.png",
-    "0. Images/acii_table.png",
-    "0. Images/binary_counter_arduino.png",
-    "0. Images/semaforo_arduino_2.png",
-    "0. Images/semaforo_arduino_1.png",
-    "0. Images/led_connection_electronic.png"
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/API Abuse/Reconocimiento/API/Reverse Engineering"
   ]
 }
