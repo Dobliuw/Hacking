@@ -11,8 +11,12 @@
             "id": "fb3c9cbf520e9f69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md"
+              }
             }
           }
         ]
@@ -155,10 +162,12 @@
   },
   "active": "fb3c9cbf520e9f69",
   "lastOpenFiles": [
+    "Notes/3. System/Operative Systems/Windows/Administration/WMIC 1.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
+    "Notes/3. System/Operative Systems/Windows/2. PowerShell.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Abuso de AlwaysInstallElevated.md",
     "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/0. Windows Privilege Escalation.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
     "Notes/3. System/Operative Systems/Windows/Administration/NET.md",
     "Notes/3. System/Operative Systems/Windows/Administration/MSTSC.md",
     "Notes/3. System/Operative Systems/Windows/Administration/MSIEXEC.md",
@@ -184,7 +193,6 @@
     "0. Images/repair_option_sectio_windows_installer.png",
     "0. Images/windows_installer_help_guide.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/4. Redacción de Informe Profesional/Redacción de reporte profesional en LaTeX.md",
-    "Notes/3. System/Operative Systems/Windows/2. PowerShell.md",
     "Notes/3. System/Operative Systems/Windows/Administration",
     "Notes/3. System/Operative Systems/Windows/1. Batch.md",
     "Notes/3. System/Operative Systems/Windows/0.1 Windows Versions.md",
@@ -192,7 +200,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Recopilación de información del sistema..md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/Conceptos Generales.md",
     "Notes/6. Hardware/Raspberry PI/Raspberry PI.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Intentos Básicos.md",
     "Notes/3. System/Operative Systems/Windows",
     "Notes/3. System/Operative Systems",
     "Notes/3. System/Global Concepts",
