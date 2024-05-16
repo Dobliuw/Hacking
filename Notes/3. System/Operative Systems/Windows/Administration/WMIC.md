@@ -32,6 +32,8 @@
 > wmic nicconfig get Caption, IPAddress, MACAdress
 # Get user account information
 > wmic useraccount get Name, FullName, Description
+# Get logical disk information
+> wmic logicaldisk get caption,desription,providername
 # Start a service
 > wmic service where "name='{service_name}'" call startservice
 # Stop a service
