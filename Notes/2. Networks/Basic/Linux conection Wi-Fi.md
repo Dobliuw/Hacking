@@ -1,7 +1,6 @@
 ----
 - Tags: #comandos #basico #redes
 ---
-
 # Conexión a WiFi desde la terminal 
 
 ```shell

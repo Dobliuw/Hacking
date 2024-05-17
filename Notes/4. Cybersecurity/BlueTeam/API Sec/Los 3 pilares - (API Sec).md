@@ -61,7 +61,7 @@ Ejemplo de Guía de diseño:
 # Testing
 El **testing** es la seguridad de las APIs se refiere a la práctica de evaluar y analizar una API específica en busca de vulnerabilidades, debilidades de seguridad y psoibles probelmas que puedan ser explotados por atacntes maliciosos. Estas pruebas se realizan para garantizar que la API sea robusta y resistente a ataques y cumpla con los estándares de seguridad establecidos. 
 
-Este pilar es fundamental para la seguridad de las APIs, por lo que es importante saber como realizar el [[Abuso de APIs]].
+Este pilar es fundamental para la seguridad de las APIs, por lo que es importante saber como realizar el [[APIs abuse]].
 
 ![[api_testing.png]]
 # Categorias de **testing** 

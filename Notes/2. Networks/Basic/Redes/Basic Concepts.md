@@ -264,7 +264,7 @@ Para ver los paquetes fragmentados desde wireshark podriamos ingresar  `ip.flags
 
 
 - ## Spoof-Mac (--spoof-mac): 
-Esta técnica de evasión se basa en *cambiar la dirección MAC* del paquete para evitar la detección del Firewall. Nmap permite configurar manualmente la dirección MAC ( Explicada en [[Conceptos Basicos]]) para evitar la detección. 
+Esta técnica de evasión se basa en *cambiar la dirección MAC* del paquete para evitar la detección del Firewall. Nmap permite configurar manualmente la dirección MAC ( Explicada en [[Basic Concepts]]) para evitar la detección. 
 
 - ## Stealth Scan (-sS): 
 Esta técnica es una de las más usadas para realizar escaneos sigilosos y evitar la detección del Firewall. El comando -sS permite a los usuarios realizar un escaneo de tip *SYN sin establecer una conexión completa*, lo que permite evitar la detección. Esto lo que hace es lo sig:

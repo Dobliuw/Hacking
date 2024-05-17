@@ -583,7 +583,7 @@ second_person.age = 21;
 ```
 ##### Typedef
 
-La palabra reservada *typedef* en C se utiliza para crear alias o nombres alternativos aara tipos de datos existentes. Esto puede hacer qeu el código sea más legible y fácil de mantener, especialmente cuando se trabaja con tipos de datos largos o complejos.
+La palabra reservada *typedef* en C se utiliza para crear alias o nombres alternativos para tipos de datos existentes. Esto puede hacer que el código sea más legible y fácil de mantener, especialmente cuando se trabaja con tipos de datos largos o complejos.
 
 ```C
 # Declaration of alias
@@ -609,3 +609,95 @@ typedef char String_arr_15x5b[25][5];
 String_arr_25bx5 my_string_arr = {"Dobliuw", "ZaikoARG", "elswix", "Valentino", "Brian"};
 
 ```
+##### Array of structures
+
+Los *arrays de estructuras* son muy útiles cuando se encesita manejar un conjunto de datos relacionados de manera organizada y eficiente. Algunos de susu usos comunes pueden ser la gestión de bases de datos simples, programación de juegos y/o procesamiento de datos. Nos permite mantener un código organizado, eficiente y escalable.
+
+```C
+#include <stdio.h>
+#include <string.h>
+
+// Macro to calculate the length of an array
+#define LENGTH(arr) (sizeof(arr) / sizeof((arr)[0]))
+
+// Definition of the structure Student
+typedef struct {
+    char name[12];
+    char age;
+} Student;
+
+// Typedef for an array of Students
+typedef Student Course[];
+
+int main() {
+    // Initializing instances of Student
+    Student student1 = {"DobliuW", 15};
+    Student student2 = {"Dylan", 13};
+    Student student3 = {"Marcos", 15};
+    Student student4 = {"Igna", 17};
+
+    // Creating an array of Students
+    Course first_course = {student1, student2, student3, student4};
+
+    // Printing the students' information
+    printf("The first course has the following students:\n");
+    for (int i = 0; i < LENGTH(first_course); i++) {
+        printf("- %s, who is %d years old.\n", first_course[i].name, first_course[i].age);
+    }
+
+    return 0;
+}
+```
+##### Enum
+
+Los *enum* son una manera de definir un conjunto de contrasntaes enteras con nombres más descriptivos, lo que mejora la legibilidad y el mantenimiento de código. Se utilizan para representar valores que son descretos y finitos, como días de la semana, estados de una máquina de estados, meses, etc.
+
+Un *enum* se define usando la palabra clave *enum* seguida por elnombre del enumerador y una lista de idetnficadores (Nombres de constantes) encerrados entre {}, Por defecto los identificadores se asignana a valores enteros consecutivos, empezan por 0, pero estos se pueden cambiar.
+
+```C
+#include <stdio.h>
+
+enum Day {Mon = 1, Tue = 2, Wed = 3, Thu = 4, Fri = 5, Sat = 6, Sun = 7};
+
+void printDay(enum Day day){
+	swtich(day){
+	case(Mon): printf("Monday"); break;
+	case(Tue): printf("Tuesday"); break;
+	case(Wed): printf("Wednesday"); break;
+	case(Thu): printf("Thursday"); break;
+	case(Fri): printf("Friday"); break;
+	case(Sat): printf("Saturday"); break;
+	case(Sun): printf("Sundary"); break;
+	default: printf("Day not found."); break;
+	}
+}
+
+int main(){
+	enum Day today = Thu;
+	printDay(today);
+	return 0;
+};
+```
+##### Random numbers
+
+La función `srand()` de la librería `stdlib.h` en C se utiliza para inciializar el generador de números aleatorios. Esta incialización se llama "*sembrar*" el generador de números aleatorios, y es crucial para obtener secuencias deferentes de números aleatorios en cada ejecución del programa. Esto es porque la función `rand()` de la librería `stdlib.h`, genera una secuencia de números basada en "seed/semilla" inicial. Si no se inicializa el generador con `srand()`, el generador usará una semilla por defecto, lo que provocará que la secuencia de números aleatorios generada por `rand()` sea la misma en cada ejecución del programa.
+
+```C
+#include <stdio.h>
+#include <stdlib.h> // For srand() and rand()
+#include <time.h> // For time()
+
+int main(){
+	// Generate the number generators based in actual time
+	srand(time(0));
+
+	// Generate a 100 random numbers between 80 and 180
+	for(int i = 0; i < 101; i++){
+		int random_num = rand() % 180 + 80;
+		printf("%s", random_num);
+	};
+	return 0;
+};
+```
+
+`time(0)` devuelve el tiempo actual en segundos desde el 1 de enero de 1970 (también conocido como la época Unix).
