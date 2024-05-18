@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Mobile Application Penetration Testing Process.md",
+                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash",
+                "query": "UAC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Mobile Application Penetration Testing Process.md",
+                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Mobile Application Penetration Testing Process.md",
+                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Mobile Application Penetration Testing Process.md"
+                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md"
               }
             }
           }
@@ -162,13 +162,25 @@
   },
   "active": "e88a780709720b6e",
   "lastOpenFiles": [
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab in Windows.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab in MacOS.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab in Linux.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Android/Lab Setup/Untitled",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Android Architecture.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup",
+    "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
+    "0. Images/android_architecture.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Android Mobile App Static Analysis.md",
+    "Notes/3. System/Operative Systems/Linux/0. Linux Basics.md",
+    "0. Images/linux_permits.png",
+    "linux_basic.md",
+    "Notes/3. System/Operative Systems/Linux",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Mobile Application Penetration Testing Process.md",
     "0. Images/static_analysis_mobile_pentesting.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Android/Android Mobile App Static Analysis.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Mobile Application Penetration Testing Process.md",
     "Notes/5. Technologies/Lenguajes y Tools/C/C.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/IOS",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Android",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/IOS",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications",
     "Notes/5. Technologies/Scripting en Bash.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advance/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/Herramientas/⚒ Herramientas ⚒.md",
@@ -181,16 +193,10 @@
     "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
     "Notes/2. Networks/Basic/WiFiConnections_draw.md",
     "Notes/2. Networks/Basic/Linux conection Wi-Fi.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT/2. Security Testing Methodology.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Personalización de Entorno de Hacking.md",
     "Notes/4. Cybersecurity/BlueTeam/Processes detection/PsExec.md",
-    "Notes/4. Cybersecurity/BlueTeam/Phishing/Autenticación de Correos Electrónicos.md",
-    "Notes/4. Cybersecurity/BlueTeam/Malware Analysis/Sistem/Setup Analysis Enviroment.md",
-    "Notes/4. Cybersecurity/BlueTeam/Malware Analysis/Sistem/Análisis de Malware.md",
-    "Notes/4. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/5. Alert Response.md",
-    "Notes/4. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/4. Data Search (Métricas, Tracing).md",
     "0. Images/pins_sequence_sepper_motor.png",
     "0. Images/pinout_module_handler_setpper_motor.png",
     "0. Images/stpper_motor_28BYJ-48.png",
@@ -199,14 +205,8 @@
     "0. Images/msconfig_windows.png",
     "Notes/4. Cybersecurity/BlueTeam/Processes detection",
     "0. Images/UAC_example.png",
-    "0. Images/gpedit.msc_image.png",
-    "0. Images/repair_option_sectio_windows_installer.png",
-    "0. Images/windows_installer_help_guide.png",
     "Notes/3. System/Operative Systems/Windows/Administration",
     "Notes/3. System/Operative Systems/Windows",
-    "Notes/3. System/Operative Systems",
-    "Notes/3. System/Global Concepts",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Privilege Scalation",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Sistemas/3. Sistemas Operativos/Windows/Vulnerabilidades"
+    "Notes/3. System/Operative Systems"
   ]
 }
