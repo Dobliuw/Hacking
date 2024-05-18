@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md"
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab.md"
               }
             }
           }
@@ -162,7 +162,10 @@
   },
   "active": "e88a780709720b6e",
   "lastOpenFiles": [
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab in Windows.md",
+    "Notes/3. System/Operative Systems/Linux/0. Linux Basics.md",
+    "0. Images/octal_low_level_explained.png",
+    "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab in MacOS.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab in Linux.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Android/Lab Setup/Untitled",
@@ -171,7 +174,6 @@
     "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
     "0. Images/android_architecture.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Android Mobile App Static Analysis.md",
-    "Notes/3. System/Operative Systems/Linux/0. Linux Basics.md",
     "0. Images/linux_permits.png",
     "linux_basic.md",
     "Notes/3. System/Operative Systems/Linux",
@@ -195,8 +197,6 @@
     "Notes/2. Networks/Basic/Linux conection Wi-Fi.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT/2. Security Testing Methodology.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Personalización de Entorno de Hacking.md",
-    "Notes/4. Cybersecurity/BlueTeam/Processes detection/PsExec.md",
     "0. Images/pins_sequence_sepper_motor.png",
     "0. Images/pinout_module_handler_setpper_motor.png",
     "0. Images/stpper_motor_28BYJ-48.png",
@@ -204,7 +204,6 @@
     "0. Images/mstsc_help_panel.png",
     "0. Images/msconfig_windows.png",
     "Notes/4. Cybersecurity/BlueTeam/Processes detection",
-    "0. Images/UAC_example.png",
     "Notes/3. System/Operative Systems/Windows/Administration",
     "Notes/3. System/Operative Systems/Windows",
     "Notes/3. System/Operative Systems"
