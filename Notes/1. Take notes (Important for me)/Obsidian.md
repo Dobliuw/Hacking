@@ -23,8 +23,9 @@ Referencias, palabra a explicar o adjuntar links ---> **Linux** [^1]
 [^1]:   El mejor sistema operativo del mundo
 
 Tablas:
+
 | wordpress | joomla | drupal | magento | 
-| ----------|---------|--------|-------|
+|-------------|---------|---------|-----------|
 | wpscan | joomscan | droopescan | magescan | 
 
 Ajustar imagenes: 
