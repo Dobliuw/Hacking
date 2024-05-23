@@ -26,15 +26,17 @@ La ley de Ohm es uno de los conceptos fundamentales en la electrónica, formulad
 
 La expresión matemática para *calcular el voltaje* es:
 
-`V = I × R` 
+$$
+V = I*R
+$$
 
 La expresión matemática para *calcular la corriente eléctrica* es:
 
-`I = V / R`
+$$I = V / R$$
 
 Y la expresión matemática para *calcular la resistencia eléctrica* es:
 
-`R = V / I`
+$$R = V / I$$
 
 Donde *V* es el voltaje en *voltios* (v).
 Donde *I* es la corriente eléctrica que fluye a través del circuito en *amperios* (a).

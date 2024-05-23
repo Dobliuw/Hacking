@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96adfa9a6c24461c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Operative Systems Basics.md",
+                "file": "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Operative Systems Basics.md",
+                "file": "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Operative Systems Basics.md"
+                "file": "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md"
               }
             }
           }
@@ -173,13 +185,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1424a5b61d02e0eb",
+  "active": "96adfa9a6c24461c",
   "lastOpenFiles": [
+    "Notes/3. System/Operative Systems/Operative Systems Basics.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Static Analysis/Android Mobile App Static Analysis.md",
     "Notes/5. Technologies/Lenguajes y Tools/C/C.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab configs and tips.md",
     "Notes/3. System/Operative Systems/Windows/Administration/PSEXEC.md",
-    "Notes/3. System/Operative Systems/Operative Systems Basics.md",
     "Notes/1. Take notes (Important for me)/Obsidian.md",
     "().md",
     "0. Images/jadx_gui_example.png",
