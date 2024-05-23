@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1424a5b61d02e0eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/3. System/Operative Systems/Operative Systems Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,17 +173,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bd96d3d3c0052e36",
+  "active": "1424a5b61d02e0eb",
   "lastOpenFiles": [
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Static Analysis/Android Mobile App Static Analysis.md",
+    "Notes/5. Technologies/Lenguajes y Tools/C/C.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab configs and tips.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/PSEXEC.md",
     "Notes/3. System/Operative Systems/Operative Systems Basics.md",
     "Notes/1. Take notes (Important for me)/Obsidian.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Static Analysis/Android Mobile App Static Analysis.md",
     "().md",
     "0. Images/jadx_gui_example.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Mobile Application Penetration Testing Process.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/Type Juggling - (Cambio de tipo).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/Abuso de USER INPUT.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab configs and tips.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab.md",
     "Notes/2. Networks/Basic/Redes/Sockets.md",
     "0. Images/system_image_android_studio.png",
@@ -192,7 +207,6 @@
     "linux_basic.md",
     "Notes/3. System/Operative Systems/Linux",
     "0. Images/static_analysis_mobile_pentesting.png",
-    "Notes/5. Technologies/Lenguajes y Tools/C/C.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/IOS",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications",
@@ -202,7 +216,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/JWT - (JSON Web Tokens) Enumeración y explotación.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Active Directory/Reconocimiento/Active Directory Recon.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotation/Find misconfigurations.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotation/APIs abuse.md",
     "0. Images/pins_sequence_sepper_motor.png",
     "0. Images/pinout_module_handler_setpper_motor.png",
     "Notes/4. Cybersecurity/BlueTeam/Processes detection",

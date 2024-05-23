@@ -138,3 +138,50 @@ GUID Partition Table = Tabla de partición GUID
 - `Disk Management`: Herramienta gráfica para gestionar particiones.
 - `diskpart`: Herramienta de línea de comandos para gestionar particiones.
 
+-----
+# Files Systems 
+
+Un **sistema de archivos** (**Files System**) es una estructura lógica que un sistema operativo usa para controlar cómo se almacena y recuperan los datos en un dispositivo de almacenamiento. Sin un sistema de archivos, los datos colocados en un dispositivo de almacenamiento estarían en un solo bloque grande, sin forma de determinar dónde termina un dato y comienza el siguiente.
+
+#### FAT32 (File Allocation Table 32)
+
+**Characteristics**:
+- *Compatibility*: Ampliamente compatible con casi todos los sistemas operativos (Windows, Linux, MacOS).
+- *File Size Limit*: 4GB.
+- *Partition Size Limit*: 8 TB.
+- *Commoun Usage*: Unidades flash USB, tarjetas SD, discos duros externos.
+- No soporta permisos de archivos avanzados.
+- No es adecuado para grandes volúmenes de datos o archivos individuales grandes debido a sus límites de tamaño.
+#### NTFS (New Technology File System)
+
+**Characteristics**:
+- *Compatibility*: Nativamente soportado por WIndows; puede ser lído y escrito en macOS con software adicional y en Linux con controladores adicionales.
+- *File Size Limit*: 16 EB (Exabytes).
+- *Partition Size Limit*: 256 TB.
+- *Commoun Usage*: Partciiones de sistemas Windows, discos duros internos.
+- Incluye funciones avanzadas como permisos de archivos, encriptación y registro de cambios. 
+- Recuperación de errores y manejo de seguridad mejorado.
+- Posee menor compatibilidad con sistemas operativos distintos a Windows sin software adicional.
+- Más complejos que FAT32.
+#### EXT4 (Fourth Extended Filesystem)
+
+**Characteristics**:
+- *Compatibility*: Principalmente utilizado en sistemas Linux.
+- *File Size Limit*: 16 TB.
+- *Partition Size Limit*: 1 EB (Exabyte).
+- *Commoun Usage*: Particiones de sistemas Linux.
+- Posee soporte para grandes volúmenes de datos.
+- Funcionalidades como *journaling* (Registro de cambios) para mejorar la integridad de los datos.
+- Aunque no es compatible con sistemas Windows y macOS de forma nativa.
+- Así como también posee mayor sobrecarga de procesamiento debido a las características avanzadas.
+
+Algunos otros sistemas de archivos son **APFS** (**Apple File System**), **HFS+** (**Apple Hierarchical File System Plus**), **Btrfs** (**B-tree File System**). 
+
+| Characteristics      | FAT32                                                                                    | NTFS                                                           | EXT4                                                      |
+| -------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------- |
+| Compatibility        | Windows, Linux, MacOS                                                                    | Windows, Linux y MacOS con Software o Controladores adicional. | Linux, Windows y MacOs con Software adicional.            |
+| File Size Limit      | 4 GB                                                                                     | 16 EB                                                          | 16 TB                                                     |
+| Partition Size Limit | 8 TB                                                                                     | 256 TB                                                         | 1 EB                                                      |
+| Disadvantages        | No soporta funcionalidades avanzadas ni sirve para manejo de grandes volúmenes de datos. | Menor compatibilidad y mayor complejidad.                      | Menor compatibilidad y mayor sobrecarga de procesamiento. |
+
+#### Utility and Relationated Commands
