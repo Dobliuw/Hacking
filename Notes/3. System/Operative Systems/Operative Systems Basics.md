@@ -21,6 +21,11 @@ El **firmware** es un tipo de software que está programado en la memoria no vol
 - *Basic Funcionality*: Proporciona las instrucciones básicas necesarias para que el hardware funcione y para que el software más complejo pueda interactuar con el hardware.
 
 ----
+# CPU Architecture
+
+Este es un tema previamente explicado en [[CPU]] por lo cual no voy a redundar en el tema, pero esto es algo a tener en cuenta dentro del apartado de los Sistemas Operativos.
+
+----
 # BIOS and UEFI
 #### BIOS (Basic Input/Output System)
 La **BIOS** (**Basic Input/Output System**) es un firmware tradicional que inicializa el hardware del sistema y proporciona un entorno para que el sistema operativo se cargue. Se encuentre en un chip ROM en la placa base del equipo.
@@ -94,6 +99,25 @@ Master Boot Record = Registro de arranque Principal
 - *Starting Sector*: El MBR está ubicado en el primer sector del disco (Sector 0) y contiene el código de arranque principal y la tabla de particiones.
 - *Starting Code*: El código de araranque es el primer software que se ejecuta cuando un equipo arranca.
 - *Partitions Table*: Una estructura que contiene información sobre las pariciones del disco, como el tamaño y la ubicación de cada partición.
+
+![[mbr_excalidraw_examples.png]]
+
+En este ejemplo podemos tener en cuenta...
+
+- **Tamaño**: MBR solo puede gestionar discos de hasta 2TB. Esta es una limitación debido a la forma en que se almacenan las direcciones de los bloques en el MBR.
+- **Número de Particiones**: MBR permite un máximo de 4 particiones *primarias*. Si se necesitan más particiones, una de estas particiones primarias puede ser convertida en una partición extendida, que puede contener múltiples particiones lógicas.
+
+- **Particiones Primarias**: Puedes tener hasta 4 particiones primarias. En nuestro ejemplo, se representa un disco de 2TB dividido en 4 particiones primarias de 500GB cada una. Esto es correcto y muestra una posible división del disco.
+- **Partición Extendida**: Si solo se utilizan 3 particiones primarias, la cuarta puede ser una partición extendida. En nuestro ejemplo, una partición extendida de 1TB contiene 8 particiones lógicas de 125GB cada una. Esto muestra cómo una partición extendida puede contener múltiples particiones lógicas (Únicamente almacenando datos en su interior).
+
+Por ejemplo, tomando este último caso, podríamos tener en linux:
+
+- **Tamaño del Disco**: 2TB
+- **Particiones**:
+    - 3 Particiones Primarias: 333GB cada una (/dev/sda1, /dev/sda2, /dev/sda3)
+    - 1 Partición Extendida: 1TB (/dev/sda4)
+        - Contiene 8 Particiones Lógicas: 125GB cada una (/dev/sda5, /dev/sda6, etc.)
+
 
 #### GPT (GUID Partition Table)
 
@@ -225,43 +249,97 @@ Ejemplo:
 1. Para crear una particion podríamos decidir en usar MBR o GPT (Dependiendo de si tenemos UEFI o BIOS) para dividir un disco de, por ejemplo, 500 GB, en particiones. Podríamos crear 2 particiones de 250GB por ejemplo.
 2. Luego deberiamos elegir un sistema de archivos para formatear estas particiones (x2 250GB), por ejemplo, podríamos hacer que una partición disponga de la estructura lógica NTFS y otra EXT4.
 3. Dentro de la partición NTFS, el sistema de archivos NTFS gestiona cómo se almacenan y organizan los archivos al igual que EXT4, con algunas pequeñas diferencias 
+----
+# Kernel
+
+El **Kernel** es el núcleo del sistema operativo que gestiona las interacciones entre el hardware y el software de un sistema. Hay varios tipos de kernels, cara uno con sus propias características y ventajas.
+
+**Type of Kernels**
+- *Monolithic Kernel*: Todo el sistema operativo funciona en un único especio de memoria (Kernel Space). Ejemplos incluyen a Linux y Unix.
+- *Microkernel*: el núcleo del sistema operativo está reducido a las funcionalidades más básicas (Gestión de procesos, comunicación inter-procesos, etc.) y el resto del sistema operativo se ejecuta en un espacio de usuario. Ejemplo: Minix.
+- *Hybrid Kernel*: Combina elementos de los kernels monolíticos y microkernels. Ejemplos inlcuyen Windows NT y macOS.
+
+**Kernel Functions**
+- *Process Management*: Gestiona la creación, ejecución y terminación de procesos.
+- *Memory Management*: Administra la memoria RAM del sistema.
+- *Device Management*: Gestiona los controladores de dispositivos para interactuar con el hardware.
+- *File System Management*: Proporciona una interfaz para la creación, lectura, escritura y eliminación de archivos.
 
 ----
-# CPU Architecture
+# Virtualization
 
-Las **arquitecturas** de sistemas operativos también abarcan la forma en que el software se comunica con el hardware, y aquí es donde entrar las arquitecturas de *CPU*, como *x86*, *x86_64* (o *x64*), *ARM*, entre otras. Estas arquitecturas determinan la capacidad del procesador y cómo maneja las instrucciones y los datos.
-#### x86
-La arquitectura **x86** es una de las más antiguas y comunes, desarrollada por Intel. Es una arquitectura de 32 bits que ha sido la base de muchos procesadores de escritorio y portátiles.
-- *Bits*: 32
-- *Memory Direction*: Los procesadores x86 pueden direccionar hasta 4 GB de memoria RAM, esto se debe a que con 32 bits, se pueden crear `2^32` direcciones de memoria, lo que equivale a `4,294,967,296` (**4GB**).
-- *Compatibility*: Altamente compatible con software antiguo y sistemas operativos diseñados para 32 bits.
-- *Instructions*: Conjutno de instrucciones CISC (Complex INstruction Set Computing).
+La **virtualización** es una tecnología que permite crear múltiples entornos de ejecución aislados sobre un único hardware físcio. Esto se logra mediante la creación de máquinas virtuales (VMs), cada una de las cuales actúa como un sistema completo con su propio sistema operativo, aplicaciones y recursos dedicados.
 
-#### x86_64
-La arquitectura **x86_64** o **x64**, es una extensión de la x86 y es capaz de manejar 64 bits. Fue introducida por AMD como AMD64 y posteriormente adoptada por Intel como Intel 64.
-- *Bits*: 64
-- *Memory Direction*: Los procesadores de x86_64 pueden direccionar teóricamente hasta 16 exabytes (`2^64` direcciones). Sin embargo, las implementeaciones actuales limitan esto a niveles más prácticos debido a restricciones físicas y de sistema operativo. Por ejemplo, muchos sistemas opertivos actuales limitan el soporte a varias terabytes de RAM, mucho más que los 4 GB de x86.
-- *Compatibility*: Los procesadores x86_64 pueden ejecutar tanto software de 32 bits como de 64 bits. Esto es posible gracias a la compatibilidad hacia atrás (Backward compatibility) que permite que los preocsadores manejen instrucciones de 32 bits en un modo esepecail de compatibilidad.
-- *Instructions*: Amplía el conjunto de instrucciones CISC de x86 con nuevas instrucciones y registros para mejorar el rendimineto y las capacidades del procesador.
+**Hypervisor**:
+- Un *hypervisor*, también conocido como monitor de máquina vritual (VMM), es un software, firmware o hardware que crea y ejecuta máquinas crituales. Un hypersvisor permite que un host físico ejecute múltiples VMs, compartiendo los recursos físcios de manera eficiente.
+- *Hypervisors Types*:
+	- *Type 1* (*Bare Metal*): Corre directamente sobre el hardware físico, sin necesidad de un sistema operativo host. Proporciona un alto rendimiento y es comúnmente usado en entornos de producción empresarial, por ejemplo VMware ESXi, Microsoft Hyper-V o Xen.
+	- *Type 2* (*Hosted*): Corre sobre un sistema operativo host, actuando como una aplicación más en el sistema opeartivo. Es más fácil de instalar y usar en entornos de escritorio o de desarrollo, por ejemplo VMWare Workstation y Oracle Virtualbox.
+- Las *funcionalidades* de este son la gestión de la creación, ejecución y monitorización de las máquinas virtuales, incluyendo la asignación de recursos como CPU, memoria y dispostivios de almacenamiento.
 
-#### ARM (Advanced RISC Machine)
-La arquitectura **ARM** (**Advanced RISC Machine**) es una arquitectura de 32 bits y 64 bits utilizada principalmente en dispositivos móviles y embebidos debido a su eficiencia energética.
-- *Bits*: 32 bits (ARMv7) y 64 bits (ARMv8).
-- *Memory Direction*: ARMv7 puede direccionar hasta 4GB de RAM, mientras que ARMv8 puede direccionar mucho más.
-- *Compatibility*: Utilizada en una amplia gama de dispositvios desde teléfonos inteligentes hasta servidores.
-- *Instructions*: Conjunto de instrucciones RISC (Reduced Instruction Set Computing), que es más sencillo y eficiente energéticamente.
+Mencionamos a las VMs, pero.. que son? Una VM (Virtual Machine) es un contenedor de software que puede ejecutar un sistema opperativo y aplicaciones como si fuera un computadora física completa. Las VMs son independientes y están aisladas unas de otras.
 
-Algo que me ayudo personalmente a entender un poco más esto del direccionamiento de memorias, bits, CPU, etc. Es ver a la memoria *RAM* (*Random Access Memory*), una memoria voltail que ante la memoria de almacenamiento es mucho más rapida para el procesamiento de datos, como una "biblioteca", es esta buscamos guardar "libros" (*datos*), donde cada libro tiene un número de estante (*Dirección en memoria*). Una CPU (bibliotecario) que necesita encontrar y leer los libros
+**VM Componentes**:
+- *Guest Operative System*: El sistema operativo que corre dentro de la VM.
+- *Virtualized Hardware*: Incluye CPU virtual, memoria RAM virtual, discos duros virtuales y adaptadores de red virtuales.
 
-Resumiendo, simplifiquemos en que:
+El uso de esta tecnología nos permite aprovechar capacidades de la misma como lo son el asilamiento, dado que como mencionamos, están aisladas entre sí, lo que aumenta la seguridad y la estabilidad y capacidades como la flexibilidad dado que se nos permite ejecutar diferentes sistemas operativos y versiones en un mismo hardware.
 
-**Storage Space** / **Espacio de almacenamiento**
-- Esto se refiere a cuánto espacio ocupa un programa o archivo en el disco duro o SSD.
-- Un programa que ocupa, por ejemplo, 100 MB en disco, tiene su código y datos almacenados en esos 100MB en el SSD, HDD, etc.
-**Memory Addressing Capability** / **Capacidad de Direccionamiento de Memoria**:
-- Esto se refiere a la cantidad de memoria RAM que una CPU (Procesador) puede manejar o acceder directamente.
-- En una arquitectura de 32 bits, la CPU puede direccionar hasta 4GB de memoria RAM.
-- En una arquitectura de 64 bits, la CPU puede direccionar una cantidad de memoria mucho mayor (Teóricamente 16 exabytes, aunque en la práctica es mucho menos debido a las limitaciones físicas actuales).
-**RAM and Processes** / **Memoria RAM y Procesos**:
-- Es el espacio de trabajo temporal donde el sistema operativo y los programas cargan los datos y el código que necesistan mientras están en ejecución.
-- Cada programa que se ejecuta encesita espacio en la RAM para sus datos y código.
+**Memory Management**
+- *Overcommitment*: El hypervisor puede asignar más memoria virtual a las VMs de la que físicamente está disponible en el host. Esto se basa en la suposición de que no todas las VMs usarán toda su memoria asignada al mismo tiempo.
+- *Ballooning*: Técnica ut8ilizada por los hypervisores para recuperar memoria de las VMs cuando el host necesita más recursos. Un controlador de ballooning instalado en la VM devuelve memoria no utilizada al host.
+- *Swapping*: Si la memoria física del hos se agota, el hypervisor puede usar almacenamiento secundario (Como discos duros) para suplir la demanda de memoria, aunqeu esto reduce el rendimineto debido a la mayor latencia del disco comparada con la RAM.
+
+**Storage Management**
+- *Virtual Disk*: Cada Vm tiene un o más discos virtuales (Por ejemplo, archivos .vmdk o .vdi) que simulan un disco físico. Estos archivos residen en el almacenamiento del host y pueden ser fijos o dinámicos.
+- *Thin Provisioning*: Técnica que permite asignar más espacio de almacenamiento virtual del que está realmente disponible en el host, permitiendo una utilización más eficiente del espacio físico disponible.
+- *Snapshots*: Capturas del estado de una VM en un momento específico, permitiendo revertir cambios o restaurar la VM a un estado anterior. ütiles para pruebas de softwares, análisis de malware, etc. y recuperación rápida de errores.
+
+**Networking**
+- *Virtual Switches*: Componentes virtuales que permiten que las VMs se comuniquen entre sí y con el exterior. Pueden configurarse para emular distintos tipos de topologías de red.
+- *VLANs*: Segmentación de redes virtuales para mejorar la seguridad y el rendimineot. Las VLANs permiten separar el tráfico de red de diferentes VMs incluso cuando comparten el mismo hardware físico.
+
+**Performance Optimization**
+- *CPU Allocation*: Distribución de núcleos de CPU físicos entre las VMs. Puede incluir técnicas de afinidad de CPU para mejorar el rendimiento al aseguriar que ciertas VMs usen CPUs específicas.
+- *NUMA* (*Non-Uniform Memory Access*): Optimización que respeta la arquitectura física del host, minimizando las latencias al asegurar que las Vms usen memoria y CPUs localizados en el mismo nodo NUMA.
+- *I/O Optimization*: Uso de controladores paravritualizados (Como Virtio en KVM) para mejorar el rendimineto de entrada/salida en VMs, reduciendo la sobrecarga de la virtualización.
+
+----
+# GRUB (Grand Unified Bootloader)
+
+**GRUB** es un gestor de arranque (*Bootloader*) utilizando principalmente en sistemas operativos Unix-like, como Linux. Su función principal e cargar el sistema operativo en la memoria y transferirle el control durante el proceso de arranque del sistema.
+
+- *GRUB Legacy*: Era la versión original de GRUB, utilizada ampliamente antes de 2010.
+- *GRUB 2*: La versión actual, que incluye ejoras significativas en cuanto a funcionalidad, modularidad y soporte para múltiples sistemas operativos.
+
+GRUB permite al usuario seleccionar entre múliples sistemas operativos instalados en el mismo sistema. Esto es útil en configuraciones de dual o multiple boot.
+
+A su vez, también permite configurar opciones específicas para el arranque del ssitema operativo, como parámetros del kernel, modo de recuperación y otros. Soporta una amplia variedad de sistemas de archivos, lo que le permite leer los archivos de configuración y el kernel de diferentes tipos de particiones.
+
+**GRUB Config Files**
+`grub.cfg`
+- *Path*: Generalmente en `/boot/grub/grub.cfg`.
+- Contiene las configuraciones del menú de GRUB, incluyendo las entradas de menú para diferentes sistemas operativos y opciones de arranque.
+
+`grub.d` (Directory)
+- *Path*: `/etc/grub.d/`.
+- Contiene scripts que generan las entradas de menú en `grub.cfg`. Cada script en este directorio corresponde a una entrada en el menú de GRUB.
+
+`grubenv`
+- *Path*: Generalmente en `/boot/grub/grubenv`.
+- Un archivo de ambiente que almacena variables persistentes usadas por GRUB, como la entrada de menú predeterminada para el próximo arranque.
+
+**GRUB Commands**
+- `update-grub`: Genera el archivo `grub.cfg` a partir de los scripts en `/etc/grub.d/` y la configuración en `/etc/default/grub`.
+- `grub-install`: Instala GRUB en el dispositivo de arranqeu (MBR o partición específicada).
+- `grub-mkconfig`: Similar a `update-grub`, genera el archivo de configuración GRUB.
+
+**Commoun changes**
+Algunos cambios relacionados al GRUB se pueden llevar a cabo editando lo scripts en `/etc/grub.d` o el archivo `/etc/default/grub`.
+- Para cambiar el sistem operativo predeterminado deberiamos editar la variable **GRUB_DEFAULT** encontrada en el directorio `/etc/default/grub`.
+- Para cambiar el tiempo de espera del menú habría que modificar la variable **GRUB_TIMEOUT** en el directorio mencionado anteriormente.
+- De igual manera, para añadir parámetros del kernel deberiamos modificar la línea **GRUB_CMDLINE_LINUX_DEFAULT**.
+
+El GRUB es capaz de trabajar tanto con *MBR* (*Master Boot Record*) como con *GPT* (*GUID Partition Table*). Estas tablas de particiones organizan la disposición de particiones en el disco duro.
+A su vez, el bootloader GRUB puede manejar varios sistemas de archivos como *EXT4*, *FAT32* y *NTFS*. Tanto si utilizamos configuraciones de *Dual Boots* o *Multiple Boots*, así como si unicamente contamos con un *único sistema operativo* basado en Linux, el GRUB o nos permitira seleccionar entre múltiples sistemas operativos instalados en el mismo sistema, por ejemplo un Debian y Windows (Si fuera el caso) como podría encargarse únicamente de cargar el sistema operativo instalado, así como mostrar una pantalla inicial que permite seleccionar opciones avanzadas, como modos de recuperación o configuración del firmware *BIOS* (*Basic Input/Output System*) *UEFI* (*Unified Extensible Firmware Interface*).
+

@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "13a70008f4426765",
+        "id": "814c1c4074f19475",
         "type": "tabs",
         "children": [
           {
-            "id": "bd96d3d3c0052e36",
+            "id": "c18fafb34d4e8bef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Operative Systems Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1424a5b61d02e0eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/3. System/Operative Systems/Operative Systems Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96adfa9a6c24461c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Static Analysis/Android Mobile App Static Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UAC",
+                "query": "Alternate data st",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Static Analysis/Android Mobile App Static Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Static Analysis/Android Mobile App Static Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md"
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Static Analysis/Android Mobile App Static Analysis.md"
               }
             }
           }
@@ -185,12 +160,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "96adfa9a6c24461c",
+  "active": "c18fafb34d4e8bef",
   "lastOpenFiles": [
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab configs and tips.md",
     "Notes/3. System/Operative Systems/Operative Systems Basics.md",
+    "0. Images/mbr_excalidraw_examples.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Intentos Básicos.md",
+    "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
+    "Notes/6. Hardware/Components/CPU/CPU.md",
+    "Notes/6. Hardware/Components/CPU",
+    "Notes/6. Hardware/Components",
+    "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Static Analysis/Android Mobile App Static Analysis.md",
     "Notes/5. Technologies/Lenguajes y Tools/C/C.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab configs and tips.md",
     "Notes/3. System/Operative Systems/Windows/Administration/PSEXEC.md",
     "Notes/1. Take notes (Important for me)/Obsidian.md",
     "().md",
@@ -207,7 +189,6 @@
     "Notes/2. Networks/Basic/Linux conection Wi-Fi.md",
     "Notes/3. System/Operative Systems/Linux/0. Linux Basics.md",
     "0. Images/octal_low_level_explained.png",
-    "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab in MacOS.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/Lab Setup/Android Lab in Linux.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Android/Lab Setup/Untitled",
@@ -224,14 +205,7 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications",
     "Notes/5. Technologies/Scripting en Bash.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advance/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/Herramientas/⚒ Herramientas ⚒.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/Linux/JWT - (JSON Web Tokens) Enumeración y explotación.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Active Directory/Reconocimiento/Active Directory Recon.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotación/Vulnerabilidades/API Abuse/Explotation/Find misconfigurations.md",
     "0. Images/pins_sequence_sepper_motor.png",
-    "0. Images/pinout_module_handler_setpper_motor.png",
-    "Notes/4. Cybersecurity/BlueTeam/Processes detection",
-    "Notes/3. System/Operative Systems/Windows/Administration",
-    "Notes/3. System/Operative Systems/Windows"
+    "Notes/4. Cybersecurity/BlueTeam/Processes detection"
   ]
 }
