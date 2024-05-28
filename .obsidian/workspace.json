@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md"
+                "file": "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md"
               }
             }
           }
@@ -150,25 +151,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "c18fafb34d4e8bef",
   "lastOpenFiles": [
+    "Pasted image 20240527215611.png",
+    "Notes/6. Hardware/Arduino/1. Interfaces, Comunicaciones y Protocolos.md",
+    "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
     "0. Images/install_a_certificate_android.png",
     "0. Images/ca_certificate_android.png",
     "0. Images/sdcard_directory_from_import_cert_android.png",
     "0. Images/encription_and_credentials_android.png",
     "Pasted image 20240527164630.png",
     "0. Images/android_studio_burpsuite_settings.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Android Architecture.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Lab Setup/Android Lab configs and tips.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/1. Static Analysis/Android Mobile App Static Analysis.md",
@@ -201,11 +205,9 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Android/Lab Setup/Untitled",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Lab Setup",
     "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
-    "linux_basic.md",
     "Notes/3. System/Operative Systems/Linux",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/IOS",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications",
-    "Notes/5. Technologies/Scripting en Bash.md"
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications"
   ]
 }
