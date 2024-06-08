@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2d8d9a9cb19f0d8e",
+        "id": "a24c49fe0e46cf73",
         "type": "tabs",
         "children": [
           {
-            "id": "e8f1539101bc1e01",
+            "id": "4710c38d7a175f04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/6. Hardware/Hak5/MK7AC WiFi Adapter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "631e3f5fde145b09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/6. Hardware/Hak5/WiFi Pineapple Mark VII.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Bandwidth Hijacking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/6. Hardware/Hak5/WiFi Pineapple Mark VII.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Bandwidth Hijacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/6. Hardware/Hak5/WiFi Pineapple Mark VII.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Bandwidth Hijacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/6. Hardware/Hak5/WiFi Pineapple Mark VII.md"
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Bandwidth Hijacking.md"
               }
             }
           }
@@ -173,13 +160,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "4710c38d7a175f04",
   "lastOpenFiles": [
-    "0. Images/client_and_ssid_lists_filters_pineapple.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Disassociation amok mode.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Bandwidth Hijacking.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Deautentication Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/0. Hacking WiFi.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Post Explotation.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Beacon Flood Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/1. Filtering Packages.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Fake Autentication Attack.md",
+    "README.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/DEAUTHENTICATION_ATTACK_draw.md",
     "Notes/6. Hardware/Hak5/MK7AC WiFi Adapter.md",
+    "0. Images/mk7ap_wifi_adapter_hak5.png",
+    "0. Images/pineapple_mark_VII_hak5.png",
     "Notes/6. Hardware/Hak5/WiFi Pineapple Mark VII.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/AP Rogue WPA.md",
+    "0. Images/client_and_ssid_lists_filters_pineapple.png",
     "0. Images/download_latest_firmware_pineapple_hak5.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Hacking WiFi.md",
     "Notes/3. System/Operative Systems/Windows/Administration/NET.md",
     "Notes/6. Hardware/Hak5",
     "Notes/6. Hardware/Untitled.md",
@@ -194,24 +193,12 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconocimiento/Protocolos/TCP/0. TCP.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Kernel Exploit.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/1. Windows Privilege Escalation CHECKLIST.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/0. Enumerating possible privesc.md",
     "0. Images/kernel_image_example.png",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
-    "Notes/5. Technologies/Lenguajes y Tools/C/C.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
     "0. Images/logcat_androidstudio_example.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Lab Setup/Android Lab.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/1. Static Analysis/Android Mobile App Static Analysis.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Mobile Application Penetration Testing Process.md",
-    "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Personalización de Entorno de Hacking.md",
     "0. Images/l293d_usage.png",
     "0. Images/l293d_electronic.png",
     "Pasted image 20240527223308.png",
     "0. Images/dc_motor_example_electronic.png",
-    "0. Images/install_a_certificate_android.png",
-    "0. Images/ca_certificate_android.png",
-    "0. Images/sdcard_directory_from_import_cert_android.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis",
     "Notes/6. Hardware/Components/CPU",
     "Notes/6. Hardware/Components",

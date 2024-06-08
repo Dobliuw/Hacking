@@ -1,5 +1,5 @@
 # [WiFi Pineapple](https://docs.hak5.org/wifi-pineapple)
-La **WiFi Pineapple** es una herramienta de auditoría de redes inalámbricas desarrollada por [Hak5](https://hak5.org/). Es bastante conocida en el mundo de la ciberseguridad por la capacidad de realizar diversas prueba de penetración y ataques, así como análisis de redes WiFi. Esta facilita la creación de ataques como MITM, Rogue AP, recopilación de datos, evil twin attack, y otros muchos vistos en [[Hacking WiFi]].
+La **WiFi Pineapple** es una herramienta de auditoría de redes inalámbricas desarrollada por [Hak5](https://hak5.org/). Es bastante conocida en el mundo de la ciberseguridad por la capacidad de realizar diversas prueba de penetración y ataques, así como análisis de redes WiFi. Esta facilita la creación de ataques como MITM, Rogue AP, recopilación de datos, evil twin attack, y otros muchos vistos en [[0. Hacking WiFi]].
 
 Algunas de sus características principales son...
 
@@ -8,6 +8,8 @@ Algunas de sus características principales son...
 - *Sniffing*: Capturar paquetes de datos en la red para su posterior análisis.
 - *Deauthentication Attacks*: Expulsa a los clientes de su red para forzarlos a conectarse a la Pineapple.
 - *Modularity*: Soporta módulos adicionales que pueden iinstalarse para expandir su funcionalidad.
+
+![[pineapple_mark_VII_hak5.png]]
 
 ---
 # Power Up 
@@ -119,4 +121,6 @@ pineap add_filter_mac {mac}
 pineap del_filter_mac {mac}
 ```
 
+- Ejemplo de la GUI:
 ![[client_and_ssid_lists_filters_pineapple.png]]
+
