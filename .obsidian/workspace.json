@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "a24c49fe0e46cf73",
+        "id": "d43d7523d96ce347",
         "type": "tabs",
         "children": [
           {
-            "id": "4710c38d7a175f04",
+            "id": "f587b40a7df48386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Bandwidth Hijacking.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Privilege Scalation/Windows/Stored Passwords.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a02ca4b9f7b7b0e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Bandwidth Hijacking.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Privilege Scalation/Windows/Stored Passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Bandwidth Hijacking.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Privilege Scalation/Windows/Stored Passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Bandwidth Hijacking.md"
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Privilege Scalation/Windows/Stored Passwords.md"
               }
             }
           }
@@ -160,10 +171,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4710c38d7a175f04",
+  "active": "3a02ca4b9f7b7b0e",
   "lastOpenFiles": [
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Disassociation amok mode.md",
+    "Notes/6. Hardware/Hak5/HotPlug Tools/USB Rubber Ducky.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Privilege Scalation/Windows/Stored Passwords.md",
+    "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
+    "Notes/3. System/Operative Systems/Windows/2. PowerShell.md",
+    "Notes/3. System/Operative Systems/Windows/Administration/REG.md",
+    "Notes/6. Hardware/Hak5/WiFi Pentesting",
+    "Notes/6. Hardware/Hak5/HotPlug Tools",
+    "Notes/6. Hardware/Hak5/WiFi Pentesting/MK7AC WiFi Adapter.md",
+    "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi Pineapple Mark VII.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Bandwidth Hijacking.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Disassociation amok mode.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Deautentication Attack.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/0. Hacking WiFi.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Post Explotation.md",
@@ -172,10 +192,8 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Fake Autentication Attack.md",
     "README.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/DEAUTHENTICATION_ATTACK_draw.md",
-    "Notes/6. Hardware/Hak5/MK7AC WiFi Adapter.md",
     "0. Images/mk7ap_wifi_adapter_hak5.png",
     "0. Images/pineapple_mark_VII_hak5.png",
-    "Notes/6. Hardware/Hak5/WiFi Pineapple Mark VII.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/AP Rogue WPA.md",
     "0. Images/client_and_ssid_lists_filters_pineapple.png",
     "0. Images/download_latest_firmware_pineapple_hak5.png",
@@ -184,15 +202,10 @@
     "Notes/6. Hardware/Untitled.md",
     "Notes/3. System/Operative Systems/Windows/Administration/PSEXEC.md",
     "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. SMB - (Server Message Block).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. Microsoft-DS.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Enum. NetBIOS.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconocimiento/Protocolos/UDP/0. UDP.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconocimiento/Protocolos/TCP/Data exfiltration through ICMP.md",
-    "Notes/5. Technologies/Lenguajes y Tools/Python/Modules/Conexiones de red y protocolos.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconocimiento/Protocolos/TCP/0. TCP.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/Kernel Exploit.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Escalada de Privilegios/Windows/1. Windows Privilege Escalation CHECKLIST.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconnaissance/Protocolos/TCP/Enum. SMB - (Server Message Block).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconnaissance/Protocolos/TCP/Enum. Microsoft-DS.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconnaissance/Protocolos/TCP/Enum. NetBIOS.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconnaissance/Protocolos/UDP/0. UDP.md",
     "0. Images/kernel_image_example.png",
     "0. Images/logcat_androidstudio_example.png",
     "0. Images/l293d_usage.png",
@@ -205,8 +218,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/1. Static Analysis",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Android/Lab Setup/Untitled",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Lab Setup",
-    "Notes/3. System/Operative Systems/Linux",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/IOS",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android"
+    "Notes/3. System/Operative Systems/Linux"
   ]
 }
