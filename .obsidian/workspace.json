@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/Assembly Instructions - (x86).md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Decrypt password from PSCredential Object (Powershell).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/Assembly Instructions - (x86).md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Decrypt password from PSCredential Object (Powershell).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/Assembly Instructions - (x86).md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Decrypt password from PSCredential Object (Powershell).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/Assembly Instructions - (x86).md"
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Decrypt password from PSCredential Object (Powershell).md"
               }
             }
           }
@@ -174,35 +174,35 @@
   },
   "active": "64919cfe71ce445c",
   "lastOpenFiles": [
-    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/CPU & Assembly Basics.md",
     "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/Assembly Instructions - (x86).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Decrypt password from PSCredential Object (Powershell).md",
+    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/CPU & Assembly Basics.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advanced/Buffer Overflow/Buffer Overflow.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advanced/Buffer Overflow/Shellcodes.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advanced/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advanced/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
     "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals",
     "Notes/3. System/Global Concepts/Low-Level Concepts",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Linux/Deserialization Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Linux/Mass-Assignment - (Parameter Binding).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/Deserialization Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/Mass-Assignment - (Parameter Binding).md",
     "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
     "Notes/3. System/Operative Systems/Linux/0. Linux Basics.md",
     "0. Images/crontabs_syntaxis.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Linux/LFI - (Local File Inclusion).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/LFI - (Local File Inclusion).md",
     "Notes/3. System/Operative Systems/Operative Systems Basics.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Silver Ticket Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Kerberoasting Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Golden Ticket Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Diamond Ticket Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/AS-REP Roast Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Resource-based Constraint Delegation.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Pass The Hash.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Lsass dump analysis.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/ICMP Reverse Shell (PowerShell).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/DNS Record Injection.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/DC Sync Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Abuso de ReadGMSAPassword.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Abuso de ForceChangePassword.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Linux/XXE - (XML External Entity Injection ).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Silver Ticket Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Kerberoasting Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Golden Ticket Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Diamond Ticket Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/AS-REP Roast Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Resource-based Constraint Delegation.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Pass The Hash.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Lsass dump analysis.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/ICMP Reverse Shell (PowerShell).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/DNS Record Injection.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/DC Sync Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Abuso de ReadGMSAPassword.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Abuso de ForceChangePassword.md",
     "Notes/6. Hardware/Hak5/WiFi Pentesting",
     "Notes/6. Hardware/Hak5/HotPlug Tools",
     "0. Images/mk7ap_wifi_adapter_hak5.png",
