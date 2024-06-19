@@ -4,33 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "d43d7523d96ce347",
+        "id": "7c4217bee20288db",
         "type": "tabs",
         "children": [
           {
-            "id": "f587b40a7df48386",
+            "id": "64919cfe71ce445c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Privilege Scalation/Windows/Stored Passwords.md",
+                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/Assembly Instructions - (x86).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3a02ca4b9f7b7b0e",
+            "id": "40af0b3df0957223",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/CPU & Assembly Basics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evil twin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 674.5
+    "width": 590.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Privilege Scalation/Windows/Stored Passwords.md",
+                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/Assembly Instructions - (x86).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Privilege Scalation/Windows/Stored Passwords.md",
+                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/Assembly Instructions - (x86).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Privilege Scalation/Windows/Stored Passwords.md"
+                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/Assembly Instructions - (x86).md"
               }
             }
           }
@@ -171,53 +172,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3a02ca4b9f7b7b0e",
+  "active": "64919cfe71ce445c",
   "lastOpenFiles": [
-    "Notes/6. Hardware/Hak5/HotPlug Tools/USB Rubber Ducky.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/3. Privilege Scalation/Windows/Stored Passwords.md",
+    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/CPU & Assembly Basics.md",
+    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/Assembly Instructions - (x86).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advanced/Buffer Overflow/Buffer Overflow.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advanced/Buffer Overflow/Shellcodes.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advanced/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow x86 linux.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advanced/Buffer Overflow/Buffer Overflow Escenarios/Buffer Overflow básico x86.md",
+    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals",
+    "Notes/3. System/Global Concepts/Low-Level Concepts",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Linux/Deserialization Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Linux/Mass-Assignment - (Parameter Binding).md",
     "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
-    "Notes/3. System/Operative Systems/Windows/2. PowerShell.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/REG.md",
+    "Notes/3. System/Operative Systems/Linux/0. Linux Basics.md",
+    "0. Images/crontabs_syntaxis.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Linux/LFI - (Local File Inclusion).md",
+    "Notes/3. System/Operative Systems/Operative Systems Basics.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Silver Ticket Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Kerberoasting Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Golden Ticket Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Diamond Ticket Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/AS-REP Roast Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Resource-based Constraint Delegation.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Pass The Hash.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Lsass dump analysis.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/ICMP Reverse Shell (PowerShell).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/DNS Record Injection.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/DC Sync Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Abuso de ReadGMSAPassword.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Windows/Abuso de ForceChangePassword.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/2. Explotation/Vulnerabilities/Linux/XXE - (XML External Entity Injection ).md",
     "Notes/6. Hardware/Hak5/WiFi Pentesting",
     "Notes/6. Hardware/Hak5/HotPlug Tools",
-    "Notes/6. Hardware/Hak5/WiFi Pentesting/MK7AC WiFi Adapter.md",
-    "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi Pineapple Mark VII.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Bandwidth Hijacking.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Disassociation amok mode.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Deautentication Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/0. Hacking WiFi.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Post Explotation.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Beacon Flood Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/1. Filtering Packages.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Fake Autentication Attack.md",
-    "README.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/DEAUTHENTICATION_ATTACK_draw.md",
     "0. Images/mk7ap_wifi_adapter_hak5.png",
     "0. Images/pineapple_mark_VII_hak5.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/AP Rogue WPA.md",
     "0. Images/client_and_ssid_lists_filters_pineapple.png",
     "0. Images/download_latest_firmware_pineapple_hak5.png",
-    "Notes/3. System/Operative Systems/Windows/Administration/NET.md",
     "Notes/6. Hardware/Hak5",
-    "Notes/6. Hardware/Untitled.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/PSEXEC.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconnaissance/Protocolos/TCP/Enum. SMB - (Server Message Block).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconnaissance/Protocolos/TCP/Enum. Microsoft-DS.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconnaissance/Protocolos/TCP/Enum. NetBIOS.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Fases Auditoria/1. Reconnaissance/Protocolos/UDP/0. UDP.md",
     "0. Images/kernel_image_example.png",
     "0. Images/logcat_androidstudio_example.png",
     "0. Images/l293d_usage.png",
     "0. Images/l293d_electronic.png",
     "Pasted image 20240527223308.png",
-    "0. Images/dc_motor_example_electronic.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis",
     "Notes/6. Hardware/Components/CPU",
     "Notes/6. Hardware/Components",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/1. Static Analysis",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Android/Lab Setup/Untitled",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Lab Setup",
-    "Notes/3. System/Operative Systems/Linux"
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Android/Lab Setup/Untitled"
   ]
 }
