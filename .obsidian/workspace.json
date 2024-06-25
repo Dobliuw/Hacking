@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af6baea95a926cf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "944fd7d2b8b13b8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/1. Assembly Instructions - (x86).md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hexadecimal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md"
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md"
               }
             }
           }
@@ -174,10 +162,14 @@
   },
   "active": "e88a780709720b6e",
   "lastOpenFiles": [
+    "0. Images/understanding_matematic_method_binary_system.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md",
+    "Pasted image 20240625113309.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Disassociation amok mode.md",
+    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
     "0. Images/real_addressing_example.png",
     "0. Images/memory_addressing_with_numbers_example.png",
     "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/1. Assembly Instructions - (x86).md",
-    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
     "0. Images/lowlevel_pointers_arquitecture.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/PSCredential Objects (PowerShell).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advanced/Buffer Overflow/Buffer Overflow.md",
@@ -203,8 +195,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Lsass dump analysis.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/ICMP Reverse Shell (PowerShell).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/DNS Record Injection.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/DC Sync Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Abuso de ReadGMSAPassword.md",
     "Notes/6. Hardware/Hak5/WiFi Pentesting",
     "Notes/6. Hardware/Hak5/HotPlug Tools",
     "0. Images/mk7ap_wifi_adapter_hak5.png",
@@ -212,9 +202,6 @@
     "0. Images/client_and_ssid_lists_filters_pineapple.png",
     "0. Images/download_latest_firmware_pineapple_hak5.png",
     "Notes/6. Hardware/Hak5",
-    "0. Images/kernel_image_example.png",
-    "0. Images/logcat_androidstudio_example.png",
-    "0. Images/l293d_usage.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis",
     "Notes/6. Hardware/Components/CPU",
     "Notes/6. Hardware/Components",
