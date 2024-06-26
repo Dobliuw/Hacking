@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7c4217bee20288db",
+        "id": "50d6c36e36c20e1b",
         "type": "tabs",
         "children": [
           {
-            "id": "944fd7d2b8b13b8f",
+            "id": "7fd4afb2d375831e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/TTY Treatment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6862b9fed6bff5cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/6. Hardware/Components/Memory/Memories/Understanding the RAM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hexadecimal",
+                "query": "DDR4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md",
+                "file": "Notes/6. Hardware/Components/Memory/Memories/Understanding the RAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md",
+                "file": "Notes/6. Hardware/Components/Memory/Memories/Understanding the RAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md"
+                "file": "Notes/6. Hardware/Components/Memory/Memories/Understanding the RAM.md"
               }
             }
           }
@@ -162,8 +175,9 @@
   },
   "active": "e88a780709720b6e",
   "lastOpenFiles": [
-    "0. Images/understanding_matematic_method_binary_system.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/Hashes NT, NTLM y NTLMv2.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md",
+    "0. Images/understanding_matematic_method_binary_system.png",
     "Pasted image 20240625113309.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Disassociation amok mode.md",
     "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
