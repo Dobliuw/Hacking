@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "50d6c36e36c20e1b",
+        "id": "be2b69f7de501359",
         "type": "tabs",
         "children": [
           {
-            "id": "7fd4afb2d375831e",
+            "id": "3ce92f8e1bb336a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/TTY Treatment.md",
+                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6862b9fed6bff5cd",
+            "id": "a6174fa768811270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/6. Hardware/Components/Memory/Memories/Understanding the RAM.md",
+                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/1. Assembly Instructions - (x86).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DDR4",
+                "query": "html sm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/6. Hardware/Components/Memory/Memories/Understanding the RAM.md",
+                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/1. Assembly Instructions - (x86).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/6. Hardware/Components/Memory/Memories/Understanding the RAM.md",
+                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/1. Assembly Instructions - (x86).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/6. Hardware/Components/Memory/Memories/Understanding the RAM.md"
+                "file": "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/1. Assembly Instructions - (x86).md"
               }
             }
           }
@@ -173,18 +174,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "bea3b7d9ed31db3d",
   "lastOpenFiles": [
+    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
+    "0. Images/pop_instruction_low_level_example_4.png",
+    "0. Images/pop_instruction_low_level_example_3.png",
+    "0. Images/pop_instruction_low_level_example_2.png",
+    "0. Images/push_instruction_low_level_example_2.png",
+    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/1. Assembly Instructions - (x86).md",
+    "push_instruction_low_level_example_2.png",
+    "0. Images/pop_instruction_low_level_example_2.png",
+    "0. Images/pop_instruction_low_level_example_1.png",
+    "0. Images/push_instruction_low_level_example_4.png",
+    "0. Images/push_instruction_low_level_example_4.png",
+    "0. Images/push_instruction_low_level_example_3.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/TTY Treatment.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/Hashes NT, NTLM y NTLMv2.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md",
-    "0. Images/understanding_matematic_method_binary_system.png",
-    "Pasted image 20240625113309.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/Disassociation amok mode.md",
-    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
-    "0. Images/real_addressing_example.png",
-    "0. Images/memory_addressing_with_numbers_example.png",
-    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/1. Assembly Instructions - (x86).md",
-    "0. Images/lowlevel_pointers_arquitecture.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/PSCredential Objects (PowerShell).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advanced/Buffer Overflow/Buffer Overflow.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advanced/Buffer Overflow/Shellcodes.md",
@@ -196,7 +203,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/Mass-Assignment - (Parameter Binding).md",
     "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
     "Notes/3. System/Operative Systems/Linux/0. Linux Basics.md",
-    "0. Images/crontabs_syntaxis.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/LFI - (Local File Inclusion).md",
     "Notes/3. System/Operative Systems/Operative Systems Basics.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Silver Ticket Attack.md",
@@ -207,14 +213,8 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Resource-based Constraint Delegation.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Pass The Hash.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Lsass dump analysis.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/ICMP Reverse Shell (PowerShell).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/DNS Record Injection.md",
     "Notes/6. Hardware/Hak5/WiFi Pentesting",
     "Notes/6. Hardware/Hak5/HotPlug Tools",
-    "0. Images/mk7ap_wifi_adapter_hak5.png",
-    "0. Images/pineapple_mark_VII_hak5.png",
-    "0. Images/client_and_ssid_lists_filters_pineapple.png",
-    "0. Images/download_latest_firmware_pineapple_hak5.png",
     "Notes/6. Hardware/Hak5",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis",
     "Notes/6. Hardware/Components/CPU",
