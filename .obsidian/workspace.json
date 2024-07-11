@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1fbfec75872ea936",
+        "id": "a636895590bc8fd5",
         "type": "tabs",
         "children": [
           {
-            "id": "2f4d57033ef8f7cb",
+            "id": "52cd9812235fd62e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/4. Cybersecurity/BlueTeam/API Sec/OWASP Top 10 API.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/4. Cybersecurity/BlueTeam/API Sec/OWASP Top 10 API.md",
+                "file": "0. Images/conditional_jumps_examples_1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/4. Cybersecurity/BlueTeam/API Sec/OWASP Top 10 API.md",
+                "file": "0. Images/conditional_jumps_examples_1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/4. Cybersecurity/BlueTeam/API Sec/OWASP Top 10 API.md"
+                "file": "0. Images/conditional_jumps_examples_1.png"
               }
             }
           }
@@ -160,16 +156,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2f4d57033ef8f7cb",
+  "active": "e88a780709720b6e",
   "lastOpenFiles": [
+    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
+    "0. Images/conditional_jumps_examples_1.png",
+    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/1. Assembly Instructions - (x86).md",
+    "0. Images/conditional_jumps_examples_2.png",
+    "0. Images/unconditional_jumps_examples_1.png",
+    "0. Images/unconditional_jumps_examples_2.png",
+    "0. Images/stack_and_eip_example_full_4.png",
+    "0. Images/stack_and_eip_example_full_3.png",
+    "0. Images/stack_and_eip_example_full_2.png",
+    "0. Images/stack_and_eip_example_full_1.png",
+    "Notes/4. Cybersecurity/BlueTeam/API Sec/OWASP Top 10 API.md",
     "Notes/4. Cybersecurity/BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
     "Notes/4. Cybersecurity/BlueTeam/API Sec/Mejores prácticas.md",
-    "Notes/4. Cybersecurity/BlueTeam/API Sec/OWASP Top 10 API.md",
     "Notes/4. Cybersecurity/BlueTeam/API Sec/API - (Application Programming Interfaces).md",
-    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
-    "stack_pointer_example_2.png",
-    "stack_pointer_example_1.png",
-    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/1. Assembly Instructions - (x86).md",
+    "0. Images/stack_pointer_example_2.png",
+    "0. Images/stack_pointer_example_1.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/Deserialization Attack.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Resource-based Constraint Delegation.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/DNS Record Injection.md",
@@ -177,14 +181,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Abuso de ReadGMSAPassword.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Stored Passwords.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Commands.md",
-    "0. Images/EIP_example_explanation_4.png",
-    "0. Images/EIP_example_explanation_3.png",
-    "0. Images/EIP_example_explanation_2.png",
-    "0. Images/EIP_example_explanation_1.png",
-    "0. Images/EIP_example_explanation_2.png",
-    "0. Images/pop_instruction_low_level_example_4.png",
-    "0. Images/pop_instruction_low_level_example_3.png",
-    "0. Images/pop_instruction_low_level_example_2.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/TTY Treatment.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/Hashes NT, NTLM y NTLMv2.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md",
@@ -199,7 +195,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/Mass-Assignment - (Parameter Binding).md",
     "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
     "Notes/3. System/Operative Systems/Linux/0. Linux Basics.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/LFI - (Local File Inclusion).md",
     "Notes/6. Hardware/Hak5/WiFi Pentesting",
     "Notes/6. Hardware/Hak5/HotPlug Tools",
     "Notes/6. Hardware/Hak5",
