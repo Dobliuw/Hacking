@@ -1,6 +1,3 @@
----------------------
--  Tags: #teoria #practica #blue #basico
----------------------
 # OWASP
 
 OWASP es un proyecto de código abierto dedicado a determinar y combatir las causas que hacen que el software sea inseguro, esta organización sin fines de lucro se dedica a la seguridad de las aplicaciones web. 
@@ -159,7 +156,6 @@ Falta de protección contra servicios innecesarios, uso de bots para ecaneos, de
 Las APIs tienden a exponer más puntos finales que las aplicaciones web tradicionales, lo que hace que la documentación adecuada y actualizada sea muy importante. Un inventario adecuado de hosts y versiones de API implementadas también es importante para mitigar problemas como versiones de API obsoletas y puntos finales de depuración expuestos.
 
 ## **Como se acontece?**
-
 Accediendo no autorizadamenta a APIs viejas, que ya no estan actualizadas o a través de terceros confiables.
 
 ## **Ejemplo**:

@@ -1,6 +1,3 @@
----------------------
--  Tags: #teoria #practica #blue #basico
----------------------
 # Governance
 La "**gobernanza**" (**Governance**) se refiere a la gestión y control de las APIs para garantizar que cumplan con los requisitos de seguridad y políticas establecidas por una organización. Esto implcica establecer procesos, políticas y procedimientos que ayuden a administrar y supervisar de manera efectiva todas las actividades relacionadas con las APIS.
 
