@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. RPC - ( Remote Procedure Call ).md",
+                "file": "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jenkins",
+                "query": "tree way hand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. RPC - ( Remote Procedure Call ).md",
+                "file": "0. Images/trace_method_information_dissclosure.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. RPC - ( Remote Procedure Call ).md",
+                "file": "0. Images/trace_method_information_dissclosure.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. RPC - ( Remote Procedure Call ).md"
+                "file": "0. Images/trace_method_information_dissclosure.png"
               }
             }
           }
@@ -160,15 +160,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6ef181ef86ee132b",
+  "active": "e88a780709720b6e",
   "lastOpenFiles": [
+    "0. Images/trace_method_explotation.png",
+    "0. Images/trhee_way_handshake_example_with_tshark.png",
+    "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. RPC - ( Remote Procedure Call ).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Abuso de ReadGMSAPassword.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/TRACE Method.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/1. Filtering Packages.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/0. Hacking WiFi.md",
     "Notes/2. Networks/Basic/Linux conection Wi-Fi.md",
-    "Pasted image 20240807121350.png",
-    "Pasted image 20240807121208.png",
+    "0. Images/trace_method_information_dissclosure.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/LaTeX Injections.md",
     "Notes/4. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/2. Collectors, Sources & Metadata.md",
@@ -188,16 +191,12 @@
     "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
     "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
     "0. Images/conditional_jumps_examples_1.png",
-    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/1. Assembly Instructions - (x86).md",
     "0. Images/conditional_jumps_examples_2.png",
     "0. Images/unconditional_jumps_examples_1.png",
     "0. Images/unconditional_jumps_examples_2.png",
     "0. Images/stack_and_eip_example_full_4.png",
     "0. Images/stack_and_eip_example_full_3.png",
     "0. Images/stack_and_eip_example_full_2.png",
-    "0. Images/stack_and_eip_example_full_1.png",
-    "Notes/4. Cybersecurity/BlueTeam/API Sec/OWASP Top 10 API.md",
-    "Notes/4. Cybersecurity/BlueTeam/API Sec/Los 3 pilares - (API Sec).md",
     "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals",
     "Notes/3. System/Global Concepts/Low-Level Concepts",
     "Notes/6. Hardware/Hak5/WiFi Pentesting",

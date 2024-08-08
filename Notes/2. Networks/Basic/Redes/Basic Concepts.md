@@ -273,6 +273,19 @@ Esta técnica es una de las más usadas para realizar escaneos sigilosos y evita
 
 En una conexión exitosa normal, se tramita un paquete SYN, donde el host responde con un paquete SYN/ACK, en caso de estar cerrado con un RST package, para posteriormente en caso de que este disponible enviar un paquete ACK y establecer la conexión. Al utilizar el Stealth Scan lo que hacemos es enviar el paquete SYN, nos responde con SYN/ACK o RST, depende su estado, y si esta disponible, en lugar de enviar un ACK enviamos un RST para no terminar de completar la conexión, de esta manera sabemos que el host esta disponible pero no nos conectamos, siendo asi más sigilosos.
 
+Con herramientas como `wireshark` o `tshark` podríamos visualizar este tipo de conexiones, por ejemplo, si realizamos un escaneo con `nmap` del puerto 80 de un host, podríamos interceptar y filtrar tanto los paquetes SYN, como SYN-ACK, como ACK.
+
+```bash
+# Capture a SYN packet
+tshark -i {inteface} -Y 'tcp.flags.syn == 1 and tcp.flags.ack == 0 and tcp.dstport == 80' 2>/dev/null
+# Capture a SYN-ACK packet
+tshark -i {inteface} -Y 'tcp.flags.syn == 1 and tcp.flags.ack == 1 and tcp.srcport == 80' 2>/dev/null
+# Capture a ACK or RST packet
+tshark -i {interface} -Y 'tcp.flags.syn == 0 and tcp.flags.ack == 1 and tcp.dstport == 80' 2>/dev/null
+```
+
+![[trhee_way_handshake_example_with_tshark.png]]
+
 
 - ## Min-rate (--min-rate): 
 Esta técnica permite al usuario *controlar la velocidad de los paquetes* enviados para evitar la detección del Firewall. El comando --min-rate permite al usuario reducir la velocidad de los paquetes enviados para evitar ser detectado.
