@@ -233,40 +233,54 @@ Muchas veces cuando hay un firewall arroja resultados *filtrados* en un escaneo 
 
 Algunas tecnicas junto a su parametro de [[Nmap]] a continuación: 
 
-- ## MTU (-mtu): 
+## MTU (-mtu): 
 La técnica de evasión de *MTU* o "*Maximum Transmission Unit*" implica ajustar el tamaño de los paquetes que se envían para evitar la detección por parte del  Firewall. Nmap permite configurar manualmente el tamaño máximo de los paquetes para garantizar que sean lo suficientemente pequeños para parasar por el Firewall sin ser detectados. (Multiplo de 8 el valor)
 
-- ## Data Length (--data-length):
+
+## Data Length (--data-length):
 Esta técnica se base en ajustar la *longitud de los datos* enviados para que sean lo suficientemente cortos como para pasar por el Firewall sin ser detectados. Nmap permite a los usuarios configurar manualmente la longitud de los datos enviados para que sean lo suficientemente pequeños para evadir la detección del Firewall. El length minimo de un paquete que envia nmap, siempre va a ser de 58, pero este valor lo podemos alterar sumandole lo que pongamos como número como arg del --data-length
-`sudo nmap -p22 192.168.1.1 --data-length 21`
+
+```bash
+sudo nmap -p22 192.168.1.1 --data-length 21
+```
+
 ![[FirewallLenght.png]]
 
-- ## Source Port (--source-port): 
+
+## Source Port (--source-port): 
 Esta técnica consiste en configurar manualmente el número de *puertos de origen* de los paquetes enviados para evitar la detección por parte del Firewall. Nmap permite a los usuarios especificar manualmente un puerto de origen aleatorio o un puerto específico para evadir la detección de Firewall. Basicamente nmap lo que hace es abrir un puerto aleatorio para poder establecer conexión, pero con este ataque podemos ingresar un puerto en particular.
-`nmap {to_scan_ip} --source-port 53`
+
+```bash
+nmap {to_scan_ip} --source-port 53
+```
 
 ![[SYNACKRST.png]]
 
 
-- ## Decoy (-D):
+## Decoy (-D):
 Esta técnica de evasión en Nmap permite al usuario enviar *paquetes falsos* a la red para confundir a los sistemas de detección de intrusos y evitar la detección de Firewall. El comando -D permite al usuario enviar paquetes falsos junto con los paquetes reales de escaneo para ocultar su actividad. Basicamente con el parametro -D podemos ingresar una o unas IP's falsas para enviar estos paquetes falsos, una vez más, con wiresharw o tshark podriamos ver esto: 
-`nmap -p22 -D 11.11.11.11 {to_scan_ip}` 
+
+```bash
+nmap -p22 -D 11.11.11.11 {to_scan_ip}
+```
 
 ![[FirewallIPS.png]]
 Si hicieramos un ataque Decoy con muchas ip, podriamos filtrar con wireshark los apquetes que tengan de destino nuestra IP especificada con `ip.dst == {to_scan_ip}`
 
 
-- ## Fragmented (-f): 
-Esta técnica se basa en *fragmentar los paquetes* enviados para que el Firewall no pueda reconocer el tráfico como un escaneo. La opción -f en Nmap permite fragmentar los paquetes y enviarlos por separado para evitar la detección del Firewall. 
-Para ver los paquetes fragmentados desde wireshark podriamos ingresar  `ip.flags.mf == 1`
+## Fragmented (-f): 
+Esta técnica se basa en *fragmentar los paquetes* enviados para que el Firewall no pueda reconocer el tráfico como un escaneo. La opción -f en `Nmap` permite fragmentar los paquetes y enviarlos por separado para evitar la detección del Firewall. 
+
+Para ver los paquetes fragmentados desde `wireshark` podriamos ingresar  `ip.flags.mf == 1`
 
 ![[FirewallFramentation.png]]
 
 
-- ## Spoof-Mac (--spoof-mac): 
+## Spoof-Mac (--spoof-mac): 
 Esta técnica de evasión se basa en *cambiar la dirección MAC* del paquete para evitar la detección del Firewall. Nmap permite configurar manualmente la dirección MAC ( Explicada en [[Basic Concepts]]) para evitar la detección. 
 
-- ## Stealth Scan (-sS): 
+
+## Stealth Scan (-sS): 
 Esta técnica es una de las más usadas para realizar escaneos sigilosos y evitar la detección del Firewall. El comando -sS permite a los usuarios realizar un escaneo de tip *SYN sin establecer una conexión completa*, lo que permite evitar la detección. Esto lo que hace es lo sig:
 
 ![[ThreeWayHandshake.png]]
@@ -275,19 +289,44 @@ En una conexión exitosa normal, se tramita un paquete SYN, donde el host respon
 
 Con herramientas como `wireshark` o `tshark` podríamos visualizar este tipo de conexiones, por ejemplo, si realizamos un escaneo con `nmap` del puerto 80 de un host, podríamos interceptar y filtrar tanto los paquetes SYN, como SYN-ACK, como ACK.
 
+Escaneo sin *Stealth Scan* (*-sS*):
+
 ```bash
-# Capture a SYN packet
-tshark -i {inteface} -Y 'tcp.flags.syn == 1 and tcp.flags.ack == 0 and tcp.dstport == 80' 2>/dev/null
-# Capture a SYN-ACK packet
-tshark -i {inteface} -Y 'tcp.flags.syn == 1 and tcp.flags.ack == 1 and tcp.srcport == 80' 2>/dev/null
-# Capture a ACK or RST packet
-tshark -i {interface} -Y 'tcp.flags.syn == 0 and tcp.flags.ack == 1 and tcp.dstport == 80' 2>/dev/null
+nmap -p80 {target_IP} 
+```
+
+Filtrado de paquetes con `tshark`:
+
+```bash
+# Intercept a SYN packet
+tshark -i {interface} -Y 'tcp.flags.syn == 1 and tcp.flags.ack == 0 and tcp.dstport == 80' 2>/dev/Null
+# Intercept a SYN-ACK packet
+tshark -i {interface} -Y 'tcp.flags.syn == 1 and tcp.flags.ack == 1 and tcp.srcport == 80' 2>/dev/Null
+# Intercept a ACK and ACK-RST packet
+tshark -i {interface} -Y 'tcp.flags.syn == 0 and tcp.flags.ack == 1 and tcp.dstport == 80' 2>/dev/Null
 ```
 
 ![[trhee_way_handshake_example_with_tshark.png]]
 
+En cambio, si realizamos un escaneo de nmap con *Stealth Scan* (*-sS*):
 
-- ## Min-rate (--min-rate): 
+```bash
+sudo nmap -p80 -sS {target_IP}
+```
+
+A la hora de filtrar paquetes *ACK* o *ACK-RST* veremos que no se lográ capturar ninguno de estos tipos, simplemente podrémos capturar un paquete *RESET*:
+
+```bash
+# Intercept a RESET packet
+tshark -i {interface} -Y 'tcp.flags.reset == 1 and tcp.dstport == 80' 2>/dev/null
+```
+
+![[three_way_handshake_with_stealth_scan_nmap_example_tshark.png]]
+
+Como podemos ver, con el *Stealth Scan* estamos enviando al servidor un paquete *RST* en lugar de un *ACK*.
+
+
+## Min-rate (--min-rate): 
 Esta técnica permite al usuario *controlar la velocidad de los paquetes* enviados para evitar la detección del Firewall. El comando --min-rate permite al usuario reducir la velocidad de los paquetes enviados para evitar ser detectado.
  
-Obviamente existen más tecnicas para evasión de firewall, pero estas son de las más populares. 
+De más esta decir que existen más tecnicas para evasión de firewall, pero estas son de las más populares. 

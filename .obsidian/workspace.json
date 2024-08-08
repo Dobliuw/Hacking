@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5a6b148b9c08bfaa",
+        "id": "5740e3b678b7c47e",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef181ef86ee132b",
+            "id": "531d237aad7ca9e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Images/trace_method_information_dissclosure.png",
+                "file": "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Images/trace_method_information_dissclosure.png",
+                "file": "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Images/trace_method_information_dissclosure.png"
+                "file": "Notes/2. Networks/Basic/Redes/Basic Concepts.md"
               }
             }
           }
@@ -162,6 +158,8 @@
   },
   "active": "e88a780709720b6e",
   "lastOpenFiles": [
+    "0. Images/three_way_handshake_with_stealth_scan_nmap_example_tshark.png",
+    "0. Images/trace_method_information_dissclosure.png",
     "0. Images/trace_method_explotation.png",
     "0. Images/trhee_way_handshake_example_with_tshark.png",
     "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
@@ -171,7 +169,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/1. Filtering Packages.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/0. Hacking WiFi.md",
     "Notes/2. Networks/Basic/Linux conection Wi-Fi.md",
-    "0. Images/trace_method_information_dissclosure.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/LaTeX Injections.md",
     "Notes/4. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/2. Collectors, Sources & Metadata.md",
