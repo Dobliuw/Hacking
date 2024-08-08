@@ -271,7 +271,7 @@ El **Kernel** es el núcleo del sistema operativo que gestiona las interacciones
 La **virtualización** es una tecnología que permite crear múltiples entornos de ejecución aislados sobre un único hardware físcio. Esto se logra mediante la creación de máquinas virtuales (VMs), cada una de las cuales actúa como un sistema completo con su propio sistema operativo, aplicaciones y recursos dedicados.
 
 **Hypervisor**:
-- Un *hypervisor*, también conocido como monitor de máquina vritual (VMM), es un software, firmware o hardware que crea y ejecuta máquinas crituales. Un hypersvisor permite que un host físico ejecute múltiples VMs, compartiendo los recursos físcios de manera eficiente.
+- Un *hypervisor*, también conocido como monitor de máquina vritual (VMM), es un software, firmware o hardware que crea y ejecuta máquinas virtuales. Un hypersvisor permite que un host físico ejecute múltiples VMs, compartiendo los recursos físcios de manera eficiente.
 - *Hypervisors Types*:
 	- *Type 1* (*Bare Metal*): Corre directamente sobre el hardware físico, sin necesidad de un sistema operativo host. Proporciona un alto rendimiento y es comúnmente usado en entornos de producción empresarial, por ejemplo VMware ESXi, Microsoft Hyper-V o Xen.
 	- *Type 2* (*Hosted*): Corre sobre un sistema operativo host, actuando como una aplicación más en el sistema opeartivo. Es más fácil de instalar y usar en entornos de escritorio o de desarrollo, por ejemplo VMWare Workstation y Oracle Virtualbox.
