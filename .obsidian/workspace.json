@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5740e3b678b7c47e",
+        "id": "01fff98e1f43cf33",
         "type": "tabs",
         "children": [
           {
-            "id": "531d237aad7ca9e0",
+            "id": "af90957bb396ecf6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/Switch Spoofing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca5a778cc4dd466e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Basic/Redes/2. Workflow/Network Models/OSI Model/Modelo OSI - OSI Model.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tree way hand",
+                "query": "ldap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 451.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -81,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/Switch Spoofing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/Switch Spoofing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2. Networks/Basic/Redes/Basic Concepts.md"
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/Switch Spoofing.md"
               }
             }
           }
@@ -156,53 +172,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "af90957bb396ecf6",
   "lastOpenFiles": [
+    "Pasted image 20240812132625.png",
+    "0. Images/802.1Q_yersinia_tab_example.png",
+    "0. Images/yersinia_dtp_tab.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/0. Segmentated Networks - VLANs.md",
+    "0. Images/common_vlan_network.png",
+    "Notes/2. Networks/Basic/Redes/2. Workflow/Network Models/OSI Model/Modelo OSI - OSI Model.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/Switch Spoofing.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT/2. Security Testing Methodology.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/HTTPS Sniffing - SSL Stripping.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking/Fake Autentication Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking/Disassociation amok mode.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking/DEAUTHENTICATION_ATTACK_draw.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking/AP Rogue WPA.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/ARP Spoof - Envenenamiento ARP.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking/Post Explotation.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. DNS 53 - (Domain Name Services).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. WINRM 5985 - (Windows Rremote Management).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. SMB 445 - (Server Message Block).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. RPC 135 - ( Remote Procedure Call ).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. LDAP 389 & 636 - ( Lighweight Directory Access Protocol ).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. Kerberos 88.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/0. TCP.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/UDP/0. UDP.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Data exfiltration through ICMP.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum WHOIS 43.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. GlusterFS.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. IMAP 143 - ( Internet Message Access Protocol ).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. Microsoft-DS 445.md",
+    "0. Images/xsltproc_stdout_html_web.png",
     "0. Images/three_way_handshake_with_stealth_scan_nmap_example_tshark.png",
     "0. Images/trace_method_information_dissclosure.png",
     "0. Images/trace_method_explotation.png",
     "0. Images/trhee_way_handshake_example_with_tshark.png",
-    "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. RPC - ( Remote Procedure Call ).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Abuso de ReadGMSAPassword.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/TRACE Method.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/1. Filtering Packages.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/0. Hacking WiFi.md",
-    "Notes/2. Networks/Basic/Linux conection Wi-Fi.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/LaTeX Injections.md",
-    "Notes/4. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/2. Collectors, Sources & Metadata.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Abuso de ForceChangePassword.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/DNS Record Injection.md",
-    "Untitled.md",
-    "README.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/ICMP Reverse Shell (PowerShell).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/DC Sync Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/SSRF/SSRF_2ndScenario.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/SSRF/SSRF_1stScenario.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/SSRF/SSRF - (Server-Side Request Forgery).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Abusing web server configuration.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/LFI - (Local File Inclusion).md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
-    "Notes/6. Hardware/Arduino/1. Interfaces, Comunicaciones y Protocolos.md",
-    "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
-    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
     "0. Images/conditional_jumps_examples_1.png",
     "0. Images/conditional_jumps_examples_2.png",
-    "0. Images/unconditional_jumps_examples_1.png",
-    "0. Images/unconditional_jumps_examples_2.png",
-    "0. Images/stack_and_eip_example_full_4.png",
-    "0. Images/stack_and_eip_example_full_3.png",
-    "0. Images/stack_and_eip_example_full_2.png",
     "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals",
     "Notes/3. System/Global Concepts/Low-Level Concepts",
     "Notes/6. Hardware/Hak5/WiFi Pentesting",
     "Notes/6. Hardware/Hak5/HotPlug Tools",
     "Notes/6. Hardware/Hak5",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis",
-    "Notes/6. Hardware/Components/CPU",
-    "Notes/6. Hardware/Components",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/1. Static Analysis",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Apllications/Android/Lab Setup/Untitled"
+    "Notes/6. Hardware/Components/CPU"
   ]
 }
