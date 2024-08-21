@@ -2,9 +2,10 @@
 
 # Cheat Sheat 
 
- - [x]  Checkers 
-- [ ] Checkers 
+ - [ ]  Checkers 
+- [ ] Checkers
 
+ 
 > Testo informativo 
 > de ejemplo del color del titulo 
 

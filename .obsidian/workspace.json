@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "4736d140f8f89eee",
+        "id": "ff93965cf493ed3d",
         "type": "tabs",
         "children": [
           {
-            "id": "a4a1d2e510efb5e7",
+            "id": "526dad07f5b6292e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)/Double Tagging.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Linux/Shared Object Injection - ( .so ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "640226ee03721ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Abusing Dynamic Modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e893efa97c0e1c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/Abusing USER INPUTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "976d9fa20646f100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/CRLF (%0d%0a) Injection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "New-Object",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 442.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)/Double Tagging.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Abusing Dynamic Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)/Double Tagging.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Abusing Dynamic Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)/Double Tagging.md"
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Abusing Dynamic Modules.md"
               }
             }
           }
@@ -160,48 +197,48 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "640226ee03721ed2",
   "lastOpenFiles": [
-    "0. Images/double_tagging_attack_example.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)/Switch Spoofing.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)/0. VLANs.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)/Double Tagging.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)",
-    "Notes/2. Networks/Basic/Redes/2. Workflow/Network Models/OSI Model/Modelo OSI - OSI Model.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. RPC 135 - ( Remote Procedure Call ).md",
+    "Pasted image 20240821190622.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Linux/Shared Object Injection - ( .so ).md",
+    "0. Images/so_injection_example.png",
+    "Pasted image 20240821185042.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Abusing Dynamic Modules.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/Abusing USER INPUTS.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/CRLF (%0d%0a) Injection.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/JWT - (JSON Web Tokens) Enum & explotation.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/SQLI - (SQL Injections).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/SQL Truncation.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/API Abuse/Explotation/APIs abuse.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/Abusing symbolic links.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. LDAP 389 & 636 - ( Lighweight Directory Access Protocol ).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. SMB 445 - (Server Message Block).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/LDAP Injections.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Commands.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/4. Report/Redacción de reporte profesional en LaTeX.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/AS-REP Roast Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Windows/Kerberos Vulns/Kerberoasting Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. DNS 53 - (Domain Name System).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Conceptos Expotacion/Shells.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Conceptos Expotacion/Reconocimiento a nivel de Sistema.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Conceptos Expotacion/Payloads.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/IIS/IIS - (Internet Information Service).md",
+    "Notes/6. Hardware/Arduino/Arduino Proyects/3. Potenciometro con señal análogica a LED.md",
+    "Notes/6. Hardware/Arduino/Arduino Proyects/4. Photoresistor con Servomotor.md",
+    "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Binarys/Radare2.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Binarys/Gdb.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Linux/Commands.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Linux/Atajos de consola.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Active Directory/Reconocimiento/Active Directory Recon.md",
+    "0. Images/android_studio_emulation.png",
+    "0. Images/double_tagging_attack_example.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)",
     "Pasted image 20240812132625.png",
     "0. Images/802.1Q_yersinia_tab_example.png",
     "0. Images/yersinia_dtp_tab.png",
     "0. Images/common_vlan_network.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT/2. Security Testing Methodology.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT/1. Threat Modeling.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/HTTPS Sniffing - SSL Stripping.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking/Fake Autentication Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking/Disassociation amok mode.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking/DEAUTHENTICATION_ATTACK_draw.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking/AP Rogue WPA.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/ARP Spoof - Envenenamiento ARP.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking/Post Explotation.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. DNS 53 - (Domain Name Services).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. WINRM 5985 - (Windows Rremote Management).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. Kerberos 88.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/0. TCP.md",
     "0. Images/xsltproc_stdout_html_web.png",
     "0. Images/three_way_handshake_with_stealth_scan_nmap_example_tshark.png",
-    "0. Images/trace_method_information_dissclosure.png",
-    "0. Images/trace_method_explotation.png",
-    "0. Images/trhee_way_handshake_example_with_tshark.png",
-    "0. Images/conditional_jumps_examples_1.png",
     "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals",
     "Notes/3. System/Global Concepts/Low-Level Concepts",
     "Notes/6. Hardware/Hak5/WiFi Pentesting",
