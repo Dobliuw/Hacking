@@ -35,11 +35,9 @@
             "id": "7871fb7ce9379ae8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/XPath Injections.md",
-                "mode": "source",
-                "source": false
+                "file": "0. Images/dynamic_module_injection_software_manual_example.png"
               }
             }
           },
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/XPath Injections.md",
+                "file": "0. Images/dynamic_module_injection_software_manual_example.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/XPath Injections.md",
+                "file": "0. Images/dynamic_module_injection_software_manual_example.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/XPath Injections.md"
+                "file": "0. Images/dynamic_module_injection_software_manual_example.png"
               }
             }
           }
@@ -199,6 +197,7 @@
   },
   "active": "e88a780709720b6e",
   "lastOpenFiles": [
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/XPath Injections.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Type Juggling.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/SSH via Kerberos - (gssapi-with-mic).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/0. Linux/ShellShock.md",
@@ -215,7 +214,7 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/CSRF - (Cross-Side Request Forgery).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Linux/CRLF (%0d%0a) Injection.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Abusing Dynamic Modules.md",
-    "Pasted image 20240821190622.png",
+    "0. Images/dynamic_module_injection_software_manual_example.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Linux/Shared Object Injection - ( .so ).md",
     "0. Images/so_injection_example.png",
     "Pasted image 20240821185042.png",
@@ -227,7 +226,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. LDAP 389 & 636 - ( Lighweight Directory Access Protocol ).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Commands.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. DNS 53 - (Domain Name System).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Explotation Concepts/Shells.md",
     "0. Images/android_studio_emulation.png",
     "0. Images/double_tagging_attack_example.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)",
