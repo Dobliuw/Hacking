@@ -1,4 +1,4 @@
-----
+- [ ] na----
 - Tags: #tecnologías
 -----
 # Bibliotecas **threading** y **multiprocessing**
@@ -14,7 +14,7 @@ Las biblitoecas *threading* y *multiprocessing* en Python son herramientas esenc
 
 Ejemplo:
 ```python
-import requests, threading, timeimport requests, time, threading
+import requests, threading, time
 
 domains = ["https://google.es", "https://wikipedia.org", "https://instagram.com", "https://facebook.com", "https://yahoo.com"]
 
@@ -39,7 +39,7 @@ def wget_with_threads():
 
 	threads = []
 	for url in domains:
-		thread = threading.Threads(target=make_wget, args=(url,))
+		thread = threading.Thread(target=make_wget, args=(url,))
 		thread.start()
 
 		threads.append(thread)
