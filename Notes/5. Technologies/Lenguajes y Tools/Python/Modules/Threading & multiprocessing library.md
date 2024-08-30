@@ -1,6 +1,3 @@
-- [ ] na----
-- Tags: #tecnologías
------
 # Bibliotecas **threading** y **multiprocessing**
 
 Las biblitoecas *threading* y *multiprocessing* en Python son herramientas esenciales para la programación concurrente y paralela. Proporcionan mecanismos para ejecutar múltiples tareas simultáneamente, aprovechando mejor los recursos del sistema. 
