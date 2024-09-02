@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0779673f9efbf6e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/IIS/IIS - (Internet Information Service).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cc457af193823ef3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Networks/CCNA1/1. Structure/0. Network Components.md",
+                "file": "Notes/2. Networks/CCNA1/1. Structure/3. Internetwork conections & trusted networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IIS",
+                "query": "WISP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2. Networks/CCNA1/1. Structure/0. Network Components.md",
+                "file": "Notes/2. Networks/CCNA1/1. Structure/3. Internetwork conections & trusted networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2. Networks/CCNA1/1. Structure/0. Network Components.md",
+                "file": "Notes/2. Networks/CCNA1/1. Structure/3. Internetwork conections & trusted networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2. Networks/CCNA1/1. Structure/0. Network Components.md"
+                "file": "Notes/2. Networks/CCNA1/1. Structure/3. Internetwork conections & trusted networks.md"
               }
             }
           }
@@ -209,28 +197,31 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cc457af193823ef3",
+  "active": "bea3b7d9ed31db3d",
   "lastOpenFiles": [
-    "Notes/2. Networks/CCNA1/1. Structure/1. Topologies and network representation.md",
+    "0. Images/security_solutions_network_image_example.png",
+    "Pasted image 20240902173723.png",
+    "0. Images/network_security_threats_image_example.png",
+    "0. Images/security_network_image_example.png",
+    "0. Images/QoS_networking_example_image.png",
+    "0. Images/Network_scalability.png",
+    "0. Images/redundancia_fallas_network.png",
+    "Notes/2. Networks/CCNA1/1. Structure/0. Network Components.md",
     "Notes/2. Networks/CCNA1/1. Structure/2. Network structure.md",
+    "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi-Pineapple_ebook_v22.03.pdf",
+    "Notes/2. Networks/CCNA1/1. Structure/3. Internetwork conections & trusted networks.md",
+    "0. Images/domestic_connections_to_internet.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/IIS/IIS - (Internet Information Service).md",
+    "Notes/2. Networks/Basic/Redes/1. Structure/Tipos de Redes.md",
+    "Notes/2. Networks/CCNA1/1. Structure/1. Topologies and network representation.md",
     "0. Images/GAN_example_image.png",
     "0. Images/WAN_example_image.png",
     "0. Images/LAN_example_image.png",
-    "0. Images/LAN_example_image.png",
     "Notes/2. Networks/CCNA1/1. Structure",
     "Notes/2. Networks/Basic/Redes/1. Structure/Topologías de redes.md",
-    "Notes/2. Networks/Basic/Redes/1. Structure/Tipos de Redes.md",
-    "0. Images/logical_topology_diagram.png",
-    "0. Images/physical_topologie_diagram.png",
     "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
-    "0. Images/network_representation_image.png",
-    "0. Images/intermediate_network_devices.png",
-    "Notes/2. Networks/CCNA1/1. Structure/0. Network Components.md",
-    "Pasted image 20240829161106.png",
-    "0. Images/network_media.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Deserialization Attack.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Abusing Dynamic Modules.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/IIS/IIS - (Internet Information Service).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/0. TCP.md",
     "Notes/2. Networks/CCNA1",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
@@ -247,14 +238,12 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/XPath Injections.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Type Juggling.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/SSH via Kerberos - (gssapi-with-mic).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/0. Linux/ShellShock.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking",
     "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals",
     "Notes/3. System/Global Concepts/Low-Level Concepts",
-    "Notes/6. Hardware/Hak5/WiFi Pentesting",
-    "Notes/6. Hardware/Hak5/HotPlug Tools"
+    "Notes/6. Hardware/Hak5/WiFi Pentesting"
   ]
 }
