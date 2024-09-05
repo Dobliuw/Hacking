@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Networks/CCNA1/1. Structure/3. Internetwork conections & trusted networks.md",
+                "file": "Notes/2. Networks/CCNA1/2. Switches & CLI configuration/Cisco devices and configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2. Networks/CCNA1/1. Structure/3. Internetwork conections & trusted networks.md",
+                "file": "Notes/2. Networks/CCNA1/2. Switches & CLI configuration/Cisco devices and configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2. Networks/CCNA1/1. Structure/3. Internetwork conections & trusted networks.md",
+                "file": "Notes/2. Networks/CCNA1/2. Switches & CLI configuration/Cisco devices and configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2. Networks/CCNA1/1. Structure/3. Internetwork conections & trusted networks.md"
+                "file": "Notes/2. Networks/CCNA1/2. Switches & CLI configuration/Cisco devices and configuration.md"
               }
             }
           }
@@ -197,8 +196,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bea3b7d9ed31db3d",
+  "active": "cc457af193823ef3",
   "lastOpenFiles": [
+    "Pasted image 20240905125848.png",
+    "Notes/2. Networks/CCNA1/2. Switches & CLI configuration/Cisco IOS Hot keys & Shortcuts.md",
+    "Notes/2. Networks/CCNA1/2. Switches & CLI configuration/Cisco devices and configuration.md",
+    "Notes/2. Networks/CCNA1/1. Structure/3. Internetwork conections & trusted networks.md",
+    "Notes/2. Networks/CCNA1/2. Switches & CLI configuration",
     "0. Images/security_solutions_network_image_example.png",
     "Pasted image 20240902173723.png",
     "0. Images/network_security_threats_image_example.png",
@@ -209,14 +213,12 @@
     "Notes/2. Networks/CCNA1/1. Structure/0. Network Components.md",
     "Notes/2. Networks/CCNA1/1. Structure/2. Network structure.md",
     "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi-Pineapple_ebook_v22.03.pdf",
-    "Notes/2. Networks/CCNA1/1. Structure/3. Internetwork conections & trusted networks.md",
     "0. Images/domestic_connections_to_internet.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/IIS/IIS - (Internet Information Service).md",
     "Notes/2. Networks/Basic/Redes/1. Structure/Tipos de Redes.md",
     "Notes/2. Networks/CCNA1/1. Structure/1. Topologies and network representation.md",
     "0. Images/GAN_example_image.png",
     "0. Images/WAN_example_image.png",
-    "0. Images/LAN_example_image.png",
     "Notes/2. Networks/CCNA1/1. Structure",
     "Notes/2. Networks/Basic/Redes/1. Structure/Topologías de redes.md",
     "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
@@ -236,14 +238,11 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/JWT - (JSON Web Tokens) Enum & explotation.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Linux/Shared Object Injection - ( .so ).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/XPath Injections.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Type Juggling.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/SSH via Kerberos - (gssapi-with-mic).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking",
     "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals",
-    "Notes/3. System/Global Concepts/Low-Level Concepts",
-    "Notes/6. Hardware/Hak5/WiFi Pentesting"
+    "Notes/3. System/Global Concepts/Low-Level Concepts"
   ]
 }
