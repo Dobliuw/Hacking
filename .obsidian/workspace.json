@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "809fb891c7c9046d",
+        "id": "0ddc1624cb13e41d",
         "type": "tabs",
         "children": [
           {
-            "id": "036727674e50c5d9",
+            "id": "96bb240782752097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Networks/CCNA1/3. Protocols & Models/1. Network Protocols.md",
+                "file": "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.2 Accessing data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28f0bf4e60b2c0a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.1 Data Modification.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ipv4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2. Networks/CCNA1/3. Protocols & Models/1. Network Protocols.md",
+                "file": "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.1 Data Modification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2. Networks/CCNA1/3. Protocols & Models/1. Network Protocols.md",
+                "file": "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.1 Data Modification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2. Networks/CCNA1/3. Protocols & Models/1. Network Protocols.md"
+                "file": "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.1 Data Modification.md"
               }
             }
           }
@@ -160,53 +173,52 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "28f0bf4e60b2c0a5",
   "lastOpenFiles": [
-    "0. Images/suite_protocols_evolution_image_example.png",
+    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.2 Accessing data.md",
+    "0. Images/Pasted image 20240916182253.png",
+    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.1 Data Modification.md",
+    "Notes/2. Networks/Network Basics/3. Protocols/0. Transmission.md",
+    "Notes/2. Networks/Network Basics/3. Protocols/1. Network Protocols.md",
+    "0. Images/Pasted image 20240916183654.png",
+    "0. Images/Pasted image 20240916183423.png",
+    "0. Images/Pasted image 20240916183217.png",
+    "0. Images/Pasted image 20240916183107.png",
+    "0. Images/layer_3_logical_directions_ip_example_image.png",
+    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/TCP-IP Model/TCP-IP Model.md",
+    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/OSI Model/OSI Model.md",
+    "Notes/2. Networks/Basic/Redes/3. Addressing/1. Network Layer - OSI.md",
+    "Notes/2. Networks/Basic/Redes/3. Addressing/2. IPv4 Addresses - Direcciones IPv4.md",
+    "0. Images/tcp_segment_encapsuled_example_image.png",
+    "0. Images/pdu_example_image.png",
+    "0. Images/data_sequencing_example_image.png",
+    "Notes/2. Networks/Network Basics/1. Structure/1. Topologies and network representation.md",
+    "Notes/2. Networks/Network Basics/2. Switches & CLI configuration/0. Cisco devices and configuration.md",
+    "Notes/2. Networks/Network Basics/2. Switches & CLI configuration/Cisco IOS Hot keys & Shortcuts.md",
+    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/OSI Model/OSI Model.excalidraw.md",
+    "0. Images/OSI_TCP_IP_LAYERS 1.png",
+    "Notes/2. Networks/Basic/Redes/2. Workflow/Network Models/TCP-IP Model/Modelo TCP-IP - TCP-IP Model.md",
+    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/TCP-IP Model/TCP-IP Model.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-12 17.31.40.excalidraw.md",
+    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/OSI Model/osimodel_example.excalidraw.md",
+    "Excalidraw",
+    "Notes/2. Networks/CCNA1/3. Protocols/3.0 Models/Untitled.md",
+    "Notes/2. Networks/Basic/Redes/2. Workflow/Network Models/OSI Model/Modelo OSI - OSI Model.md",
+    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/OSI vs TPC-IP Model.excalidraw.md",
+    "Notes/2. Networks/CCNA1/3. Protocols/TCP-IP Model.md",
+    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/TCP-IP Model",
+    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/OSI Model",
+    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models",
+    "Notes/2. Networks/CCNA1/3. Protocols/OSI Model.md",
     "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
     "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/1. Assembly Instructions - (x86).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/0. TCP.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/0. Hacking WiFi.md",
-    "Notes/2. Networks/CCNA1/3. Protocols & Models/1. Network Protocols.md",
-    "0. Images/network_protocols_get_web_example_image.png",
-    "Notes/2. Networks/CCNA1/3. Protocols & Models/0. Transmission.md",
-    "Notes/2. Networks/CCNA1/1. Structure/0. Network Components.md",
-    "Notes/2. Networks/Basic/Redes/1. Structure/Topologías de redes.md",
-    "Notes/2. Networks/Basic/Redes/1. Structure/Tipos de Redes.md",
-    "Notes/2. Networks/CCNA1/2. Switches & CLI configuration/0. Cisco devices and configuration.md",
-    "Notes/2. Networks/CCNA1/2. Switches & CLI configuration/Cisco IOS Hot keys & Shortcuts.md",
-    "Notes/2. Networks/CCNA1/3. Protocols & Models",
-    "Pasted image 20240905125848.png",
-    "Notes/2. Networks/CCNA1/1. Structure/3. Internetwork conections & trusted networks.md",
-    "Notes/2. Networks/CCNA1/2. Switches & CLI configuration",
-    "0. Images/security_solutions_network_image_example.png",
-    "Pasted image 20240902173723.png",
-    "0. Images/network_security_threats_image_example.png",
-    "0. Images/security_network_image_example.png",
-    "0. Images/QoS_networking_example_image.png",
-    "0. Images/Network_scalability.png",
-    "0. Images/redundancia_fallas_network.png",
-    "Notes/2. Networks/CCNA1/1. Structure/2. Network structure.md",
+    "Notes/2. Networks/Network Basics/3. Protocols",
+    "Notes/2. Networks/Network Basics/2. Switches & CLI configuration",
     "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi-Pineapple_ebook_v22.03.pdf",
-    "0. Images/domestic_connections_to_internet.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/IIS/IIS - (Internet Information Service).md",
-    "Notes/2. Networks/CCNA1/1. Structure/1. Topologies and network representation.md",
-    "Notes/2. Networks/CCNA1/1. Structure",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Deserialization Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Abusing Dynamic Modules.md",
-    "Notes/2. Networks/CCNA1",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/Tools/Postman.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Personalización de Entorno de Hacking.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/API Abuse/Reconocimiento/API/Reverse Engineering/Reverse Engineering an API.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Pass The Hash.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Kerberos Vulns/Golden Ticket Attack.md",
-    "Notes/5. Technologies/Lenguajes y Tools/Python/Modules/Threading & multiprocessing library.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Lsass dump analysis.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/0. Simple WiFi Hacking",
-    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals"
+    "Notes/2. Networks/Network Basics/1. Structure",
+    "Notes/2. Networks/Network Basics",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)"
   ]
 }
