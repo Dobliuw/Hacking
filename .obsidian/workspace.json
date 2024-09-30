@@ -8,31 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7c7e586a1091051",
+            "id": "1df4bd44d31c4f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.1 Data Modification.md",
+                "file": "Notes/0. Needed Concepts/Systems/0. Binary.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1df4bd44d31c4f72",
+            "id": "b1d92ee0f80fbcd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/4. Layers/7. Physical/2. UTP Cable.md",
+                "file": "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47718f3b7c2f3c18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Needed Concepts/Systems/1. Hexadecimal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AS-REP",
+                "query": "hexadec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.1 Data Modification.md",
+                "file": "Notes/0. Needed Concepts/Systems/0. Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.1 Data Modification.md",
+                "file": "Notes/0. Needed Concepts/Systems/0. Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.1 Data Modification.md"
+                "file": "Notes/0. Needed Concepts/Systems/0. Binary.md"
               }
             }
           }
@@ -173,24 +184,38 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "1df4bd44d31c4f72",
   "lastOpenFiles": [
-    "0. Images/utp_cable_categories_example_image.png",
-    "0. Images/upt_cable_2_example_image.png",
-    "Notes/2. Networks/Network Basics/4. Layers/7. Physical/1. Copper Wiring.md",
-    "Notes/2. Networks/Network Basics/4. Layers/7. Physical/2. UTP Cable.md",
-    "0. Images/coaxial_cable_example_iamge.png",
+    "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
+    "Notes/0. Needed Concepts/Systems/0. Binary.md",
+    "Notes/0. Needed Concepts/IPv4 and IPv6.md",
+    "Notes/0. Needed Concepts/Systems/1. Hexadecimal.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md",
     "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.1 Data Modification.md",
-    "0. Images/stp_cable_example_image.png",
-    "0. Images/upt_cable_example_image.png",
-    "0. Images/utp_cable_example_image.png",
-    "0. Images/modificacion_de_señal_por_interferencia_example_image.png",
-    "Pasted image 20240923124244.png",
-    "Pasted image 20240923124242.png",
-    "Pasted image 20240923124238.png",
+    "Notes/0. Needed Concepts/Systems",
+    "Notes/0. Needed Concepts",
+    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
     "Notes/2. Networks/Network Basics/4. Layers/7. Physical/0. Physical Layer.md",
-    "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Untitled",
-    "0. Images/microondas_wireless_señalizacion.png",
+    "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wireless/0. Wireless media.md",
+    "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Copper/1. UTP Cable.md",
+    "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Copper/0. Copper Wiring.md",
+    "0. Images/cisco_meraki_example_image.png",
+    "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Copper vs Fiber Optic.md",
+    "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wireless",
+    "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Untitled",
+    "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Fiber Optic/0. Fiber Optic Wiring.md",
+    "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Fiber Optic",
+    "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Copper",
+    "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring",
+    "0. Images/multi_mode_sc_st_connection_cable_fiber_example_image.png",
+    "0. Images/multi_mode_st_lc_connection_cable_fiber_example_image.png",
+    "0. Images/single_mode_lc_lc_connection_cable_fiber_example_image.png",
+    "0. Images/multimode_sc_sc_connection_cable_fiber_example_image.png",
+    "0. Images/LC_Multimode_duplex_connector_fiber_example_image.png",
+    "0. Images/LC_Simple_connector_fiber_example_image.png",
+    "0. Images/SC_connectors_fiber_example_image.png",
+    "0. Images/ST_connectors_fiber_example_image.png",
+    "0. Images/subamrine_cable_map_example_image.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Abusando de SeImpersonatePrivilege.md",
     "Notes/2. Networks/Network Basics/4. Layers/7. Physical",
     "Notes/2. Networks/Network Basics/4. Layers",
@@ -206,20 +231,6 @@
     "Notes/2. Networks/Network Basics/3. Protocols/0. Transmission.md",
     "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/OSI vs TPC-IP Model.excalidraw.md",
     "Notes/2. Networks/Network Basics/1. Structure/3. Internetwork conections & trusted networks.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Kerberos Vulns/Golden Ticket Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Lsass dump analysis.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Commands.md",
-    "Notes/2. Networks/Network Basics/3. Protocols/1. Network Protocols.md",
-    "Notes/3. System/Operative Systems/Windows/0. Windows Basics.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. RPC 135 - ( Remote Procedure Call ).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Pass The Hash.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. Kerberos 88.md",
-    "Excalidraw",
-    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/TCP-IP Model",
-    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/OSI Model",
-    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models",
-    "Notes/2. Networks/Network Basics/3. Protocols",
-    "Notes/2. Networks/Network Basics/2. Switches & CLI configuration",
-    "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi-Pineapple_ebook_v22.03.pdf"
+    "Excalidraw"
   ]
 }
