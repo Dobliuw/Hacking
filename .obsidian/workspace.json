@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Needed Concepts/Systems/0. Binary.md",
+                "file": "Notes/2. Networks/Network Basics/Hexadecimal Systems & IPv6 - MAC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddaf4eb8ac75ca58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/Binary and Decimal Systems & IPv4 Directions.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/0. Needed Concepts/Systems/0. Binary.md",
+                "file": "Notes/2. Networks/Network Basics/Hexadecimal Systems & IPv6 - MAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/0. Needed Concepts/Systems/0. Binary.md",
+                "file": "Notes/2. Networks/Network Basics/Hexadecimal Systems & IPv6 - MAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/0. Needed Concepts/Systems/0. Binary.md"
+                "file": "Notes/2. Networks/Network Basics/Hexadecimal Systems & IPv6 - MAC.md"
               }
             }
           }
@@ -184,10 +196,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1df4bd44d31c4f72",
+  "active": "e88a780709720b6e",
   "lastOpenFiles": [
-    "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
+    "0. Images/ipv6_with_hextets_and_binary_example_image.png",
+    "0. Images/decimal_binary_hexadecimal_table_example_image.png",
+    "Notes/2. Networks/Network Basics/Binary and Decimal Systems & IPv4 Directions.md",
+    "Notes/2. Networks/Network Basics/Hexadecimal Systems & IPv6 - MAC.md",
+    "0. Images/32_bits_example_image_ipv4_directions.png",
+    "0. Images/4_octets_example_image_ipv4_directions.png",
+    "0. Images/decimal_to_binary_second_octet_example_image_5.png",
+    "0. Images/decimal_to_binary_second_octet_example_image_4.png",
+    "0. Images/decimal_to_binary_second_octet_example_image_3.png",
+    "0. Images/decimal_to_binary_second_octet_example_image_2.png",
+    "0. Images/decimal_to_binary_second_octet_example_image_1.png",
+    "0. Images/decimal_to_binary_octete_example_image_2.png",
+    "0. Images/decimal_to_binary_octet_example_image_1.png",
     "Notes/0. Needed Concepts/Systems/0. Binary.md",
+    "Notes/2. Networks/Network Basics/Untitled",
+    "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
     "Notes/0. Needed Concepts/IPv4 and IPv6.md",
     "Notes/0. Needed Concepts/Systems/1. Hexadecimal.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md",
@@ -199,7 +225,6 @@
     "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wireless/0. Wireless media.md",
     "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Copper/1. UTP Cable.md",
     "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Copper/0. Copper Wiring.md",
-    "0. Images/cisco_meraki_example_image.png",
     "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Copper vs Fiber Optic.md",
     "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wireless",
     "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Untitled",
@@ -207,15 +232,6 @@
     "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Fiber Optic",
     "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Copper",
     "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring",
-    "0. Images/multi_mode_sc_st_connection_cable_fiber_example_image.png",
-    "0. Images/multi_mode_st_lc_connection_cable_fiber_example_image.png",
-    "0. Images/single_mode_lc_lc_connection_cable_fiber_example_image.png",
-    "0. Images/multimode_sc_sc_connection_cable_fiber_example_image.png",
-    "0. Images/LC_Multimode_duplex_connector_fiber_example_image.png",
-    "0. Images/LC_Simple_connector_fiber_example_image.png",
-    "0. Images/SC_connectors_fiber_example_image.png",
-    "0. Images/ST_connectors_fiber_example_image.png",
-    "0. Images/subamrine_cable_map_example_image.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Abusando de SeImpersonatePrivilege.md",
     "Notes/2. Networks/Network Basics/4. Layers/7. Physical",
     "Notes/2. Networks/Network Basics/4. Layers",
@@ -227,10 +243,6 @@
     "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/OSI Model/OSI Model.excalidraw.md",
     "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.2 Accessing data.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum. LDAP 389 & 636 - ( Lighweight Directory Access Protocol ).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Kerberos Vulns/Silver Ticket Attack.md",
-    "Notes/2. Networks/Network Basics/3. Protocols/0. Transmission.md",
-    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/OSI vs TPC-IP Model.excalidraw.md",
-    "Notes/2. Networks/Network Basics/1. Structure/3. Internetwork conections & trusted networks.md",
-    "Excalidraw"
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Kerberos Vulns/Silver Ticket Attack.md"
   ]
 }
