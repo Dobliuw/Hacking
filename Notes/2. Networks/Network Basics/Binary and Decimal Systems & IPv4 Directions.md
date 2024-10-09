@@ -2,7 +2,7 @@
 
 Las direcciones IPv4 comienzan como binarias, una serie de solo 1 y 0. Estos son difíciles de administrar, por lo que los administradores de red deben convertirlos a decimales. Como sabemos el sistema *binario* ([[0. Binary]]) es un sistema de numeración base 2 que consta de los dígitos 0 y 1, llamado *bits*.
 
-Es importante la comprensón de este sistema, ya qeu los hosts, los servidores y los disposiitivos de red usan el direccionamiento binario. Específicamente, usan direcciones IPv4 binarias, como se muestra en esta imágen:
+Es importante la comprensón de este sistema, ya que los hosts, los servidores y los disposiitivos de red usan el direccionamiento binario. Específicamente, usan direcciones IPv4 binarias, como se muestra en esta imágen:
 
 ![[binary_directions_ipv4_example_image.png]]
 
