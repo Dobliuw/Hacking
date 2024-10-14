@@ -8,91 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47718f3b7c2f3c18",
+            "id": "dbae49819baf6faf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Needed Concepts/Systems/1. Hexadecimal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30e747ff6a5e9bb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Network Basics/Hexadecimal Systems & IPv6 - MAC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1bd984abf5fa87f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Network Basics/4. Layers/2. Data Link/Topologies/2. Access control methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "402da6f85185708e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa3bddf21ea4a2d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Network Basics/1. Structure/1. Topologies and network representation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d0bf8f83f541a98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Physical/0. Physical Layer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5d4c0fb7558a24e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Network Basics/Binary and Decimal Systems & IPv4 Directions.md",
+                "file": "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/0. Switching Ethernet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/4. Layers/2. Data Link/Topologies/2. Access control methods.md",
+                "file": "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/0. Switching Ethernet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/4. Layers/2. Data Link/Topologies/2. Access control methods.md",
+                "file": "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/0. Switching Ethernet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/4. Layers/2. Data Link/Topologies/2. Access control methods.md"
+                "file": "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/0. Switching Ethernet.md"
               }
             }
           }
@@ -233,37 +160,39 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c1bd984abf5fa87f",
+  "active": "dbae49819baf6faf",
   "lastOpenFiles": [
-    "Notes/2. Networks/Network Basics/4. Layers/2. Data Link/Topologies/1. Full Dúplex and Semidúplex comunications.md",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/0. Data Link Layer.md",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/2. LAN and WAN Frames.md",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/0. Switching Ethernet.md",
+    "layers_ethernet_frame_sizes_example_image.png",
+    "0. Images/sublayer_mac_estandars_example_image.png",
+    "0. Images/ethernet_standars_layer1_and_2_example_image.png",
+    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/OSI Model/OSI Model.md",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/Topologies/2. Access control methods.md",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/Topologies/1. Full Dúplex and Semidúplex comunications.md",
     "Notes/2. Networks/Network Basics/1. Structure/1. Topologies and network representation.md",
-    "Notes/2. Networks/Network Basics/4. Layers/2. Data Link/Topologies/0. Physical and Logical Topology.md",
-    "Notes/2. Networks/Network Basics/4. Layers/2. Data Link/0. Data Link Layer.md",
-    "Notes/2. Networks/Network Basics/4. Layers/2. Data Link/1. Data Link Frame.md",
-    "Notes/2. Networks/Network Basics/4. Layers/2. Data Link/2. LAN and WAN Frames.md",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/Topologies/0. Physical and Logical Topology.md",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/1. Data Link Frame.md",
     "Notes/2. Networks/Network Basics/3. Protocols/0. Transmission.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Physical/0. Physical Layer.md",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/1. Physical/0. Physical Layer.md",
     "0. Images/layer_2_directions_router_to_host_example_image.png",
     "0. Images/layer_2_directions_router_to_router_example_image.png",
     "0. Images/layer_2_directions_host_to_host_example_image.png",
     "Notes/0. Needed Concepts/Systems/1. Hexadecimal.md",
     "0. Images/transmitting_a_frame_example_image.png",
     "0. Images/frame_fields_example_image.png",
-    "Notes/2. Networks/Network Basics/4. Layers/2. Data Link/Topologies/2. Access control methods.md",
     "0. Images/CSMA_CA_example_image.png",
     "0. Images/CSMA_CD_example_image_3.png",
-    "0. Images/CSMA_CD_example_image_2.png",
-    "0. Images/CSMA_CD_example_image_1.png",
-    "0. Images/controlled_access_example_image.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/1. Static Analysis/Android Mobile App Static Analysis.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Lab Setup/Android Lab configs and tips.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Lab Setup/Android Lab.md",
     "Notes/2. Networks/Network Basics/Hexadecimal Systems & IPv6 - MAC.md",
     "Notes/2. Networks/Network Basics/4. Layers/2. Data Link/Topologies/WAN Topologies.md",
-    "Notes/2. Networks/Network Basics/4. Layers/2. Data Link/Topologies",
-    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/OSI Model/OSI Model.md",
-    "Notes/2. Networks/Network Basics/4. Layers/2. Data Link",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/Topologies",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link",
     "Notes/2. Networks/Network Basics/4. Layers/Untitled.md",
     "Notes/2. Networks/Network Basics/Binary and Decimal Systems & IPv4 Directions.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/Tools/Burpsuite.md",
@@ -272,14 +201,11 @@
     "Notes/2. Networks/Network Basics/Untitled",
     "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
     "Notes/0. Needed Concepts/IPv4 and IPv6.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/General Concepts.md",
-    "Notes/2. Networks/Network Basics/3. Protocols/3.0 Models/3.1 Data Modification.md",
     "Notes/0. Needed Concepts/Systems",
     "Notes/0. Needed Concepts",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Physical/Wireless",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/1. Physical/Wireless",
     "Notes/2. Networks/Network Basics/4. Layers/7. Physical/Wiring/Untitled",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Physical/Wiring/Fiber Optic",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Physical/Wiring/Copper",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Physical/Wiring"
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/1. Physical/Wiring/Fiber Optic",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/1. Physical/Wiring/Copper"
   ]
 }
