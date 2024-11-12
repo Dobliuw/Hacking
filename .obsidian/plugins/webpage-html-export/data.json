@@ -1,6 +1,6 @@
 {
   "settingsVersion": "1.8.01",
-  "makeOfflineCompatible": false,
+  "makeOfflineCompatible": true,
   "inlineAssets": false,
   "includePluginCSS": "",
   "includeSvelteCSS": true,
@@ -26,8 +26,8 @@
   "addGraphView": true,
   "addTitle": true,
   "addRSSFeed": true,
-  "siteURL": "",
-  "authorName": "",
+  "siteURL": "https://dobliuw.com/",
+  "authorName": "Dobliuw",
   "vaultTitle": "Hacking",
   "exportPreset": "website",
   "openAfterExport": false,
@@ -38,15 +38,13 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "showDefaultTreeIcons": false,
+  "showDefaultTreeIcons": true,
   "emojiStyle": "Native",
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\owenp\\OneDrive\\Escritorio\\dobliuw-page",
+  "exportPath": "C:\\\\Users\\owenp\\Downloads\\my_web_page\\notes",
   "filesToExport": [
-    [
-      "all"
-    ]
+    []
   ]
 }
