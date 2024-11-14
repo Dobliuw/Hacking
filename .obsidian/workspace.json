@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9e4815a2c19fb7ec",
+        "id": "87cba7a50dd1a098",
         "type": "tabs",
         "children": [
           {
-            "id": "34ce22da90da6fc2",
+            "id": "ad6a0d086b798843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/6. IPv4 Structure/1. IPv4 Unicast, Broadcast and Multicast.md",
+                "file": "Notes/Take notes (Important for me)/Burnout prevention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. IPv4 Unicast, Broadcast and Multicast"
+              "title": "Burnout prevention"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "0x806",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5004348754883
+    "width": 476.5,
+    "collapsed": true
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -93,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/2. IPv6 Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. IPv6 Packet"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/2. IPv6 Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. IPv6 Packet"
+              "title": "Outgoing links"
             }
           },
           {
@@ -152,11 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/2. IPv6 Packet.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 2. IPv6 Packet"
+              "title": "Outline"
             }
           }
         ]
@@ -178,53 +175,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "34ce22da90da6fc2",
+  "active": "ad6a0d086b798843",
   "lastOpenFiles": [
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/1. Static Analysis/Android Mobile App Static Analysis.md",
+    "Notes/Take notes (Important for me)/Burnout prevention.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Lab Setup/Android Lab.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Mobile Application Penetration Testing Process.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/0. Hacking WiFi.md",
     "Pasted image 20241111180547.png",
     "Pasted image 20241111180051.png",
-    "Notes/2. Networks/Network Basics/6. IPv4 Structure/0. Network and Host Portions.md",
-    "Notes/2. Networks/Network Basics/6. IPv4 Structure/1. IPv4 Unicast, Broadcast and Multicast.md",
-    "0. Images/Pasted image 20241111171417.png",
-    "0. Images/Pasted image 20241111171411.png",
-    "0. Images/Pasted image 20241111171357.png",
-    "0. Images/Pasted image 20241111171350.png",
-    "0. Images/Pasted image 20241111171149.png",
-    "Pasted image 20241111171142.png",
-    "0. Images/Pasted image 20241111170744.png",
-    "Notes/2. Networks/Network Basics/6. IPv4 Structure",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP/2. ICMPv6 Neighbor Discovery - ND.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/4. Routing.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/2. IPv6 Packet.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP/1. ARP - Address Resolution Protocol.md",
-    "Notes/2. Networks/Network Basics/2. Switches & CLI configuration/0. Cisco devices and configuration.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP/0. MAC and IP.md",
-    "Notes/2. Networks/Network Basics/5. Routers & CLI configuration/2. Interfaces Configuration.md",
-    "Notes/2. Networks/Network Basics/5. Routers & CLI configuration/0. Setting the Initial Router Parameters.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/1. IPv4 Packet.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/1. Filtering Packages.md",
-    "README.md",
+    "Notes/Take notes (Important for me)/Vim.md",
     "Notes/Take notes (Important for me)/Obsidian.md",
-    "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi Pineapple Mark VII.md",
-    "Notes/6. Hardware/Hak5/WiFi Pentesting/MK7AC WiFi Adapter.md",
-    "Notes/6. Hardware/Components/Memory/Memory management.md",
-    "Notes/6. Hardware/Components/Memory/Memories/Understanding the RAM.md",
-    "Notes/6. Hardware/Arduino/1. Interfaces, Comunications y Protocols.md",
-    "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
-    "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/6. Stepper motor change the way and vol.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/3. Potenciometro con señal análogica a LED.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/2. Contador binario.md",
-    "0. Images/tux.png",
-    "0. Images/Pasted image 20241025143849.png",
-    "Notes/2. Networks/Network Basics/5. Routers & CLI configuration",
+    "Notes/Take notes (Important for me)",
     "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi-Pineapple_ebook_v22.03.pdf",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7",
-    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2",
-    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/Topologies",
-    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link",
-    "Notes/0. Needed Concepts/Systems"
+    "Notes/6. Hardware/Arduino/1. Interfaces, Comunications y Protocols.md",
+    "Notes/5. Technologies/Lenguajes y Tools/Python/Modules/Threading & multiprocessing library.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Abusing Dynamic Modules.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Linux/Shared Object Injection - ( .so ).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/XXE - (XML External Entity Injection ).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/XSS  - ( Cross-Site Scripting ).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/XPath Injections.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Type Juggling.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Session Puzzling - Session Fixation - Session Variable Overloading.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/SSTI - (Server-Side Template Injection).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/SSRF/SSRF_2ndScenario.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/SSRF/SSRF_1stScenario.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/SSRF/SSRF - (Server-Side Request Forgery).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/SSRF",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/SQLI - (SQL Injections).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/SQL Truncation.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Race Conditions.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/RCE - (Remote Command Execution).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Prototype Pollution.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/Padding Oracle",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Kerberos Vulns",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/0. Linux",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Explotation Concepts",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks/VLANs - (Virtual Local Area Networks)",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Attacks/1. Segmentated Networks attacks",
+    "0. Images/yersinia_dtp_tab.png",
+    "0. Images/xsltproc_stdout_html_web.png",
+    "0. Images/wireless_router_example_image.png",
+    "0. Images/wired_conection_to_ap_example_image.png",
+    "0. Images/utp_defectuoso_example_image.png",
+    "0. Images/utp_cable_categories_example_image.png",
+    "0. Images/upt_cable_example_image.png",
+    "0. Images/upt_cable_2_example_image.png"
   ]
 }
