@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/6. IPv4 Structure/1. IPv4 Unicast, Broadcast and Multicast.md",
+                "file": "Notes/2. Networks/Network Basics/6. IPv4 Structure/3. Network Segmentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. IPv4 Unicast, Broadcast and Multicast"
+              "title": "3. Network Segmentation"
             }
           }
         ]
@@ -180,17 +180,20 @@
   },
   "active": "34ce22da90da6fc2",
   "lastOpenFiles": [
-    "Pasted image 20241111180547.png",
-    "Pasted image 20241111180051.png",
-    "Notes/2. Networks/Network Basics/6. IPv4 Structure/0. Network and Host Portions.md",
+    "Notes/2. Networks/Network Basics/6. IPv4 Structure/2. Types of IPv4 Addresses.md",
+    "Notes/2. Networks/Network Basics/6. IPv4 Structure/3. Network Segmentation.md",
+    "0. Images/Pasted image 20241112132042.png",
+    "0. Images/Pasted image 20241112131844.png",
+    "0. Images/Pasted image 20241112112731.png",
+    "0. Images/Pasted image 20241112112716.png",
     "Notes/2. Networks/Network Basics/6. IPv4 Structure/1. IPv4 Unicast, Broadcast and Multicast.md",
+    "0. Images/Pasted image 20241112111340.png",
+    "0. Images/Pasted image 20241111180547.png",
+    "0. Images/Pasted image 20241111180051.png",
+    "Notes/2. Networks/Network Basics/6. IPv4 Structure/0. Network and Host Portions.md",
     "0. Images/Pasted image 20241111171417.png",
     "0. Images/Pasted image 20241111171411.png",
     "0. Images/Pasted image 20241111171357.png",
-    "0. Images/Pasted image 20241111171350.png",
-    "0. Images/Pasted image 20241111171149.png",
-    "Pasted image 20241111171142.png",
-    "0. Images/Pasted image 20241111170744.png",
     "Notes/2. Networks/Network Basics/6. IPv4 Structure",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP/2. ICMPv6 Neighbor Discovery - ND.md",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/4. Routing.md",
@@ -214,9 +217,6 @@
     "Notes/6. Hardware/Arduino/Arduino Proyects/6. Stepper motor change the way and vol.md",
     "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
     "Notes/6. Hardware/Arduino/Arduino Proyects/3. Potenciometro con señal análogica a LED.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/2. Contador binario.md",
-    "0. Images/tux.png",
-    "0. Images/Pasted image 20241025143849.png",
     "Notes/2. Networks/Network Basics/5. Routers & CLI configuration",
     "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi-Pineapple_ebook_v22.03.pdf",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP",
