@@ -180,6 +180,10 @@
   },
   "active": "34ce22da90da6fc2",
   "lastOpenFiles": [
+    "Notes/Take notes (Important for me)/Vim.md",
+    "Notes/Take notes (Important for me)/Burnout prevention.md",
+    "Notes/Take notes (Important for me)/Obsidian.md",
+    "Notes/Take notes (Important for me)",
     "Notes/2. Networks/Network Basics/6. IPv4 Structure/2. Types of IPv4 Addresses.md",
     "Notes/2. Networks/Network Basics/6. IPv4 Structure/3. Network Segmentation.md",
     "0. Images/Pasted image 20241112132042.png",
@@ -206,7 +210,6 @@
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/1. IPv4 Packet.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/1. Filtering Packages.md",
     "README.md",
-    "Notes/Take notes (Important for me)/Obsidian.md",
     "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi Pineapple Mark VII.md",
     "Notes/6. Hardware/Hak5/WiFi Pentesting/MK7AC WiFi Adapter.md",
     "Notes/6. Hardware/Components/Memory/Memory management.md",
@@ -215,8 +218,6 @@
     "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
     "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
     "Notes/6. Hardware/Arduino/Arduino Proyects/6. Stepper motor change the way and vol.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/3. Potenciometro con señal análogica a LED.md",
     "Notes/2. Networks/Network Basics/5. Routers & CLI configuration",
     "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi-Pineapple_ebook_v22.03.pdf",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP",
@@ -224,7 +225,6 @@
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7",
     "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2",
     "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/Topologies",
-    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link",
-    "Notes/0. Needed Concepts/Systems"
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link"
   ]
 }
