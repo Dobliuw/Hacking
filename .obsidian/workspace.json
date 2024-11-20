@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "87cba7a50dd1a098",
+        "id": "4765605181faddd4",
         "type": "tabs",
         "children": [
           {
-            "id": "ad6a0d086b798843",
+            "id": "7efdb5c9a6c9b7f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/6. IPv4 Structure/1. IPv4 Unicast, Broadcast and Multicast.md",
+                "file": "Notes/2. Networks/Network Basics/7. Network Segmentation and Subnetting/2. Subnetting a IPv4 Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. IPv4 Unicast, Broadcast and Multicast"
+              "title": "2. Subnetting a IPv4 Network"
+            }
+          },
+          {
+            "id": "685f09cea0249cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/7. Network Segmentation and Subnetting/0. Network Segmentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Network Segmentation"
             }
           }
         ]
@@ -52,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mobile application security testing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 418.5004348754883
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -94,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/2. IPv6 Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2. IPv6 Packet"
             }
           },
           {
@@ -112,11 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/2. IPv6 Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2. IPv6 Packet"
             }
           },
           {
@@ -151,9 +166,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/2. IPv6 Packet.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2. IPv6 Packet"
             }
           }
         ]
@@ -175,22 +192,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ad6a0d086b798843",
+  "active": "7efdb5c9a6c9b7f2",
   "lastOpenFiles": [
-    "Pasted image 20241111180547.png",
-    "Pasted image 20241111180051.png",
-    "Notes/2. Networks/Network Basics/6. IPv4 Structure/0. Network and Host Portions.md",
+    "Notes/2. Networks/Network Basics/7. Network Segmentation and Subnetting/0. Network Segmentation.md",
+    "Notes/2. Networks/Network Basics/7. Network Segmentation and Subnetting/2. Subnetting a IPv4 Network.md",
+    "Notes/2. Networks/Network Basics/7. Network Segmentation and Subnetting",
+    "0. Images/Pasted image 20241119160725.png",
+    "0. Images/Pasted image 20241119160703.png",
+    "0. Images/Pasted image 20241119160632.png",
+    "0. Images/Pasted image 20241119160005.png",
+    "0. Images/Pasted image 20241119155753.png",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/4. Routing.md",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/3. How routing works.md",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/0. Network Layer.md",
+    "0. Images/Pasted image 20241119130518.png",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/1. Sublayer MAC.md",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/0. Data Link Layer.md",
+    "Notes/2. Networks/Network Basics/6. IPv4 Structure/2. Types of IPv4 Addresses.md",
+    "Notes/Take notes (Important for me)/Burnout prevention.md",
+    "Notes/Take notes (Important for me)/Vim.md",
+    "Notes/Take notes (Important for me)/Obsidian.md",
+    "Notes/Take notes (Important for me)",
+    "0. Images/Pasted image 20241112132042.png",
+    "0. Images/Pasted image 20241112131844.png",
+    "0. Images/Pasted image 20241112112731.png",
+    "0. Images/Pasted image 20241112112716.png",
     "Notes/2. Networks/Network Basics/6. IPv4 Structure/1. IPv4 Unicast, Broadcast and Multicast.md",
-    "0. Images/Pasted image 20241111171417.png",
-    "0. Images/Pasted image 20241111171411.png",
-    "0. Images/Pasted image 20241111171357.png",
-    "0. Images/Pasted image 20241111171350.png",
-    "0. Images/Pasted image 20241111171149.png",
-    "Pasted image 20241111171142.png",
-    "0. Images/Pasted image 20241111170744.png",
+    "Notes/2. Networks/Network Basics/6. IPv4 Structure/0. Network and Host Portions.md",
     "Notes/2. Networks/Network Basics/6. IPv4 Structure",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP/2. ICMPv6 Neighbor Discovery - ND.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/4. Routing.md",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/2. IPv6 Packet.md",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP/1. ARP - Address Resolution Protocol.md",
     "Notes/2. Networks/Network Basics/2. Switches & CLI configuration/0. Cisco devices and configuration.md",
@@ -200,28 +230,15 @@
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/1. IPv4 Packet.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/1. Filtering Packages.md",
     "README.md",
-    "Notes/Take notes (Important for me)/Obsidian.md",
     "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi Pineapple Mark VII.md",
     "Notes/6. Hardware/Hak5/WiFi Pentesting/MK7AC WiFi Adapter.md",
     "Notes/6. Hardware/Components/Memory/Memory management.md",
-    "Notes/6. Hardware/Components/Memory/Memories/Understanding the RAM.md",
-    "Notes/6. Hardware/Arduino/1. Interfaces, Comunications y Protocols.md",
-    "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
-    "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/6. Stepper motor change the way and vol.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/5. Micro robot laser.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/3. Potenciometro con señal análogica a LED.md",
-    "Notes/6. Hardware/Arduino/Arduino Proyects/2. Contador binario.md",
-    "0. Images/tux.png",
-    "0. Images/Pasted image 20241025143849.png",
     "Notes/2. Networks/Network Basics/5. Routers & CLI configuration",
     "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi-Pineapple_ebook_v22.03.pdf",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7",
     "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2",
-    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/Topologies",
-    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link",
-    "Notes/0. Needed Concepts/Systems"
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/Topologies"
   ]
 }

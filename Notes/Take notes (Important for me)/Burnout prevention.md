@@ -22,8 +22,6 @@ El BURN OUT es **estres laboral cronico** *que no ha sido manejado con exito*. (
 
 El *autoconocimiento es la clave* para evitar el burn out y poder mantener una salud mental sana, entender los inconvenientes ante el camino al burn out y las estrategias para evitar este mismo.
 
-
-
 ---
 # Stop think like a Machine
 
