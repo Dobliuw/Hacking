@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/7. Network Segmentation and Subnetting/3. Subnetting to complete requeriments.md",
+                "file": "Notes/2. Networks/Network Basics/7. Network Segmentation and Subnetting/2. Subnetting Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Subnetting to complete requeriments"
+              "title": "2. Subnetting Example"
             }
           },
           {
@@ -206,11 +206,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e8c810d1a5b1942e",
+  "active": "e88a780709720b6e",
   "lastOpenFiles": [
-    "Notes/2. Networks/Network Basics/7. Network Segmentation and Subnetting/1. Subnetting a IPv4 Network.md",
     "Notes/2. Networks/Network Basics/7. Network Segmentation and Subnetting/3. Subnetting to complete requeriments.md",
-    "Notes/2. Networks/Network Basics/7. Network Segmentation and Subnetting/2. Subnetting division with prefixs 16 and 8.md",
+    "Notes/2. Networks/Network Basics/7. Network Segmentation and Subnetting/1. Subnetting a IPv4 Network.md",
+    "Notes/2. Networks/Network Basics/7. Network Segmentation and Subnetting/2. Subnetting Example.md",
     "0. Images/Pasted image 20241120225442.png",
     "0. Images/Pasted image 20241120224738.png",
     "0. Images/Pasted image 20241120224326.png",
