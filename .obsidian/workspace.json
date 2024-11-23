@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/7. IPv6 Structure/4. Static GUA and LLA Configuration.md",
+                "file": "Notes/6. Hardware/Components/Keyboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Static GUA and LLA Configuration"
+              "title": "Keyboard"
             }
           }
         ],
@@ -193,10 +193,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "57e306c133f96643",
   "lastOpenFiles": [
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/3. IPv6 Address Type.md",
+    "Notes/6. Hardware/Components/CPU/CPU.md",
+    "Notes/6. Hardware/Components/Keyboard.md",
+    "Notes/2. Networks/Network Basics/7. IPv6 Structure/0. IPv4 Problems.md",
     "Notes/2. Networks/Network Basics/7. IPv6 Structure/4. Static GUA and LLA Configuration.md",
+    "Notes/2. Networks/Network Basics/7. IPv6 Structure/3. IPv6 Address Type.md",
     "0. Images/Pasted image 20241122175050.png",
     "Notes/2. Networks/Network Basics/2. Switches & CLI configuration/0. Cisco devices and configuration.md",
     "0. Images/Pasted image 20241122173816.png",
@@ -210,7 +213,6 @@
     "0. Images/Pasted image 20241122115217.png",
     "0. Images/Pasted image 20241122114912.png",
     "Notes/2. Networks/Network Basics/3. Protocols/1. Network Protocols.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/0. IPv4 Problems.md",
     "0. Images/Pasted image 20241122103429.png",
     "0. Images/Pasted image 20241122103202.png",
     "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation/5. Structured design.md",
@@ -233,7 +235,6 @@
     "Notes/Take notes (Important for me)/Vim.md",
     "Notes/Take notes (Important for me)/Obsidian.md",
     "Notes/Take notes (Important for me)",
-    "Notes/2. Networks/Network Basics/6. IPv4 Structure/1. IPv4 Unicast, Broadcast and Multicast.md",
     "Notes/2. Networks/Network Basics/6. IPv4 Structure",
     "Notes/2. Networks/Network Basics/5. Routers & CLI configuration",
     "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi-Pineapple_ebook_v22.03.pdf",
