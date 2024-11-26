@@ -8,31 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b04b368527b9ae8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Network Basics/7. IPv6 Structure/4. Static GUA and LLA Configuration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Static GUA and LLA Configuration"
-            }
-          },
-          {
             "id": "57e306c133f96643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/6. Hardware/Components/Keyboard.md",
+                "file": "Notes/2. Networks/Network Basics/7. IPv6 Structure/5. Dynamic GUA Configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keyboard"
+              "title": "5. Dynamic GUA Configuration"
+            }
+          },
+          {
+            "id": "81f8e3582caa974b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/7. IPv6 Structure/6. Dynamic Addressing for IPv6 LLAs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Dynamic Addressing for IPv6 LLAs"
+            }
+          },
+          {
+            "id": "ff1739b1caae0f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP/2. ICMPv6 Neighbor Discovery - ND.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. ICMPv6 Neighbor Discovery - ND"
+            }
+          },
+          {
+            "id": "e78d8b8bdff3bcd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/7. IPv6 Structure/3. IPv6 Address Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. IPv6 Address Type"
             }
           }
         ],
@@ -193,28 +221,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "57e306c133f96643",
+  "active": "81f8e3582caa974b",
   "lastOpenFiles": [
-    "Notes/6. Hardware/Components/CPU/CPU.md",
-    "Notes/6. Hardware/Components/Keyboard.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/0. IPv4 Problems.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/4. Static GUA and LLA Configuration.md",
+    "Notes/2. Networks/Network Basics/7. IPv6 Structure/5. Dynamic GUA Configuration.md",
+    "Notes/2. Networks/Network Basics/7. IPv6 Structure/6. Dynamic Addressing for IPv6 LLAs.md",
+    "Pasted image 20241125192758.png",
     "Notes/2. Networks/Network Basics/7. IPv6 Structure/3. IPv6 Address Type.md",
-    "0. Images/Pasted image 20241122175050.png",
+    "Pasted image 20241125191818.png",
+    "Pasted image 20241125191155.png",
+    "Pasted image 20241125190605.png",
+    "Notes/2. Networks/Network Basics/7. IPv6 Structure/4. Static GUA and LLA Configuration.md",
+    "Notes/2. Networks/Network Basics/7. IPv6 Structure/2. IPv6 and Rules to Write it.md",
+    "Notes/2. Networks/Network Basics/7. IPv6 Structure/1. IPv4 vs IPv6 Terminology.md",
+    "Notes/2. Networks/Network Basics/7. IPv6 Structure/0. IPv4 Problems.md",
+    "Pasted image 20241125121539.png",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP/2. ICMPv6 Neighbor Discovery - ND.md",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/2. IPv6 Packet.md",
+    "Notes/2. Networks/Network Basics/1. Structure/2. Network structure.md",
+    "Pasted image 20241125111255.png",
     "Notes/2. Networks/Network Basics/2. Switches & CLI configuration/0. Cisco devices and configuration.md",
+    "Notes/2. Networks/Network Basics/2. Switches & CLI configuration/Cisco IOS Hot keys & Shortcuts.md",
+    "Pasted image 20241125095538.png",
+    "Notes/6. Hardware/Components/Keyboard.md",
+    "Notes/6. Hardware/Components/CPU/CPU.md",
+    "0. Images/Pasted image 20241122175050.png",
     "0. Images/Pasted image 20241122173816.png",
     "0. Images/Pasted image 20241122172701.png",
-    "0. Images/Pasted image 20241122172622.png",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/1. IPv4 vs IPv6 Terminology.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/2. IPv6 and Rules to Write it.md",
-    "0. Images/Pasted image 20241122121227.png",
-    "0. Images/Pasted image 20241122120817.png",
     "Notes/2. Networks/Network Basics/Hexadecimal Systems & IPv6 - MAC.md",
-    "0. Images/Pasted image 20241122115217.png",
-    "0. Images/Pasted image 20241122114912.png",
     "Notes/2. Networks/Network Basics/3. Protocols/1. Network Protocols.md",
-    "0. Images/Pasted image 20241122103429.png",
-    "0. Images/Pasted image 20241122103202.png",
     "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation/5. Structured design.md",
     "Notes/2. Networks/Network Basics/7. IPv6 Structure",
     "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation",
@@ -228,12 +262,6 @@
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/4. Routing.md",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/3. How routing works.md",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/0. Network Layer.md",
-    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/1. Sublayer MAC.md",
-    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/0. Data Link Layer.md",
-    "Notes/2. Networks/Network Basics/6. IPv4 Structure/2. Types of IPv4 Addresses.md",
-    "Notes/Take notes (Important for me)/Burnout prevention.md",
-    "Notes/Take notes (Important for me)/Vim.md",
-    "Notes/Take notes (Important for me)/Obsidian.md",
     "Notes/Take notes (Important for me)",
     "Notes/2. Networks/Network Basics/6. IPv4 Structure",
     "Notes/2. Networks/Network Basics/5. Routers & CLI configuration",
