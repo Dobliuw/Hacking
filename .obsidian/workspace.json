@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/3. Protocols/ICMP Messages/1. Ping and Traceroute Tests.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/IIS/IIS - (Internet Information Service).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Ping and Traceroute Tests"
+              "title": "IIS - (Internet Information Service)"
+            }
+          },
+          {
+            "id": "72ba7f72c0494f39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/3. Protocols/0. Models/TCP-IP Model/TCP-IP Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCP-IP Model"
+            }
+          },
+          {
+            "id": "00ccd941727c85be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/TCP/1. TCP Process Comunication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. TCP Process Comunication"
+            }
+          },
+          {
+            "id": "31e4772b1ad3c890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/TCP/0. Transport Control Protocool - (TCP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Transport Control Protocool - (TCP)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mobile application security testing",
+                "query": "broadcast",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,51 +223,51 @@
   },
   "active": "e88a780709720b6e",
   "lastOpenFiles": [
-    "0. Images/Pasted image 20241126193340.png",
-    "0. Images/Pasted image 20241126192910.png",
-    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv6 Subnetting/0. Subnetting an IPv6 Network.md",
-    "Notes/2. Networks/Network Basics/3. Protocols/ICMP Messages/1. Ping and Traceroute Tests.md",
+    "0. Images/Pasted image 20241129180814.png",
+    "0. Images/Pasted image 20241129180654.png",
+    "0. Images/Pasted image 20241129180517.png",
+    "0. Images/Pasted image 20241129180353.png",
+    "0. Images/Pasted image 20241129180236.png",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/1. Port Numbers.md",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/TCP/1. TCP Process Comunication.md",
+    "0. Images/Pasted image 20241129153746.png",
+    "0. Images/Pasted image 20241129153128.png",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/0. Transport Layer.md",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/UDP/0. User Datagram Protocol - (UDP).md",
+    "0. Images/Pasted image 20241129112629.png",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/TCP/0. Transport Control Protocool - (TCP).md",
+    "0. Images/Pasted image 20241129111911.png",
+    "0. Images/Pasted image 20241129111151.png",
+    "0. Images/Pasted image 20241129110042.png",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/UDP",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/TCP",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/0. Network Layer.md",
+    "Notes/2. Networks/Network Basics/3. Protocols/0. Models/OSI Model/OSI Model.md",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport",
+    "Notes/2. Networks/Network Basics/3. Protocols/0. Models/TCP-IP Model/TCP-IP Model.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/IIS/IIS - (Internet Information Service).md",
+    "Notes/6. Hardware/Components/Keyboard.md",
+    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation/3. Subnetting to complete requeriments.md",
+    "Notes/2. Networks/Network Basics/6. IPv4 Structure/1. IPv4 Unicast, Broadcast and Multicast.md",
+    "Notes/2. Networks/Network Basics/7. IPv6 Structure/0. IPv4 Problems.md",
+    "Notes/2. Networks/Network Basics/6. IPv4 Structure/0. Network and Host Portions.md",
+    "Notes/2. Networks/Network Basics/3. Protocols/0. Transmission.md",
+    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation/2. Subnet Operations.md",
+    "Notes/2. Networks/Network Basics/7. IPv6 Structure/5. Dynamic GUA Configuration.md",
     "Notes/2. Networks/Network Basics/3. Protocols/ICMP Messages/0. ICMP Messages.md",
-    "0. Images/Pasted image 20241126164027.png",
-    "0. Images/Pasted image 20241126163829.png",
-    "0. Images/Pasted image 20241126163439.png",
-    "0. Images/Pasted image 20241126163343.png",
-    "0. Images/Pasted image 20241126160003.png",
-    "0. Images/Pasted image 20241126155943.png",
+    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv6 Subnetting/0. Subnetting an IPv6 Network.md",
+    "Notes/2. Networks/Network Basics/7. IPv6 Structure/7. IPv6 Multicast Addresses.md",
+    "Notes/2. Networks/Network Basics/3. Protocols/ICMP Messages/1. Ping and Traceroute Tests.md",
     "Notes/2. Networks/Network Basics/3. Protocols/0. Models/1. Accessing data.md",
     "Notes/2. Networks/Network Basics/3. Protocols/0. Models/0. Data Modification.md",
     "Notes/2. Networks/Network Basics/3. Protocols/ICMP Messages",
-    "0. Images/Pasted image 20241126150039.png",
-    "0. Images/Pasted image 20241126145936.png",
-    "0. Images/Pasted image 20241126144611.png",
     "Notes/2. Networks/Network Basics/7. IPv6 Structure/3. IPv6 Address Type.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP/2. ICMPv6 Neighbor Discovery - ND.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/1. IPv4 vs IPv6 Terminology.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/5. Dynamic GUA Configuration.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/0. IPv4 Problems.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/7. IPv6 Multicast Addresses.md",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/ARP/2. ICMPv6 Neighbor Discovery - ND.md",
     "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv6 Subnetting",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/Untitled.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/6. Dynamic Addressing for IPv6 LLAs.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/4. Static GUA and LLA Configuration.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/2. IPv6 and Rules to Write it.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/2. IPv6 Packet.md",
-    "Notes/2. Networks/Network Basics/1. Structure/2. Network structure.md",
-    "Notes/2. Networks/Network Basics/2. Switches & CLI configuration/0. Cisco devices and configuration.md",
-    "Notes/2. Networks/Network Basics/2. Switches & CLI configuration/Cisco IOS Hot keys & Shortcuts.md",
-    "Notes/6. Hardware/Components/Keyboard.md",
-    "Notes/6. Hardware/Components/CPU/CPU.md",
-    "Notes/2. Networks/Network Basics/Hexadecimal Systems & IPv6 - MAC.md",
-    "Notes/2. Networks/Network Basics/3. Protocols/1. Network Protocols.md",
-    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation/5. Structured design.md",
     "Notes/2. Networks/Network Basics/7. IPv6 Structure",
     "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation",
-    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation/4. VLSM - Variable Length Subnet Mask.md",
     "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting",
     "Notes/Take notes (Important for me)",
-    "Notes/2. Networks/Network Basics/6. IPv4 Structure",
-    "Notes/2. Networks/Network Basics/5. Routers & CLI configuration",
-    "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi-Pineapple_ebook_v22.03.pdf",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/ARP"
+    "Notes/2. Networks/Network Basics/6. IPv4 Structure"
   ]
 }
