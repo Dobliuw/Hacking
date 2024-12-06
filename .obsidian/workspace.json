@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "abb6d6b03c48decd",
+        "id": "3345904211267e0d",
         "type": "tabs",
         "children": [
           {
-            "id": "e6301bded9ea3080",
+            "id": "8711507b7988b1a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/IIS/IIS - (Internet Information Service).md",
+                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/7. Application/2. Web and Email Protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IIS - (Internet Information Service)"
-            }
-          },
-          {
-            "id": "72ba7f72c0494f39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Network Basics/3. Protocols/0. Models/TCP-IP Model/TCP-IP Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TCP-IP Model"
-            }
-          },
-          {
-            "id": "00ccd941727c85be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basic Concepts"
-            }
-          },
-          {
-            "id": "31e4772b1ad3c890",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/TCP/0. Transport Control Protocool - (TCP).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. Transport Control Protocool - (TCP)"
-            }
-          },
-          {
-            "id": "8d0d3e705b70fe12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/UDP/1. UDP Comunication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. UDP Comunication"
+              "title": "2. Web and Email Protocols"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nmap",
+                "query": "nosql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,23 +178,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "8711507b7988b1a1",
   "lastOpenFiles": [
-    "0. Images/Pasted image 20241202183348.png",
-    "0. Images/Pasted image 20241202183306.png",
-    "0. Images/Pasted image 20241202183207.png",
-    "0. Images/Pasted image 20241202182722.png",
-    "0. Images/Pasted image 20241202182335.png",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/1. Port Numbers.md",
+    "Pasted image 20241205211154.png",
+    "Pasted image 20241205210803.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/NoSQLI - (NoSQL Injections).md",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/7. Application/2. Web and Email Protocols.md",
+    "Pasted image 20241205104607.png",
+    "Pasted image 20241205104520.png",
+    "Pasted image 20241205104445.png",
+    "Pasted image 20241205104434.png",
+    "Pasted image 20241205103842.png",
+    "Pasted image 20241205104359.png",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/7. Application/1. Point-to-Point.md",
+    "Pasted image 20241205102413.png",
+    "Pasted image 20241205101924.png",
+    "Pasted image 20241205101704.png",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/7. Application/0. Application Layer.md",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/5-6. Presentation and Session/0. Presentation and Session Layer.md",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/5-6. Presentation and Session",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/7. Application",
+    "Notes/2. Networks/Network Basics/1. Structure/1. Topologies and network representation.md",
+    "Notes/2. Networks/Network Basics/2. Switches & CLI configuration/0. Cisco devices and configuration.md",
+    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation/1. Subnetting a IPv4 Network.md",
+    "Notes/4. Cybersecurity/BlueTeam/Defensive Tools/Sumo Logic/3. Ingestión de Datos y Niveles de Datos.md",
+    "Notes/2. Networks/Network Basics/6. IPv4 Structure/0. Network and Host Portions.md",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/UDP/1. UDP Comunication.md",
-    "Servicios y puertos comunes.md",
-    "0. Images/Pasted image 20241202180821.png",
-    "0. Images/Pasted image 20241202180532.png",
-    "0. Images/Pasted image 20241202180206.png",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/TCP/2. Reliability and Flow Control.md",
-    "0. Images/Pasted image 20241202174933.png",
-    "0. Images/Pasted image 20241202173443.png",
-    "0. Images/Pasted image 20241202173149.png",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/1. Port Numbers.md",
+    "Servicios y puertos comunes.md",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/TCP/1. TCP Process Comunication.md",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/TCP/0. Transport Control Protocool - (TCP).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/IIS/IIS - (Internet Information Service).md",
@@ -266,22 +221,10 @@
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport",
     "Notes/6. Hardware/Components/Keyboard.md",
     "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation/3. Subnetting to complete requeriments.md",
-    "Notes/2. Networks/Network Basics/6. IPv4 Structure/1. IPv4 Unicast, Broadcast and Multicast.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/0. IPv4 Problems.md",
-    "Notes/2. Networks/Network Basics/6. IPv4 Structure/0. Network and Host Portions.md",
-    "Notes/2. Networks/Network Basics/3. Protocols/0. Transmission.md",
-    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation/2. Subnet Operations.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/5. Dynamic GUA Configuration.md",
-    "Notes/2. Networks/Network Basics/3. Protocols/ICMP Messages/0. ICMP Messages.md",
-    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv6 Subnetting/0. Subnetting an IPv6 Network.md",
-    "Notes/2. Networks/Network Basics/7. IPv6 Structure/7. IPv6 Multicast Addresses.md",
-    "Notes/2. Networks/Network Basics/3. Protocols/ICMP Messages/1. Ping and Traceroute Tests.md",
     "Notes/2. Networks/Network Basics/3. Protocols/ICMP Messages",
     "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv6 Subnetting",
     "Notes/2. Networks/Network Basics/7. IPv6 Structure",
     "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation",
-    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting",
-    "Notes/Take notes (Important for me)",
-    "Notes/2. Networks/Network Basics/6. IPv4 Structure"
+    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting"
   ]
 }
