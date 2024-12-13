@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "471550649bb1edb7",
+        "id": "02737e736f0cbfc8",
         "type": "tabs",
         "children": [
           {
-            "id": "e9219e6ad869b931",
+            "id": "941ec6f97fc530a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/9. Security/3. Security in the Devices.md",
+                "file": "Notes/2. Networks/Network Basics/10. Creating a Small Network/6. Problem-Solving Scenarios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Security in the Devices"
-            }
-          },
-          {
-            "id": "fbb4e4b071e23d42",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Images/Pasted image 20241210165704.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241210165704"
-            }
-          },
-          {
-            "id": "3d913000d163fb32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Network Basics/2. Switches & CLI configuration/0. Cisco devices and configuration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. Cisco devices and configuration"
-            }
-          },
-          {
-            "id": "750b769c08502807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Network Basics/10. Creating a Small Network/4. Host and IOS Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Host and IOS Commands"
+              "title": "6. Problem-Solving Scenarios"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dúplex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,6 +180,13 @@
   },
   "active": "e88a780709720b6e",
   "lastOpenFiles": [
+    "Pasted image 20241212164723.png",
+    "Pasted image 20241212164526.png",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/0. Data Link Layer.md",
+    "Notes/2. Networks/Network Basics/10. Creating a Small Network/6. Problem-Solving Scenarios.md",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/1. Physical/Wiring/Fiber Optic/0. Fiber Optic Wiring.md",
+    "Notes/2. Networks/Network Basics/10. Creating a Small Network/5. Problem-Solving Methodologies.md",
+    "0. Images/Pasted image 20241210165704.png",
     "0. Images/Pasted image 20241210171918.png",
     "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation/1. Subnetting a IPv4 Network.md",
     "Notes/2. Networks/Network Basics/2. Switches & CLI configuration/0. Cisco devices and configuration.md",
@@ -234,8 +200,6 @@
     "Notes/2. Networks/Network Basics/10. Creating a Small Network/1. Protocols and Applications in Small Networks.md",
     "Notes/2. Networks/Network Basics/10. Creating a Small Network/3. Check Connectivity.md",
     "Notes/2. Networks/Network Basics/10. Creating a Small Network/2. Scaling to Larger Networks.md",
-    "Notes/2. Networks/Network Basics/10. Creating a Small Network/5. Problem-Solving Methodologies.md",
-    "0. Images/Pasted image 20241210165704.png",
     "0. Images/Pasted image 20241210165640.png",
     "0. Images/Pasted image 20241210165507.png",
     "0. Images/Pasted image 20241210165415.png",
@@ -243,7 +207,6 @@
     "0. Images/Pasted image 20241210165214.png",
     "0. Images/Pasted image 20241210165120.png",
     "0. Images/Pasted image 20241210164947.png",
-    "0. Images/Pasted image 20241210164846.png",
     "Notes/2. Networks/Network Basics/3. Protocols/ICMP Messages/1. Ping and Traceroute Tests.md",
     "Notes/2. Networks/Network Basics/10. Creating a Small Network/0. Devices in Small Networks.md",
     "Notes/2. Networks/Network Basics/10. Creating a Small Network",
@@ -255,9 +218,6 @@
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/UDP/0. User Datagram Protocol - (UDP).md",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/UDP/1. UDP Comunication.md",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/TCP/1. TCP Process Comunication.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/1. Port Numbers.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/7. Application/4. File Sharing Services.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/7. Application/3. IP Addressing Services.md",
     "Notes/6. Hardware/3d Printing",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/5-6. Presentation and Session",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/7. Application",
