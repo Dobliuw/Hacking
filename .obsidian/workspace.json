@@ -4,20 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "96a425ee87512df3",
+        "id": "3a4bef4874a8f246",
         "type": "tabs",
         "children": [
+          {
+            "id": "5bb7e698025cea66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Fase de Reconocimiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fase de Reconocimiento"
+            }
+          },
+          {
+            "id": "05c8cfe999d69380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Enumeración y explotación de WebDAV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enumeración y explotación de WebDAV"
+            }
+          },
           {
             "id": "349c25b5bbd0ff2c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/HTTP-HTTPS/HTTP-HTTPS Enum.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "HTTP-HTTPS Enum"
+            }
+          },
+          {
+            "id": "de1af49702a68424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Linux/Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commands"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dúplex",
+                "query": "strings -",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,11 +116,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 348.5110321044922
+    "width": 455.5110321044922
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -174,53 +222,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "de1af49702a68424",
   "lastOpenFiles": [
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Lsass dump analysis.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Linux/Keepass master key crack .dmp.md",
+    "HTB Writeups/LinkVortex.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/HTTP-HTTPS/HTTP-HTTPS Enum.md",
+    "Pasted image 20241216154526.png",
+    "0. Images/Pasted image 20241216153235.png",
+    "0. Images/Pasted image 20241216152806.png",
+    "0. Images/Pasted image 20241216152409.png",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/ARP/1. ARP - Address Resolution Protocol.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Fase de Reconocimiento.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Enumeración y explotación de WebDAV.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Amazon Web Service Enumeration.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/HTTP-HTTPS/TRACE Method.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/HTTP-HTTPS/SSL Certificates.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/HTTP-HTTPS",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/Tools/Tools.md",
+    "Notes/2. Networks/Network Basics/3. Protocols/ICMP Messages/0. ICMP Messages.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Android Architecture.md",
+    "HTB Writeups",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/1. Port Numbers.md",
+    "README.md",
+    "Notes/Take notes (Important for me)/Vim.md",
+    "Notes/Take notes (Important for me)/Obsidian.md",
+    "Notes/Take notes (Important for me)/Burnout prevention.md",
+    "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi Pineapple Mark VII.md",
+    "Notes/6. Hardware/Hak5/WiFi Pentesting/MK7AC WiFi Adapter.md",
+    "Notes/6. Hardware/Hak5/HotPlug Tools/USB Rubber Ducky.md",
+    "Notes/6. Hardware/Components/Memory/Memory management.md",
+    "Notes/6. Hardware/Components/Memory/Memories/Understanding the RAM.md",
+    "Notes/6. Hardware/Arduino/1. Interfaces, Comunications y Protocols.md",
+    "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
+    "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
     "0. Images/Pasted image 20241213125050.png",
     "Pasted image 20241213125033.png",
     "0. Images/Pasted image 20241213124910.png",
     "0. Images/Pasted image 20241213124106.png",
     "0. Images/Pasted image 20241213124055.png",
     "0. Images/Pasted image 20241212164723.png",
-    "0. Images/Pasted image 20241212164526.png",
-    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/0. Data Link Layer.md",
-    "Notes/2. Networks/Network Basics/10. Creating a Small Network/6. Problem-Solving Scenarios.md",
-    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/1. Physical/Wiring/Fiber Optic/0. Fiber Optic Wiring.md",
-    "Notes/2. Networks/Network Basics/10. Creating a Small Network/5. Problem-Solving Methodologies.md",
-    "0. Images/Pasted image 20241210165704.png",
-    "0. Images/Pasted image 20241210171918.png",
-    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation/1. Subnetting a IPv4 Network.md",
-    "Notes/2. Networks/Network Basics/2. Switches & CLI configuration/0. Cisco devices and configuration.md",
-    "Notes/2. Networks/Network Basics/10. Creating a Small Network/4. Host and IOS Commands.md",
-    "Notes/2. Networks/Network Basics/9. Security/3. Security in the Devices.md",
-    "Notes/2. Networks/Network Basics/9. Security/2. Network Attacks Mitigation.md",
-    "Notes/2. Networks/Network Basics/9. Security/1. Networks Attacks.md",
-    "Notes/2. Networks/Network Basics/9. Security/0. Vulnerabilities and Security Attacks.md",
-    "Notes/2. Networks/Network Basics/1. Structure/2. Network structure.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/1. Windows Privilege Escalation CHECKLIST.md",
-    "Notes/2. Networks/Network Basics/10. Creating a Small Network/1. Protocols and Applications in Small Networks.md",
-    "Notes/2. Networks/Network Basics/10. Creating a Small Network/3. Check Connectivity.md",
-    "Notes/2. Networks/Network Basics/10. Creating a Small Network/2. Scaling to Larger Networks.md",
-    "0. Images/Pasted image 20241210165640.png",
-    "0. Images/Pasted image 20241210165507.png",
-    "Notes/2. Networks/Network Basics/3. Protocols/ICMP Messages/1. Ping and Traceroute Tests.md",
-    "Notes/2. Networks/Network Basics/10. Creating a Small Network/0. Devices in Small Networks.md",
     "Notes/2. Networks/Network Basics/10. Creating a Small Network",
-    "Notes/2. Networks/Network Basics/Untitled.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
     "Notes/2. Networks/Network Basics/9. Security",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/5-6. Presentation and Session/0. Presentation and Session Layer.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/7. Application/1. Point-to-Point.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/UDP/0. User Datagram Protocol - (UDP).md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/UDP/1. UDP Comunication.md",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/TCP/1. TCP Process Comunication.md",
     "Notes/6. Hardware/3d Printing",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/5-6. Presentation and Session",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/7. Application",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/UDP",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/TCP",
-    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport",
-    "Notes/2. Networks/Network Basics/3. Protocols/ICMP Messages",
-    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv6 Subnetting"
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport"
   ]
 }
