@@ -4,67 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "3a4bef4874a8f246",
+        "id": "07e9363dcf8d300c",
         "type": "tabs",
         "children": [
           {
-            "id": "5bb7e698025cea66",
+            "id": "53eefd8da491b970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Fase de Reconocimiento.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Lsass dump analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fase de Reconocimiento"
+              "title": "Lsass dump analysis"
             }
           },
           {
-            "id": "05c8cfe999d69380",
+            "id": "067635d2e1eb6dbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Enumeración y explotación de WebDAV.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Kerberos Vulns/Golden Ticket Attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeración y explotación de WebDAV"
+              "title": "Golden Ticket Attack"
             }
           },
           {
-            "id": "349c25b5bbd0ff2c",
+            "id": "5c022f3c9bbafd8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/HTTP-HTTPS/HTTP-HTTPS Enum.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Recopilación de información del sistema..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP-HTTPS Enum"
-            }
-          },
-          {
-            "id": "de1af49702a68424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Linux/Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Commands"
+              "title": "Recopilación de información del sistema."
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strings -",
+                "query": "bloodhound",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5110321044922
+    "width": 444.5110321044922
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -222,13 +208,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "de1af49702a68424",
+  "active": "5c022f3c9bbafd8f",
   "lastOpenFiles": [
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/Abuso de SeBackupPrivilege.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Kerberos Vulns/Golden Ticket Attack.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/Vulnerabilities/1. Windows/Lsass dump analysis.md",
+    "Notes/5. Technologies/Scripting en Bash.md",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/7. Application/0. Application Layer.md",
+    "Notes/2. Networks/Network Basics/7. IPv6 Structure/7. IPv6 Multicast Addresses.md",
+    "Notes/2. Networks/Network Basics/6. IPv4 Structure/2. Types of IPv4 Addresses.md",
+    "Notes/2. Networks/Network Basics/7. IPv6 Structure/5. Dynamic GUA Configuration.md",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/1. Data Link Frame.md",
+    "Notes/2. Networks/Network Basics/4. Layers/0. Layer 1 and 2/2. Data Link/0. Data Link Layer.md",
+    "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/TCP/0. Transport Control Protocool - (TCP).md",
+    "Notes/2. Networks/Network Basics/8. Network Segmentation and Subnetting/IPv4 Subnetting and Segmentation/1. Subnetting a IPv4 Network.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Linux/Commands.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Linux/Keepass master key crack .dmp.md",
     "HTB Writeups/LinkVortex.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/HTTP-HTTPS/HTTP-HTTPS Enum.md",
-    "Pasted image 20241216154526.png",
+    "0. Images/Pasted image 20241216154526.png",
     "0. Images/Pasted image 20241216153235.png",
     "0. Images/Pasted image 20241216152806.png",
     "0. Images/Pasted image 20241216152409.png",
@@ -244,18 +242,6 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Android Architecture.md",
     "HTB Writeups",
     "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/4. Transport/1. Port Numbers.md",
-    "README.md",
-    "Notes/Take notes (Important for me)/Vim.md",
-    "Notes/Take notes (Important for me)/Obsidian.md",
-    "Notes/Take notes (Important for me)/Burnout prevention.md",
-    "Notes/6. Hardware/Hak5/WiFi Pentesting/WiFi Pineapple Mark VII.md",
-    "Notes/6. Hardware/Hak5/WiFi Pentesting/MK7AC WiFi Adapter.md",
-    "Notes/6. Hardware/Hak5/HotPlug Tools/USB Rubber Ducky.md",
-    "Notes/6. Hardware/Components/Memory/Memory management.md",
-    "Notes/6. Hardware/Components/Memory/Memories/Understanding the RAM.md",
-    "Notes/6. Hardware/Arduino/1. Interfaces, Comunications y Protocols.md",
-    "Notes/6. Hardware/Arduino/0. Arduino y Componentes electrónicos.md",
-    "Notes/6. Hardware/Arduino/Elelctronic/Electronic.md",
     "0. Images/Pasted image 20241213125050.png",
     "Pasted image 20241213125033.png",
     "0. Images/Pasted image 20241213124910.png",
