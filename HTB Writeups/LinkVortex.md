@@ -118,7 +118,7 @@ nmap -p22,80 -sCV 10.10.11.47 -oN portsInfo.py
 ```
 - `-sCV`: Intentar reconocer version y servicio
 - `-oN`: Exporter output en formato normal.
-- 
+
 En mi caso tiendo a exportar el output a un archivo con terminación *.py* ya que utilizo [batcat](https://github.com/sharkdp/bat) y este reconoce el output como formato Python y le da más vida a la lectura:
 
 ![[Pasted image 20241216152806.png]]
