@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b3a730a4df85d91f",
+        "id": "064d4bcccdf67884",
         "type": "tabs",
         "children": [
           {
-            "id": "32346ea86274a9c5",
+            "id": "9ee1ac08294cfdef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/6. Hardware/Elelctronic/ESP32/Installation of Arduino IDE + ESP32 Board.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/1. Commoun Tools and Libraries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Installation of Arduino IDE + ESP32 Board"
-            }
-          },
-          {
-            "id": "512289e8aed627a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/5. Technologies/Lenguajes y Tools/Python/Modules/Threading & multiprocessing library.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Threading & multiprocessing library"
+              "title": "1. Commoun Tools and Libraries"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,8 +179,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "9ee1ac08294cfdef",
   "lastOpenFiles": [
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/1. Protection Systems/Cloudflare/Cloudflare.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/1. Commoun Tools and Libraries.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/0. Web Scraping.md",
+    "Notes/5. Technologies/Lenguajes y Tools/Python/Modules/Threading & multiprocessing library.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/1. Protection Systems/Cloudflare",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/1. Protection Systems",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/0. Techniques",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping",
     "Notes/6. Hardware/Electronic/ESP32/Installation of Arduino IDE + ESP32 Board.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/Tools/Tools.md",
     "Notes/6. Hardware/Electronic/ESP32/ESP32.md",
@@ -224,11 +217,7 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/2. C2/0. Command and Control.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/2. C2",
     "Notes/6. Hardware/Components/Keyboard/1. Displaying Keyboard Events.md",
-    "Notes/6. Hardware/Components/Keyboard/0. Keyboard Functionality.md",
     "Notes/6. Hardware/Components/Keyboard",
-    "Notes/3. System/Operative Systems/Operative Systems Basics.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/MSCONFIG.md",
-    "Notes/3. System/Operative Systems/Windows/Administration/WMIC.md",
     "Notes/2. Networks/Network Basics/Radio Frequencies",
     "Notes/2. Networks/Network Basics/Networks Fundamentals",
     "0. Images/Pasted image 20241216154526.png",
@@ -236,11 +225,7 @@
     "0. Images/Pasted image 20241216152806.png",
     "0. Images/Pasted image 20241216152409.png",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/HTTP-HTTPS",
-    "HTB Writeups",
     "0. Images/Pasted image 20241213125050.png",
-    "Pasted image 20241213125033.png",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/10. Creating a Small Network",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/9. Security",
-    "Notes/6. Hardware/3d Printing"
+    "Pasted image 20241213125033.png"
   ]
 }
