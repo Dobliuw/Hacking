@@ -13,12 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/1. Commoun Tools and Libraries.md",
+                "file": "Notes/5. Technologies/Lenguajes y Tools/SQL/MySQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Commoun Tools and Libraries"
+              "title": "MySQL"
+            }
+          },
+          {
+            "id": "646351906302b98c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/0. Layer 1 and 2/1. Physical/Wireless/0. Wireless media.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Wireless media"
+            }
+          },
+          {
+            "id": "beb7b0b5a2db8ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/0. Layer 1 and 2/1. Physical/Wiring/Copper/0. Copper Wiring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Copper Wiring"
+            }
+          },
+          {
+            "id": "013651ac8096c571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/0. Layer 1 and 2/1. Physical/0. Physical Layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Physical Layer"
+            }
+          },
+          {
+            "id": "a4e9ee8039f269f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. Networks/Network Basics/Networks Fundamentals/3. Protocols/0. Models/TCP-IP Model/TCP-IP Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCP-IP Model"
             }
           }
         ]
@@ -181,8 +237,28 @@
   },
   "active": "9ee1ac08294cfdef",
   "lastOpenFiles": [
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/1. Protection Systems/Cloudflare/Cloudflare.md",
+    "Notes/5. Technologies/Lenguajes y Tools/SQL/MSSQL.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Introduction to Network Conectivity in Linux.md",
+    "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/0. Layer 1 and 2/1. Physical/Wireless/0. Wireless media.md",
+    "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/0. Layer 1 and 2/1. Physical/Wiring/Copper/0. Copper Wiring.md",
+    "Notes/2. Networks/Network Basics/Networks Fundamentals/3. Protocols/0. Models/TCP-IP Model/TCP-IP Model.md",
+    "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/0. Layer 1 and 2/1. Physical/0. Physical Layer.md",
+    "Notes/2. Networks/Network Basics/Networks Fundamentals/1. Structure/2. Network structure.md",
+    "Notes/2. Networks/Network Basics/Networks Fundamentals/1. Structure/1. Topologies and network representation.md",
+    "Notes/2. Networks/Network Basics/Networks Fundamentals/1. Structure/0. Network Components.md",
+    "Notes/2. Networks/Network Basics/Networks Fundamentals/1. Structure/3. Internetwork conections & trusted networks.md",
+    "Notes/Take notes (Important for me)/Nvim/2. Cheat Sheet.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/1. Commoun Tools and Libraries.md",
+    "Notes/Take notes (Important for me)/Burnout prevention.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/Tools/Tools.md",
+    "README.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/1. Protection Systems/Cloudflare/Cloudflare.md",
+    "Notes/Take notes (Important for me)/Nvim/1. Plugin Loader Configuration.md",
+    "Notes/Take notes (Important for me)/Nvim/0. Nvim Customization.md",
+    "Notes/Take notes (Important for me)/Nvim/Windows",
+    "Notes/Take notes (Important for me)/Nvim/Unix",
+    "Notes/Take notes (Important for me)/Vim.md",
+    "Notes/Take notes (Important for me)/Nvim",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/0. Web Scraping.md",
     "Notes/5. Technologies/Lenguajes y Tools/Python/Modules/Threading & multiprocessing library.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/1. Protection Systems/Cloudflare",
@@ -190,41 +266,21 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/0. Techniques",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping",
     "Notes/6. Hardware/Electronic/ESP32/Installation of Arduino IDE + ESP32 Board.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/Tools/Tools.md",
     "Notes/6. Hardware/Electronic/ESP32/ESP32.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Prototype Pollution.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Openssl Cipher Decryption.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Metadata analysis.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Enum WHOIS 43.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Data exfiltration through ICMP.md",
-    "Notes/4. Cybersecurity/BlueTeam/API Sec/API - (Application Programming Interfaces).md",
     "0. Images/Pasted image 20250311120636.png",
-    "Notes/3. System/Operative Systems/Windows/3. Cheat Sheet.md",
-    "Notes/6. Hardware/Electronic/Electronic.md",
-    "Notes/6. Hardware/Electronic/Interfaces, Comunications and Protocols.md",
     "0. Images/Pasted image 20250225170624.png",
     "0. Images/Pasted image 20250225165913.png",
     "Pasted image 20250225165836.png",
-    "Notes/5. Technologies/Lenguajes y Tools/C/C.md",
     "Notes/6. Hardware/Electronic/ESP32",
-    "Notes/5. Technologies/Lenguajes y Tools/C/C Program Structure.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/NoSQLI - (NoSQL Injections).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Type Juggling.md",
-    "Notes/5. Technologies/Lenguajes y Tools/PHP.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/LFI - (Local File Inclusion).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Deserialization Attack.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/JWT - (JSON Web Tokens) Enum & explotation.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/2. C2/0. Command and Control.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/2. C2",
-    "Notes/6. Hardware/Components/Keyboard/1. Displaying Keyboard Events.md",
     "Notes/6. Hardware/Components/Keyboard",
-    "Notes/2. Networks/Network Basics/Radio Frequencies",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals",
     "0. Images/Pasted image 20241216154526.png",
     "0. Images/Pasted image 20241216153235.png",
     "0. Images/Pasted image 20241216152806.png",
     "0. Images/Pasted image 20241216152409.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/HTTP-HTTPS",
     "0. Images/Pasted image 20241213125050.png",
     "Pasted image 20241213125033.png"
   ]
