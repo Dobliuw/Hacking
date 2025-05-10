@@ -26,9 +26,9 @@ Una de estas técnicas es la **enumeración de red local**, que puede realizarse
 
 Para entender más en profundidad el funcionamiento de Capa 2 y Capa 3, junto a sus respectivos protocolos, recomiendo hacer uso de los apuntes que desarrolle basadome en toda la cursada del CCNA 1 impartida por Cisco Academy:
 
-- [[0. Data Link Layer]].
+- [[0. Data Link Layer (L2)]].
 	- [[1. Sublayer MAC]].
-- [[0. Network Layer]]
+- [[0. Network Layer (L3)]]
 	- [[2. IPv4 Addresses - Direcciones IPv4]].
 	- [[3. IPv6 Address Type]]
 

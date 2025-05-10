@@ -141,7 +141,7 @@ GUID Partition Table = Tabla de partición GUID
 | Compatibility        | Amplia, especialmente con sistemas antiguos      | Requiere UEFI para arrancar                      |
 | Redundancy           | No                                               | Sí, incluye una copia de respaldo                |
 | Integrity            | Más susceptible a fallos                         | Más seguro, con CRC para verificar la integridad |
-#### Utility and Relationated Commands
+#### Utility and Relationated Commands (Disks)
 
 **In Linux**:
 - `fdisk`: Usado principalmente para gestionar particiones *MBR*.
@@ -208,7 +208,7 @@ Algunos otros sistemas de archivos son **APFS** (**Apple File System**), **HFS+*
 | Partition Size Limit | 8 TB                                                                                     | 256 TB                                                         | 1 EB                                                      |
 | Disadvantages        | No soporta funcionalidades avanzadas ni sirve para manejo de grandes volúmenes de datos. | Menor compatibilidad y mayor complejidad.                      | Menor compatibilidad y mayor sobrecarga de procesamiento. |
 
-#### Utility and Relationated Commands
+#### Utility and Relationated Commands (Filesystem)
 
 **In Linux**:
 
