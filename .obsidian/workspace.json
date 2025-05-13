@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3. System/Operative Systems/Dual Boot/Dual Boot.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Arch Linux Enviroment with Hyprland.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dual Boot"
+              "title": "Arch Linux Enviroment with Hyprland"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 697.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -222,14 +222,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "c61a63935b5578a0",
   "lastOpenFiles": [
+    "Notes/3. System/Operative Systems/Dual Boot/Dual Boot.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Arch Linux Enviroment with Hyprland.md",
     "0. Images/Pasted image 20250512211747.png",
     "Notes/3. System/Operative Systems/0. Linux/0. Linux Basics.md",
     "0. Images/Pasted image 20250512145601.png",
     "Notes/3. System/Operative Systems/1. Windows/0. Windows Basics.md",
     "Notes/3. System/Operative Systems/Operative Systems Basics.md",
-    "Notes/3. System/Operative Systems/Dual Boot/Dual Boot.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/IIS/IIS - (Internet Information Service).md",
     "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/3. Network/ARP/1. ARP - Address Resolution Protocol.md",
     "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/4. Transport/1. Port Numbers.md",
@@ -268,7 +269,6 @@
     "0. Images/Pasted image 20241216154526.png",
     "0. Images/Pasted image 20241216153235.png",
     "0. Images/Pasted image 20241216152806.png",
-    "0. Images/Pasted image 20241216152409.png",
-    "0. Images/Pasted image 20241213125050.png"
+    "0. Images/Pasted image 20241216152409.png"
   ]
 }
