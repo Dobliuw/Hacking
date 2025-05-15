@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 560.5
+    "width": 436.5,
+    "collapsed": true
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -179,15 +180,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "c61a63935b5578a0",
   "lastOpenFiles": [
-    "Notes/3. System/Operative Systems/Dual Boot/Dual Boot.md",
+    "Notes/3. System/Operative Systems/0. Linux/0. Linux Basics.md",
+    "Notes/3. System/Operative Systems/0. Linux/1. Linux Concepts.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Arch Linux Enviroment with Hyprland.md",
+    "Notes/3. System/Operative Systems/Dual Boot/Dual Boot.md",
     "0. Images/Pasted image 20250513205435.png",
     "Pasted image 20250513204510.png",
     "Pasted image 20250513204415.png",
     "0. Images/Pasted image 20250512211747.png",
-    "Notes/3. System/Operative Systems/0. Linux/0. Linux Basics.md",
     "0. Images/Pasted image 20250512145601.png",
     "Notes/3. System/Operative Systems/1. Windows/0. Windows Basics.md",
     "Notes/3. System/Operative Systems/Operative Systems Basics.md",
@@ -202,7 +204,6 @@
     "Notes/2. Networks/Network Basics/Networks Fundamentals/1. Structure/0. Network Components.md",
     "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/3. Network/3. How routing works.md",
     "Notes/2. Networks/Network Basics/Networks Fundamentals/7. IPv6 Structure/4. Static GUA and LLA Configuration.md",
-    "Notes/3. System/Operative Systems/0. Linux/1. Linux Concepts.md",
     "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/7. Application/0. Application Layer (L7).md",
     "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/5-6. Presentation and Session/0. Presentation and Session Layer (L5 and L6).md",
     "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/3. Network/0. Network Layer (L3).md",
