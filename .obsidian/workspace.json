@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "20890d32a23a36fc",
+        "id": "0f9515764e00f992",
         "type": "tabs",
         "children": [
           {
-            "id": "c61a63935b5578a0",
+            "id": "1087d23fdbeebf62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Arch Linux Enviroment with Hyprland.md",
+                "file": "Notes/Take notes (Important for me)/Nvim/2. Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch Linux Enviroment with Hyprland"
+              "title": "2. Cheat Sheet"
+            }
+          },
+          {
+            "id": "6be80c01387c73e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "markitos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "markitos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5,
-    "collapsed": true
+    "width": 370.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -180,11 +194,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c61a63935b5578a0",
+  "active": "6be80c01387c73e1",
   "lastOpenFiles": [
+    "Notes/Take notes (Important for me)/Nvim/2. Cheat Sheet.md",
+    "markitos.md",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/lsp.lua.md",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/coding.lua.md",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/ui.lua.md",
+    "Notes/Take notes (Important for me)/Nvim/1. Plugin Loader Configuration.md",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lazy-lock.json.md",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/init.lua.md",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/init.lua.md",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/keymaps.lua.md",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/lazy.lua.md",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/options.lua.md",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/ui.lua",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/lsp.lua",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/coding.lua",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/options.lua",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/lazy.lua",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/keymaps.lua",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/init.lua",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config",
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua",
+    "Notes/Take notes (Important for me)/Nvim/0. Nvim Customization.md",
+    "Notes/Take notes (Important for me)/Vim.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Arch Linux Enviroment with Hyprland.md",
     "Notes/3. System/Operative Systems/0. Linux/0. Linux Basics.md",
     "Notes/3. System/Operative Systems/0. Linux/1. Linux Concepts.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Arch Linux Enviroment with Hyprland.md",
     "Notes/3. System/Operative Systems/Dual Boot/Dual Boot.md",
     "0. Images/Pasted image 20250513205435.png",
     "Pasted image 20250513204510.png",
@@ -199,33 +237,10 @@
     "Notes/2. Networks/Basic/Redes/Sockets.md",
     "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/4. Transport/TCP/0. Transport Control Protocool - (TCP).md",
     "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/4. Transport/0. Transport Layer (L4).md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/1. Structure/3. Internetwork conections & trusted networks.md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/1. Structure/2. Network structure.md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/1. Structure/0. Network Components.md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/3. Network/3. How routing works.md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/7. IPv6 Structure/4. Static GUA and LLA Configuration.md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/7. Application/0. Application Layer (L7).md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/5-6. Presentation and Session/0. Presentation and Session Layer (L5 and L6).md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/3. Network/0. Network Layer (L3).md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/0. Layer 1 and 2/2. Data Link/0. Data Link Layer (L2).md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/0. Layer 1 and 2/1. Physical/0. Physical Layer (L1).md",
-    "Notes/3. System/Operative Systems/0. Linux/2. Building Linux from Scratch.md",
-    "Notes/3. System/Operative Systems/1. Windows/3. Cheat Sheet.md",
-    "Notes/3. System/Operative Systems/Dual Boot",
-    "Notes/6. Hardware/Electronic/Electronic.md",
-    "Notes/Take notes (Important for me)/Nvim/Windows",
-    "Notes/Take notes (Important for me)/Nvim/Unix",
-    "Notes/Take notes (Important for me)/Nvim",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/1. Protection Systems/Cloudflare",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/1. Protection Systems",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping/0. Techniques",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Cloud - Web/Web Scraping",
     "0. Images/Pasted image 20250311120636.png",
     "0. Images/Pasted image 20250225170624.png",
     "0. Images/Pasted image 20250225165913.png",
     "Pasted image 20250225165836.png",
-    "Notes/6. Hardware/Electronic/ESP32",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/2. C2",
     "0. Images/Pasted image 20241216154526.png"
   ]
 }
