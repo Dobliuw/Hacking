@@ -1,0 +1,3 @@
+```lua
+require("config")
+```
