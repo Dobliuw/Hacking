@@ -43,8 +43,12 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\owenp\\OneDrive\\Escritorio\\new-dobliuw-page",
+  "exportPath": "/home/dobliuw/Desktop/static_site",
   "filesToExport": [
-    []
+    [
+      "0. Images",
+      "Notes",
+      "README.md"
+    ]
   ]
 }

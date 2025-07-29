@@ -17,7 +17,7 @@ El flujo básico de esto es:
 	- `EFI\GRUB\grubx64.efi`(GRUB, si se instaló Linux por ejemplo).
 3. Si **GRUB** es loader prioritario, mostrará un menú como:
 
-![[Pasted image 20250512211747.png|1000]]
+- [ ] ![[Pasted image 20250512211747.png|1000]]
 
 
 > [!warning] Windows no detecta a Linux

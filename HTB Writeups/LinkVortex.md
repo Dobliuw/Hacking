@@ -76,7 +76,7 @@ sudo nmap -p- --open --min-rate 5000 -n -vvv -sS 10.10.11.47 -oG allPorts
 - `--min-rate 5000`: Paquetes no más lento que 5000 por segundo.
 - `-n`: No realizar resolución DNS.
 - `-vvv`: Verbose al máximo nivel.
-- `-sS`: Realizar la técnica *Stealth Scan* ([[Basic Concepts#Stealth Scan (-sS)]]) en la evasión de posibles firewalls, consiste en no completar la conexión TCP con el tipico paquete `ACK` hacia el servidor, si no, reemplazarlo por un paquete con la flag `RST` para finalizar la conexión con el servidor en el proceso *Three Way Handshake* ([[1. TCP Process Comunication#Three Way Handshake]]).
+- `-sS`: Realizar la técnica *Stealth Scan* ([[0. Electromagnetic and Mechanical Waves - The birth#Stealth Scan (-sS)]]) en la evasión de posibles firewalls, consiste en no completar la conexión TCP con el tipico paquete `ACK` hacia el servidor, si no, reemplazarlo por un paquete con la flag `RST` para finalizar la conexión con el servidor en el proceso *Three Way Handshake* ([[1. TCP Process Comunication#Three Way Handshake]]).
 - `-oG`: Exportar hallazgo en formato grepeable.
 
 Una vez realizado el escaneo logramos detectar que en este caso la IP tiene expuestos el puerto `22` y  `80` , lo que nos da a pensar en un posible **Secure Shell** (**SSH** - *Puerto 22*) y **Hyper Text Transfer Protocol** (**HTTP** - *Puerto 80*). 

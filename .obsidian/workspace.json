@@ -4,35 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "0f9515764e00f992",
+        "id": "994ee5b813d74a2b",
         "type": "tabs",
         "children": [
           {
-            "id": "1087d23fdbeebf62",
+            "id": "86de17e05577df38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/Take notes (Important for me)/Nvim/2. Cheat Sheet.md",
-                "mode": "source",
-                "source": false
+                "file": "0. Images/Pasted image 20250728151027.png"
               },
-              "icon": "lucide-file",
-              "title": "2. Cheat Sheet"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250728151027"
             }
           },
           {
-            "id": "6be80c01387c73e1",
+            "id": "9a17366c7d39aeaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markitos.md",
+                "file": "Notes/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/0. Electromagnetic and Mechanical Waves - The birth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "markitos"
+              "title": "0. Electromagnetic and Mechanical Waves - The birth"
             }
           }
         ],
@@ -68,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "proxmar",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 555.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -194,20 +192,45 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6be80c01387c73e1",
+  "active": "9a17366c7d39aeaa",
   "lastOpenFiles": [
-    "Notes/Take notes (Important for me)/Nvim/2. Cheat Sheet.md",
-    "markitos.md",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/lsp.lua.md",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/coding.lua.md",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/ui.lua.md",
-    "Notes/Take notes (Important for me)/Nvim/1. Plugin Loader Configuration.md",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lazy-lock.json.md",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/init.lua.md",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/init.lua.md",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/keymaps.lua.md",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/lazy.lua.md",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/options.lua.md",
+    "Notes/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/1. Radio Electromagnetic Waves.md",
+    "0. Images/Pasted image 20250728160916.png",
+    "0. Images/Pasted image 20250728160854.png",
+    "0. Images/Pasted image 20250728160718.png",
+    "0. Images/Pasted image 20250728160704.png",
+    "0. Images/Pasted image 20250728160019.png",
+    "Notes/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/0. Electromagnetic and Mechanical Waves - The birth.md",
+    "0. Images/Pasted image 20250728152603.png",
+    "0. Images/Pasted image 20250728151110.png",
+    "0. Images/Pasted image 20250728151027.png",
+    "0. Images/Pasted image 20250728150819.png",
+    "0. Images/Pasted image 20250728123354.png",
+    "Notes/2. Networks/Radio Frequency Fundamentals/ROADMAP.md",
+    "Notes/2. Networks/CLI Linux WiFi Connection.md",
+    "Notes/2. Networks/Radio Frequency Fundamentals/Radio Frequencies - Concepts and Applications.md",
+    "Notes/2. Networks/Basic/Redes/Basic Concepts.md",
+    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/WiFiConnections_draw.md",
+    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/Sockets.md",
+    "Notes/2. Networks/Basic/Redes/3. Addressing/1. Network Layer - OSI.md",
+    "Notes/2. Networks/Radio Frequency Fundamentals/1. Radio Basics",
+    "Notes/2. Networks/Radio Frequency Fundamentals/Radio Frequency Fundamentals.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Protocolos/TCP/Data exfiltration through ICMP.md",
+    "Notes/5. Technologies/Lenguajes y Tools/Python/Python.md",
+    "Notes/6. Hardware/3d Printing/0. Blender.md",
+    "Notes/6. Hardware/Electronic/Interfaces, Comunications and Protocols.md",
+    "Notes/6. Hardware/Electronic/ESP32/ESP32.md",
+    "Notes/6. Hardware/Electronic/Arduino/0. Arduino y Componentes electrónicos.md",
+    "Notes/6. Hardware/Electronic/Electronic.md",
+    "Notes/6. Hardware/Electronic/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
+    "Notes/0. Needed Concepts/Systems/1. Hexadecimal.md",
+    "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
+    "Notes/3. System/Operative Systems/Operative Systems Basics.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Arch Linux Enviroment with Hyprland.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Hacking Enviroment (bspwm, sxhkd).md",
+    "Notes/3. System/Operative Systems/Dual Boot/Dual Boot.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Web/SQLI - (SQL Injections).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Web",
     "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/ui.lua",
     "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/lsp.lua",
     "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/coding.lua",
@@ -215,32 +238,6 @@
     "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/lazy.lua",
     "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/keymaps.lua",
     "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/init.lua",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua",
-    "Notes/Take notes (Important for me)/Nvim/0. Nvim Customization.md",
-    "Notes/Take notes (Important for me)/Vim.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Arch Linux Enviroment with Hyprland.md",
-    "Notes/3. System/Operative Systems/0. Linux/0. Linux Basics.md",
-    "Notes/3. System/Operative Systems/0. Linux/1. Linux Concepts.md",
-    "Notes/3. System/Operative Systems/Dual Boot/Dual Boot.md",
-    "0. Images/Pasted image 20250513205435.png",
-    "Pasted image 20250513204510.png",
-    "Pasted image 20250513204415.png",
-    "0. Images/Pasted image 20250512211747.png",
-    "0. Images/Pasted image 20250512145601.png",
-    "Notes/3. System/Operative Systems/1. Windows/0. Windows Basics.md",
-    "Notes/3. System/Operative Systems/Operative Systems Basics.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/IIS/IIS - (Internet Information Service).md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/3. Network/ARP/1. ARP - Address Resolution Protocol.md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/4. Transport/1. Port Numbers.md",
-    "Notes/2. Networks/Basic/Redes/Sockets.md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/4. Transport/TCP/0. Transport Control Protocool - (TCP).md",
-    "Notes/2. Networks/Network Basics/Networks Fundamentals/4. Layers/1. Layer 3 to 7/4. Transport/0. Transport Layer (L4).md",
-    "0. Images/Pasted image 20250311120636.png",
-    "0. Images/Pasted image 20250225170624.png",
-    "0. Images/Pasted image 20250225165913.png",
-    "Pasted image 20250225165836.png",
-    "0. Images/Pasted image 20241216154526.png"
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins"
   ]
 }
