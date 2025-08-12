@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "33f60f29607991b1",
+        "id": "8abe1dc937c26bf0",
         "type": "tabs",
         "children": [
           {
-            "id": "bf663d687486a656",
+            "id": "8519929954538104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/Pasive DNS Reconnaissance.md",
+                "file": "Notes/2. Networks/CLI Linux WiFi Connection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pasive DNS Reconnaissance"
+              "title": "CLI Linux WiFi Connection"
+            }
+          },
+          {
+            "id": "4be65dbb07974763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Lab Setup/Android Lab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Android Lab"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "low level",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,53 +193,52 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bf663d687486a656",
+  "active": "8519929954538104",
   "lastOpenFiles": [
+    "Notes/6. Hardware/Hacking Swiss Army Knife/1. Baseline documentation.md",
+    "0. Images/Pasted image 20250812181228.png",
+    "0. Images/Pasted image 20250812180759.png",
+    "0. Images/Pasted image 20250812180653.png",
+    "0. Images/Pasted image 20250812173830.png",
+    "Pasted image 20250812173811.png",
+    "Pasted image 20250812171912.png",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/0. Lab Setup/Android Lab.md",
+    "Notes/6. Hardware/Hacking Swiss Army Knife/0. Smartphones and they birth.md",
+    "Notes/6. Hardware/Hacking Swiss Army Knife",
+    "Notes/3. System/Operative Systems/1. Windows/Administration/DISKMGMT - DISKPART.md",
+    "Notes/3. System/Operative Systems/1. Windows/3. Cheat Sheet.md",
+    "Notes/3. System/Operative Systems/1. Windows/Administration/WMIC.md",
+    "Notes/3. System/Operative Systems/1. Windows/Administration/SCHTASKS.md",
+    "Notes/3. System/Operative Systems/1. Windows/Administration/SC.md",
+    "Notes/3. System/Operative Systems/1. Windows/Administration/REG.md",
+    "Notes/3. System/Operative Systems/1. Windows/Administration/PSEXEC.md",
+    "Notes/3. System/Operative Systems/1. Windows/Administration/NET.md",
+    "Notes/3. System/Operative Systems/1. Windows/Administration/MSTSC.md",
+    "Notes/3. System/Operative Systems/1. Windows/Administration/GPEDIT.md",
+    "Notes/3. System/Operative Systems/1. Windows/Administration/DSQUERY.md",
+    "Notes/3. System/Operative Systems/1. Windows/Administration/MSCONFIG.md",
+    "Notes/3. System/Operative Systems/1. Windows/Administration/MSIEXEC.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/CSTI - (Client-Side Template Injection).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Type Juggling.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/Pasive DNS Reconnaissance.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/Git Dorking.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/Email Harvesting.md",
     "Notes/3. System/Global Concepts/Low-Level Concepts/Assemblly & CPU Fundamentals/0. CPU & Assembly Basics.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/Pasive DNS Reconnaissance.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/OSINT - Open Source Intelligence.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Information Gathering Phase.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/0. Pasive Information Gathering.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/0. Active Information Gathering.md",
-    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/1. Layer 3 to 7/7. Application/3. IP Addressing Services.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/WAF Detection (Web Application Firewalls).md",
-    "Notes/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/0. Electromagnetic and Mechanical Waves - The birth.md",
-    "Notes/2. Networks/Radio Frequency Fundamentals/2. Modulation and Demodulation/1. Radriofrequency Demodulation.md",
-    "Notes/2. Networks/Radio Frequency Fundamentals/2. Modulation and Demodulation/0. Radiofrequency Modulation.md",
-    "Notes/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/3. Radio Frequency Spectrum.md",
-    "Notes/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/2. Types of Electromagnetics Waves.md",
-    "Notes/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/1. Electromagnetics Waves Properties.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocolos/TCP/Enum. DNS 53 - (Domain Name System).md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/Google Dorking.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active Information Gathering/Cloud - Web/Google Dorking.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Fase de Reconocimiento.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
     "0. Images/dobliuw_facebook_banner.png",
     "0. Images/Unconfirmed 397910.crdownload",
     "0. Images/dobliuw_facebook_conner.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Gestores De Contenido/Wordpress/RCE tras acceso a Wordpress con cuenta admin.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Gestores De Contenido/Wordpress/Enumeración de Wordpress.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/2. C2/0. Command and Control.md",
     "0. Images/Pasted image 20250729130452.png",
-    "Notes/2. Networks/CLI Linux WiFi Connection.md",
-    "Notes/2. Networks/Radio Frequency Fundamentals/ROADMAP.md",
     "0. Images/Pasted image 20250729225521.png",
-    "0. Images/Pasted image 20250729225248.png",
-    "0. Images/Pasted image 20250729223938.png",
-    "0. Images/Pasted image 20250729214812.png",
-    "0. Images/Pasted image 20250729211115.png",
-    "0. Images/Pasted image 20250729214724.png",
-    "0. Images/Pasted image 20250729211547.png",
     "Notes/2. Networks/Radio Frequency Fundamentals/2. Modulation and Demodulation",
     "Notes/2. Networks/Radio Frequency Fundamentals/1. Radio Basics",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Web",
     "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/ui.lua",
     "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/lsp.lua",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/coding.lua",
-    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/config/options.lua"
+    "Notes/Take notes (Important for me)/Nvim/Nvim_ConfigExample/lua/plugins/coding.lua"
   ]
 }
