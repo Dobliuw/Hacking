@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. Networks/CLI Linux WiFi Connection.md",
+                "file": "Notes/6. Hardware/Hacking Swiss Army Knife/1. Baseline documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLI Linux WiFi Connection"
+              "title": "1. Baseline documentation"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5
+    "width": 506.5,
+    "collapsed": true
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -195,6 +196,7 @@
   },
   "active": "8519929954538104",
   "lastOpenFiles": [
+    "Notes/2. Networks/CLI Linux WiFi Connection.md",
     "Notes/6. Hardware/Hacking Swiss Army Knife/1. Baseline documentation.md",
     "0. Images/Pasted image 20250812181228.png",
     "0. Images/Pasted image 20250812180759.png",
