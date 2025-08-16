@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,12 +195,12 @@
   },
   "active": "6b956ef79a874991",
   "lastOpenFiles": [
+    "Notes/6. Hardware/Hacking Swiss Army Knife/5. Turning the Device into light Offensive Tool.md",
+    "Notes/6. Hardware/Hacking Swiss Army Knife/5.1 Installing Kali NetHunter Lite.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/0. Explotation Concepts/Shells.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/RCE - (Remote Command Execution).md",
     "Notes/2. Networks/CLI Linux WiFi Connection.md",
-    "Notes/6. Hardware/Hacking Swiss Army Knife/5.1 Installing Kali NetHunter Lite.md",
-    "Notes/6. Hardware/Hacking Swiss Army Knife/5. Turning the Device into light Offensive Tool.md",
     "Notes/6. Hardware/Hacking Swiss Army Knife/5.2 Installing custom recovery.md",
     "Notes/6. Hardware/Hacking Swiss Army Knife/4. Getting and Modifying the .img.md",
     "Notes/5. Technologies/Lenguajes y Tools/Python/Modules/Threading & multiprocessing library.md",
