@@ -4,81 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "cfee97e6cc758e85",
+        "id": "870c78fa402f3bcb",
         "type": "tabs",
         "children": [
           {
-            "id": "4ff4705d4b616a9a",
+            "id": "59a675fb8a0c03f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/0. Active Information Gathering.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. LDAP 389 & 636 - ( Lighweight Directory Access Protocol ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Active Information Gathering"
+              "title": "Enum. LDAP 389 & 636 - ( Lighweight Directory Access Protocol )"
             }
           },
           {
-            "id": "ee3ff7fcbf7b659c",
+            "id": "d1feee5b31ad999a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/0. Active Information Gathering.md",
+                "file": "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. LDAP 389 & 636 - ( Lighweight Directory Access Protocol ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Active Information Gathering"
-            }
-          },
-          {
-            "id": "b963cf470e34132b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/1. Layer 3 to 7/3. Network/1. IPv4 Packet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. IPv4 Packet"
-            }
-          },
-          {
-            "id": "c756d1b3ad7771e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/0. Layer 1 and 2/1. Physical/0. Physical Layer (L1).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. Physical Layer (L1)"
-            }
-          },
-          {
-            "id": "8154db16207dc918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/0. Layer 1 and 2/1. Sublayer MAC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Sublayer MAC"
+              "title": "Enum. LDAP 389 & 636 - ( Lighweight Directory Access Protocol )"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ldap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,38 +195,39 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88a780709720b6e",
+  "active": "59a675fb8a0c03f8",
   "lastOpenFiles": [
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/LDAP Injections.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. LDAP 389 & 636 - ( Lighweight Directory Access Protocol ).md",
+    "Servicios y puertos comunes.md",
+    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/6. IPv4 Structure/0. Network and Host Portions.md",
+    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/1. Layer 3 to 7/3. Network/ARP/0. MAC and IP.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Digital cookies signs.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Deserialization Attack.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/CSTI - (Client-Side Template Injection).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/CSSI - (CSS Injections).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/CSRF - (Cross-Side Request Forgery).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/SSRF/SSRF - (Server-Side Request Forgery).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/SSRF/SSRF_2ndScenario.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/SSRF/SSRF_1stScenario.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/0. Active Information Gathering.md",
+    "Fase de Reconocimiento.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/CRLF Injection (0d0a).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/CORS - (Cross-Origin Resource Sharing).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/IDORs - ( Insecure Direct Object Reference ).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/H2 Console.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/AXFR - Full Zone Transfer.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Abusing xmlrpc.php - (Wordpress).md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Abusing USER INPUTS.md",
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Abusing symbolic links.md",
+    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/0. Layer 1 and 2/1. Physical/0. Physical Layer (L1).md",
     "Notes/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/0. Layer 1 and 2/2. Data Link/1. Data Link Frame.md",
     "0. Images/Pasted image 20250829194729.png",
     "Notes/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/0. Layer 1 and 2/1. Sublayer MAC.md",
-    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/1. Layer 3 to 7/3. Network/1. IPv4 Packet.md",
-    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/1. Layer 3 to 7/4. Transport/UDP/0. User Datagram Protocol - (UDP).md",
     "0. Images/Pasted image 20250829193707.png",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/0. Active Information Gathering.md",
     "0. Images/Pasted image 20250829193541.png",
-    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/0. Layer 1 and 2/1. Physical/0. Physical Layer (L1).md",
     "0. Images/Pasted image 20250829193420.png",
-    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/1. Layer 3 to 7/3. Network/0. Network Layer (L3).md",
-    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/6. IPv4 Structure/2. Types of IPv4 Addresses.md",
-    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/6. IPv4 Structure/1. IPv4 Unicast, Broadcast and Multicast.md",
-    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/6. IPv4 Structure/0. Network and Host Portions.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Information Gathering Phase.md",
-    "Notes/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/1. Layer 3 to 7/3. Network/ARP/0. MAC and IP.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/0. Pasive Information Gathering.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Technologies",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Technologies/WebDAV - Enum and Exploit.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Technologies/SQUID Proxies - Enum and Exploit.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/1. Static Analysis/Android Mobile App Static Analysis.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
-    "Notes/5. Technologies/Lenguajes y Tools/Python/Modules/Threading & multiprocessing library.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/Git Dorking.md",
-    "Notes/6. Hardware/Hacking Swiss Army Knife/5.1 Installing Kali NetHunter Lite.md",
-    "Notes/6. Hardware/Hacking Swiss Army Knife/5. Turning the Device into light Offensive Tool.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/0. Explotation Concepts/Shells.md",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/RCE - (Remote Command Execution).md",
-    "Notes/2. Networks/CLI Linux WiFi Connection.md",
     "0. Images/Pasted image 20250812234438.png",
     "0. Images/Pasted image 20250812234527.png",
     "0. Images/Pasted image 20250812233134.png",
