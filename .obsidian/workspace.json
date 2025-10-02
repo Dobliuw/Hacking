@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/5. Technologies/Languages/PHP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "PHP"
             }
           }
         ]
@@ -182,10 +182,13 @@
   },
   "active": "6325ac8b290652eb",
   "lastOpenFiles": [
+    "Notes/5. Technologies/Languages/Scripting en Bash.md",
+    "Notes/5. Technologies/Languages/PowerShell/PowerShell.md",
+    "Notes/5. Technologies/Technologies",
+    "README.md",
     "Notes/4. Cybersecurity/BlueTeam/Defensive Technologies/EDR",
     "Notes/4. Cybersecurity/BlueTeam/Defensive Technologies/SIEM",
     "Notes/3. System/Global Concepts/Malware/Malware.md",
-    "README.md",
     "Notes/3. System/Operative Systems/0. Linux/0. Linux Basics.md",
     "Notes/2. Networks/Networks Fundamentals (CCNA 1)/3. Protocols/1. Network Protocols.md",
     "Notes/4. Cybersecurity/RedTeam/ATM - Automated Teller Machines/1. SSBM ATM Technology.md",
@@ -215,18 +218,15 @@
     "Notes/3. System/Operative Systems/1. Windows/Administration/WMIC.md",
     "Notes/4. Cybersecurity/RedTeam/MITRE ATT&CK",
     "Notes/4. Cybersecurity/BlueTeam/MITRE D3FEND.md",
-    "Notes/5. Technologies/Lenguajes y Tools/Python/Python.md",
+    "Notes/5. Technologies/Languages/Python/Python.md",
     "Notes/2. Networks/Networks Fundamentals (CCNA 1)/6. IPv4 Structure/0. Network and Host Portions.md",
-    "Notes/5. Technologies/Lenguajes y Tools/PowerShell/PowerShell.md",
-    "Notes/5. Technologies/Lenguajes y Tools/PowerShell",
+    "Notes/5. Technologies/Languages/PowerShell",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/Tools/Metasploit Framework/Msfconsole.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/Tools/Metasploit Framework/Metasploit Core.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/Tools/Metasploit Framework/Metasploit.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/Tools/Metasploit Framework",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Enviroment/Hacking Enviroment (bspwm, sxhkd).md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/8. Misconfigurations & Access Control",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/7. Platforms & CMS",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/6. Criptography",
-    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/5. Templates & Docs Processing"
+    "Notes/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/7. Platforms & CMS"
   ]
 }
