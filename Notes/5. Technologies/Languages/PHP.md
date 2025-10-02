@@ -20,4 +20,3 @@ file_put_contents('file.name', base64_decode('{content.base64}')
 # Vulnerabilidades
 
 - ## preg_replace() con /e. [Vuln](https://captainnoob.medium.com/command-execution-preg-replace-php-function-exploit-62d6f746bda4)
-

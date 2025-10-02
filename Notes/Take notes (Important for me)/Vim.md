@@ -4,10 +4,11 @@
 
 # ¿ Que es ?
 
-## Vim es un editor de textos, muy famoso porque es para terminal y porque tiene unas combinaciones de teclas muy potentes, aunque complejas de aprender. Viene como evolución a otro editor muy similar, usado en UNIX, llamado **Vi**.
-## Vim, aunque tiene modo gráfico donde más se usa es directamente desde la terminal. Esto para muchos es una ventaja porque pueden trabajar desde una conexión SSH en un servidor en remoto.
+ Vim es un editor de textos, muy famoso porque es para terminal y porque tiene unas combinaciones de teclas muy potentes, aunque complejas de aprender. Viene como evolución a otro editor muy similar, usado en UNIX, llamado **Vi**.
 
-## Otro punto diferenciador de Vim es que está centrado en el teclado. Auque existen config y plugins para hacerlo funcionar con el ratón, la gracia es usarlo con el teclado porque así ahorras tiempo.
+Vim, aunque tiene modo gráfico donde más se usa es directamente desde la terminal. Esto para muchos es una ventaja porque pueden trabajar desde una conexión SSH en un servidor en remoto.
+
+ Otro punto diferenciador de Vim es que está centrado en el teclado. Auque existen config y plugins para hacerlo funcionar con el ratón, la gracia es usarlo con el teclado porque así ahorras tiempo.
 
 ----
 
