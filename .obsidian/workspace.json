@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/5. Technologies/Languages/PowerShell/1. Modularization.md",
+                "file": "Notes/2. Networks/Radio Frequency Fundamentals/2. Modulation and Demodulation/0. Radiofrequency Modulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Modularization"
-            }
-          },
-          {
-            "id": "807eea2a011f8405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Take notes (Important for me)/Obsidian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian"
+              "title": "0. Radiofrequency Modulation"
             }
           }
         ]
@@ -92,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 504.5
+    "width": 504.5,
+    "collapsed": true
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -142,7 +129,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -170,10 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2. Networks/Network Basics/4. Layers/1. Layer 3 to 7/3. Network/2. IPv6 Packet.md"
+                "file": "Notes/2. Networks/Radio Frequency Fundamentals/2. Modulation and Demodulation/0. Radiofrequency Modulation.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. IPv6 Packet"
+              "title": "Outline of 0. Radiofrequency Modulation"
             }
           },
           {
@@ -187,11 +177,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 474.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,12 +199,17 @@
   },
   "active": "4f81ace54b66cd65",
   "lastOpenFiles": [
+    "Notes/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/1. Electromagnetics Waves Properties.md",
+    "Notes/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/3. Radio Frequency Spectrum.md",
+    "Notes/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/2. Types of Electromagnetics Waves.md",
+    "Notes/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/0. Electromagnetic and Mechanical Waves - The birth.md",
+    "Notes/5. Technologies/Languages/PowerShell/0. PowerShell.md",
+    "@@TODOIST@@.md",
+    "Notes/Take notes (Important for me)/Obsidian.md",
+    "Notes/5. Technologies/Languages/PowerShell/1. Modularization.md",
     "Pasted image 20251002174222.png",
     "Pasted image 20251002160940.png",
-    "Notes/5. Technologies/Languages/PowerShell/0. PowerShell.md",
-    "Notes/5. Technologies/Languages/PowerShell/1. Modularization.md",
     "TODO.md",
-    "Notes/Take notes (Important for me)/Obsidian.md",
     "Notes/Take notes (Important for me)/Nvim/2. Cheat Sheet.md",
     "Notes/Take notes (Important for me)/Vim.md",
     "Notes/5. Technologies/Languages/Python/Modules/Manejo de archivos y directorios.md",
@@ -231,13 +227,9 @@
     "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT/ATM - Automated Teller Machines/3. Threats, Impact & Monitoring.md",
     "Notes/4. Cybersecurity/RedTeam/Pentesting/IoT/ATM - Automated Teller Machines/1. SSBM ATM Technology.md",
     "Notes/5. Technologies/Languages/PHP.md",
-    "Notes/5. Technologies/Languages/Scripting en Bash.md",
     "Notes/5. Technologies/Technologies",
-    "README.md",
     "Notes/4. Cybersecurity/BlueTeam/Defensive Technologies/EDR",
     "Notes/4. Cybersecurity/BlueTeam/Defensive Technologies/SIEM",
-    "Notes/3. System/Global Concepts/Malware/Malware.md",
-    "Notes/3. System/Operative Systems/0. Linux/0. Linux Basics.md",
     "0. Images/w_og.jpeg",
     "0. Images/Pasted image 20251001145250.png",
     "0. Images/Pasted image 20251001144540.png",
@@ -247,7 +239,6 @@
     "0. Images/Pasted image 20251001140052.png",
     "0. Images/Pasted image 20251001135631.png",
     "Pasted image 20251001135602.png",
-    "0. Images/Pasted image 20251001135018.png",
     "Untitled.base",
     "Notes/4. Cybersecurity/RedTeam/MITRE ATT&CK",
     "Notes/5. Technologies/Languages/PowerShell",
