@@ -5,10 +5,12 @@
 - Tags: #teoria #blue #phishing
 ----------
 # Phishing
-Es una forma de ciberataque en la que los delincuentes intentan engañar a las personas para que revelen infromación confidencial, como contraseñas, números de tarje de crédito o información personal. Los atacantes suelen hacerse pasar por una entidad confiable, como un banco, una empresa, o una organización, con el fin de engañar a las víctimas.
+
+Es una forma de ciberataque en la que los delincuentes *intentan engañar a las personas para que revelen información confidencial*, como contraseñas, números de tarjetas de crédito o información personal. Los atacantes suelen hacerse pasar por una entidad confiable, como un banco, una empresa, o una organización, con el fin de engañar a las víctimas.
 
 ----
 # Protocolo SPF
+
 **SPF** (**S**ender **P**olicy **F**ramework) es un **protocolo de autenticacion de correos** que permite al propietario de un dominio (Por ejemplo, **dobliuw.com**), especificar qué servidores de correo utilizará para el envío de e-mail desde ese dominio. El protocolo permite también que el receptor pueda confirmar que el srvidor que envía correos es legítimo, evitando que esos e-mails sean considerados como **spam** o **correos falsos**. 
 
 ## ¿ Como funciona ?
@@ -22,6 +24,7 @@ Es una forma de ciberataque en la que los delincuentes intentan engañar a las p
 
 ------
 # Protocolo DKIM
+
 El protocolo [DKIM](https://dkim.org/) (**Domain Keys Identified Mail**) es un protocolo que permite asociar un nombre de dominio a un mensaje mediante técnicas criptográficas. Al enviar un correo electrónico se incluye una **firma** o **huella digital** en su cabecera. Se trata de una marca única e intrasnferible que es muy díficil de falsificar. De esta forma, cuando el destinatario recibe un mensaje verifica la firma incluida en la cabecera, validando el mensaje y su procedencia. 
 
 ## ¿ Como funciona ? 

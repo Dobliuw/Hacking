@@ -67,7 +67,7 @@ Apuntes y proyectos prácticos de hardware y dispositivos de hacking :
 - Conceptos básicos de Impresoras 3D.
 
 -----
-# Uso y/o contribuciones del proyecto
+# Usage and Proyect Contributions
 
 Si queres utilizar en tu entorno local y/o contribuir al proyecto podes:
 
@@ -76,6 +76,7 @@ Si queres utilizar en tu entorno local y/o contribuir al proyecto podes:
 3. Seleccioná *Arbrir vault* y vinculalo con la carpeta "*Hacking*" clonada.
 4. (*Opcional*) Para una mejor experiencia activa la opción *Confiar en el actor....* para descargar los temas y plugins utilizados a la hora de redactar apuntes. 
 
+# Ethical Disclaimer
 
 > [!warning] ADVERTENCIA LEGAL Y ÉTICA
 > Los PoC, el conocimiento brindado y las pruebas adjuntas a lo largo de estas secciones son sólo con fines éticos y en pos de volver el mundo digital un lugar más seguro, invito a poner en práctica los conceptos descritos únicamente en entornos personales de laboratorio, plataformas de práctica como *Hack The Box*, *Try Hack Me* o *Vuln Hub* y volverse profesionales del área que consideren que les pertenezca.
