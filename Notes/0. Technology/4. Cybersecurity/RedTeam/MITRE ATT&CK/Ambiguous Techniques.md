@@ -6,7 +6,7 @@ A esto nos referimos con **Ambiguous Techniques**, técnicas que por si solas, o
 
 Ahora bien, los atacantes entienden y conocen esto y utilizan técnicas de `living-of-the-land` (**lotl**).
 
-- **LOTL Techniques**: Son técnicas que utilizan los atacantes abusando de funcionalidades legitimas, utilidades y herramientas integradas (Como podría ser [[0. PowerShell]], `WMI` ([[WMIC]]) o `PsExec` ([[Notes/4. Cybersecurity/BlueTeam/Processes detection/PsExec|PsExec]])) para *conducir actividades maliciosas* como exfiltración de datos, escalada de privilegios y movimientos laterales sin desplegar o descargar firmas de malware tradicionales.
+- **LOTL Techniques**: Son técnicas que utilizan los atacantes abusando de funcionalidades legitimas, utilidades y herramientas integradas (Como podría ser [[0. PowerShell]], `WMI` ([[WMIC]]) o `PsExec` ([[Notes/0. Technology/4. Cybersecurity/BlueTeam/Processes detection/PsExec|PsExec]])) para *conducir actividades maliciosas* como exfiltración de datos, escalada de privilegios y movimientos laterales sin desplegar o descargar firmas de malware tradicionales.
 
 Identificar atacantes utilizando técnicas *lotl* requiere métodos de detección deliberados y concluyentes para minimizar los *false positive*. Es decir, que al final, los análistas/ingenieros de detección deberán inferir en el motivo de estas actividades a partir de los registros de seguridad.
 
