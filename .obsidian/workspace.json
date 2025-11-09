@@ -8,17 +8,129 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7fde0affe456831a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Post Explotation AD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Post Explotation AD"
+            }
+          },
+          {
             "id": "e7f851c5d21fa3cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1. Finance/Investing.md",
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Investing"
+              "title": "Pivoting"
+            }
+          },
+          {
+            "id": "d059760fb99d16c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. WINRM 5985 - (Windows Rremote Management).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enum. WINRM 5985 - (Windows Rremote Management)"
+            }
+          },
+          {
+            "id": "32f7b17769517804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Active Directory/Active Directory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Active Directory"
+            }
+          },
+          {
+            "id": "0f7e15d00080a11a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Active Directory/Reconocimiento/Active Directory Recon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Active Directory Recon"
+            }
+          },
+          {
+            "id": "b6c07fa5b76aaedc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. Kerberos 88.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enum. Kerberos 88"
+            }
+          },
+          {
+            "id": "5c91e49b9500fcc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. LDAP 389 & 636 - ( Lighweight Directory Access Protocol ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enum. LDAP 389 & 636 - ( Lighweight Directory Access Protocol )"
+            }
+          },
+          {
+            "id": "8bf45215e0942721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. RPC 135 - ( Remote Procedure Call ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enum. RPC 135 - ( Remote Procedure Call )"
+            }
+          },
+          {
+            "id": "d69b824353e083cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. SMB 445 - (Server Message Block).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enum. SMB 445 - (Server Message Block)"
             }
           }
         ]
@@ -53,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Wscrip",
+                "query": "chisel",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5,
+    "width": 634.5,
     "collapsed": true
   },
   "right": {
@@ -197,10 +309,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e7f851c5d21fa3cc",
+  "active": "7fde0affe456831a",
   "lastOpenFiles": [
-    "Notes/1. Finance/1. Investment Fundamentals.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
+    "Post Explotation AD.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. WINRM 5985 - (Windows Rremote Management).md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. SMB 445 - (Server Message Block).md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. RPC 135 - ( Remote Procedure Call ).md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. LDAP 389 & 636 - ( Lighweight Directory Access Protocol ).md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. Kerberos 88.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Active Directory/Reconocimiento/Active Directory Recon.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Active Directory/Active Directory.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Phishing/2. Setting up Phishing Infrastructure.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Phishing/PHISHING CAMPAIGN TASK.md",
+    "Notes/0. Technology/4. Cybersecurity/BlueTeam/Phishing/Phishing Analysis.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Cloud - Web/Amazon Web Service Enumeration.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Cloud - Web/Web Scraping/1. Protection Systems/Cloudflare/Cloudflare.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/WAF Detection (Web Application Firewalls).md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Content Managers/Wordpress/Enumeración de Wordpress.md",
     "Notes/1. Finance/Investing.md",
+    "Notes/1. Finance/1. Investment Fundamentals.md",
     "Notes/1. Finance/0. Finance Fundamentals.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/Google Dorking.md",
     "Notes/1. Finance",
@@ -211,23 +339,7 @@
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/Pasive DNS Reconnaissance.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/0. Pasive Information Gathering.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Information Gathering Phase.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/0. Active Information Gathering.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/UDP/Enum. DNS 53 - (Domain Name System).md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Phishing/2. Setting up Phishing Infrastructure.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Phishing/1. Incrementing Success on Phishing.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Phishing/PHISHING CAMPAIGN TASK.md",
-    "Notes/0. Technology/4. Cybersecurity/BlueTeam/Phishing/Phishing Analysis.md",
-    "Notes/0. Technology/4. Cybersecurity/BlueTeam/Phishing/Emails autentications.md",
-    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/2. Modulation and Demodulation/0. Radiofrequency Modulation.md",
-    "Notes/0. Technology/Take notes (Important for me)/Nvim/0. Nvim Customization.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Arduino/Arduino Proyects/0. Initial programs and Basic.md",
-    "README.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Phishing/0. Preparing Phishing Campaigns.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Phishing",
-    "Notes/4. Cybersecurity/BlueTeam/Phishing/Phishing.md",
-    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/1. Electromagnetics Waves Properties.md",
-    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/3. Radio Frequency Spectrum.md",
-    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/2. Types of Electromagnetics Waves.md",
     "Pasted image 20251002174222.png",
     "Pasted image 20251002160940.png",
     "Notes/0. Technology/5. Technologies/Technologies",
