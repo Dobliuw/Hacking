@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "a1184fd3ebf823ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/1. Windows/Kerberos Vulns/Kerberoasting Attack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kerberoasting Attack"
+            }
+          },
+          {
             "id": "e7f851c5d21fa3cc",
             "type": "leaf",
             "state": {
@@ -33,6 +47,20 @@
               },
               "icon": "lucide-file",
               "title": "Pivoting"
+            }
+          },
+          {
+            "id": "13aa89f8461abca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/1. Windows Privilege Escalation CHECKLIST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Windows Privilege Escalation CHECKLIST"
             }
           },
           {
@@ -165,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chisel",
+                "query": "SPN",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -190,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 634.5,
-    "collapsed": true
+    "width": 634.5
   },
   "right": {
     "id": "3316531e5ebff0ff",
@@ -311,8 +338,13 @@
   },
   "active": "7fde0affe456831a",
   "lastOpenFiles": [
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
+    "0. Images/Pasted image 20251109214939.png",
+    "Pasted image 20251109214939.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/1. Windows/Kerberos Vulns/Kerberoasting Attack.md",
     "Post Explotation AD.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/1. Windows Privilege Escalation CHECKLIST.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
+    "Pasted image 20251109180216.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. WINRM 5985 - (Windows Rremote Management).md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. SMB 445 - (Server Message Block).md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. RPC 135 - ( Remote Procedure Call ).md",
@@ -336,9 +368,6 @@
     "Notes/Untitled.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Abusing web server configuration.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Cloud - Web/HTTP-HTTPS/HTTP-HTTPS Enum.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/Pasive DNS Reconnaissance.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/0. Pasive Information Gathering.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/Information Gathering Phase.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Phishing",
     "Pasted image 20251002174222.png",
     "Pasted image 20251002160940.png",
@@ -352,8 +381,6 @@
     "0. Images/Pasted image 20251001141907.png",
     "0. Images/Pasted image 20251001141628.png",
     "0. Images/Pasted image 20251001140052.png",
-    "0. Images/Pasted image 20251001135631.png",
-    "Pasted image 20251001135602.png",
     "Untitled.base",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/MITRE ATT&CK",
     "Notes/0. Technology/5. Technologies/Languages/PowerShell"

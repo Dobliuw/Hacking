@@ -1,4 +1,4 @@
-# Post-Explotation
+		s# Post-Explotation
 
 La **Post Explotación** comienza inmediatamente después de haber obtenido acceso inicial a un activo (Workstation, servidor, endpoint, aplicación, contenedor, etc.). Es esta fase, el foco ya no está en la vulnerabilidad que permitió el acceso, sino en el *control*, la *escalada*, el *lateral movement*, la *exfiltración de datos*, la *explotación interna* y cualquier deseo que tengamos a realizar comandados por los intereses propios o del cliente.
 
@@ -138,3 +138,62 @@ net sessions
 
 
 ```
+
+Bypass SSL/TLS secure chanel needed for `Invoke-WebRequest`: 
+
+https://gist.github.com/jmassardo/2e0dd7cce292f16ff8f6945b8b3752b5
+
+![[Pasted image 20251109214939.png]]
+
+
+Expose port to internet 
+
+```powershell
+New-NetFirewallRule -DisplayName "HTTP-8888" `
+  -Direction Inbound -Action Allow -Protocol TCP -LocalPort 8888
+
+python3 -3 -m http.server {port} --bind 0.0.0.0 --directory C:\ruta\a\archivos
+
+```
+
+----
+# Active Directoy Vocabulary (LDAP, DNS, etc.)
+
+- **FQDN** (*DNS*): **Fully Qualified Domain Name**. Es un nombre DNS completo que identifica un host o un dominio en la jerarquí de DNS. 
+
+Ejemplo: *dc01.dobliuw.local.com*
+
+- **DN** (*LDAP* / *AD*): En un entorno de active directoy los objetos no se nombran con DNS si no con **DN** (**Distinguished Name**), una ruta jerárquica de atributos LDAP. Los fragmentos más comunes son:
+	- **DC=**: *Domain Component*.
+	- **OU=**: *Organizational Unit*.
+	- **CN=**: *Common Name* (Usado para objetos genéricos: usuarios, grupos, equipos, contenedores) (CN=Users, CN=Computers, etc.).
+	
+Ejemplo de un objeto DN:
+
+Usuario Owen Bonoris que trabaja en Ciberseguridad (`CN=Owen Bonoris,OU=Cybersecurity,DC=dobliuw,DC=local,DC=com`).
+
+- **Base DN**: Objeto raíz (**defaultNamingContext**), es "la raíz" desde donde se busca ese dominio.
+
+- **ADSI**: (**Active Directory Service Interfaces**) Es un conjunto de interfaces COM de WIndows que permiten a las aplicaciones acceder a los servicios de diretorio como LDAP.
+---
+# Enumerating AD from Domain account
+
+Validar estar logueado en una cuenta de dominio:
+
+```powershell
+whoami /all
+klist
+echo $env:USERDNSDOMAIN
+echo $env:LOGONSERVER
+nltest /dsgetdc:$env:USERDNSDOMAIN
+wmic computersystem get Domain,DomainRole
+```
+
+Obteniendo información de dominios de confianza y controladores de dominio en el AD:
+
+```powershell
+nltest /dclist:$env:USERDNSDOMAIN
+nltest /domain_trusts
+```
+
+##### Enumerating LDAP DN Objects
