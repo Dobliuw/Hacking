@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/0. Electronics basics.md",
+                "file": "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/2. Basic Slang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Electronics basics"
+              "title": "2. Basic Slang"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,15 +222,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dbed183bfefe46f4",
+  "active": "21f04e749698e3a8",
   "lastOpenFiles": [
-    "Pasted image 20251208213133.png",
-    "Pasted image 20251208211509.png",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/0. Electronics basics.md",
+    "0. Images/Pasted image 20251208175518.png",
+    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/2. Basic Slang.md",
+    "Untitled.md",
     "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/1. Conductors, Semiconductors and Insulators.md",
+    "0. Images/Pasted image 20251208213133.png",
+    "0. Images/Pasted image 20251208211509.png",
+    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/0. Electronics basics.md",
     "Notes/0. Technology/6. Hardware/Electronic/Electronic.md",
-    "Pasted image 20251208180530.png",
-    "Pasted image 20251208175518.png",
+    "0. Images/Pasted image 20251208180530.png",
     "0. Images/Pasted image 20251208173039.png",
     "Pasted image 20251208170722.png",
     "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch",
@@ -257,13 +260,10 @@
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Content Managers/Wordpress/Enumeración de Wordpress.md",
     "Notes/1. Finance/Investing.md",
     "Notes/1. Finance/1. Investment Fundamentals.md",
-    "Notes/1. Finance/0. Finance Fundamentals.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/Google Dorking.md",
     "Notes/1. Finance",
     "Notes/0. Technology",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Phishing",
     "Pasted image 20251002174222.png",
-    "Pasted image 20251002160940.png",
     "Notes/0. Technology/5. Technologies/Technologies",
     "Notes/0. Technology/4. Cybersecurity/BlueTeam/Defensive Technologies/EDR",
     "Notes/0. Technology/4. Cybersecurity/BlueTeam/Defensive Technologies/SIEM",
