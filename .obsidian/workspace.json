@@ -1,82 +1,37 @@
 {
   "main": {
-    "id": "e83916fde2e8eac4",
+    "id": "9f0e6bd002dbe0cc",
     "type": "split",
     "children": [
       {
-        "id": "e101f581d28c28c0",
+        "id": "81358f8d0861aa69",
         "type": "tabs",
         "children": [
           {
-            "id": "9750fcea1e4f9f31",
+            "id": "7d5709c69e9f21ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Post Explotation AD.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Post Explotation AD"
-            }
-          },
-          {
-            "id": "13a174c4d9d02e8d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "176cb3d52ea28d7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Recopilación de información del sistema..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recopilación de información del sistema."
-            }
-          },
-          {
-            "id": "52f1afdd60bc6cc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/1. Windows/Kerberos Vulns/Kerberoasting Attack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kerberoasting Attack"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3bec8483197d195f",
+    "id": "1e801c89542845fc",
     "type": "split",
     "children": [
       {
-        "id": "88e6b3daa2e7bda2",
+        "id": "0892fce94f1e301d",
         "type": "tabs",
         "children": [
           {
-            "id": "e88a780709720b6e",
+            "id": "273391f8ad5d3539",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -89,15 +44,15 @@
             }
           },
           {
-            "id": "bea3b7d9ed31db3d",
+            "id": "b5cc39d0eed7d961",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "bloodhoun",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -106,7 +61,7 @@
             }
           },
           {
-            "id": "7a0e5ea110dfa532",
+            "id": "e80474337125c82b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -115,63 +70,59 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 396,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "3316531e5ebff0ff",
+    "id": "226f51f3839c1ad2",
     "type": "split",
     "children": [
       {
-        "id": "e60c50df1b324f9e",
+        "id": "8c6c66b9a4ab5230",
         "type": "tabs",
         "children": [
           {
-            "id": "7742e22e32cbe445",
+            "id": "18d0e8dbbf760b16",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/5. Technologies/Languages/PowerShell/1. Modularization.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Modularization"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "9337fcab88f14c71",
+            "id": "5543f343d41588ee",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/5. Technologies/Languages/PowerShell/1. Modularization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Modularization"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "ae7571c28421b94f",
+            "id": "f7aaf4a78ce22887",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -180,36 +131,21 @@
             }
           },
           {
-            "id": "67e9ccb3bca18b93",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
-            }
-          },
-          {
-            "id": "5641c6a73ddba107",
+            "id": "d6ae0786e29632cd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2. Networks/Radio Frequency Fundamentals/2. Modulation and Demodulation/0. Radiofrequency Modulation.md",
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0. Radiofrequency Modulation"
+              "title": "Outline"
             }
           },
           {
-            "id": "97df062b71114ce8",
+            "id": "6494eccac2616a37",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -218,74 +154,26 @@
               "title": "Todo"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 474.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "176cb3d52ea28d7f",
-  "lastOpenFiles": [
-    "Post Explotation AD.md",
-    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/3. Radio Frequency Spectrum.md",
-    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/2. Types of Electromagnetics Waves.md",
-    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/1. Electromagnetics Waves Properties.md",
-    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/0. Electromagnetic and Mechanical Waves - The birth.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/2. Data & Injections/CRLF Injection (0d0a).md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/1. Windows/Kerberos Vulns/Kerberoasting Attack.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Active Directory/Active Directory.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Active Directory/Reconocimiento/Active Directory Recon.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Recopilación de información del sistema..md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/0. Client Side/XSS  - ( Cross-Site Scripting ).md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/IIS/IIS - (Internet Information Service).md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. SMB 445 - (Server Message Block).md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. RPC 135 - ( Remote Procedure Call ).md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. LDAP 389 & 636 - ( Lighweight Directory Access Protocol ).md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. Kerberos 88.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. WINRM 5985 - (Windows Rremote Management).md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/3. Privilege Scalation/Windows/1. Windows Privilege Escalation CHECKLIST.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Networks/Pivoting/Pivoting.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
-    "Notes/1. Finance/Investing.md",
-    "Creating OpenVPN Server.md",
-    "Notes/0. Technology/5. Technologies/Services/Kerberos/Kerberos.md",
-    "0. Images/Pasted image 20251109214939.png",
-    "Pasted image 20251109214939.png",
-    "Pasted image 20251109180216.png",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Phishing/2. Setting up Phishing Infrastructure.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Phishing/PHISHING CAMPAIGN TASK.md",
-    "Notes/0. Technology/4. Cybersecurity/BlueTeam/Phishing/Phishing Analysis.md",
-    "Notes/1. Finance",
-    "Notes/0. Technology",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Phishing",
-    "Pasted image 20251002174222.png",
-    "Pasted image 20251002160940.png",
-    "Notes/0. Technology/5. Technologies/Technologies",
-    "Notes/0. Technology/4. Cybersecurity/BlueTeam/Defensive Technologies/EDR",
-    "Notes/0. Technology/4. Cybersecurity/BlueTeam/Defensive Technologies/SIEM",
-    "0. Images/w_og.jpeg",
-    "0. Images/Pasted image 20251001145250.png",
-    "0. Images/Pasted image 20251001144540.png",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/IoT/ATM - Automated Teller Machines",
-    "0. Images/Pasted image 20251001141907.png",
-    "0. Images/Pasted image 20251001141628.png",
-    "Untitled.base",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/MITRE ATT&CK",
-    "Notes/0. Technology/5. Technologies/Languages/PowerShell"
-  ]
+  "active": "7d5709c69e9f21ab",
+  "lastOpenFiles": []
 }
