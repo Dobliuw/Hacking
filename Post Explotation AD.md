@@ -141,10 +141,24 @@ net sessions
 
 Bypass SSL/TLS secure chanel needed for `Invoke-WebRequest`: 
 
-https://gist.github.com/jmassardo/2e0dd7cce292f16ff8f6945b8b3752b5
+```powershell
+add-type @"
+    using System.Net;
+    using System.Security.Cryptography.X509Certificates;
+    public class TrustAllCertsPolicy : ICertificatePolicy {
+        public bool CheckValidationResult(
+            ServicePoint srvPoint, X509Certificate certificate,
+            WebRequest request, int certificateProblem) {
+            return true;
+        }
+    }
+"@
+[System.Net.ServicePointManager]::CertificatePolicy = New-Object TrustAllCertsPolicy
+
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Ssl3, [Net.SecurityProtocolType]::Tls, [Net.SecurityProtocolType]::Tls11, [Net.SecurityProtocolType]::Tls12
+```
 
 ![[Pasted image 20251109214939.png]]
-
 
 Expose port to internet 
 
@@ -174,7 +188,12 @@ Usuario Owen Bonoris que trabaja en Ciberseguridad (`CN=Owen Bonoris,OU=Cybersec
 
 - **Base DN**: Objeto raíz (**defaultNamingContext**), es "la raíz" desde donde se busca ese dominio.
 
+- **NC**: **Naming Context** es una paritición lógica del AD.
+
 - **ADSI**: (**Active Directory Service Interfaces**) Es un conjunto de interfaces COM de WIndows que permiten a las aplicaciones acceder a los servicios de diretorio como LDAP.
+
+- **RootDSE**: (**Directory Service Angent-Specific Entry**) es una entrada especial de solo lectura del servidor LDAP
+
 ---
 # Enumerating AD from Domain account
 
@@ -197,3 +216,209 @@ nltest /domain_trusts
 ```
 
 ##### Enumerating LDAP DN Objects
+
+Descubrir los naming contexts (**NC**) correctos desde *RootDSE*.
+
+```powershell
+$rootDse = [ADSI]("LDAP://RootDSE")
+$defaultNC = $rootDse.defaultNamingContext  
+$configNC = $rootDse.configurationNamingContext
+```
+
+Enlazar al objeto el dominio EXACTO y ver las propiedades del mismo.
+
+```powershell
+$domainEntry = [ADSI]("LDAP://$defaultNC")
+$domainEntry.Properties | Format-List
+```
+
+Usar *DirectorySearcher* para apuntar explícitamente al **DN** y definir posteriormente criterios de búsqueda.
+
+```powershell
+$searcher = New-Object System.DirectoryServices.DirectorySearcher
+$searcher.SearchRoot = $domainEntry
+$searcher.SearchScope = [System.DirectoryServices.SearchScope]::Base # AD Root object
+
+$searcher.Filter = "(objectClass=domainDNS)"
+($searcher.FindOne()).Properties | Format-List
+```
+
+----
+
+En **Active Directory** cada *servicio autenticable* se indentifica con un **SPN** (**Service Principal Name**) (Por ejemplo: `cifs/filtersrv01.example.local`). Los SPN viven como *atributos de cuenta* (Normalmente de *usuario de servicio*, a veces máquinas).
+
+Como hemos visto en diagramos como [[KERBEROS_AUTHETICATION_FLOW]], el flujo normal es:
+
+- **AS-REQ** / **AS-REP**: El cliente obtiene un TGT mediante KDC (`krbtgt\domain.example.local`).
+- **TGS-REQ** / **TGS-REP**: Con el TGT se solicita un TGS para un SPN concreto.
+- **AP-REQ** / **AP-REP**: Con el TGS se trata de autenticar contra el servicio.
+
+Todo esto se puede visualizar con el comando `klist`, el cual *muestra tickets en caché* y *eventos en DC* si hay logging.
+
+- [[Hashes NT, NTLM y NTLMv2]]: Si no hay Kerberos (No hay SPN, utilizamos IP, etc.) Windows opta por utilizar NTLM, Ahí el secret es el [[Hashes NT, NTLM y NTLMv2#Hash NT (NTLM Hash)]] y da lugar a técnicas como [[Pass The Hash]].
+
+----
+# Enumerating Users & SPNs
+
+Tener un listado de *cuentas de usuario* con atributos que sean de interes:
+
+- `adminCount=1`: La cuenta estuvo en *grupos protegidos* (Ejemplo: Domain Admins).
+- `userAccountControl`: Trae bits clave, ejemplo:
+	- `DONT_EXPIRE_PASSWORD=0x10000`.
+	- `DONT_REQ_PREAUTH=0x400000`.
+	- `SMARTCARD_REQUIRED=0x40000`.
+- `lastLogonTimestamp`: Aunque es replicado y no exacto, es útil para ver la "antigüedad".
+- `pwdLastSet`: Sugiere candidatos con credenciales sensibles o filtradas (Servicios antiguos con credenciales no rotadas).
+###### Using AD Module
+- Búscar SPNs utilizando modulo de AD.
+```powershell
+Import-Module ActiveDirectory
+Get-ADServiceAccount -Filter 'ServicePrincipalNames -like "*"' | Select-Object -ExpandProperty ServicePrincipalNames
+```
+
+- Filtrar por Servicios especiales (Ejemplo *http*).
+```powershell
+Get-ADServiceAccount -Filter 'ServicePrincipalNames -like "*http*"' | Select-Object -ExpandProperty ServicePrincipalNames
+```
+
+###### Without using AD Module
+
+```powershell
+$rootDse = [ADSI]("LDAP://RootDSE")
+$defaultNC = $rootDse.defaultNamingContext  
+$configNC = $rootDse.configurationNamingContext
+$searchRoot = [ADSI]("LDAP://$defaultNC")
+
+$ds = New-Object System.DirectoryServices.DirectorySearcher
+$ds.SearchRoot = $searchRoot
+$ds.PageSize = 1000
+$ds.ReferralChasing = [System.DirectoryServices.ReferralChasingOption]:All
+
+# Only NORMAL USERS
+$ds.Filter =  "(&(objectCaterogry=person)(objectClass=user))"
+
+# Pentesting interest attributes
+$props = @(
+  "samaccountname","userprincipalname","distinguishedname",
+  "memberof","whencreated","whenchanged","lastlogon","lastlogontimestamp",
+  "pwdlastset","badpwdcount","admincount","useraccountcontrol"
+)
+$ds.PropertiesToLoad.Clear(); $null = $ds.PropertiesToLoad.AddRange($props)
+
+$users = $ds.FindAll() | ForEach-Object {
+  $p = $_.Properties
+  # Helper para convertir timestamps (LDAP file time)
+  function ToDate($v){ if($v){ [DateTime]::FromFileTime([Int64]$v[0]) } else { $null } }
+  [pscustomobject]@{
+    sAMAccountName = ($p["samaccountname"]      | Select-Object -First 1)
+    UPN            = ($p["userprincipalname"]   | Select-Object -First 1)
+    DN             = ($p["distinguishedname"]   | Select-Object -First 1)
+    MemberOf       = (@($p["memberof"])         -join ";")
+    WhenCreated    = ($p["whencreated"]         | Select-Object -First 1)
+    WhenChanged    = ($p["whenchanged"]         | Select-Object -First 1)
+    LastLogonTS    = ToDate  $p["lastlogontimestamp"]
+    PwdLastSet     = ToDate  $p["pwdlastset"]
+    BadPwdCount    = ($p["badpwdcount"]         | Select-Object -First 1)
+    AdminCount     = ($p["admincount"]          | Select-Object -First 1)
+    UAC            = ($p["useraccountcontrol"]  | Select-Object -First 1)
+  }
+}
+
+# Guardalo para tus apuntes
+$Out = "C:\Temp\adrecon"; New-Item -ItemType Directory -Force -Path $Out | Out-Null
+$users | Export-Csv "$Out\users_basic.csv" -NoTypeInformation -Encoding UTF8
+```
+
+
+```powershell
+# Todos los SPN del dominio (puede tardar; filtra por tipo si querés)
+setspn -Q */* > "$Out\spn_all_setspn.txt"
+
+# Ejemplos por servicio:
+setspn -Q MSSQLSvc/*   > "$Out\spn_mssql.txt"
+setspn -Q HTTP/*       > "$Out\spn_http.txt"
+setspn -Q CIFS/*       > "$Out\spn_cifs.txt"
+setspn -Q HOST/*       > "$Out\spn_host.txt"   # Ojo: muchísimos serán de cuentas de máquina
+
+```
+
+```powershell
+$ds = New-Object System.DirectoryServices.DirectorySearcher
+$ds.SearchRoot   = $SearchRoot
+$ds.SearchScope  = "Subtree"
+$ds.PageSize     = 1000
+$ds.Filter       = "(&(objectClass=user)(servicePrincipalName=*))"  # SPN en cuentas de usuario
+$ds.PropertiesToLoad.Clear()
+$null = $ds.PropertiesToLoad.AddRange(@("samaccountname","userprincipalname","serviceprincipalname","useraccountcontrol","pwdlastset"))
+
+$spnUsers = $ds.FindAll() | ForEach-Object {
+  $p = $_.Properties
+  function ToDate($v){ if($v){ [DateTime]::FromFileTime([Int64]$v[0]) } else { $null } }
+  [pscustomobject]@{
+    sAMAccountName = ($p["samaccountname"]      | Select-Object -First 1)
+    UPN            = ($p["userprincipalname"]   | Select-Object -First 1)
+    SPNs           = (@($p["serviceprincipalname"])) -join ";"
+    UAC            = ($p["useraccountcontrol"]  | Select-Object -First 1)
+    PwdLastSet     = ToDate $p["pwdlastset"]
+  }
+}
+
+$spnUsers | Export-Csv "$Out\spn_users.csv" -NoTypeInformation -Encoding UTF8
+
+```
+
+TOP RISKS
+```powershell
+# Carga el CSV de usuarios con SPN
+$SPN = Import-Csv "$Out\spn_users.csv"
+
+# Helpers para detectar flags en UAC
+function HasFlag($uac,[int]$flag){ if($uac -and $flag){$true}else{$false} }
+
+$DONT_EXPIRE = 0x10000
+$DONT_PREAUTH= 0x400000   # (esto último no es típico en service accounts, pero por si aparece)
+
+# Ejemplos de "vistas" útiles para apuntes:
+$SPN_SQL  = $SPN | Where-Object { $_.SPNs -match "MSSQLSvc/" }
+$SPN_HTTP = $SPN | Where-Object { $_.SPNs -match "HTTP/" }
+$SPN_CIFS = $SPN | Where-Object { $_.SPNs -match "cifs/" }
+
+# Prioriza: contraseñas viejas o que "no expiran", adminCount, etc.
+$TopRisks = $SPN | Where-Object {
+  (HasFlag([int]$_.UAC,$DONT_EXPIRE)) -or
+  ($_.PwdLastSet -and $_.PwdLastSet -lt (Get-Date).AddMonths(-12))
+}
+$TopRisks | Export-Csv "$Out\spn_users_prioritized.csv" -NoTypeInformation -Encoding UTF8
+
+```
+
+GET ASP-REQ CANDIDANTS
+
+```powershell
+$ds = New-Object System.DirectoryServices.DirectorySearcher
+$ds.SearchRoot   = $SearchRoot
+$ds.SearchScope  = "Subtree"
+$ds.PageSize     = 1000
+
+# UAC bit 0x400000 => DONT_REQ_PREAUTH
+$ds.Filter       = "(&(objectClass=user)(userAccountControl:1.2.840.113556.1.4.803:=4194304))"
+$ds.PropertiesToLoad.Clear()
+$null = $ds.PropertiesToLoad.AddRange(@("samaccountname","userprincipalname","pwdlastset"))
+
+$asrep = $ds.FindAll() | ForEach-Object {
+  $p=$_.Properties
+  function ToDate($v){ if($v){ [DateTime]::FromFileTime([Int64]$v[0]) } else { $null } }
+  [pscustomobject]@{
+    sAMAccountName = ($p["samaccountname"]|Select-Object -First 1)
+    UPN            = ($p["userprincipalname"]|Select-Object -First 1)
+    PwdLastSet     = ToDate $p["pwdlastset"]
+  }
+}
+$asrep | Export-Csv "$Out\asrep_candidates.csv" -NoTypeInformation -Encoding UTF8
+
+```
+
+----
+# PoweShell Tools
+
+[PSTools](https://learn.microsoft.com/en-us/sysinternals/downloads/pstools)
