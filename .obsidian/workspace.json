@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d9e0f9b16a6e54fb",
+        "id": "34590691578af085",
         "type": "tabs",
         "children": [
           {
-            "id": "f37e2cba1f2d40ca",
+            "id": "435ef8ccf97bcfe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/6. Hardware/Electronic/PC Repair/1. Main components in a Motherboard.md",
+                "file": "Notes/0. Technology/6. Hardware/Drones/My Drone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Main components in a Motherboard"
+              "title": "My Drone"
             }
           },
           {
-            "id": "8a05deab6a7764b4",
+            "id": "2e8e8a7a3e942992",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/2. Key Concepts.md",
+                "file": "Notes/0. Technology/6. Hardware/Drones/My Drone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Key Concepts"
+              "title": "My Drone"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,32 +196,46 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f37e2cba1f2d40ca",
+  "active": "2e8e8a7a3e942992",
   "lastOpenFiles": [
-    "Notes/0. Technology/6. Hardware/Electronic/PC Repair/0. PC - Computer.md",
-    "Notes/0. Technology/6. Hardware/Electronic/PC Repair/1. Main components in a Motherboard.md",
-    "Pasted image 20251217155904.png",
-    "0. Images/Pasted image 20251217131024.png",
+    "Notes/0. Technology/6. Hardware/Drones/Key data about FPV world.md",
+    "Notes/0. Technology/6. Hardware/Drones/My Drone.md",
+    "Notes/0. Technology/6. Hardware/Drones/Drones.md",
+    "Pasted image 20251229222816.png",
+    "Pasted image 20251229222745.png",
+    "0. Images/Pasted image 20251229211310.png",
+    "0. Images/Pasted image 20251229155419.png",
+    "Notes/0. Technology/6. Hardware/Drones/Drones parts.md",
+    "0. Images/Pasted image 20251229183036.png",
+    "0. Images/Pasted image 20251229182723.png",
+    "0. Images/Pasted image 20251229182652.png",
+    "0. Images/Pasted image 20251229182639.png",
+    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/2. Types of Electromagnetics Waves.md",
+    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/3. Radio Frequency Spectrum.md",
+    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/1. Electromagnetics Waves Properties.md",
+    "0. Images/Pasted image 20251229161253.png",
+    "0. Images/Pasted image 20251229161231.png",
+    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronics hands on & Components/2. Variable Resistors.md",
+    "Notes/0. Technology/6. Hardware/Drones",
+    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronics hands on & Components/1. Resistors.md",
+    "Untitled.md",
+    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/6. Datasheets.md",
     "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/2. Key Concepts.md",
-    "0. Images/Pasted image 20251217124628.png",
-    "Pasted image 20251217124456.png",
-    "0. Images/Pasted image 20251217123956.png",
-    "0. Images/Pasted image 20251217122256.png",
-    "0. Images/Pasted image 20251217000725.png",
-    "Pasted image 20251217122040.png",
+    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/4. Getting and Modifying the .img.md",
+    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/3. Getting root.md",
+    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/2. Unlocking Bootloader.md",
+    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/0. Smartphones and they birth.md",
+    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/1. Baseline documentation.md",
+    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/5.2 Installing custom recovery.md",
+    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/5.1 Installing Kali NetHunter Lite.md",
+    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/5. Turning the Device into light Offensive Tool.md",
+    "Notes/0. Technology/6. Hardware/Electronic/PC Repair/1. Main components in a Motherboard.md",
+    "Notes/0. Technology/6. Hardware/Electronic/PC Repair/0. PC - Computer.md",
     "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/5. Softwares for Electronics Taks.md",
     "Notes/0. Technology/6. Hardware/Electronic/PC Repair",
     "Notes/0. Technology/6. Hardware/Electronic/PC Repair.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronics hands on & Components/1. Resistors.md",
     "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/3.  Units of Measurement.md",
-    "0. Images/Pasted image 20251216220525.png",
-    "0. Images/Pasted image 20251216220256.png",
     "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronics hands on & Components/0. Battery.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/4. Electronics & Hardware Hacking Tools.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronics hands on & Components",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/6. Datasheets.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/0. Electronics basics.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Electronic.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/1. Conductors, Semiconductors and Insulators.md"
+    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronics hands on & Components"
   ]
 }
