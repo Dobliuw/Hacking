@@ -49,7 +49,7 @@ En **FPV**:
 
 ![[Pasted image 20251229155753.png|490]] ![[Pasted image 20251229155828.png|550]]
 
-### Power Control
+### Power Control (ESC)
 
 Es **control de potencia** es el intermediario entre baterias y motores. Su función es recibir órdenes del *flight controller*, ajustar cuánta energía llega a cada motor y controlar la velocidad y frenado.
 

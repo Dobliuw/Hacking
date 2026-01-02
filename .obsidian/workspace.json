@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "435ef8ccf97bcfe0",
+            "id": "ebbea42559e16d56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/6. Hardware/Drones/My Drone.md",
+                "file": "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/7. Capacitors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Drone"
+              "title": "7. Capacitors"
             }
           },
           {
-            "id": "2e8e8a7a3e942992",
+            "id": "dccdf1d99d0208a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/6. Hardware/Drones/My Drone.md",
+                "file": "Notes/0. Technology/6. Hardware/Drones/Key data about FPV world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Drone"
+              "title": "Key data about FPV world"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,30 +195,32 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2e8e8a7a3e942992",
+  "active": "ebbea42559e16d56",
   "lastOpenFiles": [
-    "Notes/0. Technology/6. Hardware/Drones/Key data about FPV world.md",
+    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/6. Datasheets.md",
+    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/7. Capacitors.md",
     "Notes/0. Technology/6. Hardware/Drones/My Drone.md",
-    "Notes/0. Technology/6. Hardware/Drones/Drones.md",
-    "Pasted image 20251229222816.png",
-    "Pasted image 20251229222745.png",
-    "0. Images/Pasted image 20251229211310.png",
-    "0. Images/Pasted image 20251229155419.png",
+    "Notes/0. Technology/6. Hardware/Drones/Key data about FPV world.md",
+    "0. Images/Pasted image 20260102121846.png",
+    "README.md",
+    "0. Images/Pasted image 20260102113630.png",
+    "0. Images/Pasted image 20260102121816.png",
+    "0. Images/Pasted image 20260102114707.png",
+    "0. Images/Pasted image 20251230153854.png",
+    "0. Images/Pasted image 20251230153704.png",
+    "0. Images/Pasted image 20251230153630.png",
+    "0. Images/Pasted image 20251230150238.png",
+    "0. Images/Pasted image 20251230150148.png",
+    "0. Images/Pasted image 20251230145939.png",
     "Notes/0. Technology/6. Hardware/Drones/Drones parts.md",
-    "0. Images/Pasted image 20251229183036.png",
-    "0. Images/Pasted image 20251229182723.png",
-    "0. Images/Pasted image 20251229182652.png",
-    "0. Images/Pasted image 20251229182639.png",
+    "Notes/0. Technology/6. Hardware/Drones/Drones.md",
     "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/2. Types of Electromagnetics Waves.md",
     "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/3. Radio Frequency Spectrum.md",
     "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/1. Electromagnetics Waves Properties.md",
-    "0. Images/Pasted image 20251229161253.png",
-    "0. Images/Pasted image 20251229161231.png",
     "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronics hands on & Components/2. Variable Resistors.md",
     "Notes/0. Technology/6. Hardware/Drones",
     "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronics hands on & Components/1. Resistors.md",
     "Untitled.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/6. Datasheets.md",
     "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/2. Key Concepts.md",
     "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/4. Getting and Modifying the .img.md",
     "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/3. Getting root.md",
@@ -234,8 +235,6 @@
     "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/5. Softwares for Electronics Taks.md",
     "Notes/0. Technology/6. Hardware/Electronic/PC Repair",
     "Notes/0. Technology/6. Hardware/Electronic/PC Repair.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/3.  Units of Measurement.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronics hands on & Components/0. Battery.md",
     "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronics hands on & Components"
   ]
 }
