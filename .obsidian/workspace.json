@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/3. System/Operative Systems/0. Linux/1. Linux Concepts.md",
+                "file": "Notes/0. Technology/6. Hardware/Drones/My Drone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Linux Concepts"
+              "title": "My Drone"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 519.5,
+    "collapsed": true
   },
   "right": {
     "id": "226f51f3839c1ad2",
@@ -196,11 +197,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "273391f8ad5d3539",
+  "active": "1a4ef7f34f901ee4",
   "lastOpenFiles": [
+    "Notes/0. Technology/3. System/Operative Systems/0. Linux/1. Linux Concepts.md",
     "Pasted image 20260121201737.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. SSH 22.md",
-    "Notes/0. Technology/3. System/Operative Systems/0. Linux/1. Linux Concepts.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Cloud - Web/Amazon Web Service Enumeration.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/4. APIs/API Abuse/Explotation/Mass-Assignment - (Parameter Binding).md",
     "Notes/0. Technology/6. Hardware/Drones/My Drone.md",

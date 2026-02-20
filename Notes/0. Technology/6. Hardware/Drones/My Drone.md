@@ -154,20 +154,9 @@ getfpv 7
 
 
 ----
-# Links build
+# Links to my final DIY FPV 5" Freestyle Drone parts
 
-https://www.diyfpv.com/catalog/tbs-unify-pro32-hv-25-1000mw-5-8ghz-vtx-mmcx
-https://www.diyfpv.com/catalog/runcam-phoenix-2-special-edition-v2
-https://www.diyfpv.com/catalog/cnhl-black-series-22-2v-6s-1100mah-100c-lipo-battery-xt60
-https://www.diyfpv.com/catalog/tattu-r-line-version-5-0-1050mah-6s-22-2v-150c-lipo-battery-pack-with-xt60-plug
-https://www.diyfpv.com/catalog/hdzero-boxpro-goggle
-https://www.diyfpv.com/catalog/tbs-fusion-goggle-receiver-module
+- FRAME: **ImpulseRC Apex EVO 5"** ([Link](https://www.diyfpv.com/catalog/impulserc-apex-evo-5-fpv-frame-kit)). $115 usd aprox
+- ESC + FC: **SpeedyBee F405 V5 Deluxe Stack** ([Link](https://www.speedybee.com/speedybee-f405-v5-55a-stack/)). + Antenna & Proppellers -> $207usd
+- Motors: **T-Motor F60 Pro 1750KV** ([Link](https://tmotorhobby.com/goods-960-F60PRO+%E2%85%A3+V20+For+top+racing%EF%BC%8CT-Motor+F60+PRO+IV+V20+22075+1750KV1950KV2550KV+Brushless+Racing+Motor.html)) $106 usd aprox.
 
-https://itsfpv.de/products/era?srsltid=AfmBOoqxHf9pmqbYEySE01ZO_Lo9UUnrWcHHqrNlMRqi2jFVJ2EA0Ovl
-https://itsfpv.de/products/its2306-5-1750kv-motor
-
-https://www.diyfpv.com/catalog/voltara-70a-esc
-https://www.diyfpv.com/catalog/kiss-fcfc-ultra-v2-fpv-drone-flight-controller-30-5x30-5mm
-https://www.diyfpv.com/catalog/tbs-triumph-pro-sma-long-range
-https://www.diyfpv.com/catalog/tbs-triumph-pro-sma-long-range
-https://www.diyfpv.com/catalog/vas-ethix-mad-mushroom-v2-rhcp
