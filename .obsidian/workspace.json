@@ -1,73 +1,41 @@
 {
   "main": {
-    "id": "9f0e6bd002dbe0cc",
+    "id": "c8a3db5f639f1a24",
     "type": "split",
     "children": [
       {
-        "id": "5d77ea6fbab8a00e",
+        "id": "2f05cd8633c36454",
         "type": "tabs",
         "children": [
           {
-            "id": "cc11e610a273daed",
+            "id": "c993dcde314c39d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/4. Getting and Modifying the .img.md",
+                "file": "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/3. Learning Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Getting and Modifying the .img"
-            }
-          },
-          {
-            "id": "97512302034a405c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/3. Getting root.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Getting root"
-            }
-          },
-          {
-            "id": "cb61f24b8e785dac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/4. Getting and Modifying the .img.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Getting and Modifying the .img"
-=======
-              "title": "2. Machine Learning System Components"
->>>>>>> 53c874ed283b0ea7bc4eeff788192ac06d3bc09f
+              "title": "3. Learning Types"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1e801c89542845fc",
+    "id": "1c645fc656d57dd3",
     "type": "split",
     "children": [
       {
-        "id": "0892fce94f1e301d",
+        "id": "8c089768217a4ef4",
         "type": "tabs",
         "children": [
           {
-            "id": "273391f8ad5d3539",
+            "id": "dcc3e902b1720b71",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,12 +48,12 @@
             }
           },
           {
-            "id": "b5cc39d0eed7d961",
+            "id": "118bf5fbf38bf61a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "vps",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +65,7 @@
             }
           },
           {
-            "id": "e80474337125c82b",
+            "id": "d20216f1d5c0b53c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 300
   },
   "right": {
-    "id": "226f51f3839c1ad2",
+    "id": "555b2b3c940aaad7",
     "type": "split",
     "children": [
       {
-        "id": "8c6c66b9a4ab5230",
+        "id": "0aee369dec34e555",
         "type": "tabs",
         "children": [
           {
-            "id": "18d0e8dbbf760b16",
+            "id": "7535603113a93e0e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Images/Pasted image 20251209183901.png",
+                "file": "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/3. Learning Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20251209183901"
+              "title": "Backlinks for 3. Learning Types"
             }
           },
           {
-            "id": "5543f343d41588ee",
+            "id": "425d062751265171",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Images/Pasted image 20251209183901.png",
+                "file": "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/3. Learning Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20251209183901"
+              "title": "Outgoing links from 3. Learning Types"
             }
           },
           {
-            "id": "f7aaf4a78ce22887",
+            "id": "bc6ff5684828a66a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,32 +137,22 @@
             }
           },
           {
-            "id": "d6ae0786e29632cd",
+            "id": "98cb37e2d6ba2137",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Images/Pasted image 20251209183901.png",
+                "file": "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/3. Learning Types.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20251209183901"
+              "title": "Outline of 3. Learning Types"
             }
           },
           {
-            "id": "6494eccac2616a37",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "online.larslockefeer.obsidian-plugin-todo"
-            }
-          },
-          {
-            "id": "5bb8a1001c28fa0f",
+            "id": "4e7494a17991187c",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -223,91 +181,10 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-<<<<<<< HEAD
-  "active": "cb61f24b8e785dac",
+  "active": "c993dcde314c39d5",
   "lastOpenFiles": [
-    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/3. Getting root.md",
-    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/2. Unlocking Bootloader.md",
-    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/4. Getting and Modifying the .img.md",
-    "Notes/0. Technology/6. Hardware/SDR/0. HackRF One.md",
-=======
-  "active": "273391f8ad5d3539",
-  "lastOpenFiles": [
-    "0. Images/Pasted image 20260311223638.png",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/1. AI Types.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/2. Machine Learning System Components.md",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
-    "0. Images/Pasted image 20260311164331.png",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Proxy Mobile traffic.md",
-    "Notes/0. Technology/6. Hardware/Drones/My Drone.md",
-    "Notes/0. Technology/3. System/Operative Systems/Turning a VPS into VPN.md",
-    "Notes/0. Technology/6. Hardware/Drones/Key data about FPV world.md",
-    "0. Images/Pasted image 20260311105350.png",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/4",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/3. Prompt Engineering & AI Forensic Analysis",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/2. Defending with AI",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/2. Defending",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
-    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/6. IPv4 Structure/2. Types of IPv4 Addresses.md",
-    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/10. Creating a Small Network/0. Devices in Small Networks.md",
-    "Notes/0. Technology/3. System/Operative Systems/Creating OpenVPN Server.md",
-    "0. Images/Pasted image 20260305162154.png",
-    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/7. IPv6 Structure/0. IPv4 Problems.md",
-    "Notes/0. Technology/6. Hardware/Drones/Drones parts.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/1. Basic/TTY Treatment.md",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. SSH 22.md",
-    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/2. Switches & CLI configuration/0. Cisco devices and configuration.md",
-    "Notes/0. Technology/3. System/Operative Systems/0. Linux/1. Linux Concepts.md",
-    "Pasted image 20260121201737.png",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Cloud - Web/Amazon Web Service Enumeration.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/4. APIs/API Abuse/Explotation/Mass-Assignment - (Parameter Binding).md",
-    "Notes/0. Technology/6. Hardware/Drones/Drones.md",
-    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/2. Unlocking Bootloader.md",
-    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/1. Baseline documentation.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Content Managers/Wordpress/Enumeración de Wordpress.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/Protocols/TCP/Enum. SMB 445 - (Server Message Block).md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/1. Server Side/LFI - (Local File Inclusion).md",
-    "Conduccion",
->>>>>>> 53c874ed283b0ea7bc4eeff788192ac06d3bc09f
-    "0. Images/Pasted image 20260118220449.png",
-    "0. Images/Pasted image 20260118220916.png",
-    "0. Images/Pasted image 20260118220543.png",
-    "Notes/0. Technology/6. Hardware/SDR",
-    "0. Images/Pasted image 20260116151921.png",
-    "Pasted image 20260116151846.png",
-<<<<<<< HEAD
-    "Notes/0. Technology/6. Hardware/Drones/My Drone.md",
-    "Notes/0. Technology/6. Hardware/Drones/Drones parts.md",
-    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/3. Radio Hardware & SDR",
-    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/2. Modulation and Demodulation/1. Radiofrequency Demodulation.md",
-    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/2. Modulation and Demodulation/0. Radiofrequency Modulation.md",
-    "Notes/0. Technology/6. Hardware/Drones/Key data about FPV world.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/7. Capacitors.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/6. Datasheets.md",
-    "0. Images/Pasted image 20260102121846.png",
-    "README.md",
-    "0. Images/Pasted image 20260102113630.png",
-    "0. Images/Pasted image 20260102121816.png",
-    "0. Images/Pasted image 20260102114707.png",
-    "0. Images/Pasted image 20251230153854.png",
-    "Notes/0. Technology/6. Hardware/Drones/Drones.md",
-    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/1. Electromagnetics Waves Properties.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronics hands on & Components/2. Variable Resistors.md",
-    "Notes/0. Technology/6. Hardware/Drones",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronics hands on & Components/1. Resistors.md",
-    "Untitled.md",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronic from Scratch/2. Key Concepts.md",
-    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/0. Smartphones and they birth.md",
-    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/1. Baseline documentation.md",
-    "Notes/0. Technology/6. Hardware/Hacking Swiss Army Knife/5.2 Installing custom recovery.md",
-    "Notes/0. Technology/6. Hardware/Electronic/PC Repair",
-    "Notes/0. Technology/6. Hardware/Electronic/Udemy/Electronics hands on & Components"
-=======
-    "0. Images/Pasted image 20260102121846.png"
->>>>>>> 53c874ed283b0ea7bc4eeff788192ac06d3bc09f
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/3. Learning Types.md",
+    "Notes/0. Technology/3. System/Operative Systems/Turning a VPS into VPN.md"
   ]
 }
