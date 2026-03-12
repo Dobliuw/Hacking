@@ -156,7 +156,8 @@ getfpv 7
 ----
 # Links to my final DIY FPV 5" Freestyle Drone parts
 
-- FRAME: **ImpulseRC Apex EVO 5"** ([Link](https://www.diyfpv.com/catalog/impulserc-apex-evo-5-fpv-frame-kit)). $115 usd aprox
+- FRAME: **ImpulseRC Apex EVO 5"** ([Link](https://www.diyfpv.com/catalog/impulserc-apex-evo-5-fpv-frame-kit)). $115 usd aprox / ImpulseRC Echo Blackbird Edition 5"
 - ESC + FC: **SpeedyBee F405 V5 Deluxe Stack** ([Link](https://www.speedybee.com/speedybee-f405-v5-55a-stack/)). + Antenna & Proppellers -> $207usd
 - Motors: **T-Motor F60 Pro 1750KV** ([Link](https://tmotorhobby.com/goods-960-F60PRO+%E2%85%A3+V20+For+top+racing%EF%BC%8CT-Motor+F60+PRO+IV+V20+22075+1750KV1950KV2550KV+Brushless+Racing+Motor.html)) $106 usd aprox.
+
 

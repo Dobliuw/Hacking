@@ -1,12 +1,12 @@
 {
 	"id": "webpage-html-export",
 	"name": "Webpage HTML Export",
-	"version": "1.8.01",
-	"minAppVersion": "1.4.0",
+	"version": "1.9.2",
+	"minAppVersion": "1.6.0",
 	"description": "Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity.",
 	"author": "Nathan George",
 	"authorUrl": "https://github.com/KosmosisDire/obsidian-webpage-export",
 	"isDesktopOnly": true,
 	"fundingUrl": "https://www.buymeacoffee.com/nathangeorge",
-	"updateNote": "This is a quick patch to fix the style issue\ncaused by the obsidian 1.5.8 update.\nIt is not newer than the current 1.8.1 beta."
+	"updateNote": "- Local and global graph view\n- Backlinks view!\n- Show tags, properties, and aliases views\n- Hover previews of pages\n- Local exports will now export only a single file containing the whole vault!\n- Notifications system\n- Place components anywhere you want on the page."
 }
