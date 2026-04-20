@@ -10,11 +10,9 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "/tmp/site",
+    "exportPath": "/home/dobliuw/Downloads",
     "filesToExport": [
-      "Notes",
-      "0. Images",
-      "README.md"
+      "Notes/0. Technology/4. Cybersecurity/AI Powered"
     ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,

@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "929d2d32ac0a0d6a",
+        "id": "3091736841f5e6c8",
         "type": "tabs",
         "children": [
           {
-            "id": "fea8c30d80ba5923",
+            "id": "3d152aa20f3b7138",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/5. NLP.md",
+                "file": "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/1. AI in our Terminal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. NLP"
+              "title": "1. AI in our Terminal"
+            }
+          },
+          {
+            "id": "bfc5c9c690c28ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/0. Running Local AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Running Local AI"
             }
           }
         ]
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.8
+    "width": 424.8,
+    "collapsed": true
   },
   "right": {
     "id": "555b2b3c940aaad7",
@@ -181,24 +196,35 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "fea8c30d80ba5923",
+  "active": "3d152aa20f3b7138",
   "lastOpenFiles": [
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/0. Running Local AI.md",
-    "0. Images/Pasted image 20260408161000.png",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/1. AI in our Terminal.md",
+    "Notes/0. Technology/6. Hardware/Drones/My Drone.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/5. NLP.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/4. Neural Networks.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/2. Machine Learning System Components.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/1. AI Types.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
+    "Notes/0. Technology/Take notes (Important for me)/Burnout prevention.md",
+    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/0. Layer 1 and 2/1. Sublayer MAC.md",
+    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/1. Layer 3 to 7/3. Network/4. Routing.md",
+    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/1. Layer 3 to 7/3. Network/0. Network Layer (L3).md",
+    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/0. Layer 1 and 2/2. Data Link/1. Data Link Frame.md",
+    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/4. Layers/0. Layer 1 and 2/2. Data Link/2. LAN and WAN Frames.md",
+    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/3. Protocols/0. Models/OSI Model/OSI Model.md",
+    "Pasted image 20260410104401.png",
+    "Pasted image 20260410104224.png",
+    "Pasted image 20260410104150.png",
+    "0. Images/Pasted image 20260408161000.png",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI",
     "0. Images/Pasted image 20260326195518.png",
     "0. Images/Pasted image 20260326195340.png",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/4. Neural Networks.md",
     "0. Images/Pasted image 20260326190838.png",
     "0. Images/Pasted image 20260326190255.png",
     "0. Images/Pasted image 20260326190252.png",
     "0. Images/Pasted image 20260326182757.png",
-    "0. Images/Pasted image 20260326182432.png",
-    "0. Images/Pasted image 20260326181641.png",
-    "0. Images/Pasted image 20260326150109.png",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/3. Learning Types.md",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/2. Machine Learning System Components.md",
     "Notes/0. Technology/3. System/Operative Systems/Turning a VPS into VPN.md"
   ]
 }
