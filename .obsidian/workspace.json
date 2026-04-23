@@ -11,12 +11,28 @@
             "id": "3d152aa20f3b7138",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0. Images/Pasted image 20260421225749.png"
+                "file": "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/8. AI Hacking.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260421225749"
+              "icon": "lucide-file",
+              "title": "8. AI Hacking"
+            }
+          },
+          {
+            "id": "a393ddaf2dd80518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/6. Deepfake & Fake voice-video.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Deepfake & Fake voice-video"
             }
           },
           {
@@ -93,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"activo\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,10 +237,16 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "dcc3e902b1720b71",
+  "active": "3d152aa20f3b7138",
   "lastOpenFiles": [
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/4. Vulnerabilities Analysis Automation.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/7. Captcha Bypass with AI Techniques.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/8. AI Hacking.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/6. Deepfake & Fake voice-video.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/0. Active Information Gathering.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/5. Phishing with AI.md",
+    "0. Images/Pasted image 20260423131443.png",
     "0. Images/Pasted image 20260421225749.png",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/4. Vulnerabilities Analysis Automation.md",
     "0. Images/Pasted image 20260421225733.png",
     "0. Images/Pasted image 20260421225511.png",
     "0. Images/Pasted image 20260421224757.png",
@@ -233,7 +255,6 @@
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/2. Recon & Enumeration through AI.md",
     "0. Images/Pasted image 20260421200756.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/0. Pasive Information Gathering.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/1. Active/0. Active Information Gathering.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/1. AI in our Terminal.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/0. Running Local AI.md",
     "Notes/0. Technology/6. Hardware/Drones/My Drone.md",
@@ -252,7 +273,6 @@
     "0. Images/Pasted image 20260410104401.png",
     "0. Images/Pasted image 20260410104224.png",
     "0. Images/Pasted image 20260410104150.png",
-    "0. Images/Pasted image 20260408161000.png",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/3. Learning Types.md",
     "Notes/0. Technology/3. System/Operative Systems/Turning a VPS into VPN.md"
