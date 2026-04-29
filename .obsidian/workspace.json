@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/0. Running Local AI.md",
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/2. Essential Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Running Local AI"
+              "title": "2. Essential Software"
             }
           }
         ],
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 387.5,
+    "collapsed": true
   },
   "right": {
     "id": "555b2b3c940aaad7",
@@ -240,8 +241,8 @@
   },
   "active": "18a3dbe5e83aa68c",
   "lastOpenFiles": [
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/2. Essential Software.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/0. Running Local AI.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/2. Essential Software.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/1. Current Profesional AI Usage.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/1. AI in our Terminal.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/0. Hardware Specifications.md",
