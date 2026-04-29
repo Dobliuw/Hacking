@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 387.5
   },
   "right": {
     "id": "555b2b3c940aaad7",
@@ -225,14 +224,14 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "cdbfd12b12e7e2fa",
+  "active": "dcc3e902b1720b71",
   "lastOpenFiles": [
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/0. Running Local AI.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/1. Current Profesional AI Usage.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/1. AI in our Terminal.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/0. Hardware Specifications.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/2. Essential Software.md",
-    "Pasted image 20260428125209.png",
+    "0. Images/Pasted image 20260428125209.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/AI Recommendations.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/1. AI Types.md",
