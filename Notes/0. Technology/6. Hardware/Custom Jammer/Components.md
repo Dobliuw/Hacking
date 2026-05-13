@@ -1,4 +1,4 @@
-# Introduction
+a# Introduction
 
 Este proyecto nace con el fin de aprender un poco más sobre electrónica de la mano de la IA, la capacidad de Research y algunos compañeros de rubro como [Lup1n](https://www.youtube.com/@Lup1n_3).
 
@@ -51,6 +51,27 @@ El módulo admite 5V en VCC porque cuenta con un regulador LDO de 3.3V integrado
 >Esto nos da un consumo de `~80mA`, la retroiluminación será la principal consumidora de corriente de la pantalla.
 
 #### RF Chain
+
+El modulo **NRF24L01** es un transceptor de 2.4GHz de un solo chip encargado de toco el conjunto de funciones de radio:
+
+- Modulación (GFSK).
+- Encapsulación de paquetes.
+- CRC.
+- Acuse de recibo automático.
+- Lógica de retransmisión.
+
+El *ESP32* se comunica a través de SPI con este modulo, limitandose a enviar y recibir bytes de atos, sin necesidad de gestionar manualmente la sincronización RF.
+
+En mi caso, para mejorar la potencia no solo seleccione unos *amplificadores*, si no también, *dos modulos*, en si con el fin de tener mayor generación de ruido para el espectro en búsca de saturar. Pero también nos da la posibilidad de utilizar dos canales simultáneamente o emple uno como TX y otro como RX al mismo tiempo, sin la limitación de semidúplex.
+
+> [!warning] Power & Antenna Cut
+> La *potencia* máxima de transmisión del NRF24L01 es de `0dBm` (`1 mW`), lo cual es muy bajo (Por ajuste legal), esto es lo que me llevo a querer ir un paso más allá para construir algo real, ya que la mayoría de tutoriales o proyectos de jammers son técnicamente funcionales en cortas distancias, lo cual lo vuelve en escenarios reales poco realista. Para ampliar el alcance y penetración de obstáculos, se necesita *amplificación*.
+> 
+> Ahora bien, por otro lado... ¿Por que y cómo hacer un *corte en la antena* impresa en PCB del módulo? Bueno, el NRF24l01 tiene una *antena de traza de PCB impresa* directamente en la placa. Esta traza está adaptada a `50 Ω` a `2.4 GHz` por su geometría.
+> 
+> Para conectar un *amplificador*, es necesario *cortar la traza* en el punto de alimentación de la antena y soldar un contector *u.fl*. 
+> 
+> ![[Pasted image 20260512212151.png|350]]   
 
 #### Power Chain
 

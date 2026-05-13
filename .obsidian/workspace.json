@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 387.5
   },
   "right": {
     "id": "555b2b3c940aaad7",
@@ -184,13 +183,15 @@
   },
   "active": "390207801176dcb9",
   "lastOpenFiles": [
+    "Pasted image 20260512212223.png",
+    "Notes/0. Technology/6. Hardware/Custom Jammer/Components.md",
+    "0. Images/Pasted image 20260512212151.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Hardware Hacking Handbook & Practial IoT Hacking Handbook.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/2. Machine Learning System Components.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/4. Neural Networks.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/5. NLP.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Study Guide.md",
-    "Notes/0. Technology/6. Hardware/Custom Jammer/Components.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/4. Model Context Protocol (MCP).md",
     "Notes/0. Technology/6. Hardware/Custom Jammer",
@@ -216,15 +217,12 @@
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Active Directory/Active Directory.md",
     "Notes/0. Technology/5. Technologies/Services/Kerberos/KERBEROS_AUTHETICATION_FLOW.md",
     "Example.md",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/0. Running Local AI.md",
     "0. Images/Pasted image 20260428125209.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/2. Creating LLMs",
     "0. Images/Pasted image 20260423131443.png",
     "0. Images/Pasted image 20260421225749.png",
     "0. Images/Pasted image 20260421225733.png",
-    "0. Images/Pasted image 20260421225511.png",
-    "0. Images/Pasted image 20260421224757.png",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI"
   ]
 }
