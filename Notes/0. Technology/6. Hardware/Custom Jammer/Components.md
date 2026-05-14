@@ -1,4 +1,4 @@
-a# Introduction
+# Introduction
 
 Este proyecto nace con el fin de aprender un poco más sobre electrónica de la mano de la IA, la capacidad de Research y algunos compañeros de rubro como [Lup1n](https://www.youtube.com/@Lup1n_3).
 
@@ -69,10 +69,37 @@ En mi caso, para mejorar la potencia no solo seleccione unos *amplificadores*, s
 > 
 > Ahora bien, por otro lado... ¿Por que y cómo hacer un *corte en la antena* impresa en PCB del módulo? Bueno, el NRF24l01 tiene una *antena de traza de PCB impresa* directamente en la placa. Esta traza está adaptada a `50 Ω` a `2.4 GHz` por su geometría.
 > 
-> Para conectar un *amplificador*, es necesario *cortar la traza* en el punto de alimentación de la antena y soldar un contector *u.fl*. 
+> Para conectar un *amplificador*, es necesario *cortar la traza* en el punto de alimentación de la antena y soldar un contector *cable coaxia*:
 > 
-> ![[Pasted image 20260512212151.png|350]]   
+> ![[Pasted image 20260513163414.png]] 
+> 
+> Haciendo que el *Copper Wire* vaya al *RF Pad* por el cual saldría la señal y aislar el *GND* de la antena para soldar a este la *Copper Mesh*. A continuación se demuestra el proceso llevado a cabo:
+> 
+> ![[Pasted image 20260513224625.png|320]] ![[Pasted image 20260513224645.png|300]] ![[Pasted image 20260513224706.png|365]] ![[Pasted image 20260513224813.png|300]] 
+> 
+> En mi caso, una vez soldado el cable coaxial al modulo RF, tuve que desoldar el conector SMA y soldar el otro extremo del cable a la entrada *Radio*:
+> 
+> ![[Pasted image 20260513224824.png|300]]
 
+Por otro lado, el modulo **MCP73871 USB 5V** llego como remplazo luego de haber comprado y seleccionado el **TP4056**, el cual es únicamente un *cargador lineal*: Es decir, cuando se conecta el USB, se carga la batería y la alimeanción del dispositivo se alimeanta de la batería en todo momento, por lo que si la batería está descargada, el sistema no funciona hasta que se haya cargado lo suficiente.
+
+El **MCP73871** es un circuito integrado de gestión de la ruta de alimentación. Dispone de *tres modos* que funcionan simultáneamente: *cargar la batería* desde la entrada, *alimentar la carga directamente desde la entrada* y *completar la alimentación con la batería* si la carga supera la capacidad de la entrada.
+
+
+Otro modulo importante son los **MT3608 Setp-Up Converters**, necesarios ya que los *amplificadores de RF* necesitan `5V`para funcionar a la potencia nominal. La batería seleccionada suminstra entre `3V` y `4.2V`. En este contexto, no podríamos alimentar dispositivos de `5V`con un voltaje menor y esperar que funcione correctamente. El modulo **MT3608** es un convertidor de conmutación elevador (*boost*), tomando una entrada de tensión baja y proporcionando una tensión regulada de salida más alta.
+
+> [!info] How it works internally?
+> El **MT3608** conmuta un MOSFET interno a alta frecuencia (`~1.2MHz`). Cuando se cierra el circuito, la corriente se acumula en un inductor, almacenando energía magnéticamente. Al abrirse, el inductor libera esa energía en forma de un pico de tensión, superior a la tensión de entrada. 
+> 
+> Un condesador suaviza la tensión de salida. El circuito integrado ajusta el ciclo de trabajo de forma continua para mantener la tensión de salida deseada, independientemente de las variaciones en la tensión de entrada.
+
+Ahora, ¿Por que *dos* **MT3608**? Cada *amplificador RF* consume entre `500mA` y `600mA`durante las ráfagas de transmisión. Si ambos comparten un mismo convertidor, una ráfaga de transmisión en el amplificador n°1, provocaría una caída de tensión en el raíl compartido, el amplificado n°2 detecta esa caida y puede desaturarse, lo que provocaría una caída de la potencia de salida o inestabilidad.
+
+> [!warning] Efficiency math to know
+> Para suministrar `5 V`a `500 mA` (`2.5 W` de potencia de salida):
+> - Potencia de entrada necesaria = `2.5 W` ÷ `0.87` (Eficiencia) = `2.87 W` con una batería de `3.7 V`:
+> 	- Corriente de entrada `2.87 W` ÷ `3.7 V` = `0.78 A` cada **MT3608** consume unos `780 mA`de la batería para alimentar un amplificador a plena potencia de transmisión (*TX*).
+ 
 #### Power Chain
 
 

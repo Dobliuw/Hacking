@@ -11,14 +11,12 @@
             "id": "390207801176dcb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/0. Technology/6. Hardware/Custom Jammer/Components.md",
-                "mode": "source",
-                "source": false
+                "file": "0. Images/Pasted image 20260513163414.png"
               },
-              "icon": "lucide-file",
-              "title": "Components"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260513163414"
             }
           }
         ]
@@ -181,11 +179,17 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "390207801176dcb9",
+  "active": "dcc3e902b1720b71",
   "lastOpenFiles": [
-    "Pasted image 20260512212223.png",
     "Notes/0. Technology/6. Hardware/Custom Jammer/Components.md",
+    "0. Images/Pasted image 20260513224824.png",
+    "0. Images/Pasted image 20260513224813.png",
+    "0. Images/Pasted image 20260513224706.png",
+    "0. Images/Pasted image 20260513224645.png",
+    "0. Images/Pasted image 20260513224625.png",
+    "0. Images/Pasted image 20260513163414.png",
     "0. Images/Pasted image 20260512212151.png",
+    "Pasted image 20260512212223.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Hardware Hacking Handbook & Practial IoT Hacking Handbook.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/2. Machine Learning System Components.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
@@ -203,11 +207,9 @@
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/5. CLI Agent - OpenCode.md",
     "0. Images/Pasted image 20260506231009.png",
     "0. Images/Pasted image 20260507001506.png",
-    "0. Images/Pasted image 20260507001408.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/3. Current AI Technolgy Stack.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/3. MCP & Linux Systems.md",
     "EnglishNotesProyect.md",
-    "0. Images/Pasted image 20260506211100.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/Untitled",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/2. Essential Software for LocalAI.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/AI Recommendations.md",
@@ -217,12 +219,8 @@
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/3. Operative Systems/Windows/Active Directory/Active Directory.md",
     "Notes/0. Technology/5. Technologies/Services/Kerberos/KERBEROS_AUTHETICATION_FLOW.md",
     "Example.md",
-    "0. Images/Pasted image 20260428125209.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/2. Creating LLMs",
-    "0. Images/Pasted image 20260423131443.png",
-    "0. Images/Pasted image 20260421225749.png",
-    "0. Images/Pasted image 20260421225733.png",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI"
   ]
 }
