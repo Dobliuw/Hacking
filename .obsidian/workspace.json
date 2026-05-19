@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "555b2b3c940aaad7",
@@ -196,7 +197,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "dcc3e902b1720b71",
+  "active": "6a737c45ea00fd50",
   "lastOpenFiles": [
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/2. Sensitive Information Disclousure in LLMs.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/3. Supply Chain Vulnerabilities.md",
