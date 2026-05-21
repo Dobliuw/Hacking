@@ -85,6 +85,18 @@ Por otro lado, el modulo **MCP73871 USB 5V** llego como remplazo luego de haber 
 
 El **MCP73871** es un circuito integrado de gestión de la ruta de alimentación. Dispone de *tres modos* que funcionan simultáneamente: *cargar la batería* desde la entrada, *alimentar la carga directamente desde la entrada* y *completar la alimentación con la batería* si la carga supera la capacidad de la entrada.
 
+> [!info] MCP73871 PCB & USB Starware Connector Module
+> 1. *PWR* / *GND* (Abajo a la izquierda): Este es el terminal de **Power Input**. En este sector podríamos conectar la tensión de alimentación entrante, ej. 5V procedentes de un módulo solar o cualquier fuente regulada de 5V (Incluso una fuente de alimentación USB). En mi caso aquí conectare el modulo **USB Starware Connector**, utilizando únicamente el *VCC* y *GND* del mismo, correspondientes al *PWR* y *GND*.
+> 2. *CN1* (Pins +, -, D, +, C): CN1 es un *header de configuración y programación* encargado de exponer pins para manejar nodos de control internos del circuito integrado. (En mi caso no serán utilizados).
+> 3. *BATT* / *GND* (Abajo a la derecha): Este es el termina de **Battery Connection**. Como mencionamos, el **MCP73871** es un *power path management IC*, lo que implica el manejo de carga de batería por un lado y alimentación por otro.
+> 4. *LOAD* / *GND*. Este es el termina del **System Output**.  Sector por el cual se dará alimentación electrónica a nuestro circuito, en nuestro caso a los *Step Ups* (**MT3608**)
+> 
+> ![[Pasted image 20260520112442.png|300]]
+> 
+> El resultado tras soldar el *capacitor* y el *USB Connector* sería el siguiente: 
+>
+> ![[Pasted image 20260520185836.png|300]]
+
 
 Otro modulo importante son los **MT3608 Setp-Up Converters**, necesarios ya que los *amplificadores de RF* necesitan `5V`para funcionar a la potencia nominal. La batería seleccionada suminstra entre `3V` y `4.2V`. En este contexto, no podríamos alimentar dispositivos de `5V`con un voltaje menor y esperar que funcione correctamente. El modulo **MT3608** es un convertidor de conmutación elevador (*boost*), tomando una entrada de tensión baja y proporcionando una tensión regulada de salida más alta.
 
