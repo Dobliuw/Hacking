@@ -4,59 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "a1caf0fe58d6488c",
+        "id": "e952439f0dc14224",
         "type": "tabs",
         "children": [
           {
-            "id": "cf4a1c978b5e64e2",
+            "id": "bef276651cbc6e44",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "0. Images/Pasted image 20260520112442.png"
+                "file": "0. Images/Pasted image 20260522132656.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260520112442"
+              "title": "Pasted image 20260522132656"
             }
           },
           {
-            "id": "10d3af2fa140766c",
+            "id": "d59564ce6499f6a2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0. Images/Pasted image 20260520185836.png"
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/5. Improper Output Handling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260520185836"
-            }
-          },
-          {
-            "id": "e51323fb3fd8ad24",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Images/Pasted image 20260520112442.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260520112442"
-            }
-          },
-          {
-            "id": "eca1df80c7a8d94b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Images/Pasted image 20260520185836.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260520185836"
+              "icon": "lucide-file",
+              "title": "5. Improper Output Handling"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,13 +195,17 @@
   },
   "active": "dcc3e902b1720b71",
   "lastOpenFiles": [
-    "0. Images/Pasted image 20260520112442.png",
-    "0. Images/Pasted image 20260520185836.png",
-    "Notes/0. Technology/6. Hardware/Custom Jammer/Components.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Study Guide.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Hardware Hacking Handbook & Practial IoT Hacking Handbook.md",
+    "Notes/0. Technology/6. Hardware/Custom Jammer/0. Signal Disruptor.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/7. System Prompt Leakage.md",
+    "0. Images/Pasted image 20260522132727.png",
+    "0. Images/Pasted image 20260522132656.png",
+    "Notes/0. Technology/6. Hardware/Custom Jammer/1. Components.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/6. Excessive Agency.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/5. Improper Output Handling.md",
+    "0. Images/Pasted image 20260520185836.png",
+    "0. Images/Pasted image 20260520112442.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Study Guide.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Hardware Hacking Handbook & Practial IoT Hacking Handbook.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/1. Prompt Injection.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/2. Sensitive Information Disclousure in LLMs.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/3. Supply Chain Vulnerabilities.md",
@@ -243,8 +224,6 @@
     "0. Images/Pasted image 20260514101042.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow",
     "0. Images/Pasted image 20260513163414.png",
-    "0. Images/Pasted image 20260513224824.png",
-    "0. Images/Pasted image 20260513224813.png",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/2. Machine Learning System Components.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/4. Neural Networks.md",
@@ -255,8 +234,6 @@
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI-Powered Environment/1. Current Profesional AI Usage.md",
     "Notes/0. Technology/6. Hardware/Drones/Key data about FPV world.md",
     "Notes/0. Technology/6. Hardware/Drones/Drones parts.md",
-    "Notes/0. Technology/6. Hardware/Drones/Drones.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI-Powered Environment/3. Current AI Technolgy Stack.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/Untitled",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI-Powered Environment",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/2. Creating LLMs",
