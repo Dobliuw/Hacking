@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "819db7ec1556a18d",
+        "id": "77a65ee63d316fab",
         "type": "tabs",
         "children": [
           {
-            "id": "ea615e7a944d6404",
+            "id": "e6f6fedffdfe1eb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/6. Hardware/Custom Jammer/0. Signal Disruptor.md",
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/9. Misinformation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Signal Disruptor"
+              "title": "9. Misinformation"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Backdoor Injec",
+                "query": "OSINT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 373.5
   },
   "right": {
     "id": "555b2b3c940aaad7",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/3. Learning Types.md",
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/9. Misinformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Learning Types"
+              "title": "Backlinks for 9. Misinformation"
             }
           },
           {
@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,47 +180,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea615e7a944d6404",
+  "active": "e6f6fedffdfe1eb2",
   "lastOpenFiles": [
-    "Notes/0. Technology/6. Hardware/Custom Jammer/1. Components.md",
-    "Notes/0. Technology/6. Hardware/Custom Jammer/0. Signal Disruptor.md",
-    "0. Images/Pasted image 20260522132656.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/8. Vector and Embedding Weaknesses.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/9. Misinformation.md",
+    "Criterios de Revisión - Red Team.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/1. AI Types.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/2. Creating LLMs/0. Learning Types.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/7. System Prompt Leakage.md",
-    "0. Images/Pasted image 20260522132727.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/6. Excessive Agency.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/4. Data & Model Poisoning.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/5. Improper Output Handling.md",
-    "0. Images/Pasted image 20260520185836.png",
-    "0. Images/Pasted image 20260520112442.png",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Study Guide.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Hardware Hacking Handbook & Practial IoT Hacking Handbook.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/1. Prompt Injection.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/OSINT/Powered by AI/DeepFakes.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/OSINT/OSINT - Open Source Intelligence.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/OSINT/Powered by AI",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/OSINT",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/0. Pasive Information Gathering.md",
+    "EnglishNotesProyect.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/2. Sensitive Information Disclousure in LLMs.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/3. Supply Chain Vulnerabilities.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/4. Data & Model Poisoning.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/0. Client Side/XSS  - ( Cross-Site Scripting ).md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI-Powered Environment/0. Hardware Specifications.md",
-    "0. Images/Pasted image 20260518145130.png",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/0. AI Red Teaming.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI-Powered Environment/5. CLI Agent - OpenCode.md",
-    "0. Images/Pasted image 20260515173950.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities/1. Prompt Injection.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/4. Neural Networks.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI-Powered Environment/2. Essential Software for LocalAI.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/0. Running Local AI.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/0. AI Red Teaming.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/1. AI in our Terminal.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI-Powered Environment/0. Hardware Specifications.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI-Powered Environment/3. Current AI Technolgy Stack.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/5. NLP.md",
+    "0. Images/Pasted image 20260305162154.png",
+    "Notes/0. Technology/6. Hardware/Custom Jammer/0. Signal Disruptor.md",
+    "0. Images/Pasted image 20260522132656.png",
+    "0. Images/Pasted image 20260522132727.png",
+    "0. Images/Pasted image 20260520185836.png",
+    "0. Images/Pasted image 20260520112442.png",
+    "0. Images/Pasted image 20260518145130.png",
+    "0. Images/Pasted image 20260515173950.png",
     "0. Images/Pasted image 20260514162645.png",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/1. Practical AI Red Teaming.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Vulnerabilities",
     "0. Images/Pasted image 20260514102032.png",
     "0. Images/Pasted image 20260514101042.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow",
-    "0. Images/Pasted image 20260513163414.png",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/2. Machine Learning System Components.md",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/4. Neural Networks.md",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/5. NLP.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI-Powered Environment/4. Model Context Protocol (MCP).md",
     "Notes/0. Technology/6. Hardware/Custom Jammer",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI-Powered Environment/1. Current Profesional AI Usage.md",
-    "Notes/0. Technology/6. Hardware/Drones/Key data about FPV world.md",
-    "Notes/0. Technology/6. Hardware/Drones/Drones parts.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI Workflow Environment/Untitled",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Enviroment/AI-Powered Environment",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/2. Creating LLMs",
