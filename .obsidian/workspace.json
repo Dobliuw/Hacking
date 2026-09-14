@@ -4,47 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "985aa7836a32397d",
+        "id": "4379ab203f499314",
         "type": "tabs",
         "children": [
           {
-            "id": "7bb1ebb39d0c78e7",
+            "id": "d57c1a23c81b9c76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/1. Linear Regression.md",
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/3. Decision Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Linear Regression"
+              "title": "3. Decision Trees"
             }
           },
           {
-            "id": "1a618b1d3f21c560",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Images/Pasted image 20260811193855.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260811193855"
-            }
-          },
-          {
-            "id": "1d94fd5ca7c10ea5",
+            "id": "61e31820245a7bf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/1. Linear Regression.md",
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Artificial Inteligence/LLM Vulnerability Scanner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Linear Regression"
+              "title": "LLM Vulnerability Scanner"
+            }
+          },
+          {
+            "id": "75a1be667fc08ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/3. Radio Frequency Spectrum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Radio Frequency Spectrum"
+            }
+          },
+          {
+            "id": "92da5a6e3698fc7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/2. Modulation and Demodulation/0. Radiofrequency Modulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Radiofrequency Modulation"
+            }
+          },
+          {
+            "id": "ec7b7a510748f297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/3. Radio Frequency Spectrum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Radio Frequency Spectrum"
             }
           }
         ],
@@ -82,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "games",
+                "query": "adb proxy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "right": {
     "id": "555b2b3c940aaad7",
@@ -220,52 +251,52 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "1d94fd5ca7c10ea5",
+  "active": "75a1be667fc08ef1",
   "lastOpenFiles": [
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/0. Supervised Learning Algorithms.md",
-    "0. Images/Pasted image 20260812161156.png",
-    "0. Images/Pasted image 20260811193855.png",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/0. AI, ML and DP.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/1. Linear Regression.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Vulnerabilities/1. Prompt Injection.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/1. Mathematics Refresher.md",
-    "0. Images/Pasted image 20260811102905.png",
-    "0. Images/Pasted image 20260811102754.png",
-    "0. Images/Pasted image 20260811090241.png",
+    "0. Images/Pasted image 20260914155118.png",
+    "Notes/0. Technology/6. Hardware/Drones/RadioControl/Radio Control.md",
+    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/3. Radio Frequency Spectrum.md",
+    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/2. Modulation and Demodulation/0. Radiofrequency Modulation.md",
+    "0. Images/Pasted image 20260914155108.png",
+    "0. Images/Pasted image 20260914155014.png",
+    "0. Images/Pasted image 20260914154951.png",
+    "Pasted image 20260914154914.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Proxy Mobile traffic.md",
+    "Notes/0. Technology/6. Hardware/Drones/RadioControl",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Artificial Inteligence/LLM Vulnerability Scanner.md",
-    "0. Images/Pasted image 20260805174525.png",
-    "0. Images/Pasted image 20260805174441.png",
-    "Notes/0. Technology/3. System/Operative Systems/0. Linux/2. Running Games in ArchLinux.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/3. Decision Trees.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/0. AI Red Teaming.md",
-    "Notes/3. English/English Tenses.md",
-    "Notes/3. English",
+    "agente-revision-seguridad-IA-prompt-base.md",
+    "0. Images/Pasted image 20260904130637.png",
+    "0. Images/Pasted image 20260904145036.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/2. Logistic Regression.md",
+    "0. Images/Pasted image 20260904135757.png",
+    "0. Images/Pasted image 20260904131325.png",
+    "Untitled.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/1. Linear Regression.md",
+    "0. Images/Pasted image 20260901172803.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Vulnerabilities/1. Prompt Injection.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Vulnerabilities/2. Sensitive Information Disclousure in LLMs.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/0. Supervised Learning Algorithms.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/0. AI, ML and DP.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/1. Mathematics Refresher.md",
+    "Notes/0. Technology/3. System/Operative Systems/0. Linux/2. Running Games in ArchLinux.md",
+    "Notes/2. English/English Tenses.md",
+    "Notes/2. English",
     "FutureEnglishTranslation.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/0. COAE.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Worflow/Certified Offensive AI Expert/Untitled.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Proxy Mobile traffic.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Artificial Inteligence/Untitled",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Artificial Inteligence",
     "Notes/0. Technology/2. Networks/CLI Linux WiFi Connection.md",
     "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/10. Creating a Small Network/6. Problem-Solving Scenarios.md",
     "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/10. Creating a Small Network/5. Problem-Solving Methodologies.md",
-    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/10. Creating a Small Network/4. Host and IOS Commands.md",
-    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/10. Creating a Small Network/3. Check Connectivity.md",
-    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/10. Creating a Small Network/2. Scaling to Larger Networks.md",
-    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/10. Creating a Small Network/1. Protocols and Applications in Small Networks.md",
-    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/10. Creating a Small Network/0. Devices in Small Networks.md",
-    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/3. Protocols/0. Models/OSI vs TPC-IP Model.excalidraw.md",
-    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/3. Protocols/0. Models/1. Accessing data.md",
-    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/3. Protocols/0. Models/0. Data Modification.md",
-    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/3. Protocols/0. Models/TCP-IP Model/TCP-IP Model.excalidraw.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/OSINT/Powered by AI",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/OSINT",
-    "0. Images/Pasted image 20260305162154.png",
-    "0. Images/Pasted image 20260522132656.png",
-    "0. Images/Pasted image 20260522132727.png",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Vulnerabilities",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow"
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Vulnerabilities"
   ]
 }
