@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/2. Data & Injections/CRLF Injection (0d0a).md",
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/4. Unsupervised Learning Algorithms/0. Unsupervised Learning Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRLF Injection (0d0a)"
+              "title": "0. Unsupervised Learning Algorithms"
             }
           }
         ],
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.86328125
+    "width": 369.86328125,
+    "collapsed": true
   },
   "right": {
     "id": "555b2b3c940aaad7",
@@ -222,19 +223,26 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "dcc3e902b1720b71",
+  "active": "7aff829fbb16f40c",
   "lastOpenFiles": [
+    "0. Images/Pasted image 20260918095157.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/4. Unsupervised Learning Algorithms/1. K-Means Clustering.md",
+    "0. Images/Pasted image 20260918104924.png",
+    "0. Images/Pasted image 20260918104300.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/4. Unsupervised Learning Algorithms/0. Unsupervised Learning Algorithms.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/4. Unsupervised Learning Algorithms",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/5. Support Vector Machines (SVMs).md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/4. Naive Bayes.md",
+    "0. Images/Pasted image 20260917194311.png",
+    "0. Images/Pasted image 20260917192907.png",
+    "0. Images/Pasted image 20260917191625.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/2. Data & Injections/CRLF Injection (0d0a).md",
+    "Pasted image 20260914184753.png",
     "0. Images/Pasted image 20260915170027.png",
     "0. Images/Pasted image 20260915162733.png",
     "Pasted image 20260914184624.png",
-    "Pasted image 20260914163654.png",
-    "Pasted image 20260914184753.png",
-    "Pasted image 20260915170027.png",
-    "Pasted image 20260915162733.png",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/2. Data & Injections/CRLF Injection (0d0a).md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/2. Data & Injections/SQLI - (SQL Injections).md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/2. Explotation/1. Vulnerabilities/Web/4. APIs/API Abuse/Explotation/APIs abuse.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/4. Naive Bayes.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Vulnerabilities/5. Improper Output Handling.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/0. Running Local AI.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Artificial Inteligence/LLM Vulnerability Scanner.md",
@@ -243,12 +251,8 @@
     "Notes/0. Technology/4. Cybersecurity/AI Powered/2. Creating LLMs/0. Learning Types.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/0. Supervised Learning Algorithms.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/3. Decision Trees.md",
-    "Pasted image 20260915161209.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Proxy Mobile traffic.md",
     "Notes/0. Technology/6. Hardware/Drones/RadioControl/1. Review. HelloRadioSky - V15 Ultra Radio.md",
-    "Pasted image 20260914170213.png",
-    "Pasted image 20260914184539.png",
-    "Pasted image 20260914163949.png",
     "Notes/0. Technology/6. Hardware/Drones/RadioControl/0. Radio Control.md",
     "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/1. Radio Basics/3. Radio Frequency Spectrum.md",
     "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/2. Modulation and Demodulation/0. Radiofrequency Modulation.md",
@@ -258,17 +262,13 @@
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/2. Logistic Regression.md",
     "Untitled.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms/1. Linear Regression.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Vulnerabilities/1. Prompt Injection.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Vulnerabilities/2. Sensitive Information Disclousure in LLMs.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Supervised Learning Algorithms",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/1. Mathematics Refresher.md",
     "Notes/2. English",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Artificial Inteligence/Untitled",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Artificial Inteligence",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/OSINT/Powered by AI",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/OSINT",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Vulnerabilities"
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/2. Audit Phases/1. Reconnaissance/0. Passive/OSINT"
   ]
 }
