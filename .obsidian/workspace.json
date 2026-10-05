@@ -23,18 +23,28 @@
             "id": "f89051f87a1eb43a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
-                "mode": "source",
-                "source": false
+                "file": "0. Images/Pasted image 20261005191258.png"
               },
-              "icon": "lucide-file",
-              "title": "0. Artificial Intelligence (AI)"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261005191258"
+            }
+          },
+          {
+            "id": "dc949df52bd21491",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "0. Images/Pasted image 20261005191258.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20261005191258"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 639.921875
+    "width": 639.921875,
+    "collapsed": true
   },
   "right": {
     "id": "555b2b3c940aaad7",
@@ -206,28 +217,29 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "dcc3e902b1720b71",
+  "active": "dc949df52bd21491",
   "lastOpenFiles": [
-    "0. Images/Pasted image 20261004170216.png",
+    "0. Images/Pasted image 20261005192300.png",
+    "0. Images/Pasted image 20261005191258.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/3. Convolutional Neural Networks.md",
+    "0. Images/Pasted image 20261005193125.png",
+    "0. Images/Pasted image 20261005193117.png",
+    "Pasted image 20261005192450.png",
+    "Pasted image 20261005192636.png",
+    "0. Images/Pasted image 20261005193028.png",
     "Untitled.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/2. Neural Networks.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
+    "0. Images/Pasted image 20261004170216.png",
     "0. Images/Pasted image 20261004185802.png",
     "0. Images/Pasted image 20261004185254.png",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/2. Reinforcement Learning Algorithms/2. SARSA (State-Action-Reward-State-Action.md",
-    "0. Images/Pasted image 20261004183119.png",
-    "0. Images/Pasted image 20261004174753.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/1. Perceptrons.md",
-    "0. Images/Pasted image 20261003104030.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/0. Introduction to Deep Learning.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/0. AI, ML and DP.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning",
-    "0. Images/Pasted image 20261001193934.png",
-    "0. Images/Pasted image 20261001193713.png",
-    "0. Images/Pasted image 20261001193626.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/2. Reinforcement Learning Algorithms/1. Q-Learning.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/2. Reinforcement Learning Algorithms/0. Reinforcement Learning Algorithms.md",
-    "0. Images/Pasted image 20261001191157.png",
     "README.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/1. Unsupervised Learning Algorithms/0. Unsupervised Learning Algorithms.md",
@@ -246,7 +258,6 @@
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/0. Running Local AI.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Artificial Inteligence/LLM Vulnerability Scanner.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/0. AI Red Teaming.md",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/2. Creating LLMs/0. Learning Types.md",
     "Notes/0. Technology/6. Hardware/Drones/RadioControl",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/0. Supervised Learning Algorithms",
     "Notes/2. English",
