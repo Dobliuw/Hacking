@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0b1661026feb6de6",
+        "id": "ac37504c90793ecd",
         "type": "tabs",
         "children": [
           {
-            "id": "97b9421c4227eb3f",
+            "id": "d00e3315e71e433b",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "0. Images/Pasted image 20261004170216.png"
+                "file": "0. Images/Pasted image 20261005173842.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20261004170216"
-            }
-          },
-          {
-            "id": "f89051f87a1eb43a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Images/Pasted image 20261005191258.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261005191258"
-            }
-          },
-          {
-            "id": "dc949df52bd21491",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Images/Pasted image 20261005191258.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261005191258"
+              "title": "Pasted image 20261005173842"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 639.921875,
-    "collapsed": true
+    "width": 639.921875
   },
   "right": {
     "id": "555b2b3c940aaad7",
@@ -217,22 +191,24 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "dc949df52bd21491",
+  "active": "dcc3e902b1720b71",
   "lastOpenFiles": [
-    "0. Images/Pasted image 20261005192300.png",
-    "0. Images/Pasted image 20261005191258.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/4. Recurrent Neural Networks.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/4. Generative AI",
+    "0. Images/Pasted image 20261005180809.png",
+    "0. Images/Pasted image 20261005175929.png",
+    "0. Images/Pasted image 20261005173842.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/3. Convolutional Neural Networks.md",
+    "0. Images/Pasted image 20261004170216.png",
+    "0. Images/Pasted image 20261005191258.png",
+    "0. Images/Pasted image 20261005192300.png",
     "0. Images/Pasted image 20261005193125.png",
     "0. Images/Pasted image 20261005193117.png",
     "Pasted image 20261005192450.png",
     "Pasted image 20261005192636.png",
-    "0. Images/Pasted image 20261005193028.png",
     "Untitled.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/2. Neural Networks.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
-    "0. Images/Pasted image 20261004170216.png",
-    "0. Images/Pasted image 20261004185802.png",
-    "0. Images/Pasted image 20261004185254.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/2. Reinforcement Learning Algorithms/2. SARSA (State-Action-Reward-State-Action.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/1. Perceptrons.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/0. Introduction to Deep Learning.md",
@@ -257,12 +233,10 @@
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Vulnerabilities/5. Improper Output Handling.md",
     "Notes/0. Technology/4. Cybersecurity/AI Powered/1. Attacks Powered by AI/0. Running Local AI.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Artificial Inteligence/LLM Vulnerability Scanner.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/0. AI Red Teaming.md",
     "Notes/0. Technology/6. Hardware/Drones/RadioControl",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/0. Supervised Learning Algorithms",
     "Notes/2. English",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert/1. Foundamentals of AI",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Artificial Inteligence/Untitled"
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Workflow/Certified Offensive AI Expert"
   ]
 }
