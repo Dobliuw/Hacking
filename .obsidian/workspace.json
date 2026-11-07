@@ -36,45 +36,17 @@
             }
           },
           {
-            "id": "7aa754459b71f78a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/0. Toolset.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. Toolset"
-            }
-          },
-          {
             "id": "0af2e9bd1302b79d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/1. Electronics & Hardware engineering professor - Agent.md",
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/Fundamentals/0. Charge and Current.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Electronics & Hardware engineering professor - Agent"
-            }
-          },
-          {
-            "id": "745f43246c797313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/0. Technology/6. Hardware/Electronic/Electronic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Electronic"
+              "title": "0. Charge and Current"
             }
           }
         ],
@@ -250,11 +222,19 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "7aa754459b71f78a",
+  "active": "0af2e9bd1302b79d",
   "lastOpenFiles": [
-    "Notes/0. Technology/6. Hardware/Electronic/Electronic.md",
+    "0. Images/Pasted image 20261106214204.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/Fundamentals/0. Charge and Current.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/Fundamentals/0. Fundamentals.md",
+    "0. Images/Pasted image 20261106214354.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/1. Electronics & Hardware engineering professor - Agent.md",
+    "Pasted image 20261106214321.png",
+    "Pasted image 20261106214147.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/0. Toolset.md",
+    "Notes/0. Technology/6. Hardware/Electronic/Interfaces, Comunications and Protocols.md",
+    "Notes/0. Technology/6. Hardware/Electronic/Electronic.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/Fundamentals",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Cars/0. Car Hacking.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/4. Generative AI/0. Introduction to Generative AI.md",
@@ -278,25 +258,16 @@
     "Notes/0. Technology/0. Needed Concepts/Systems/1. Hexadecimal.md",
     "0. Images/Pasted image 20261007162204.png",
     "Pasted image 20261007162137.png",
-    "0. Images/Pasted image 20261007161707.png",
-    "Pasted image 20261007161359.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Cars",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Untitled.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/4. Recurrent Neural Networks.md",
-    "0. Images/Pasted image 20261005173842.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/4. Generative AI",
-    "0. Images/Pasted image 20261005180809.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/3. Convolutional Neural Networks.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/2. Neural Networks.md",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/2. Reinforcement Learning Algorithms/2. SARSA (State-Action-Reward-State-Action.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/1. Perceptrons.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/2. Reinforcement Learning Algorithms",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/1. Unsupervised Learning Algorithms",
     "Notes/0. Technology/6. Hardware/Drones/RadioControl",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/0. Supervised Learning Algorithms",
-    "Notes/2. English"
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/0. Supervised Learning Algorithms"
   ]
 }
