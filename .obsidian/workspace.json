@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/4. Generative AI/1. Large Language Models - LLM.md",
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/4. Generative AI/2. Diffusion Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Large Language Models - LLM"
+              "title": "2. Diffusion Models"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gradient descent",
+                "query": "dimensionali",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5625,
+    "width": 367.015625,
     "collapsed": true
   },
   "right": {
@@ -196,10 +196,32 @@
   },
   "active": "16c6337ea7669674",
   "lastOpenFiles": [
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/2. Neural Networks.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/4. Generative AI/1. Large Language Models - LLM.md",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
+    "0. Images/Pasted image 20261112222200.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Artificial Inteligence/AI Agents/Hacking with AI Agents.md",
+    "Notes/0. Technology/6. Hardware/Drones/Hacking/Control Link Hijacking.md",
+    "Notes/0. Technology/6. Hardware/Drones/Hacking",
+    "0. Images/Pasted image 20261112222018.png",
+    "0. Images/Pasted image 20261112222012.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/0. Supervised Learning Algorithms/3. Decision Trees.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Artificial Inteligence/AI Agents",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/1. Static Analysis/Android Mobile App Static Analysis.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/0. Supervised Learning Algorithms/2. Logistic Regression.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/0. Supervised Learning Algorithms/4. Naive Bayes.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/1. Unsupervised Learning Algorithms/2. Principal Component Analysis (PCA).md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/1. Unsupervised Learning Algorithms/0. Unsupervised Learning Algorithms.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/0. AI, ML and DP.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/2. Reinforcement Learning Algorithms/1. Q-Learning.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/0. Introduction to Deep Learning.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/1. Perceptrons.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/4. Generative AI/1. Large Language Models - LLM.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/4. Generative AI/2. Diffusion Models.md",
+    "0. Images/Pasted image 20261111175237.png",
+    "0. Images/Pasted image 20261111084132.png",
+    "0. Images/Pasted image 20261111083320.png",
+    "0. Images/Pasted image 20261111082822.png",
+    "0. Images/Pasted image 20261111081112.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/2. Neural Networks.md",
+    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/4. Generative AI/0. Introduction to Generative AI.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/4. Recurrent Neural Networks.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/0. Toolset.md",
@@ -208,39 +230,16 @@
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/1. Electronics & Hardware engineering professor - Agent.md",
     "0. Images/Pasted image 20261106214204.png",
     "0. Images/Pasted image 20261106214354.png",
-    "Pasted image 20261106214321.png",
-    "Pasted image 20261106214147.png",
     "Notes/0. Technology/6. Hardware/Electronic/Interfaces, Comunications and Protocols.md",
     "Notes/0. Technology/6. Hardware/Electronic/Electronic.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/Fundamentals",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Cars/0. Car Hacking.md",
-    "Crear matriz STRIDE (Aplicaciones con IA).md",
-    "Notes/0. Technology/6. Hardware/Drones/RadioControl/1. Review. HelloRadioSky - V15 Ultra Radio.md",
-    "0. Images/Pasted image 20260914184753.png",
-    "0. Images/Pasted image 20260914184624.png",
-    "0. Images/Pasted image 20260914163654.png",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/1. Static Analysis/Android Mobile App Static Analysis.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Android Mobile App Dynamic Analysis.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Mobile Applications/Android/2. Dynamic Analysis/Proxy Mobile traffic.md",
-    "Notes/0. Technology/5. Technologies/Languages/Python/Python.md",
-    "Python.md",
-    "Notes/0. Technology/2. Networks/Radio Frequency Fundamentals/2. Modulation and Demodulation/1. Radiofrequency Demodulation.md",
-    "Notes/0. Technology/6. Hardware/SDR/0. HackRF One.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Systems/4. Advanced/Buffer Overflow/Buffer Overflow.md",
-    "Notes/0. Technology/6. Hardware/Raspberry PI/Raspberry PI.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Study Guide.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Hardware Hacking Handbook & Practial IoT Hacking Handbook.md",
-    "0. Images/Pasted image 20261007161414.png",
-    "0. Images/Pasted image 20261007162204.png",
-    "Pasted image 20261007162137.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Cars",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/4. Generative AI",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/2. Reinforcement Learning Algorithms",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/1. Unsupervised Learning Algorithms",
-    "Notes/0. Technology/6. Hardware/Drones/RadioControl",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/0. Supervised Learning Algorithms"
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/1. Unsupervised Learning Algorithms"
   ]
 }
