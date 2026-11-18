@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "941f1b996e63dedf",
+        "id": "aee279660b239ee8",
         "type": "tabs",
         "children": [
           {
-            "id": "5ecb12a6675f0f94",
+            "id": "4f90afff57060438",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/2. Python Libraries for AI.md",
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/3. Datasets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Python Libraries for AI"
+              "title": "3. Datasets"
             }
           },
           {
-            "id": "4239752a41c338b8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Images/Pasted image 20261116204940.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261116204940"
-            }
-          },
-          {
-            "id": "4974a5c24ae0f7c8",
+            "id": "c8581e82abbc4657",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/0. Miniconda.md",
+                "file": "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/3. Protocols/0. Models/OSI Model/OSI Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Miniconda"
+              "title": "OSI Model"
             }
           }
         ]
@@ -81,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "retropropa",
+                "query": "garak",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +90,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,14 +207,23 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "5ecb12a6675f0f94",
+  "active": "4f90afff57060438",
   "lastOpenFiles": [
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/1. JupyterLab.md",
+    "Notes/0. Technology/2. Networks/Networks Fundamentals (CCNA 1)/3. Protocols/0. Models/OSI Model/OSI Model.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/3. Datasets.md",
+    "demo_dataset.csv.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/demo_dataset.zip",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/2. Python Libraries for AI.md",
-    "STRIDE Report.md",
-    "0. Images/Pasted image 20261116204940.png",
-    "0. Images/Pasted image 20261116203257.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/0. COAE.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Vulnerabilities/1. Prompt Injection.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/0. Miniconda.md",
+    "0. Images/Pasted image 20261116204940.png",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Artificial Inteligence/LLM Vulnerability Scanner.md",
+    "stride_report_new_version.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Vulnerabilities/4. Data & Model Poisoning.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/1. JupyterLab.md",
+    "STRIDE Report.md",
+    "0. Images/Pasted image 20261116203257.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/0. Reconnaisance.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec",
@@ -249,24 +245,15 @@
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/0. AI, ML and DP.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning/2. Reinforcement Learning Algorithms/1. Q-Learning.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/0. Introduction to Deep Learning.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/1. Perceptrons.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/4. Generative AI/1. Large Language Models - LLM.md",
     "0. Images/Pasted image 20261111175237.png",
     "0. Images/Pasted image 20261111084132.png",
     "0. Images/Pasted image 20261111083320.png",
     "0. Images/Pasted image 20261111082822.png",
     "0. Images/Pasted image 20261111081112.png",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/2. Neural Networks.md",
-    "Notes/0. Technology/4. Cybersecurity/AI Powered/0. Understanding the AI/0. Artificial Intelligence (AI).md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/4. Generative AI/0. Introduction to Generative AI.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/4. Recurrent Neural Networks.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/0. Toolset.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/Fundamentals/0. Charge and Current.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/Fundamentals",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Cars",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/4. Generative AI",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/2. Machine Learning"
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning"
   ]
 }
