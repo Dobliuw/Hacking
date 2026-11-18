@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/1. JupyterLab.md",
+                "file": "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/2. Python Libraries for AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. JupyterLab"
-            }
-          },
-          {
-            "id": "7f07435803b26938",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Images/Pasted image 20261116203257.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261116203257"
+              "title": "2. Python Libraries for AI"
             }
           },
           {
@@ -59,8 +47,7 @@
               "title": "0. Miniconda"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dimensionali",
+                "query": "retropropa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,11 +102,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 746.265625
+    "width": 409.15234375
   },
   "right": {
     "id": "555b2b3c940aaad7",
@@ -232,11 +220,13 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "dcc3e902b1720b71",
+  "active": "5ecb12a6675f0f94",
   "lastOpenFiles": [
-    "0. Images/Pasted image 20261116203257.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/1. JupyterLab.md",
+    "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/2. Python Libraries for AI.md",
+    "STRIDE Report.md",
     "0. Images/Pasted image 20261116204940.png",
+    "0. Images/Pasted image 20261116203257.png",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup/0. Miniconda.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/2. Applications of AI in InfoSec/Environment Setup",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/0. Reconnaisance.md",
@@ -272,7 +262,6 @@
     "Notes/0. Technology/4. Cybersecurity/RedTeam/AI Pentestings & Fundalmentals/Certified Offensive AI Expert/1. Foundamentals of AI/3. Deep Learning/4. Recurrent Neural Networks.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/0. Toolset.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/Fundamentals/0. Charge and Current.md",
-    "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/Fundamentals/0. Fundamentals.md",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking/Fundamentals",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Hardware Hacking",
     "Notes/0. Technology/4. Cybersecurity/RedTeam/Pentesting/Hardware/Cars",
